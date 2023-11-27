@@ -1,0 +1,43 @@
+---
+sidebar: sidebar
+permalink: exports-policy-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: exports.policy events
+---
+
+= exports.policy events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== exports.policy.empty
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when an export policy with no rules is assigned to a volume or a qtree. Such an empty policy makes the volume or qtree inaccessible to NFS and CIFS protocol clients.
+*Corrective Action*::
+If access is needed for the volume or qtree, then create an export policy rule using the "export-policy rule create" command.
+*Syslog Message*::
+An export policy "%s" with no rules was assigned to a %s "%s" on the Vserver %s.
+*Parameters*::
+*policyName* (STRING): Name of the export policy with no rules.
+*type* (STRING): Type of object (volume or qtree).
+*typeName* (STRING): Name of the volume or qtree.
+*vserver* (STRING): Name of the Vserver with this issue.
+
+== exports.policy.last.rule
+*Severity*::
+ERROR
+*Description*::
+This message occurs when the last rule from the export policy assigned to a volume or qtree is deleted. An empty policy will make the volume or qtree inaccessible to clients using NFS or CIFS protocol.
+*Corrective Action*::
+If access is needed for the volume or qtree, then create an export policy rule using the "export-policy rule create" command.
+*Syslog Message*::
+The last rule from export policy "%s" was deleted on Vserver %s.
+*Parameters*::
+*policyName* (STRING): Name of the export policy from which the rule is being deleted.
+*vserver* (STRING): Name of the Vserver where the issue occurs.

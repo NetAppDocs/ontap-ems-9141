@@ -1,0 +1,27 @@
+---
+sidebar: sidebar
+permalink: asup-smtp-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: asup.smtp events
+---
+
+= asup.smtp events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== asup.smtp.drop
+*Severity*::
+ERROR
+*Description*::
+This message occurs when the AutoSupport(R) mechanism drops email messages after having retried for the specified times.
+*Corrective Action*::
+Use the "system node autosupport check show-details" command to check for connectivity errors with the configured mailhost. If the connectivity check shows no errors and if the problem persists, contact NetApp technical support for further assistance.
+*Syslog Message*::
+AutoSupport mail (%s) was not sent. The system will drop the message.
+*Parameters*::
+*subject* (STRING): AutoSupport message title.
