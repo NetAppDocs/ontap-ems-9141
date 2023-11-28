@@ -2,10 +2,10 @@
 layout: landing-page
 sidebar: sidebar
 permalink: index.html
-# lead: Use only if indexpage.lead is not present in _index.yml
-summary: "summary, used for search results"
+lead: The ONTAP 9.14.1 EMS reference documents all EMS (Event Management System) events in the ONTAP 9.14.1 release.
+summary: The ONTAP 9.14.1 EMS reference documents all EMS (Event Management System) events in the ONTAP 9.14.1 release.
 ---
-= replace with repository name
+= ONTAP 9.14.1 EMS Reference
 :hardbreaks:
 :nofooter:
 :icons: font

@@ -1,0 +1,39 @@
+---
+sidebar: sidebar
+permalink: nvdimm-nvemm-events.html
+keywords: ems, message, messages, event, events, group, catalog
+summary: nvdimm.nvemm events
+---
+
+= nvdimm.nvemm events
+:toc: macro
+:toclevels: 1
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+== nvdimm.nvemm.destage.succeed
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when all NVDIMM devices have copied nonvolatile data to flash memory.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+NVMEM subsystem successfully copied nonvolatile data to flash memory on NVDIMM device in %ld seconds.
+*Parameters*::
+*seconds* (INT): Time taken by the destage operation.
+
+== nvdimm.nvemm.restage.succeed
+*Severity*::
+NOTICE
+*Description*::
+This message occurs when all NVDIMM devices have restored nonvolatile data from flash memory.
+*Corrective Action*::
+(None).
+*Syslog Message*::
+NVMEM subsystem successfully restored nonvolatile data from flash memory on NVDIMM device in %ld seconds.
+*Parameters*::
+*seconds* (INT): Time taken by the restage operation.
