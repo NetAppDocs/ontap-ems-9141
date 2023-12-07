@@ -6,7 +6,6 @@ summary: sms.giveback events
 ---
 
 = sms.giveback events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

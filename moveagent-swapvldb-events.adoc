@@ -6,7 +6,6 @@ summary: moveagent.swapvldb events
 ---
 
 = moveagent.swapvldb events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

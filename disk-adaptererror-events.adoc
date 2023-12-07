@@ -6,7 +6,6 @@ summary: disk.adaptererror events
 ---
 
 = disk.adaptererror events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: copy.dst events
 ---
 
 = copy.dst events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: sync.snapmirror events
 ---
 
 = sync.snapmirror events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

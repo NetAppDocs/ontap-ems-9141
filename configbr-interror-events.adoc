@@ -6,7 +6,6 @@ summary: configbr.interror events
 ---
 
 = configbr.interror events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

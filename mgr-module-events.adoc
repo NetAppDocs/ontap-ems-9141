@@ -6,7 +6,6 @@ summary: mgr.module events
 ---
 
 = mgr.module events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: fcvi.fcrenabled events
 ---
 
 = fcvi.fcrenabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

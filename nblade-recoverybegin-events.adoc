@@ -6,7 +6,6 @@ summary: nblade.recoverybegin events
 ---
 
 = nblade.recoverybegin events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

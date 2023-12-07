@@ -6,7 +6,6 @@ summary: esh.unable events
 ---
 
 = esh.unable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

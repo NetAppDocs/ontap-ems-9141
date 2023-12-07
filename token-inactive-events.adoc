@@ -6,7 +6,6 @@ summary: token.inactive events
 ---
 
 = token.inactive events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

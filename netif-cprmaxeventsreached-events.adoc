@@ -6,7 +6,6 @@ summary: netif.cprmaxeventsreached events
 ---
 
 = netif.cprmaxeventsreached events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

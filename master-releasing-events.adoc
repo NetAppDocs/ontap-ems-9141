@@ -6,7 +6,6 @@ summary: master.releasing events
 ---
 
 = master.releasing events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

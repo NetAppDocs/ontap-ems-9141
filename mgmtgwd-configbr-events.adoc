@@ -6,7 +6,6 @@ summary: mgmtgwd.configbr events
 ---
 
 = mgmtgwd.configbr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: coredump.compress events
 ---
 
 = coredump.compress events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

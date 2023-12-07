@@ -6,7 +6,6 @@ summary: user.group events
 ---
 
 = user.group events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

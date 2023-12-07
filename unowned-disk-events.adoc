@@ -6,7 +6,6 @@ summary: unowned.disk events
 ---
 
 = unowned.disk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

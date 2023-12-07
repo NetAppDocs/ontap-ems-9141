@@ -6,7 +6,6 @@ summary: boot.varfs events
 ---
 
 = boot.varfs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

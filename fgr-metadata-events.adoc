@@ -6,7 +6,6 @@ summary: fgr.metadata events
 ---
 
 = fgr.metadata events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

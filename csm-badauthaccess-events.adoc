@@ -6,7 +6,6 @@ summary: csm.badauthaccess events
 ---
 
 = csm.badauthaccess events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

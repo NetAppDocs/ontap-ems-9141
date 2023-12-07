@@ -6,7 +6,6 @@ summary: fg.inactive events
 ---
 
 = fg.inactive events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

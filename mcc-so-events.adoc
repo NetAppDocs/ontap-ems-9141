@@ -6,7 +6,6 @@ summary: mcc.so events
 ---
 
 = mcc.so events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

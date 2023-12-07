@@ -6,7 +6,6 @@ summary: ha.takeoverimpnotdef events
 ---
 
 = ha.takeoverimpnotdef events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

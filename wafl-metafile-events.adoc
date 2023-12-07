@@ -6,7 +6,6 @@ summary: wafl.metafile events
 ---
 
 = wafl.metafile events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

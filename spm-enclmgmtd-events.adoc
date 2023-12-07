@@ -6,7 +6,6 @@ summary: spm.enclmgmtd events
 ---
 
 = spm.enclmgmtd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

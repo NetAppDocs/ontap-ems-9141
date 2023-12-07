@@ -6,7 +6,6 @@ summary: wafl.sis events
 ---
 
 = wafl.sis events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

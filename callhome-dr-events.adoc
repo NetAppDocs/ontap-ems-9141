@@ -6,7 +6,6 @@ summary: callhome.dr events
 ---
 
 = callhome.dr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

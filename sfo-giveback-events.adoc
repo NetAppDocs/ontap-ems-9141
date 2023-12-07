@@ -6,7 +6,6 @@ summary: sfo.giveback events
 ---
 
 = sfo.giveback events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

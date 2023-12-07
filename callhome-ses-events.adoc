@@ -6,7 +6,6 @@ summary: callhome.ses events
 ---
 
 = callhome.ses events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

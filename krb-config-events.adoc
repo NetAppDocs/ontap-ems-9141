@@ -6,7 +6,6 @@ summary: krb.config events
 ---
 
 = krb.config events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

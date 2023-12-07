@@ -6,7 +6,6 @@ summary: vserver.oper events
 ---
 
 = vserver.oper events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

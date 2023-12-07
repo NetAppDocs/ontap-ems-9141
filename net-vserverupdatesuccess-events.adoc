@@ -6,7 +6,6 @@ summary: net.vserverupdatesuccess events
 ---
 
 = net.vserverupdatesuccess events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

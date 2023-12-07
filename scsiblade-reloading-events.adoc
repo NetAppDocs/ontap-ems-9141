@@ -6,7 +6,6 @@ summary: scsiblade.reloading events
 ---
 
 = scsiblade.reloading events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

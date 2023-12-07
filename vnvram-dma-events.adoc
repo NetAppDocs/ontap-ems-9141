@@ -6,7 +6,6 @@ summary: vnvram.dma events
 ---
 
 = vnvram.dma events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: repl.gsr events
 ---
 
 = repl.gsr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

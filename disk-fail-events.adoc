@@ -6,7 +6,6 @@ summary: disk.fail events
 ---
 
 = disk.fail events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

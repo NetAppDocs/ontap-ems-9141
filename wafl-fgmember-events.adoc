@@ -6,7 +6,6 @@ summary: wafl.fgmember events
 ---
 
 = wafl.fgmember events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

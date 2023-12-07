@@ -6,7 +6,6 @@ summary: misconfig.lif events
 ---
 
 = misconfig.lif events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

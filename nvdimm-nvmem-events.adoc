@@ -6,7 +6,6 @@ summary: nvdimm.nvmem events
 ---
 
 = nvdimm.nvmem events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

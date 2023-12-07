@@ -6,7 +6,6 @@ summary: vldb.adtcons events
 ---
 
 = vldb.adtcons events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

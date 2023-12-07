@@ -6,7 +6,6 @@ summary: moveagent.commitdst events
 ---
 
 = moveagent.commitdst events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

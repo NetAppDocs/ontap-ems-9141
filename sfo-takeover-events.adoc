@@ -6,7 +6,6 @@ summary: sfo.takeover events
 ---
 
 = sfo.takeover events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

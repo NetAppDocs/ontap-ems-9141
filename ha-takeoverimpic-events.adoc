@@ -6,7 +6,6 @@ summary: ha.takeoverimpic events
 ---
 
 = ha.takeoverimpic events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

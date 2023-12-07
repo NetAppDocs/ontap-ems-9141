@@ -6,7 +6,6 @@ summary: vldb.aggregateuuid events
 ---
 
 = vldb.aggregateuuid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

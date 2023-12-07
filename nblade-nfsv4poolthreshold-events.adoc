@@ -6,7 +6,6 @@ summary: nblade.nfsv4poolthreshold events
 ---
 
 = nblade.nfsv4poolthreshold events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

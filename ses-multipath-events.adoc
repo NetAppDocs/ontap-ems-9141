@@ -6,7 +6,6 @@ summary: ses.multipath events
 ---
 
 = ses.multipath events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

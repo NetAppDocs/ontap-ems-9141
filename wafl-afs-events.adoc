@@ -6,7 +6,6 @@ summary: wafl.afs events
 ---
 
 = wafl.afs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

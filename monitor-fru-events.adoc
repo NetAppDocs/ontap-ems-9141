@@ -6,7 +6,6 @@ summary: monitor.fru events
 ---
 
 = monitor.fru events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

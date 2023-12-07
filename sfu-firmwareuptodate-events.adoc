@@ -6,7 +6,6 @@ summary: sfu.firmwareuptodate events
 ---
 
 = sfu.firmwareuptodate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

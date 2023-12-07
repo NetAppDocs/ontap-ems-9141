@@ -6,7 +6,6 @@ summary: esh.async events
 ---
 
 = esh.async events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

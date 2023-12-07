@@ -6,7 +6,6 @@ summary: arl.netra events
 ---
 
 = arl.netra events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

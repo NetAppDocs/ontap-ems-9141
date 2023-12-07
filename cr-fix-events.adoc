@@ -6,7 +6,6 @@ summary: cr.fix events
 ---
 
 = cr.fix events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

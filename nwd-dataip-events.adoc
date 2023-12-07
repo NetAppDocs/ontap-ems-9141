@@ -6,7 +6,6 @@ summary: nwd.dataip events
 ---
 
 = nwd.dataip events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

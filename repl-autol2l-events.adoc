@@ -6,7 +6,6 @@ summary: repl.autol2l events
 ---
 
 = repl.autol2l events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

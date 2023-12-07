@@ -6,7 +6,6 @@ summary: snapmirror.corrupted events
 ---
 
 = snapmirror.corrupted events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: crypto.ssal events
 ---
 
 = crypto.ssal events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

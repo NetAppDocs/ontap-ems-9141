@@ -6,7 +6,6 @@ summary: sm.c2c events
 ---
 
 = sm.c2c events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

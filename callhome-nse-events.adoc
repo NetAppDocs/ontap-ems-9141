@@ -6,7 +6,6 @@ summary: callhome.nse events
 ---
 
 = callhome.nse events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

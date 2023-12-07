@@ -6,7 +6,6 @@ summary: scsiblade.object events
 ---
 
 = scsiblade.object events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: diskown.aashelf events
 ---
 
 = diskown.aashelf events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

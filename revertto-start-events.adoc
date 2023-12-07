@@ -6,7 +6,6 @@ summary: revertto.start events
 ---
 
 = revertto.start events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: other.veto events
 ---
 
 = other.veto events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.playlist events
 ---
 
 = wafl.playlist events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.lookup events
 ---
 
 = wafl.lookup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

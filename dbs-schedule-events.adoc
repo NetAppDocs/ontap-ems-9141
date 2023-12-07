@@ -6,7 +6,6 @@ summary: dbs.schedule events
 ---
 
 = dbs.schedule events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

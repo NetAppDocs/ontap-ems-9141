@@ -6,7 +6,6 @@ summary: callhome.scsi events
 ---
 
 = callhome.scsi events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

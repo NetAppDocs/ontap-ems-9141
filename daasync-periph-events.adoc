@@ -6,7 +6,6 @@ summary: daasync.periph events
 ---
 
 = daasync.periph events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

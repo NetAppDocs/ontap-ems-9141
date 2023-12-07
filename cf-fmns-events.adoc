@@ -6,7 +6,6 @@ summary: cf.fmns events
 ---
 
 = cf.fmns events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.repl events
 ---
 
 = wafl.repl events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

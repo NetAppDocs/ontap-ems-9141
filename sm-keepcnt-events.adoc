@@ -6,7 +6,6 @@ summary: sm.keepcnt events
 ---
 
 = sm.keepcnt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

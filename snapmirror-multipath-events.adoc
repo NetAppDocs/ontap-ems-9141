@@ -6,7 +6,6 @@ summary: snapmirror.multipath events
 ---
 
 = snapmirror.multipath events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: ha.tkover events
 ---
 
 = ha.tkover events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

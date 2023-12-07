@@ -6,7 +6,6 @@ summary: socket.limit events
 ---
 
 = socket.limit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

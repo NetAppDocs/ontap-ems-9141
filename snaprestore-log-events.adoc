@@ -6,7 +6,6 @@ summary: snaprestore.log events
 ---
 
 = snaprestore.log events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

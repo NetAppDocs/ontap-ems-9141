@@ -6,7 +6,6 @@ summary: wafl.compress events
 ---
 
 = wafl.compress events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

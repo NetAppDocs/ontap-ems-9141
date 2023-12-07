@@ -6,7 +6,6 @@ summary: flexcache.cachedisconnected events
 ---
 
 = flexcache.cachedisconnected events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

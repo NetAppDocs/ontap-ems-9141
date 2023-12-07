@@ -6,7 +6,6 @@ summary: vldb.update events
 ---
 
 = vldb.update events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

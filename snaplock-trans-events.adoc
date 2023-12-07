@@ -6,7 +6,6 @@ summary: snaplock.trans events
 ---
 
 = snaplock.trans events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

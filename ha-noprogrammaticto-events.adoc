@@ -6,7 +6,6 @@ summary: ha.noprogrammaticto events
 ---
 
 = ha.noprogrammaticto events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

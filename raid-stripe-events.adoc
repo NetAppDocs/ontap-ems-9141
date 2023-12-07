@@ -6,7 +6,6 @@ summary: raid.stripe events
 ---
 
 = raid.stripe events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

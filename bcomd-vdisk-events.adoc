@@ -6,7 +6,6 @@ summary: bcomd.vdisk events
 ---
 
 = bcomd.vdisk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

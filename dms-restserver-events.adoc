@@ -6,7 +6,6 @@ summary: dms.restserver events
 ---
 
 = dms.restserver events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: fcvi.unsupported events
 ---
 
 = fcvi.unsupported events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

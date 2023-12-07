@@ -6,7 +6,6 @@ summary: vsdr.fpvoldropqospolicy events
 ---
 
 = vsdr.fpvoldropqospolicy events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

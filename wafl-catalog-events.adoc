@@ -6,7 +6,6 @@ summary: wafl.catalog events
 ---
 
 = wafl.catalog events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

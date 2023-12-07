@@ -6,7 +6,6 @@ summary: nodewatchdog.resrc events
 ---
 
 = nodewatchdog.resrc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

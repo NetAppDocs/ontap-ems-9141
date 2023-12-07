@@ -6,7 +6,6 @@ summary: fpolicy.memory events
 ---
 
 = fpolicy.memory events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

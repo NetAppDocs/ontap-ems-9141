@@ -6,7 +6,6 @@ summary: vifmgr.portdeg events
 ---
 
 = vifmgr.portdeg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

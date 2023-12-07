@@ -6,7 +6,6 @@ summary: wafl.cdemap events
 ---
 
 = wafl.cdemap events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

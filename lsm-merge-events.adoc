@@ -6,7 +6,6 @@ summary: lsm.merge events
 ---
 
 = lsm.merge events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

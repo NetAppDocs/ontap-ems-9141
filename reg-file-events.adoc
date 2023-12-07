@@ -6,7 +6,6 @@ summary: reg.file events
 ---
 
 = reg.file events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

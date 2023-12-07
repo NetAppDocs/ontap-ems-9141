@@ -6,7 +6,6 @@ summary: raid.vldb events
 ---
 
 = raid.vldb events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: cr.data events
 ---
 
 = cr.data events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

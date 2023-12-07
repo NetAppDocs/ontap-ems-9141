@@ -6,7 +6,6 @@ summary: wafl.access events
 ---
 
 = wafl.access events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: license.feat events
 ---
 
 = license.feat events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

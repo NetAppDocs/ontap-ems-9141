@@ -6,7 +6,6 @@ summary: upgrademgr.update events
 ---
 
 = upgrademgr.update events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

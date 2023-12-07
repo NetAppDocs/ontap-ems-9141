@@ -6,7 +6,6 @@ summary: sfo.arl events
 ---
 
 = sfo.arl events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

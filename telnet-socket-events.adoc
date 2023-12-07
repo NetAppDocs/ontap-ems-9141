@@ -6,7 +6,6 @@ summary: telnet.socket events
 ---
 
 = telnet.socket events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

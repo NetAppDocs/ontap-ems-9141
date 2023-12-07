@@ -6,7 +6,6 @@ summary: sms.qr events
 ---
 
 = sms.qr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: kern.shutdown events
 ---
 
 = kern.shutdown events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

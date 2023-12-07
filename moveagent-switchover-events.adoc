@@ -6,7 +6,6 @@ summary: moveagent.switchover events
 ---
 
 = moveagent.switchover events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

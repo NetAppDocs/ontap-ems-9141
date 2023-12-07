@@ -6,7 +6,6 @@ summary: tapemc.sas events
 ---
 
 = tapemc.sas events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

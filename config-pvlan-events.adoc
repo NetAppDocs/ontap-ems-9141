@@ -6,7 +6,6 @@ summary: config.pvlan events
 ---
 
 = config.pvlan events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

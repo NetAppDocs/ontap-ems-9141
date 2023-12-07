@@ -6,7 +6,6 @@ summary: xfcvi.qlgc events
 ---
 
 = xfcvi.qlgc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

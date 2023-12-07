@@ -6,7 +6,6 @@ summary: monitor.rtclowpower events
 ---
 
 = monitor.rtclowpower events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

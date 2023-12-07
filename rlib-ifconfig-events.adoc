@@ -6,7 +6,6 @@ summary: rlib.ifconfig events
 ---
 
 = rlib.ifconfig events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

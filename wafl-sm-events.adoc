@@ -6,7 +6,6 @@ summary: wafl.sm events
 ---
 
 = wafl.sm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

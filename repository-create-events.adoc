@@ -6,7 +6,6 @@ summary: repository.create events
 ---
 
 = repository.create events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

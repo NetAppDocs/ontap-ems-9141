@@ -6,7 +6,6 @@ summary: socket.sndbuflimit events
 ---
 
 = socket.sndbuflimit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

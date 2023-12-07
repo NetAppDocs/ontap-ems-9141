@@ -6,7 +6,6 @@ summary: mgmt.smbc events
 ---
 
 = mgmt.smbc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

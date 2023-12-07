@@ -6,7 +6,6 @@ summary: nvme.link events
 ---
 
 = nvme.link events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

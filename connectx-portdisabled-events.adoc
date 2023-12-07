@@ -6,7 +6,6 @@ summary: connectx.portdisabled events
 ---
 
 = connectx.portdisabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

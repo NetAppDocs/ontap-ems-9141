@@ -6,7 +6,6 @@ summary: cna.sfp events
 ---
 
 = cna.sfp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

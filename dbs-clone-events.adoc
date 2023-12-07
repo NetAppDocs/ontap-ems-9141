@@ -6,7 +6,6 @@ summary: dbs.clone events
 ---
 
 = dbs.clone events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: rsh.rcmd events
 ---
 
 = rsh.rcmd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

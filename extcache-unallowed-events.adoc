@@ -6,7 +6,6 @@ summary: extcache.unallowed events
 ---
 
 = extcache.unallowed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

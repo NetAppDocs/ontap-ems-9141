@@ -6,7 +6,6 @@ summary: esh.speed events
 ---
 
 = esh.speed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

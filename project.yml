@@ -10,11 +10,32 @@ settings:
     harmony_enabled: false
     github_edit: false
     github_issue: false
-    
+  versions:
+    - version-number: "9.14.1"
+      url: /ontap-ems-9141
+    - version-number: "9.13.1"
+      url: /ontap-ems-9131
+    - version-number: "9.12.1"
+      url: /ontap-ems-9121
+    - version-number: "9.11.1"
+      url: //ontap-ems-9111
+    - version-number: "9.10.1"
+      url: //ontap-ems-9101
+    - version-number: "9.9.1"
+      url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2876977
+    - version-number: "9.8"
+      url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2874591
+    - version-number: "9.7"
+      url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2864253
+    - version-number: "9.6"
+      url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2857180  
+    - version-number: "9.5"
+      url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2851597
+    - version-number: "9.3"
+      url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2843561     
 product-family: 
   name: ONTAP
   repo: ontap-family
-  sidebar_label: All ONTAP product documentation
 
 sidebar:
   entries:

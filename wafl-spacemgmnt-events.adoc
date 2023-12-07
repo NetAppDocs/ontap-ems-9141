@@ -6,7 +6,6 @@ summary: wafl.spacemgmnt events
 ---
 
 = wafl.spacemgmnt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

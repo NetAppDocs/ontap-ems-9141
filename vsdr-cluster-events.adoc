@@ -6,7 +6,6 @@ summary: vsdr.cluster events
 ---
 
 = vsdr.cluster events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: netif.excesslinkinterrupts events
 ---
 
 = netif.excesslinkinterrupts events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

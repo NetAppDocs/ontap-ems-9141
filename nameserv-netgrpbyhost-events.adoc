@@ -6,7 +6,6 @@ summary: nameserv.netgrpbyhost events
 ---
 
 = nameserv.netgrpbyhost events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

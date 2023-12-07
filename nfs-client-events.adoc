@@ -6,7 +6,6 @@ summary: nfs.client events
 ---
 
 = nfs.client events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

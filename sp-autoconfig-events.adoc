@@ -6,7 +6,6 @@ summary: sp.autoconfig events
 ---
 
 = sp.autoconfig events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

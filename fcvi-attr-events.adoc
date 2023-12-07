@@ -6,7 +6,6 @@ summary: fcvi.attr events
 ---
 
 = fcvi.attr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

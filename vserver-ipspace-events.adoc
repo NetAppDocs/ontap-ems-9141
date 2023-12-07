@@ -6,7 +6,6 @@ summary: vserver.ipspace events
 ---
 
 = vserver.ipspace events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

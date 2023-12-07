@@ -6,7 +6,6 @@ summary: ktls.health events
 ---
 
 = ktls.health events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

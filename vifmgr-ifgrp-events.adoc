@@ -6,7 +6,6 @@ summary: vifmgr.ifgrp events
 ---
 
 = vifmgr.ifgrp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: vscan.enabled events
 ---
 
 = vscan.enabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

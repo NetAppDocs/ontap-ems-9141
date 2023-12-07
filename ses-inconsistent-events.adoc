@@ -6,7 +6,6 @@ summary: ses.inconsistent events
 ---
 
 = ses.inconsistent events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

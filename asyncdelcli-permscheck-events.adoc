@@ -6,7 +6,6 @@ summary: asyncdelcli.permscheck events
 ---
 
 = asyncdelcli.permscheck events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

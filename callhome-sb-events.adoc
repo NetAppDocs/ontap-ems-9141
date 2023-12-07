@@ -6,7 +6,6 @@ summary: callhome.sb events
 ---
 
 = callhome.sb events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

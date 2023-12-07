@@ -6,7 +6,6 @@ summary: vdisk.clonelogfull events
 ---
 
 = vdisk.clonelogfull events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

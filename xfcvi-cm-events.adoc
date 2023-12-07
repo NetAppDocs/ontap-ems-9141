@@ -6,7 +6,6 @@ summary: xfcvi.cm events
 ---
 
 = xfcvi.cm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

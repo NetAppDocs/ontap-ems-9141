@@ -6,7 +6,6 @@ summary: cmd.sasadmin events
 ---
 
 = cmd.sasadmin events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

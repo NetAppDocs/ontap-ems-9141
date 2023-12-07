@@ -6,7 +6,6 @@ summary: coredump.host events
 ---
 
 = coredump.host events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

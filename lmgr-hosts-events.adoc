@@ -6,7 +6,6 @@ summary: lmgr.hosts events
 ---
 
 = lmgr.hosts events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

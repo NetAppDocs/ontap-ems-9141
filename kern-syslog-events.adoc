@@ -6,7 +6,6 @@ summary: kern.syslog events
 ---
 
 = kern.syslog events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

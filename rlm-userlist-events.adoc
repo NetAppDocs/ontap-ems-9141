@@ -6,7 +6,6 @@ summary: rlm.userlist events
 ---
 
 = rlm.userlist events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

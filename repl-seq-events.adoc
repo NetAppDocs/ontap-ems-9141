@@ -6,7 +6,6 @@ summary: repl.seq events
 ---
 
 = repl.seq events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

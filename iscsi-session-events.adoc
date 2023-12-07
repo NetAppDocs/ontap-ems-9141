@@ -6,7 +6,6 @@ summary: iscsi.session events
 ---
 
 = iscsi.session events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

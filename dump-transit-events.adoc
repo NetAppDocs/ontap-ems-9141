@@ -6,7 +6,6 @@ summary: dump.transit events
 ---
 
 = dump.transit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

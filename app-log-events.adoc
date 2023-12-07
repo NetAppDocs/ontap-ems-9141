@@ -6,7 +6,6 @@ summary: app.log events
 ---
 
 = app.log events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

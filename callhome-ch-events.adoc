@@ -6,7 +6,6 @@ summary: callhome.ch events
 ---
 
 = callhome.ch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

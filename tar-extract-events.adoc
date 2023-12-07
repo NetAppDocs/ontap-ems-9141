@@ -6,7 +6,6 @@ summary: tar.extract events
 ---
 
 = tar.extract events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

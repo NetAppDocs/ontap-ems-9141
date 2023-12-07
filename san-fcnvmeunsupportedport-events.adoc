@@ -6,7 +6,6 @@ summary: san.fcnvmeunsupportedport events
 ---
 
 = san.fcnvmeunsupportedport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

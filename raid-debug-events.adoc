@@ -6,7 +6,6 @@ summary: raid.debug events
 ---
 
 = raid.debug events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

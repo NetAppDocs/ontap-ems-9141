@@ -6,7 +6,6 @@ summary: bridge.timestamp events
 ---
 
 = bridge.timestamp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

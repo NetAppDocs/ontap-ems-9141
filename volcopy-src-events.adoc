@@ -6,7 +6,6 @@ summary: volcopy.src events
 ---
 
 = volcopy.src events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

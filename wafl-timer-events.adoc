@@ -6,7 +6,6 @@ summary: wafl.timer events
 ---
 
 = wafl.timer events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

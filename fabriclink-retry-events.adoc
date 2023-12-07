@@ -6,7 +6,6 @@ summary: fabriclink.retry events
 ---
 
 = fabriclink.retry events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

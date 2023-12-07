@@ -6,7 +6,6 @@ summary: snapvault.reg events
 ---
 
 = snapvault.reg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: scsi.path events
 ---
 
 = scsi.path events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

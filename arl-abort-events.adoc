@@ -6,7 +6,6 @@ summary: arl.abort events
 ---
 
 = arl.abort events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

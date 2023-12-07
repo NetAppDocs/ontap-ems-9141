@@ -6,7 +6,6 @@ summary: wafl.stream events
 ---
 
 = wafl.stream events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

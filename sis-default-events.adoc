@@ -6,7 +6,6 @@ summary: sis.default events
 ---
 
 = sis.default events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: ekmip.ikpkms events
 ---
 
 = ekmip.ikpkms events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

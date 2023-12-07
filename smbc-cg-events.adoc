@@ -6,7 +6,6 @@ summary: smbc.cg events
 ---
 
 = smbc.cg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.qtree events
 ---
 
 = wafl.qtree events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

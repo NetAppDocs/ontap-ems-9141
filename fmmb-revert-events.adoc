@@ -6,7 +6,6 @@ summary: fmmb.revert events
 ---
 
 = fmmb.revert events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

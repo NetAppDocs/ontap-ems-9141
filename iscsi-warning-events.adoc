@@ -6,7 +6,6 @@ summary: iscsi.warning events
 ---
 
 = iscsi.warning events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

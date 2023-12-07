@@ -6,7 +6,6 @@ summary: rlm.heartbeat events
 ---
 
 = rlm.heartbeat events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

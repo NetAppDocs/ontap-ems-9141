@@ -6,7 +6,6 @@ summary: fpolicy.server events
 ---
 
 = fpolicy.server events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

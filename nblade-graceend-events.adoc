@@ -6,7 +6,6 @@ summary: nblade.graceend events
 ---
 
 = nblade.graceend events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

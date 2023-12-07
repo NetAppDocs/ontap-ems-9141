@@ -6,7 +6,6 @@ summary: dfu.mallocfailed events
 ---
 
 = dfu.mallocfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

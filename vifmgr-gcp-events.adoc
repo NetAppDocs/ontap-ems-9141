@@ -6,7 +6,6 @@ summary: vifmgr.gcp events
 ---
 
 = vifmgr.gcp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

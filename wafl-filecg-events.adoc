@@ -6,7 +6,6 @@ summary: wafl.filecg events
 ---
 
 = wafl.filecg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: km.cluster events
 ---
 
 = km.cluster events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: sas.cable events
 ---
 
 = sas.cable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

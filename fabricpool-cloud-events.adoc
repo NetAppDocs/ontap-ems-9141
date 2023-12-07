@@ -6,7 +6,6 @@ summary: fabricpool.cloud events
 ---
 
 = fabricpool.cloud events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

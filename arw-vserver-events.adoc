@@ -6,7 +6,6 @@ summary: arw.vserver events
 ---
 
 = arw.vserver events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

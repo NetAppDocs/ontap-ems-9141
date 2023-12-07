@@ -6,7 +6,6 @@ summary: rlib.mccip events
 ---
 
 = rlib.mccip events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

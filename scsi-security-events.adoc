@@ -6,7 +6,6 @@ summary: scsi.security events
 ---
 
 = scsi.security events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

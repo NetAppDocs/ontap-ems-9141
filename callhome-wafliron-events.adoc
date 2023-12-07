@@ -6,7 +6,6 @@ summary: callhome.wafliron events
 ---
 
 = callhome.wafliron events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

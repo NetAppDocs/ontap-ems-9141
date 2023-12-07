@@ -6,7 +6,6 @@ summary: mpt.tmf events
 ---
 
 = mpt.tmf events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

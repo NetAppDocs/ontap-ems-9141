@@ -6,7 +6,6 @@ summary: httpd.api events
 ---
 
 = httpd.api events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

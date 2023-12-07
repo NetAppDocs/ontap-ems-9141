@@ -6,7 +6,6 @@ summary: pac.peer events
 ---
 
 = pac.peer events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

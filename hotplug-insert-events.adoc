@@ -6,7 +6,6 @@ summary: hotplug.insert events
 ---
 
 = hotplug.insert events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: daregister.periph events
 ---
 
 = daregister.periph events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

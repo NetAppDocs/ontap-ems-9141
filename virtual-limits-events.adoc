@@ -6,7 +6,6 @@ summary: virtual.limits events
 ---
 
 = virtual.limits events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

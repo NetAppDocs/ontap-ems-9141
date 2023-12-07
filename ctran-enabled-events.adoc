@@ -6,7 +6,6 @@ summary: ctran.enabled events
 ---
 
 = ctran.enabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

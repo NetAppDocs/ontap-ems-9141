@@ -6,7 +6,6 @@ summary: netif.phynotread events
 ---
 
 = netif.phynotread events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

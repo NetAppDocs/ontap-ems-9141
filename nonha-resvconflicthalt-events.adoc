@@ -6,7 +6,6 @@ summary: nonha.resvconflicthalt events
 ---
 
 = nonha.resvconflicthalt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

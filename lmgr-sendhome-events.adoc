@@ -6,7 +6,6 @@ summary: lmgr.sendhome events
 ---
 
 = lmgr.sendhome events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: msata.unable events
 ---
 
 = msata.unable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

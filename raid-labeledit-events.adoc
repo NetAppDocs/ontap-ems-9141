@@ -6,7 +6,6 @@ summary: raid.labeledit events
 ---
 
 = raid.labeledit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

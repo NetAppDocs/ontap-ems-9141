@@ -6,7 +6,6 @@ summary: telnet.setsockopt events
 ---
 
 = telnet.setsockopt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: zsm.socket events
 ---
 
 = zsm.socket events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

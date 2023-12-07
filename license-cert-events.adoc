@@ -6,7 +6,6 @@ summary: license.cert events
 ---
 
 = license.cert events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

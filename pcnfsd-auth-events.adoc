@@ -6,7 +6,6 @@ summary: pcnfsd.auth events
 ---
 
 = pcnfsd.auth events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

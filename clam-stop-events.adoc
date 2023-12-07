@@ -6,7 +6,6 @@ summary: clam.stop events
 ---
 
 = clam.stop events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: config.sameha events
 ---
 
 = config.sameha events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

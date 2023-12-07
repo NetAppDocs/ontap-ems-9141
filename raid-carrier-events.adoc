@@ -6,7 +6,6 @@ summary: raid.carrier events
 ---
 
 = raid.carrier events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

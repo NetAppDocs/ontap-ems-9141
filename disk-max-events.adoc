@@ -6,7 +6,6 @@ summary: disk.max events
 ---
 
 = disk.max events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: netif.badoversizepacket events
 ---
 
 = netif.badoversizepacket events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: callhome.arw events
 ---
 
 = callhome.arw events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

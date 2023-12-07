@@ -6,7 +6,6 @@ summary: iclink.init events
 ---
 
 = iclink.init events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: netif.toomanynics events
 ---
 
 = netif.toomanynics events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

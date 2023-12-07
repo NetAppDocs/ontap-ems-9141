@@ -6,7 +6,6 @@ summary: coredump.delete events
 ---
 
 = coredump.delete events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

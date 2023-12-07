@@ -6,7 +6,6 @@ summary: rdb.open events
 ---
 
 = rdb.open events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: air.qtm events
 ---
 
 = air.qtm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

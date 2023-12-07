@@ -6,7 +6,6 @@ summary: dbs.ie events
 ---
 
 = dbs.ie events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

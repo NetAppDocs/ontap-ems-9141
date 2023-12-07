@@ -6,7 +6,6 @@ summary: wafl.mp events
 ---
 
 = wafl.mp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

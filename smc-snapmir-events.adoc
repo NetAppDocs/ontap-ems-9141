@@ -6,7 +6,6 @@ summary: smc.snapmir events
 ---
 
 = smc.snapmir events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

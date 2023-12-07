@@ -6,7 +6,6 @@ summary: scsitarget.hwpfct events
 ---
 
 = scsitarget.hwpfct events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

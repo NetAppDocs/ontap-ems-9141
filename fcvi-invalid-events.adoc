@@ -6,7 +6,6 @@ summary: fcvi.invalid events
 ---
 
 = fcvi.invalid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

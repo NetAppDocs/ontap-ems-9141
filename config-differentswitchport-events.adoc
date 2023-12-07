@@ -6,7 +6,6 @@ summary: config.differentswitchport events
 ---
 
 = config.differentswitchport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

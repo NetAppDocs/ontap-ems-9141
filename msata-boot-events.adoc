@@ -6,7 +6,6 @@ summary: msata.boot events
 ---
 
 = msata.boot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

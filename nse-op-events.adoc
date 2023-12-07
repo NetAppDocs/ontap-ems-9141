@@ -6,7 +6,6 @@ summary: nse.op events
 ---
 
 = nse.op events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

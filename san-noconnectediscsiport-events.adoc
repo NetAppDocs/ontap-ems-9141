@@ -6,7 +6,6 @@ summary: san.noconnectediscsiport events
 ---
 
 = san.noconnectediscsiport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: acp.no events
 ---
 
 = acp.no events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: scsiblade.vol events
 ---
 
 = scsiblade.vol events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

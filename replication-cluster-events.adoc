@@ -6,7 +6,6 @@ summary: replication.cluster events
 ---
 
 = replication.cluster events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

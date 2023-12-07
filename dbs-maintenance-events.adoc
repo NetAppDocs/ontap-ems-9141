@@ -6,7 +6,6 @@ summary: dbs.maintenance events
 ---
 
 = dbs.maintenance events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

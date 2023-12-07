@@ -6,7 +6,6 @@ summary: exports.netgroup events
 ---
 
 = exports.netgroup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

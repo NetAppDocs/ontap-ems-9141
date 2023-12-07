@@ -6,7 +6,6 @@ summary: storage.interface events
 ---
 
 = storage.interface events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: smtape.bkp events
 ---
 
 = smtape.bkp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

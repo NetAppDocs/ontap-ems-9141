@@ -6,7 +6,6 @@ summary: asyncdelete.cancel events
 ---
 
 = asyncdelete.cancel events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: suspend.zapi events
 ---
 
 = suspend.zapi events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

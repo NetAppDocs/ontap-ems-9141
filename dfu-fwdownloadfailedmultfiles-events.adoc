@@ -6,7 +6,6 @@ summary: dfu.fwdownloadfailedmultfiles events
 ---
 
 = dfu.fwdownloadfailedmultfiles events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

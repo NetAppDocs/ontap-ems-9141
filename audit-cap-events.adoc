@@ -6,7 +6,6 @@ summary: audit.cap events
 ---
 
 = audit.cap events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: cap.cache events
 ---
 
 = cap.cache events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

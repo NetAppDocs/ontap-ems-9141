@@ -6,7 +6,6 @@ summary: pha.add events
 ---
 
 = pha.add events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

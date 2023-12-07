@@ -6,7 +6,6 @@ summary: moveagent.cleanup events
 ---
 
 = moveagent.cleanup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

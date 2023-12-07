@@ -6,7 +6,6 @@ summary: mlm.tpqd events
 ---
 
 = mlm.tpqd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

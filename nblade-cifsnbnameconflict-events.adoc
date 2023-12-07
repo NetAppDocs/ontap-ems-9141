@@ -6,7 +6,6 @@ summary: nblade.cifsnbnameconflict events
 ---
 
 = nblade.cifsnbnameconflict events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

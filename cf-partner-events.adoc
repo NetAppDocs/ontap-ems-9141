@@ -6,7 +6,6 @@ summary: cf.partner events
 ---
 
 = cf.partner events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: raid.read events
 ---
 
 = raid.read events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

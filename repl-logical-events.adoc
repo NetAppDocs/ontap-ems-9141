@@ -6,7 +6,6 @@ summary: repl.logical events
 ---
 
 = repl.logical events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

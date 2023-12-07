@@ -6,7 +6,6 @@ summary: raid.disable events
 ---
 
 = raid.disable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

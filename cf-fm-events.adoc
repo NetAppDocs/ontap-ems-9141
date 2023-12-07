@@ -6,7 +6,6 @@ summary: cf.fm events
 ---
 
 = cf.fm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

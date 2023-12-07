@@ -6,7 +6,6 @@ summary: mgmt.keymgr events
 ---
 
 = mgmt.keymgr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

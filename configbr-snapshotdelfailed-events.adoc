@@ -6,7 +6,6 @@ summary: configbr.snapshotdelfailed events
 ---
 
 = configbr.snapshotdelfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

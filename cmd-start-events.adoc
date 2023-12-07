@@ -6,7 +6,6 @@ summary: cmd.start events
 ---
 
 = cmd.start events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

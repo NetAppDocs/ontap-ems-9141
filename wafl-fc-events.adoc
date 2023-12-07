@@ -6,7 +6,6 @@ summary: wafl.fc events
 ---
 
 = wafl.fc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

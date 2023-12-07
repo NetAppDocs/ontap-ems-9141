@@ -6,7 +6,6 @@ summary: nblade.nfsv4blockclient events
 ---
 
 = nblade.nfsv4blockclient events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

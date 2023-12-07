@@ -6,7 +6,6 @@ summary: nblade.nbnstoomanylifs events
 ---
 
 = nblade.nbnstoomanylifs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: diskown.shlf events
 ---
 
 = diskown.shlf events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

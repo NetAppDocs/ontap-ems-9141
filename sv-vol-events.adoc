@@ -6,7 +6,6 @@ summary: sv.vol events
 ---
 
 = sv.vol events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

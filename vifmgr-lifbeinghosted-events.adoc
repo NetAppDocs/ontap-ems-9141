@@ -6,7 +6,6 @@ summary: vifmgr.lifbeinghosted events
 ---
 
 = vifmgr.lifbeinghosted events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: cifs.lug events
 ---
 
 = cifs.lug events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

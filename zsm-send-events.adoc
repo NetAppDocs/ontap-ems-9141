@@ -6,7 +6,6 @@ summary: zsm.send events
 ---
 
 = zsm.send events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

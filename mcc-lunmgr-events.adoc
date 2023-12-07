@@ -6,7 +6,6 @@ summary: mcc.lunmgr events
 ---
 
 = mcc.lunmgr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

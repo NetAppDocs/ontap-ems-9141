@@ -6,7 +6,6 @@ summary: nblade.cifslongrunpattmatch events
 ---
 
 = nblade.cifslongrunpattmatch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

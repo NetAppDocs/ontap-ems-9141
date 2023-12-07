@@ -6,7 +6,6 @@ summary: shm.reformat events
 ---
 
 = shm.reformat events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: disk.timeout events
 ---
 
 = disk.timeout events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

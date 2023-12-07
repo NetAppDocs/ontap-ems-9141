@@ -6,7 +6,6 @@ summary: scsiblade.invalid events
 ---
 
 = scsiblade.invalid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

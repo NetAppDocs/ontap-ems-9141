@@ -6,7 +6,6 @@ summary: nblade.cifsoperationtimedout events
 ---
 
 = nblade.cifsoperationtimedout events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

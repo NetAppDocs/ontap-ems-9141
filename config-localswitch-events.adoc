@@ -6,7 +6,6 @@ summary: config.localswitch events
 ---
 
 = config.localswitch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

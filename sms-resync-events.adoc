@@ -6,7 +6,6 @@ summary: sms.resync events
 ---
 
 = sms.resync events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

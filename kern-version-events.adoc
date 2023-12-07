@@ -6,7 +6,6 @@ summary: kern.version events
 ---
 
 = kern.version events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

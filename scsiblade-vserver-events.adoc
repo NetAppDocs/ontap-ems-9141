@@ -6,7 +6,6 @@ summary: scsiblade.vserver events
 ---
 
 = scsiblade.vserver events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

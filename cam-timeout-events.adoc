@@ -6,7 +6,6 @@ summary: cam.timeout events
 ---
 
 = cam.timeout events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.fs events
 ---
 
 = wafl.fs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: isns.reg events
 ---
 
 = isns.reg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

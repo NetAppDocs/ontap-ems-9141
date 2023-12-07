@@ -6,7 +6,6 @@ summary: wafl.offline events
 ---
 
 = wafl.offline events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

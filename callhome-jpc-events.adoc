@@ -6,7 +6,6 @@ summary: callhome.jpc events
 ---
 
 = callhome.jpc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

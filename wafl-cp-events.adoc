@@ -6,7 +6,6 @@ summary: wafl.cp events
 ---
 
 = wafl.cp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

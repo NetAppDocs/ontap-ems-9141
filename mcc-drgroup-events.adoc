@@ -6,7 +6,6 @@ summary: mcc.drgroup events
 ---
 
 = mcc.drgroup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

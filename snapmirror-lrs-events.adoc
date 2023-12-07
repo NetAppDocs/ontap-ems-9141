@@ -6,7 +6,6 @@ summary: snapmirror.lrs events
 ---
 
 = snapmirror.lrs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

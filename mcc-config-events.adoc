@@ -6,7 +6,6 @@ summary: mcc.config events
 ---
 
 = mcc.config events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

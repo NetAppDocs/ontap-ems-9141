@@ -6,7 +6,6 @@ summary: vifmgr.lifdown events
 ---
 
 = vifmgr.lifdown events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: snmp.coldstart events
 ---
 
 = snmp.coldstart events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: maxcid.threshold events
 ---
 
 = maxcid.threshold events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: cloud.creds events
 ---
 
 = cloud.creds events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

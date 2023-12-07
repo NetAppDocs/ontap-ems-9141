@@ -6,7 +6,6 @@ summary: replication.status events
 ---
 
 = replication.status events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

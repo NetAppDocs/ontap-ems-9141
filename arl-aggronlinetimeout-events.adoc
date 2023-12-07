@@ -6,7 +6,6 @@ summary: arl.aggronlinetimeout events
 ---
 
 = arl.aggronlinetimeout events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

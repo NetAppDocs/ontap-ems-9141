@@ -6,7 +6,6 @@ summary: dbs.slice events
 ---
 
 = dbs.slice events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

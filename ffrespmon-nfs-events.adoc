@@ -6,7 +6,6 @@ summary: ffrespmon.nfs events
 ---
 
 = ffrespmon.nfs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

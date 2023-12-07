@@ -6,7 +6,6 @@ summary: snapmirror.unsupportedchksumtype events
 ---
 
 = snapmirror.unsupportedchksumtype events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

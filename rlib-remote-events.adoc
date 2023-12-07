@@ -6,7 +6,6 @@ summary: rlib.remote events
 ---
 
 = rlib.remote events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

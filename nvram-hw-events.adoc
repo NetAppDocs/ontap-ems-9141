@@ -6,7 +6,6 @@ summary: nvram.hw events
 ---
 
 = nvram.hw events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

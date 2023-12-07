@@ -6,7 +6,6 @@ summary: nodewatchdog.svc events
 ---
 
 = nodewatchdog.svc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

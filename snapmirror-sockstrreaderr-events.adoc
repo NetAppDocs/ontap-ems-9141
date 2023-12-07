@@ -6,7 +6,6 @@ summary: snapmirror.sockstrreaderr events
 ---
 
 = snapmirror.sockstrreaderr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

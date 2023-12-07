@@ -6,7 +6,6 @@ summary: rlm.driver events
 ---
 
 = rlm.driver events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

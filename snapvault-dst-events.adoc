@@ -6,7 +6,6 @@ summary: snapvault.dst events
 ---
 
 = snapvault.dst events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

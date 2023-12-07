@@ -6,7 +6,6 @@ summary: daasync.inquiry events
 ---
 
 = daasync.inquiry events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

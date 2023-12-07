@@ -6,7 +6,6 @@ summary: ucore.ulimit0 events
 ---
 
 = ucore.ulimit0 events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

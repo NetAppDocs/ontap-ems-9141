@@ -6,7 +6,6 @@ summary: adminapi.input events
 ---
 
 = adminapi.input events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

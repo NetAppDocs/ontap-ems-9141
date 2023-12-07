@@ -6,7 +6,6 @@ summary: ha.mbxresvreleasedelay events
 ---
 
 = ha.mbxresvreleasedelay events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

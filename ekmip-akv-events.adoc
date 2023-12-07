@@ -6,7 +6,6 @@ summary: ekmip.akv events
 ---
 
 = ekmip.akv events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

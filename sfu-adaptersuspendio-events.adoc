@@ -6,7 +6,6 @@ summary: sfu.adaptersuspendio events
 ---
 
 = sfu.adaptersuspendio events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: pha.vsa events
 ---
 
 = pha.vsa events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

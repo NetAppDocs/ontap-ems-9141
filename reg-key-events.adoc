@@ -6,7 +6,6 @@ summary: reg.key events
 ---
 
 = reg.key events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

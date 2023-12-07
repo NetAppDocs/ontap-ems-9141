@@ -6,7 +6,6 @@ summary: arl.aggrstart events
 ---
 
 = arl.aggrstart events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

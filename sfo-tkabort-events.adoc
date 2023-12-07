@@ -6,7 +6,6 @@ summary: sfo.tkabort events
 ---
 
 = sfo.tkabort events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

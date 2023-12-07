@@ -6,7 +6,6 @@ summary: wafl.cbin events
 ---
 
 = wafl.cbin events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

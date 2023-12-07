@@ -6,7 +6,6 @@ summary: repl.switch events
 ---
 
 = repl.switch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: callhome.nvram events
 ---
 
 = callhome.nvram events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

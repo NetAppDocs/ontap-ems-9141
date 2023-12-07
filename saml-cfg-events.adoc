@@ -6,7 +6,6 @@ summary: saml.cfg events
 ---
 
 = saml.cfg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: osc.bucket events
 ---
 
 = osc.bucket events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

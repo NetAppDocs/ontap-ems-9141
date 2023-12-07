@@ -6,7 +6,6 @@ summary: accesscache.cfg events
 ---
 
 = accesscache.cfg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

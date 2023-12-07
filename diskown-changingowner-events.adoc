@@ -6,7 +6,6 @@ summary: diskown.changingowner events
 ---
 
 = diskown.changingowner events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

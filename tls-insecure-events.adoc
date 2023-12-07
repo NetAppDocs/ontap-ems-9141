@@ -6,7 +6,6 @@ summary: tls.insecure events
 ---
 
 = tls.insecure events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

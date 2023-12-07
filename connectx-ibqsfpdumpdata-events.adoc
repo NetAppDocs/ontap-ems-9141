@@ -6,7 +6,6 @@ summary: connectx.ibqsfpdumpdata events
 ---
 
 = connectx.ibqsfpdumpdata events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: auditlog.change events
 ---
 
 = auditlog.change events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: nblade.invtcprecordmarker events
 ---
 
 = nblade.invtcprecordmarker events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: mcc.drmsg events
 ---
 
 = mcc.drmsg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

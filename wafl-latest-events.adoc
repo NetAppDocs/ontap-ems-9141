@@ -6,7 +6,6 @@ summary: wafl.latest events
 ---
 
 = wafl.latest events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

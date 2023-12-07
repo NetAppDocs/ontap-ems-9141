@@ -6,7 +6,6 @@ summary: netif.sfpnotsupported events
 ---
 
 = netif.sfpnotsupported events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

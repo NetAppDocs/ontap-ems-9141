@@ -6,7 +6,6 @@ summary: raid.capacity events
 ---
 
 = raid.capacity events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

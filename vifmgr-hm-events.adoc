@@ -6,7 +6,6 @@ summary: vifmgr.hm events
 ---
 
 = vifmgr.hm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

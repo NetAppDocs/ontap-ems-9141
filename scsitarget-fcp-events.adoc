@@ -6,7 +6,6 @@ summary: scsitarget.fcp events
 ---
 
 = scsitarget.fcp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

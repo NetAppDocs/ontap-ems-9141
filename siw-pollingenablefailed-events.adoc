@@ -6,7 +6,6 @@ summary: siw.pollingenablefailed events
 ---
 
 = siw.pollingenablefailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

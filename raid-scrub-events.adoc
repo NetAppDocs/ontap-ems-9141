@@ -6,7 +6,6 @@ summary: raid.scrub events
 ---
 
 = raid.scrub events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

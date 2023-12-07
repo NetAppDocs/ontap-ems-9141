@@ -6,7 +6,6 @@ summary: netinet6.rtr events
 ---
 
 = netinet6.rtr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: volmigrate.error events
 ---
 
 = volmigrate.error events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

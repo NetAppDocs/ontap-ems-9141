@@ -6,7 +6,6 @@ summary: nblade.junctionrootlookup2 events
 ---
 
 = nblade.junctionrootlookup2 events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

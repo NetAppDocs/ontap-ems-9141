@@ -6,7 +6,6 @@ summary: fci.device events
 ---
 
 = fci.device events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

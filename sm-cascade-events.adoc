@@ -6,7 +6,6 @@ summary: sm.cascade events
 ---
 
 = sm.cascade events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

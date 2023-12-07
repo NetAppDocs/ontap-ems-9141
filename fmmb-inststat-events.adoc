@@ -6,7 +6,6 @@ summary: fmmb.inststat events
 ---
 
 = fmmb.inststat events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

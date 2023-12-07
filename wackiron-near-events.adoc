@@ -6,7 +6,6 @@ summary: wackiron.near events
 ---
 
 = wackiron.near events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

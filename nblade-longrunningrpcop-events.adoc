@@ -6,7 +6,6 @@ summary: nblade.longrunningrpcop events
 ---
 
 = nblade.longrunningrpcop events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: monitor.mismatch events
 ---
 
 = monitor.mismatch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

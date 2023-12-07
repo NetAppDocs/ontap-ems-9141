@@ -6,7 +6,6 @@ summary: revertto.force events
 ---
 
 = revertto.force events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

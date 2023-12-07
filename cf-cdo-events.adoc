@@ -6,7 +6,6 @@ summary: cf.cdo events
 ---
 
 = cf.cdo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

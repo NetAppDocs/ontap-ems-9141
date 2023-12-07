@@ -6,7 +6,6 @@ summary: wafl.objstore events
 ---
 
 = wafl.objstore events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

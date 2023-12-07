@@ -6,7 +6,6 @@ summary: snapmirror.replay events
 ---
 
 = snapmirror.replay events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

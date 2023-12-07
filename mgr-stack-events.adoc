@@ -6,7 +6,6 @@ summary: mgr.stack events
 ---
 
 = mgr.stack events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: flexcache.origincleanup events
 ---
 
 = flexcache.origincleanup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

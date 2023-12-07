@@ -6,7 +6,6 @@ summary: discoveryd.search events
 ---
 
 = discoveryd.search events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

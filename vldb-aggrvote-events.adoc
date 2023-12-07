@@ -6,7 +6,6 @@ summary: vldb.aggrvote events
 ---
 
 = vldb.aggrvote events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

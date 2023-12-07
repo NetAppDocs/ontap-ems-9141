@@ -6,7 +6,6 @@ summary: snapdiff.rebl events
 ---
 
 = snapdiff.rebl events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

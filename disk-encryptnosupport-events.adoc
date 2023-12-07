@@ -6,7 +6,6 @@ summary: disk.encryptnosupport events
 ---
 
 = disk.encryptnosupport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

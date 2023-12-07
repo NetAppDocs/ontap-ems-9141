@@ -6,7 +6,6 @@ summary: monitor.iocard events
 ---
 
 = monitor.iocard events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

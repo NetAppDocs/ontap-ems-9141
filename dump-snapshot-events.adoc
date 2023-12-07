@@ -6,7 +6,6 @@ summary: dump.snapshot events
 ---
 
 = dump.snapshot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

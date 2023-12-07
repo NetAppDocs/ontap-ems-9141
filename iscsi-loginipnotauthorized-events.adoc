@@ -6,7 +6,6 @@ summary: iscsi.loginipnotauthorized events
 ---
 
 = iscsi.loginipnotauthorized events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

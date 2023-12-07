@@ -6,7 +6,6 @@ summary: diskown.ilv events
 ---
 
 = diskown.ilv events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

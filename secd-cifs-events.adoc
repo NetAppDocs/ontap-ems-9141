@@ -6,7 +6,6 @@ summary: secd.cifs events
 ---
 
 = secd.cifs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

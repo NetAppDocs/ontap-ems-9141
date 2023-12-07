@@ -6,7 +6,6 @@ summary: monitor.rtcnormal events
 ---
 
 = monitor.rtcnormal events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: extcache.offline events
 ---
 
 = extcache.offline events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

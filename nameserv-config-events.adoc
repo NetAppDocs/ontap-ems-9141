@@ -6,7 +6,6 @@ summary: nameserv.config events
 ---
 
 = nameserv.config events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

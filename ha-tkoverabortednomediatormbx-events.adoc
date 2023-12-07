@@ -6,7 +6,6 @@ summary: ha.tkoverabortednomediatormbx events
 ---
 
 = ha.tkoverabortednomediatormbx events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

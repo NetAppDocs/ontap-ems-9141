@@ -6,7 +6,6 @@ summary: repl.dest events
 ---
 
 = repl.dest events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

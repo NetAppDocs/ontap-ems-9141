@@ -6,7 +6,6 @@ summary: nvmens.destroy events
 ---
 
 = nvmens.destroy events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

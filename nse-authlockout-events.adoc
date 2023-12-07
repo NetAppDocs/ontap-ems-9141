@@ -6,7 +6,6 @@ summary: nse.authlockout events
 ---
 
 = nse.authlockout events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: air.disable events
 ---
 
 = air.disable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

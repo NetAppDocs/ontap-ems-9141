@@ -6,7 +6,6 @@ summary: nblade.vscanconninactive events
 ---
 
 = nblade.vscanconninactive events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

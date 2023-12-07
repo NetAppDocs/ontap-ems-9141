@@ -6,7 +6,6 @@ summary: vsdr.rootvol events
 ---
 
 = vsdr.rootvol events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

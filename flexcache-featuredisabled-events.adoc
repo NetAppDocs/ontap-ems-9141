@@ -6,7 +6,6 @@ summary: flexcache.featuredisabled events
 ---
 
 = flexcache.featuredisabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

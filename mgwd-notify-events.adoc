@@ -6,7 +6,6 @@ summary: mgwd.notify events
 ---
 
 = mgwd.notify events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: ses.bridge events
 ---
 
 = ses.bridge events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

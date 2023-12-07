@@ -6,7 +6,6 @@ summary: sms.clone events
 ---
 
 = sms.clone events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

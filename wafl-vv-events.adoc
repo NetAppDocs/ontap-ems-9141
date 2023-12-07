@@ -6,7 +6,6 @@ summary: wafl.vv events
 ---
 
 = wafl.vv events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

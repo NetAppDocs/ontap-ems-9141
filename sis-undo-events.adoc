@@ -6,7 +6,6 @@ summary: sis.undo events
 ---
 
 = sis.undo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: nblade.gracebegin events
 ---
 
 = nblade.gracebegin events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: ha.toafterrcvpanicinfo events
 ---
 
 = ha.toafterrcvpanicinfo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

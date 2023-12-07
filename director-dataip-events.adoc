@@ -6,7 +6,6 @@ summary: director.dataip events
 ---
 
 = director.dataip events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

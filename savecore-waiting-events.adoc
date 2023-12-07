@@ -6,7 +6,6 @@ summary: savecore.waiting events
 ---
 
 = savecore.waiting events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

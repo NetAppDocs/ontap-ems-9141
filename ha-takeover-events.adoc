@@ -6,7 +6,6 @@ summary: ha.takeover events
 ---
 
 = ha.takeover events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

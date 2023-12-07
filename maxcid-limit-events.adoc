@@ -6,7 +6,6 @@ summary: maxcid.limit events
 ---
 
 = maxcid.limit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

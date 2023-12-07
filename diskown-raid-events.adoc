@@ -6,7 +6,6 @@ summary: diskown.raid events
 ---
 
 = diskown.raid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

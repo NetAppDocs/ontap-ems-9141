@@ -6,7 +6,6 @@ summary: snapdiff.zapi events
 ---
 
 = snapdiff.zapi events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

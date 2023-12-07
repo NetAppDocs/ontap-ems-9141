@@ -6,7 +6,6 @@ summary: monitor.temp events
 ---
 
 = monitor.temp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

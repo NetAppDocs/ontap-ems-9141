@@ -6,7 +6,6 @@ summary: wafl.i2p events
 ---
 
 = wafl.i2p events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

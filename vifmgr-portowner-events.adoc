@@ -6,7 +6,6 @@ summary: vifmgr.portowner events
 ---
 
 = vifmgr.portowner events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

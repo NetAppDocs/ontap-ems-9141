@@ -6,7 +6,6 @@ summary: vifmgr.lifdeleted events
 ---
 
 = vifmgr.lifdeleted events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

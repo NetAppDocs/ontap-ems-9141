@@ -6,7 +6,6 @@ summary: cmds.software events
 ---
 
 = cmds.software events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: nvmens.offline events
 ---
 
 = nvmens.offline events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

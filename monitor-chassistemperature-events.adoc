@@ -6,7 +6,6 @@ summary: monitor.chassistemperature events
 ---
 
 = monitor.chassistemperature events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: cdpd.recv events
 ---
 
 = cdpd.recv events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

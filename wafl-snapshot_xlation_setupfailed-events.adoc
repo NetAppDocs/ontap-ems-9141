@@ -6,7 +6,6 @@ summary: wafl.snapshot_xlation_setupfailed events
 ---
 
 = wafl.snapshot_xlation_setupfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

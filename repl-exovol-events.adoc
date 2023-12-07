@@ -6,7 +6,6 @@ summary: repl.exovol events
 ---
 
 = repl.exovol events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

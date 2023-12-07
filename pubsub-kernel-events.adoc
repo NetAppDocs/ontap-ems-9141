@@ -6,7 +6,6 @@ summary: pubsub.kernel events
 ---
 
 = pubsub.kernel events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

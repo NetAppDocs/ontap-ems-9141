@@ -6,7 +6,6 @@ summary: snapmirror.block events
 ---
 
 = snapmirror.block events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

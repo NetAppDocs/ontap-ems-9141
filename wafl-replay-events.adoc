@@ -6,7 +6,6 @@ summary: wafl.replay events
 ---
 
 = wafl.replay events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

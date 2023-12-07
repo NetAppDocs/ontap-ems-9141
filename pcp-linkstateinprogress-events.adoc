@@ -6,7 +6,6 @@ summary: pcp.linkstateinprogress events
 ---
 
 = pcp.linkstateinprogress events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

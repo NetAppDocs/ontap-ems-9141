@@ -6,7 +6,6 @@ summary: cf.reservation events
 ---
 
 = cf.reservation events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

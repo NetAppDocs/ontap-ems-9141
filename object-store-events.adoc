@@ -6,7 +6,6 @@ summary: object.store events
 ---
 
 = object.store events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

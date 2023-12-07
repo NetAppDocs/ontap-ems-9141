@@ -6,7 +6,6 @@ summary: secd.nfsauth events
 ---
 
 = secd.nfsauth events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

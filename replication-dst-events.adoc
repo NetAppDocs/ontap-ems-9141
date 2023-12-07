@@ -6,7 +6,6 @@ summary: replication.dst events
 ---
 
 = replication.dst events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

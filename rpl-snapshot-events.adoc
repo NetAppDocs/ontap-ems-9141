@@ -6,7 +6,6 @@ summary: rpl.snapshot events
 ---
 
 = rpl.snapshot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

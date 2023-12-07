@@ -6,7 +6,6 @@ summary: secd.conn events
 ---
 
 = secd.conn events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

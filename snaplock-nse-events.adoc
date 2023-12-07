@@ -6,7 +6,6 @@ summary: snaplock.nse events
 ---
 
 = snaplock.nse events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

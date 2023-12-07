@@ -6,7 +6,6 @@ summary: cluster.network events
 ---
 
 = cluster.network events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

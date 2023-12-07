@@ -6,7 +6,6 @@ summary: shm.nvme events
 ---
 
 = shm.nvme events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

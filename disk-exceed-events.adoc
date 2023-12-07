@@ -6,7 +6,6 @@ summary: disk.exceed events
 ---
 
 = disk.exceed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: platform.chsismobonamediff events
 ---
 
 = platform.chsismobonamediff events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

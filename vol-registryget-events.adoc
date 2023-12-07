@@ -6,7 +6,6 @@ summary: vol.registryget events
 ---
 
 = vol.registryget events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

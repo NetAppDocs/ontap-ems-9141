@@ -6,7 +6,6 @@ summary: callhome.fdsk events
 ---
 
 = callhome.fdsk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

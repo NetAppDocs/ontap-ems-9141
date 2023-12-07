@@ -6,7 +6,6 @@ summary: vifmgr.extroute events
 ---
 
 = vifmgr.extroute events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

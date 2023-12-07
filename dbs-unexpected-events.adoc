@@ -6,7 +6,6 @@ summary: dbs.unexpected events
 ---
 
 = dbs.unexpected events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

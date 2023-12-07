@@ -6,7 +6,6 @@ summary: wafl.transition events
 ---
 
 = wafl.transition events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

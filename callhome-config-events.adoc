@@ -6,7 +6,6 @@ summary: callhome.config events
 ---
 
 = callhome.config events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: cr.del events
 ---
 
 = cr.del events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

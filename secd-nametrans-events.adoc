@@ -6,7 +6,6 @@ summary: secd.nametrans events
 ---
 
 = secd.nametrans events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

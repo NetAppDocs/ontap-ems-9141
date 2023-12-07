@@ -6,7 +6,6 @@ summary: sms.status events
 ---
 
 = sms.status events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

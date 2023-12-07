@@ -6,7 +6,6 @@ summary: sis.compress events
 ---
 
 = sis.compress events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

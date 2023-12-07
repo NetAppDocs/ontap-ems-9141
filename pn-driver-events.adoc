@@ -6,7 +6,6 @@ summary: pn.driver events
 ---
 
 = pn.driver events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

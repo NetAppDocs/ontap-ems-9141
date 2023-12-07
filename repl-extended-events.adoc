@@ -6,7 +6,6 @@ summary: repl.extended events
 ---
 
 = repl.extended events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

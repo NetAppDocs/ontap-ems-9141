@@ -6,7 +6,6 @@ summary: nblade.fpolpsinitfail events
 ---
 
 = nblade.fpolpsinitfail events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

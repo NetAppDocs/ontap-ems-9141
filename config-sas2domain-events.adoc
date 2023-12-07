@@ -6,7 +6,6 @@ summary: config.sas2domain events
 ---
 
 = config.sas2domain events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

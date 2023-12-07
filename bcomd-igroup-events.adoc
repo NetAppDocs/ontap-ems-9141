@@ -6,7 +6,6 @@ summary: bcomd.igroup events
 ---
 
 = bcomd.igroup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: ctl.session events
 ---
 
 = ctl.session events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

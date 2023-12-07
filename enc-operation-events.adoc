@@ -6,7 +6,6 @@ summary: enc.operation events
 ---
 
 = enc.operation events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

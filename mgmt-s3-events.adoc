@@ -6,7 +6,6 @@ summary: mgmt.s3 events
 ---
 
 = mgmt.s3 events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

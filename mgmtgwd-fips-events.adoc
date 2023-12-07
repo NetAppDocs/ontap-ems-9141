@@ -6,7 +6,6 @@ summary: mgmtgwd.fips events
 ---
 
 = mgmtgwd.fips events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

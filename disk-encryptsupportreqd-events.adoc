@@ -6,7 +6,6 @@ summary: disk.encryptsupportreqd events
 ---
 
 = disk.encryptsupportreqd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

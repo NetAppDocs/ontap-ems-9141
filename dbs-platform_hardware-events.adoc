@@ -6,7 +6,6 @@ summary: dbs.platform_hardware events
 ---
 
 = dbs.platform_hardware events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

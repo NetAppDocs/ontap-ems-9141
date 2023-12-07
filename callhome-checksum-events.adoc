@@ -6,7 +6,6 @@ summary: callhome.checksum events
 ---
 
 = callhome.checksum events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

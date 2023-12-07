@@ -6,7 +6,6 @@ summary: vserver.rename events
 ---
 
 = vserver.rename events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

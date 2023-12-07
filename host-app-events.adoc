@@ -6,7 +6,6 @@ summary: host.app events
 ---
 
 = host.app events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

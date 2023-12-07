@@ -6,7 +6,6 @@ summary: mct.control events
 ---
 
 = mct.control events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

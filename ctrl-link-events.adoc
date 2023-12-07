@@ -6,7 +6,6 @@ summary: ctrl.link events
 ---
 
 = ctrl.link events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

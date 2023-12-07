@@ -6,7 +6,6 @@ summary: nblade.execsoverlimit events
 ---
 
 = nblade.execsoverlimit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

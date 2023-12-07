@@ -6,7 +6,6 @@ summary: sfu.sasdownloadfailed events
 ---
 
 = sfu.sasdownloadfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

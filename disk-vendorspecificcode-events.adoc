@@ -6,7 +6,6 @@ summary: disk.vendorspecificcode events
 ---
 
 = disk.vendorspecificcode events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

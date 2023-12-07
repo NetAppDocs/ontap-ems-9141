@@ -6,7 +6,6 @@ summary: monitor.rtcwarnlowpower events
 ---
 
 = monitor.rtcwarnlowpower events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

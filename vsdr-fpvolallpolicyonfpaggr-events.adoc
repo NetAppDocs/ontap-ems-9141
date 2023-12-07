@@ -6,7 +6,6 @@ summary: vsdr.fpvolallpolicyonfpaggr events
 ---
 
 = vsdr.fpvolallpolicyonfpaggr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

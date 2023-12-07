@@ -6,7 +6,6 @@ summary: disk.duplicate events
 ---
 
 = disk.duplicate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

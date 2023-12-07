@@ -6,7 +6,6 @@ summary: nblade.exportaccessindeterm events
 ---
 
 = nblade.exportaccessindeterm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

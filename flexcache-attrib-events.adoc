@@ -6,7 +6,6 @@ summary: flexcache.attrib events
 ---
 
 = flexcache.attrib events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: nblade.cifsmaxwatchespertreenotice events
 ---
 
 = nblade.cifsmaxwatchespertreenotice events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

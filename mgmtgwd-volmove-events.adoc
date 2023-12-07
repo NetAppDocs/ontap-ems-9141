@@ -6,7 +6,6 @@ summary: mgmtgwd.volmove events
 ---
 
 = mgmtgwd.volmove events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

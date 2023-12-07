@@ -6,7 +6,6 @@ summary: clam.voting events
 ---
 
 = clam.voting events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

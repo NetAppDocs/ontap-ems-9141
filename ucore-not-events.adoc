@@ -6,7 +6,6 @@ summary: ucore.not events
 ---
 
 = ucore.not events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

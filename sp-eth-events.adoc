@@ -6,7 +6,6 @@ summary: sp.eth events
 ---
 
 = sp.eth events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

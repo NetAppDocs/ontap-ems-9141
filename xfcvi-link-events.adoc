@@ -6,7 +6,6 @@ summary: xfcvi.link events
 ---
 
 = xfcvi.link events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

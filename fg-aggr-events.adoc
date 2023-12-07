@@ -6,7 +6,6 @@ summary: fg.aggr events
 ---
 
 = fg.aggr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

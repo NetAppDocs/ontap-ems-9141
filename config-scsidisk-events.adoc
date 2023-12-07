@@ -6,7 +6,6 @@ summary: config.scsidisk events
 ---
 
 = config.scsidisk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

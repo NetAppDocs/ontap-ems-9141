@@ -6,7 +6,6 @@ summary: dbs.encr events
 ---
 
 = dbs.encr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

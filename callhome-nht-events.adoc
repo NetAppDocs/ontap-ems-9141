@@ -6,7 +6,6 @@ summary: callhome.nht events
 ---
 
 = callhome.nht events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

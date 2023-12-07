@@ -6,7 +6,6 @@ summary: nblade.callbacktimedout events
 ---
 
 = nblade.callbacktimedout events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: monitor.chassispowersupplies events
 ---
 
 = monitor.chassispowersupplies events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

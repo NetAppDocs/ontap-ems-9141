@@ -6,7 +6,6 @@ summary: ses.shelf events
 ---
 
 = ses.shelf events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

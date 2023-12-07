@@ -6,7 +6,6 @@ summary: ems.engine events
 ---
 
 = ems.engine events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

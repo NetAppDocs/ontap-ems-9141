@@ -6,7 +6,6 @@ summary: ccma.perfstatd events
 ---
 
 = ccma.perfstatd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

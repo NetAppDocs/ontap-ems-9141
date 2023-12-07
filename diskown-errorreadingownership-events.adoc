@@ -6,7 +6,6 @@ summary: diskown.errorreadingownership events
 ---
 
 = diskown.errorreadingownership events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

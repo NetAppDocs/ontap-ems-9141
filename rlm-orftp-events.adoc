@@ -6,7 +6,6 @@ summary: rlm.orftp events
 ---
 
 = rlm.orftp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

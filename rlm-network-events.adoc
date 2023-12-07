@@ -6,7 +6,6 @@ summary: rlm.network events
 ---
 
 = rlm.network events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

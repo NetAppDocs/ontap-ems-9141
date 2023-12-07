@@ -6,7 +6,6 @@ summary: pcie.errors events
 ---
 
 = pcie.errors events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

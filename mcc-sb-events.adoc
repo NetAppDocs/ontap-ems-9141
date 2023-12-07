@@ -6,7 +6,6 @@ summary: mcc.sb events
 ---
 
 = mcc.sb events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: replication.err events
 ---
 
 = replication.err events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

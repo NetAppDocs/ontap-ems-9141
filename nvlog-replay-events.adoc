@@ -6,7 +6,6 @@ summary: nvlog.replay events
 ---
 
 = nvlog.replay events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

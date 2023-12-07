@@ -6,7 +6,6 @@ summary: splog.warnings events
 ---
 
 = splog.warnings events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

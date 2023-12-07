@@ -6,7 +6,6 @@ summary: nblade.nfs4sequenceinvalid events
 ---
 
 = nblade.nfs4sequenceinvalid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

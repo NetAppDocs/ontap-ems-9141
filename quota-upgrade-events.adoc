@@ -6,7 +6,6 @@ summary: quota.upgrade events
 ---
 
 = quota.upgrade events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

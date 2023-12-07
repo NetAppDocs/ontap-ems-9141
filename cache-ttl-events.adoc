@@ -6,7 +6,6 @@ summary: cache.ttl events
 ---
 
 = cache.ttl events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.encryption events
 ---
 
 = wafl.encryption events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

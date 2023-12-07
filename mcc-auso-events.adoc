@@ -6,7 +6,6 @@ summary: mcc.auso events
 ---
 
 = mcc.auso events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

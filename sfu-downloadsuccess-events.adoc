@@ -6,7 +6,6 @@ summary: sfu.downloadsuccess events
 ---
 
 = sfu.downloadsuccess events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

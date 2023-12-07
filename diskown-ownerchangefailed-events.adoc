@@ -6,7 +6,6 @@ summary: diskown.ownerchangefailed events
 ---
 
 = diskown.ownerchangefailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

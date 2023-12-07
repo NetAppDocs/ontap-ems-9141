@@ -6,7 +6,6 @@ summary: ndmp.ctrl events
 ---
 
 = ndmp.ctrl events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

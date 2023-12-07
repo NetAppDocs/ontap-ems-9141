@@ -6,7 +6,6 @@ summary: largevol.remount events
 ---
 
 = largevol.remount events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

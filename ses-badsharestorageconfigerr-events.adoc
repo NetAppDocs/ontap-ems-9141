@@ -6,7 +6,6 @@ summary: ses.badsharestorageconfigerr events
 ---
 
 = ses.badsharestorageconfigerr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

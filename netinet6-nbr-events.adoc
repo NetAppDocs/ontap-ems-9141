@@ -6,7 +6,6 @@ summary: netinet6.nbr events
 ---
 
 = netinet6.nbr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

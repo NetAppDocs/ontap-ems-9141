@@ -6,7 +6,6 @@ summary: monitor.disklabelcheckfailed events
 ---
 
 = monitor.disklabelcheckfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

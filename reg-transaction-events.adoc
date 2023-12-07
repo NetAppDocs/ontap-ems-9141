@@ -6,7 +6,6 @@ summary: reg.transaction events
 ---
 
 = reg.transaction events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

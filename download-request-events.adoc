@@ -6,7 +6,6 @@ summary: download.request events
 ---
 
 = download.request events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

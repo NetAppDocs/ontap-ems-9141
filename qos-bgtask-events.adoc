@@ -6,7 +6,6 @@ summary: qos.bgtask events
 ---
 
 = qos.bgtask events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

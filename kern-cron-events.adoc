@@ -6,7 +6,6 @@ summary: kern.cron events
 ---
 
 = kern.cron events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

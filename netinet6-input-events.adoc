@@ -6,7 +6,6 @@ summary: netinet6.input events
 ---
 
 = netinet6.input events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: crypto.import events
 ---
 
 = crypto.import events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

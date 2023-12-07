@@ -6,7 +6,6 @@ summary: osc.signaturemismatch events
 ---
 
 = osc.signaturemismatch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

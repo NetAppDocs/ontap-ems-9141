@@ -6,7 +6,6 @@ summary: spm.ntpd events
 ---
 
 = spm.ntpd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

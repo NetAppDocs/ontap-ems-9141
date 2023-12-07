@@ -6,7 +6,6 @@ summary: flexcache.encryption events
 ---
 
 = flexcache.encryption events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

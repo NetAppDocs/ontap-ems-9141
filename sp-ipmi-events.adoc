@@ -6,7 +6,6 @@ summary: sp.ipmi events
 ---
 
 = sp.ipmi events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

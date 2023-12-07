@@ -6,7 +6,6 @@ summary: mgmt.rst events
 ---
 
 = mgmt.rst events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

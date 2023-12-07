@@ -6,7 +6,6 @@ summary: diskown.disk events
 ---
 
 = diskown.disk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

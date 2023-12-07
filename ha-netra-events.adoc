@@ -6,7 +6,6 @@ summary: ha.netra events
 ---
 
 = ha.netra events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: cloud.gcpcredsinvalid events
 ---
 
 = cloud.gcpcredsinvalid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

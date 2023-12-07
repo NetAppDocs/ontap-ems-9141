@@ -6,7 +6,6 @@ summary: api.fileio events
 ---
 
 = api.fileio events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

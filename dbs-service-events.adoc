@@ -6,7 +6,6 @@ summary: dbs.service events
 ---
 
 = dbs.service events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

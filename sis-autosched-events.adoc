@@ -6,7 +6,6 @@ summary: sis.autosched events
 ---
 
 = sis.autosched events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

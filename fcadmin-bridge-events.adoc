@@ -6,7 +6,6 @@ summary: fcadmin.bridge events
 ---
 
 = fcadmin.bridge events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

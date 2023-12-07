@@ -6,7 +6,6 @@ summary: san.volrehostlunmapcreated events
 ---
 
 = san.volrehostlunmapcreated events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

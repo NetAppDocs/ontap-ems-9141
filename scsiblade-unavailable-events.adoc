@@ -6,7 +6,6 @@ summary: scsiblade.unavailable events
 ---
 
 = scsiblade.unavailable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

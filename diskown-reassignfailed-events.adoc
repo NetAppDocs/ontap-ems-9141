@@ -6,7 +6,6 @@ summary: diskown.reassignfailed events
 ---
 
 = diskown.reassignfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

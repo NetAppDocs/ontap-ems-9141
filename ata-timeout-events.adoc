@@ -6,7 +6,6 @@ summary: ata.timeout events
 ---
 
 = ata.timeout events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

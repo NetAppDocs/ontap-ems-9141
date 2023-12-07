@@ -6,7 +6,6 @@ summary: san.nofcportsonnode events
 ---
 
 = san.nofcportsonnode events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

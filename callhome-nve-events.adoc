@@ -6,7 +6,6 @@ summary: callhome.nve events
 ---
 
 = callhome.nve events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

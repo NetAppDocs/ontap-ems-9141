@@ -6,7 +6,6 @@ summary: spm.schmd events
 ---
 
 = spm.schmd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

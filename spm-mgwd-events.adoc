@@ -6,7 +6,6 @@ summary: spm.mgwd events
 ---
 
 = spm.mgwd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

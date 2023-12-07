@@ -6,7 +6,6 @@ summary: callhome.reboot events
 ---
 
 = callhome.reboot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

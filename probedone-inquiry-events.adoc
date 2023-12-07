@@ -6,7 +6,6 @@ summary: probedone.inquiry events
 ---
 
 = probedone.inquiry events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

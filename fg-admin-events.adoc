@@ -6,7 +6,6 @@ summary: fg.admin events
 ---
 
 = fg.admin events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: monitor.completed events
 ---
 
 = monitor.completed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

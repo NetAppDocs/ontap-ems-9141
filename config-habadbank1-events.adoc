@@ -6,7 +6,6 @@ summary: config.habadbank1 events
 ---
 
 = config.habadbank1 events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

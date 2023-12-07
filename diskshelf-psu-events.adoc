@@ -6,7 +6,6 @@ summary: diskshelf.psu events
 ---
 
 = diskshelf.psu events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

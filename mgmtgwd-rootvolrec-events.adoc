@@ -6,7 +6,6 @@ summary: mgmtgwd.rootvolrec events
 ---
 
 = mgmtgwd.rootvolrec events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

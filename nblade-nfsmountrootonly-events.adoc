@@ -6,7 +6,6 @@ summary: nblade.nfsmountrootonly events
 ---
 
 = nblade.nfsmountrootonly events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: lmgr.persistent events
 ---
 
 = lmgr.persistent events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

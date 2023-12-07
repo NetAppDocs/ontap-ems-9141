@@ -6,7 +6,6 @@ summary: callhome.appdm events
 ---
 
 = callhome.appdm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

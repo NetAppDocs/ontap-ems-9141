@@ -6,7 +6,6 @@ summary: disk.eos events
 ---
 
 = disk.eos events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

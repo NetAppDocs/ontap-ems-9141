@@ -6,7 +6,6 @@ summary: acp.commerr events
 ---
 
 = acp.commerr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

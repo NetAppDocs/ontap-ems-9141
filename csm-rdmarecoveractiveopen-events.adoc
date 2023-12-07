@@ -6,7 +6,6 @@ summary: csm.rdmarecoveractiveopen events
 ---
 
 = csm.rdmarecoveractiveopen events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

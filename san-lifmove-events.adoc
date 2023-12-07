@@ -6,7 +6,6 @@ summary: san.lifmove events
 ---
 
 = san.lifmove events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

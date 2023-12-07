@@ -6,7 +6,6 @@ summary: raid.shared events
 ---
 
 = raid.shared events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: bridge.discovered events
 ---
 
 = bridge.discovered events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

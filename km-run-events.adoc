@@ -6,7 +6,6 @@ summary: km.run events
 ---
 
 = km.run events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

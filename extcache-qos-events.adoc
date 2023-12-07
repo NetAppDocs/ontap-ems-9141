@@ -6,7 +6,6 @@ summary: extcache.qos events
 ---
 
 = extcache.qos events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: callhome.sys events
 ---
 
 = callhome.sys events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

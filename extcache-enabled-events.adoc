@@ -6,7 +6,6 @@ summary: extcache.enabled events
 ---
 
 = extcache.enabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

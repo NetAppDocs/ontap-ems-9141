@@ -6,7 +6,6 @@ summary: snmp.raid events
 ---
 
 = snmp.raid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.shutdown events
 ---
 
 = wafl.shutdown events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

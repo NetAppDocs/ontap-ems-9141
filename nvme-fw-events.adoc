@@ -6,7 +6,6 @@ summary: nvme.fw events
 ---
 
 = nvme.fw events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

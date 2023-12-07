@@ -6,7 +6,6 @@ summary: monitor.shutdown events
 ---
 
 = monitor.shutdown events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

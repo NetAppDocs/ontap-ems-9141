@@ -6,7 +6,6 @@ summary: nv.data events
 ---
 
 = nv.data events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

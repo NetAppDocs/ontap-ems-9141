@@ -6,7 +6,6 @@ summary: bsdsocket.queuelimit events
 ---
 
 = bsdsocket.queuelimit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

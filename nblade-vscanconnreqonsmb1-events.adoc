@@ -6,7 +6,6 @@ summary: nblade.vscanconnreqonsmb1 events
 ---
 
 = nblade.vscanconnreqonsmb1 events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

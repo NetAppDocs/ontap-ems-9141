@@ -6,7 +6,6 @@ summary: diskown.ownerreservationmismatch events
 ---
 
 = diskown.ownerreservationmismatch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

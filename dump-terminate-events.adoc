@@ -6,7 +6,6 @@ summary: dump.terminate events
 ---
 
 = dump.terminate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: vsdr.volmovsrcfpnonfpaggr events
 ---
 
 = vsdr.volmovsrcfpnonfpaggr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

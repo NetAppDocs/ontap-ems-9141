@@ -6,7 +6,6 @@ summary: acp.exp events
 ---
 
 = acp.exp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

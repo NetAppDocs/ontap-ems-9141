@@ -6,7 +6,6 @@ summary: savecore.nospace events
 ---
 
 = savecore.nospace events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: dump.fail events
 ---
 
 = dump.fail events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:
