@@ -6,7 +6,6 @@ summary: nblade.notactivevscanserver events
 ---
 
 = nblade.notactivevscanserver events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

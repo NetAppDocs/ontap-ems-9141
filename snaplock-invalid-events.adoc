@@ -6,7 +6,6 @@ summary: snaplock.invalid events
 ---
 
 = snaplock.invalid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

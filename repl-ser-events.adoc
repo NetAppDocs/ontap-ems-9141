@@ -6,7 +6,6 @@ summary: repl.ser events
 ---
 
 = repl.ser events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

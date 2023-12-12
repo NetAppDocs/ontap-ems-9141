@@ -6,7 +6,6 @@ summary: clone.split events
 ---
 
 = clone.split events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

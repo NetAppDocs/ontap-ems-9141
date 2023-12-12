@@ -6,7 +6,6 @@ summary: callhome.sdsk events
 ---
 
 = callhome.sdsk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

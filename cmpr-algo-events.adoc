@@ -6,7 +6,6 @@ summary: cmpr.algo events
 ---
 
 = cmpr.algo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

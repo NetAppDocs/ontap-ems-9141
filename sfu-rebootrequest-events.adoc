@@ -6,7 +6,6 @@ summary: sfu.rebootrequest events
 ---
 
 = sfu.rebootrequest events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

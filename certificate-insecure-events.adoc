@@ -6,7 +6,6 @@ summary: certificate.insecure events
 ---
 
 = certificate.insecure events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

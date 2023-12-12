@@ -6,7 +6,6 @@ summary: monitor.vol events
 ---
 
 = monitor.vol events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

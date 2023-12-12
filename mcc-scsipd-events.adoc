@@ -6,7 +6,6 @@ summary: mcc.scsipd events
 ---
 
 = mcc.scsipd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

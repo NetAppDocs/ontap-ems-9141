@@ -6,7 +6,6 @@ summary: aggr.resize events
 ---
 
 = aggr.resize events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

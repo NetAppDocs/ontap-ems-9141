@@ -6,7 +6,6 @@ summary: auto.policy events
 ---
 
 = auto.policy events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

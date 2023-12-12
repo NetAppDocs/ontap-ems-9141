@@ -6,7 +6,6 @@ summary: volcreate.name events
 ---
 
 = volcreate.name events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

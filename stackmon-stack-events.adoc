@@ -6,7 +6,6 @@ summary: stackmon.stack events
 ---
 
 = stackmon.stack events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

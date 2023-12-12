@@ -6,7 +6,6 @@ summary: fci.set events
 ---
 
 = fci.set events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

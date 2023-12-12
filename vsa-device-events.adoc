@@ -6,7 +6,6 @@ summary: vsa.device events
 ---
 
 = vsa.device events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

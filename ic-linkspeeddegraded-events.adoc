@@ -6,7 +6,6 @@ summary: ic.linkspeeddegraded events
 ---
 
 = ic.linkspeeddegraded events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

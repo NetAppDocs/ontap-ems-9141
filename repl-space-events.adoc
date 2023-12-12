@@ -6,7 +6,6 @@ summary: repl.space events
 ---
 
 = repl.space events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

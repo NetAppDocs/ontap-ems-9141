@@ -6,7 +6,6 @@ summary: sis.c2c events
 ---
 
 = sis.c2c events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: qos.mintp events
 ---
 
 = qos.mintp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

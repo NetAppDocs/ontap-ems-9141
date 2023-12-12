@@ -6,7 +6,6 @@ summary: disk.stalledtoolong events
 ---
 
 = disk.stalledtoolong events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

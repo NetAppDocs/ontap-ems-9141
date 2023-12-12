@@ -6,7 +6,6 @@ summary: san.lifrepfieldsmissing events
 ---
 
 = san.lifrepfieldsmissing events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

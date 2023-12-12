@@ -6,7 +6,6 @@ summary: nvdimm.flash events
 ---
 
 = nvdimm.flash events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

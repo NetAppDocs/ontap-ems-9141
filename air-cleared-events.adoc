@@ -6,7 +6,6 @@ summary: air.cleared events
 ---
 
 = air.cleared events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

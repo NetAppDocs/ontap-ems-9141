@@ -6,7 +6,6 @@ summary: diskown.errorduringio events
 ---
 
 = diskown.errorduringio events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

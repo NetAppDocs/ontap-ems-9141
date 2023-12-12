@@ -6,7 +6,6 @@ summary: nis.db events
 ---
 
 = nis.db events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

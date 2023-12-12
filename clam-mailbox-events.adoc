@@ -6,7 +6,6 @@ summary: clam.mailbox events
 ---
 
 = clam.mailbox events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

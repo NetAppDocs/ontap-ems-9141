@@ -6,7 +6,6 @@ summary: ucore.panicstring events
 ---
 
 = ucore.panicstring events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

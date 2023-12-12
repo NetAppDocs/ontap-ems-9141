@@ -6,7 +6,6 @@ summary: vifmgr.porthealthy events
 ---
 
 = vifmgr.porthealthy events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

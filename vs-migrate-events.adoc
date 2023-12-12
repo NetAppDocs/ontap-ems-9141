@@ -6,7 +6,6 @@ summary: vs.migrate events
 ---
 
 = vs.migrate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

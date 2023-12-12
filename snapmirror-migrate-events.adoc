@@ -6,7 +6,6 @@ summary: snapmirror.migrate events
 ---
 
 = snapmirror.migrate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

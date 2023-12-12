@@ -6,7 +6,6 @@ summary: sis.upgrade events
 ---
 
 = sis.upgrade events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

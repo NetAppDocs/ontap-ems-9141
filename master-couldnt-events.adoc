@@ -6,7 +6,6 @@ summary: master.couldnt events
 ---
 
 = master.couldnt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

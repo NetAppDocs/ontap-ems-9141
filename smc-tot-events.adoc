@@ -6,7 +6,6 @@ summary: smc.tot events
 ---
 
 = smc.tot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

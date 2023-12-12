@@ -6,7 +6,6 @@ summary: moveagent.abort events
 ---
 
 = moveagent.abort events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

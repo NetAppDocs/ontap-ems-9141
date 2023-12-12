@@ -6,7 +6,6 @@ summary: mgr.boot events
 ---
 
 = mgr.boot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

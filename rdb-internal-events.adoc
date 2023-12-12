@@ -6,7 +6,6 @@ summary: rdb.internal events
 ---
 
 = rdb.internal events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

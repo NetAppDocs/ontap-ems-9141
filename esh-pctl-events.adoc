@@ -6,7 +6,6 @@ summary: esh.pctl events
 ---
 
 = esh.pctl events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: fg.convert events
 ---
 
 = fg.convert events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

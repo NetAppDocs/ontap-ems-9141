@@ -6,7 +6,6 @@ summary: km.extkeysvr events
 ---
 
 = km.extkeysvr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

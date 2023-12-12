@@ -6,7 +6,6 @@ summary: ses.download events
 ---
 
 = ses.download events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

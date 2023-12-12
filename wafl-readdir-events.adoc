@@ -6,7 +6,6 @@ summary: wafl.readdir events
 ---
 
 = wafl.readdir events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

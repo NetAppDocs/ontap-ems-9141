@@ -6,7 +6,6 @@ summary: lmgr.files events
 ---
 
 = lmgr.files events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

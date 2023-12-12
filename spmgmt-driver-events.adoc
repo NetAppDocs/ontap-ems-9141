@@ -6,7 +6,6 @@ summary: spmgmt.driver events
 ---
 
 = spmgmt.driver events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

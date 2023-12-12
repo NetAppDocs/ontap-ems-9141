@@ -6,7 +6,6 @@ summary: configbr.distributefailed events
 ---
 
 = configbr.distributefailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

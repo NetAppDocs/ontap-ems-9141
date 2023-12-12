@@ -6,7 +6,6 @@ summary: wafl.spinhi events
 ---
 
 = wafl.spinhi events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

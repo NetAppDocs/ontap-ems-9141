@@ -6,7 +6,6 @@ summary: sfu.auto events
 ---
 
 = sfu.auto events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: quota.resize events
 ---
 
 = quota.resize events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: quota.intr events
 ---
 
 = quota.intr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

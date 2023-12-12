@@ -6,7 +6,6 @@ summary: mgmt.cifssymlink events
 ---
 
 = mgmt.cifssymlink events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: mpt.path events
 ---
 
 = mpt.path events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

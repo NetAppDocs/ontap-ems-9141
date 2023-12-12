@@ -6,7 +6,6 @@ summary: lmgr.locks events
 ---
 
 = lmgr.locks events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

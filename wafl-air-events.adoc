@@ -6,7 +6,6 @@ summary: wafl.air events
 ---
 
 = wafl.air events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

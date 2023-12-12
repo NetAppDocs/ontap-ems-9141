@@ -6,7 +6,6 @@ summary: dump.register events
 ---
 
 = dump.register events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

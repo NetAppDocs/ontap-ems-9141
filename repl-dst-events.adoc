@@ -6,7 +6,6 @@ summary: repl.dst events
 ---
 
 = repl.dst events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: callhome.corefile events
 ---
 
 = callhome.corefile events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: netinet6.frag events
 ---
 
 = netinet6.frag events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

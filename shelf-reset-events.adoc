@@ -6,7 +6,6 @@ summary: shelf.reset events
 ---
 
 = shelf.reset events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

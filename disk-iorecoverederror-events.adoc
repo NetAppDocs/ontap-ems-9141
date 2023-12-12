@@ -6,7 +6,6 @@ summary: disk.iorecoverederror events
 ---
 
 = disk.iorecoverederror events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

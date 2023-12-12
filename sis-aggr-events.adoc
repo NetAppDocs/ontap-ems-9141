@@ -6,7 +6,6 @@ summary: sis.aggr events
 ---
 
 = sis.aggr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

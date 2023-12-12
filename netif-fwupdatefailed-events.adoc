@@ -6,7 +6,6 @@ summary: netif.fwupdatefailed events
 ---
 
 = netif.fwupdatefailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: vifmgr.bcastdomain events
 ---
 
 = vifmgr.bcastdomain events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

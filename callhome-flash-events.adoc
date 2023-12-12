@@ -6,7 +6,6 @@ summary: callhome.flash events
 ---
 
 = callhome.flash events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

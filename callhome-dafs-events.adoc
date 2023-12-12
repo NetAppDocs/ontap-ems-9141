@@ -6,7 +6,6 @@ summary: callhome.dafs events
 ---
 
 = callhome.dafs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

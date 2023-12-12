@@ -6,7 +6,6 @@ summary: qos.violation events
 ---
 
 = qos.violation events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

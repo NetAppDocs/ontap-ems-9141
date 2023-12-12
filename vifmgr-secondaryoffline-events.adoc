@@ -6,7 +6,6 @@ summary: vifmgr.secondaryoffline events
 ---
 
 = vifmgr.secondaryoffline events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

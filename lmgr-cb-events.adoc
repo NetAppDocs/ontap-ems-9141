@@ -6,7 +6,6 @@ summary: lmgr.cb events
 ---
 
 = lmgr.cb events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: backup.abort events
 ---
 
 = backup.abort events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

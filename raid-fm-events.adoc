@@ -6,7 +6,6 @@ summary: raid.fm events
 ---
 
 = raid.fm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

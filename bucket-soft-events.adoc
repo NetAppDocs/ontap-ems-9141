@@ -6,7 +6,6 @@ summary: bucket.soft events
 ---
 
 = bucket.soft events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

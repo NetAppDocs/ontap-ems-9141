@@ -6,7 +6,6 @@ summary: reg.options events
 ---
 
 = reg.options events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

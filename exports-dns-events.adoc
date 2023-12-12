@@ -6,7 +6,6 @@ summary: exports.dns events
 ---
 
 = exports.dns events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

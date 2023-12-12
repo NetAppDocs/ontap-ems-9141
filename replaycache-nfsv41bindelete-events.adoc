@@ -6,7 +6,6 @@ summary: replaycache.nfsv41bindelete events
 ---
 
 = replaycache.nfsv41bindelete events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

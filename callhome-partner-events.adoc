@@ -6,7 +6,6 @@ summary: callhome.partner events
 ---
 
 = callhome.partner events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

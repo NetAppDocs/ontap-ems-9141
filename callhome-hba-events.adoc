@@ -6,7 +6,6 @@ summary: callhome.hba events
 ---
 
 = callhome.hba events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

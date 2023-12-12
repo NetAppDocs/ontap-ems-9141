@@ -6,7 +6,6 @@ summary: mpt.action events
 ---
 
 = mpt.action events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

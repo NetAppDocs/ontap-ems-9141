@@ -6,7 +6,6 @@ summary: sis.wafliron events
 ---
 
 = sis.wafliron events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

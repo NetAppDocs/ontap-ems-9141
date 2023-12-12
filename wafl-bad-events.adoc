@@ -6,7 +6,6 @@ summary: wafl.bad events
 ---
 
 = wafl.bad events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

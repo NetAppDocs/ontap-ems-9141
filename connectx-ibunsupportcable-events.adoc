@@ -6,7 +6,6 @@ summary: connectx.ibunsupportcable events
 ---
 
 = connectx.ibunsupportcable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

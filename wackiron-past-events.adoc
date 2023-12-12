@@ -6,7 +6,6 @@ summary: wackiron.past events
 ---
 
 = wackiron.past events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

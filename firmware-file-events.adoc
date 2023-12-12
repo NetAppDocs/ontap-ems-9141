@@ -6,7 +6,6 @@ summary: firmware.file events
 ---
 
 = firmware.file events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

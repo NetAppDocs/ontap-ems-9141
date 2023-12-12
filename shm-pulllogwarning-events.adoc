@@ -6,7 +6,6 @@ summary: shm.pulllogwarning events
 ---
 
 = shm.pulllogwarning events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

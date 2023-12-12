@@ -6,7 +6,6 @@ summary: accesscache.reachedlimits events
 ---
 
 = accesscache.reachedlimits events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

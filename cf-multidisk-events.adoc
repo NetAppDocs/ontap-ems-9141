@@ -6,7 +6,6 @@ summary: cf.multidisk events
 ---
 
 = cf.multidisk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

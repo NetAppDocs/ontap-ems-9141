@@ -6,7 +6,6 @@ summary: wafl.sfsr events
 ---
 
 = wafl.sfsr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: upgrademgr.fw events
 ---
 
 = upgrademgr.fw events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: scsiblade.import events
 ---
 
 = scsiblade.import events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

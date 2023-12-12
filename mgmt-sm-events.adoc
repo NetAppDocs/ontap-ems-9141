@@ -6,7 +6,6 @@ summary: mgmt.sm events
 ---
 
 = mgmt.sm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

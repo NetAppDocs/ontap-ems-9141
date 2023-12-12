@@ -6,7 +6,6 @@ summary: host.error events
 ---
 
 = host.error events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

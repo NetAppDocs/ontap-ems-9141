@@ -6,7 +6,6 @@ summary: cam.dev events
 ---
 
 = cam.dev events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.upgrade events
 ---
 
 = wafl.upgrade events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: usb.port events
 ---
 
 = usb.port events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

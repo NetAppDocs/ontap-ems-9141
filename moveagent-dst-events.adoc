@@ -6,7 +6,6 @@ summary: moveagent.dst events
 ---
 
 = moveagent.dst events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

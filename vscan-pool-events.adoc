@@ -6,7 +6,6 @@ summary: vscan.pool events
 ---
 
 = vscan.pool events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: http.cfg events
 ---
 
 = http.cfg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

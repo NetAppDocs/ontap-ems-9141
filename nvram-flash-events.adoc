@@ -6,7 +6,6 @@ summary: nvram.flash events
 ---
 
 = nvram.flash events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

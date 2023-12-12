@@ -6,7 +6,6 @@ summary: monitor.brokendisk events
 ---
 
 = monitor.brokendisk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

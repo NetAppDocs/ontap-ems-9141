@@ -6,7 +6,6 @@ summary: spm.servprocd events
 ---
 
 = spm.servprocd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

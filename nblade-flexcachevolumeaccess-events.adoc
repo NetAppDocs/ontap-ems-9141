@@ -6,7 +6,6 @@ summary: nblade.flexcachevolumeaccess events
 ---
 
 = nblade.flexcachevolumeaccess events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

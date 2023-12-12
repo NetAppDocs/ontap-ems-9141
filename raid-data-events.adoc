@@ -6,7 +6,6 @@ summary: raid.data events
 ---
 
 = raid.data events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

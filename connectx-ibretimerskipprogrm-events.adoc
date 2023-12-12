@@ -6,7 +6,6 @@ summary: connectx.ibretimerskipprogrm events
 ---
 
 = connectx.ibretimerskipprogrm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

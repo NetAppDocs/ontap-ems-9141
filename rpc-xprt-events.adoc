@@ -6,7 +6,6 @@ summary: rpc.xprt events
 ---
 
 = rpc.xprt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

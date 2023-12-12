@@ -6,7 +6,6 @@ summary: monitor.chassisfan events
 ---
 
 = monitor.chassisfan events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: spm.mes events
 ---
 
 = spm.mes events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

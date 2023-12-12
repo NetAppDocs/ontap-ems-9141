@@ -6,7 +6,6 @@ summary: callhome.fans events
 ---
 
 = callhome.fans events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

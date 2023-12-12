@@ -6,7 +6,6 @@ summary: clus.net events
 ---
 
 = clus.net events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

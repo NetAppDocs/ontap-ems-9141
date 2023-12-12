@@ -6,7 +6,6 @@ summary: cecc_log.entry_no_syslog events
 ---
 
 = cecc_log.entry_no_syslog events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

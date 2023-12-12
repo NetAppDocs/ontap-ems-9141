@@ -6,7 +6,6 @@ summary: vserver.peering events
 ---
 
 = vserver.peering events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

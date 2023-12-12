@@ -6,7 +6,6 @@ summary: nblade.nfsv4nsdbdomainmismatch events
 ---
 
 = nblade.nfsv4nsdbdomainmismatch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

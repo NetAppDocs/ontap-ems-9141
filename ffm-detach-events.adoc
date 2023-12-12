@@ -6,7 +6,6 @@ summary: ffm.detach events
 ---
 
 = ffm.detach events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

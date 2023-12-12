@@ -6,7 +6,6 @@ summary: hybaggrcopy.dstgeommismatch events
 ---
 
 = hybaggrcopy.dstgeommismatch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

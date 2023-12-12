@@ -6,7 +6,6 @@ summary: connectx.iblinkretrainreqd events
 ---
 
 = connectx.iblinkretrainreqd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

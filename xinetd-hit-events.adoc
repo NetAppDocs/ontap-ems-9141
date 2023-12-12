@@ -6,7 +6,6 @@ summary: xinetd.hit events
 ---
 
 = xinetd.hit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

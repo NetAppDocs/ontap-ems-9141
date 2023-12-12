@@ -6,7 +6,6 @@ summary: configbr.uploadfailed events
 ---
 
 = configbr.uploadfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

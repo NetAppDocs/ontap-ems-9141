@@ -6,7 +6,6 @@ summary: repl.ckpt events
 ---
 
 = repl.ckpt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

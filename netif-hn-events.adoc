@@ -6,7 +6,6 @@ summary: netif.hn events
 ---
 
 = netif.hn events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

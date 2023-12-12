@@ -6,7 +6,6 @@ summary: fmmb.blobnotfound events
 ---
 
 = fmmb.blobnotfound events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

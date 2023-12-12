@@ -6,7 +6,6 @@ summary: config.repl events
 ---
 
 = config.repl events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

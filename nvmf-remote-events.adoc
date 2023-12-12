@@ -6,7 +6,6 @@ summary: nvmf.remote events
 ---
 
 = nvmf.remote events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

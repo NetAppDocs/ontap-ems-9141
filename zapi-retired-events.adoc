@@ -6,7 +6,6 @@ summary: zapi.retired events
 ---
 
 = zapi.retired events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

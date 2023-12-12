@@ -6,7 +6,6 @@ summary: diskown.releasingmismatchedreservation events
 ---
 
 = diskown.releasingmismatchedreservation events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

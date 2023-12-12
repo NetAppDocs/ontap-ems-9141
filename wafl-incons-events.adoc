@@ -6,7 +6,6 @@ summary: wafl.incons events
 ---
 
 = wafl.incons events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

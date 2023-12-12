@@ -6,7 +6,6 @@ summary: mgmt.vopl events
 ---
 
 = mgmt.vopl events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

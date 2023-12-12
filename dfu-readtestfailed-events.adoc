@@ -6,7 +6,6 @@ summary: dfu.readtestfailed events
 ---
 
 = dfu.readtestfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

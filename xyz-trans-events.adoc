@@ -6,7 +6,6 @@ summary: xyz.trans events
 ---
 
 = xyz.trans events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: ha.panicinfonotsentic events
 ---
 
 = ha.panicinfonotsentic events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

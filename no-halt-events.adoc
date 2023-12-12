@@ -6,7 +6,6 @@ summary: no.halt events
 ---
 
 = no.halt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

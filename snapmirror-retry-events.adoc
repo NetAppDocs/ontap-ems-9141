@@ -6,7 +6,6 @@ summary: snapmirror.retry events
 ---
 
 = snapmirror.retry events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

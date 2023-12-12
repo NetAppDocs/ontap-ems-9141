@@ -6,7 +6,6 @@ summary: clam.enable events
 ---
 
 = clam.enable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

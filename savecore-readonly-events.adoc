@@ -6,7 +6,6 @@ summary: savecore.readonly events
 ---
 
 = savecore.readonly events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

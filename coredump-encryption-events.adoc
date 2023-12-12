@@ -6,7 +6,6 @@ summary: coredump.encryption events
 ---
 
 = coredump.encryption events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

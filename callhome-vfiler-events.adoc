@@ -6,7 +6,6 @@ summary: callhome.vfiler events
 ---
 
 = callhome.vfiler events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: repository.dc events
 ---
 
 = repository.dc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

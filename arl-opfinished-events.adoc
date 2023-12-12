@@ -6,7 +6,6 @@ summary: arl.opfinished events
 ---
 
 = arl.opfinished events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

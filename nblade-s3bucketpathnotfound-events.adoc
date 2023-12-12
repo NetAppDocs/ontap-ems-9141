@@ -6,7 +6,6 @@ summary: nblade.s3bucketpathnotfound events
 ---
 
 = nblade.s3bucketpathnotfound events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

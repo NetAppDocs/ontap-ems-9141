@@ -6,7 +6,6 @@ summary: sas.config events
 ---
 
 = sas.config events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

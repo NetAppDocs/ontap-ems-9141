@@ -6,7 +6,6 @@ summary: km.volume events
 ---
 
 = km.volume events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

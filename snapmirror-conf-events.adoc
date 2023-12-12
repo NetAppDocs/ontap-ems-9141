@@ -6,7 +6,6 @@ summary: snapmirror.conf events
 ---
 
 = snapmirror.conf events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

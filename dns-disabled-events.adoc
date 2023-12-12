@@ -6,7 +6,6 @@ summary: dns.disabled events
 ---
 
 = dns.disabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

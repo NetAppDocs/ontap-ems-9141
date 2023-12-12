@@ -6,7 +6,6 @@ summary: vscan.rdbupdregister events
 ---
 
 = vscan.rdbupdregister events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

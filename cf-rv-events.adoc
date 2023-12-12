@@ -6,7 +6,6 @@ summary: cf.rv events
 ---
 
 = cf.rv events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: smbc.avail events
 ---
 
 = smbc.avail events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

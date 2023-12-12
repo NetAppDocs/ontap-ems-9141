@@ -6,7 +6,6 @@ summary: raid.monitor events
 ---
 
 = raid.monitor events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

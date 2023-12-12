@@ -6,7 +6,6 @@ summary: sshd.auth events
 ---
 
 = sshd.auth events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: san.fcadapter events
 ---
 
 = san.fcadapter events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

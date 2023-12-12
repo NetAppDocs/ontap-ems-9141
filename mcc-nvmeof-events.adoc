@@ -6,7 +6,6 @@ summary: mcc.nvmeof events
 ---
 
 = mcc.nvmeof events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

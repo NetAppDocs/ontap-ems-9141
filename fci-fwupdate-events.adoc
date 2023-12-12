@@ -6,7 +6,6 @@ summary: fci.fwupdate events
 ---
 
 = fci.fwupdate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

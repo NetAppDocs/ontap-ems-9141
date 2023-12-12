@@ -6,7 +6,6 @@ summary: vifmgr.clntdev events
 ---
 
 = vifmgr.clntdev events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

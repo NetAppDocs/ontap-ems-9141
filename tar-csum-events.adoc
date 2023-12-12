@@ -6,7 +6,6 @@ summary: tar.csum events
 ---
 
 = tar.csum events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

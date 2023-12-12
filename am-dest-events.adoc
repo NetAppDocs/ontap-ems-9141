@@ -6,7 +6,6 @@ summary: am.dest events
 ---
 
 = am.dest events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

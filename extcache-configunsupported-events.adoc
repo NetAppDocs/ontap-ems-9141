@@ -6,7 +6,6 @@ summary: extcache.configunsupported events
 ---
 
 = extcache.configunsupported events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: asyncdelcli.message events
 ---
 
 = asyncdelcli.message events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

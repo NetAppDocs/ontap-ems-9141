@@ -6,7 +6,6 @@ summary: wafl.aggrtrans events
 ---
 
 = wafl.aggrtrans events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

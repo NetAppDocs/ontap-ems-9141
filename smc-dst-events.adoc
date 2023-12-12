@@ -6,7 +6,6 @@ summary: smc.dst events
 ---
 
 = smc.dst events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

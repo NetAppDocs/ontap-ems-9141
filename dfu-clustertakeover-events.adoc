@@ -6,7 +6,6 @@ summary: dfu.clustertakeover events
 ---
 
 = dfu.clustertakeover events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

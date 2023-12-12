@@ -6,7 +6,6 @@ summary: raid.enable events
 ---
 
 = raid.enable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

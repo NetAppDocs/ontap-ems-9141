@@ -6,7 +6,6 @@ summary: lmgr.precommit events
 ---
 
 = lmgr.precommit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

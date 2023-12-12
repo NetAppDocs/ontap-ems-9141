@@ -6,7 +6,6 @@ summary: cf.transition events
 ---
 
 = cf.transition events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

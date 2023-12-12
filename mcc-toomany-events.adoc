@@ -6,7 +6,6 @@ summary: mcc.toomany events
 ---
 
 = mcc.toomany events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

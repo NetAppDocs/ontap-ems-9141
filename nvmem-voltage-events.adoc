@@ -6,7 +6,6 @@ summary: nvmem.voltage events
 ---
 
 = nvmem.voltage events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

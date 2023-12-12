@@ -6,7 +6,6 @@ summary: repl.large events
 ---
 
 = repl.large events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

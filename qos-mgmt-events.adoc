@@ -6,7 +6,6 @@ summary: qos.mgmt events
 ---
 
 = qos.mgmt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: asup.aods events
 ---
 
 = asup.aods events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

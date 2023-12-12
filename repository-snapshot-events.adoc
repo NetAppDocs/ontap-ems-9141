@@ -6,7 +6,6 @@ summary: repository.snapshot events
 ---
 
 = repository.snapshot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: arl.veto events
 ---
 
 = arl.veto events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

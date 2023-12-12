@@ -6,7 +6,6 @@ summary: lun.out events
 ---
 
 = lun.out events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

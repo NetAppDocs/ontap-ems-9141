@@ -6,7 +6,6 @@ summary: disk.iomediumerror events
 ---
 
 = disk.iomediumerror events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

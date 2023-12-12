@@ -6,7 +6,6 @@ summary: disk.init events
 ---
 
 = disk.init events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

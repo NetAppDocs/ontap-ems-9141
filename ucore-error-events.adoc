@@ -6,7 +6,6 @@ summary: ucore.error events
 ---
 
 = ucore.error events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

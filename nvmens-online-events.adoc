@@ -6,7 +6,6 @@ summary: nvmens.online events
 ---
 
 = nvmens.online events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

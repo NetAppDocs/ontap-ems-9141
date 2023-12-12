@@ -6,7 +6,6 @@ summary: dfu.init events
 ---
 
 = dfu.init events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

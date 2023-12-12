@@ -6,7 +6,6 @@ summary: fmmb.oldformatcleared events
 ---
 
 = fmmb.oldformatcleared events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

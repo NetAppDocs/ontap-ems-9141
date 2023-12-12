@@ -6,7 +6,6 @@ summary: secd.dns events
 ---
 
 = secd.dns events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

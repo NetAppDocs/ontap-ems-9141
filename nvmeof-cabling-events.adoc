@@ -6,7 +6,6 @@ summary: nvmeof.cabling events
 ---
 
 = nvmeof.cabling events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

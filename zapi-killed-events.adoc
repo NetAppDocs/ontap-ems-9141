@@ -6,7 +6,6 @@ summary: zapi.killed events
 ---
 
 = zapi.killed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

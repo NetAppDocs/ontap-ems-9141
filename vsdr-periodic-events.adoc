@@ -6,7 +6,6 @@ summary: vsdr.periodic events
 ---
 
 = vsdr.periodic events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

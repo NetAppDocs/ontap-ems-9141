@@ -6,7 +6,6 @@ summary: license.sfo events
 ---
 
 = license.sfo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

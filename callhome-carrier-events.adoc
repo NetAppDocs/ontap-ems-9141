@@ -6,7 +6,6 @@ summary: callhome.carrier events
 ---
 
 = callhome.carrier events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: cpeer.passphrase events
 ---
 
 = cpeer.passphrase events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

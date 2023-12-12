@@ -6,7 +6,6 @@ summary: mpt.busreg events
 ---
 
 = mpt.busreg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

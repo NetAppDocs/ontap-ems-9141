@@ -6,7 +6,6 @@ summary: callhome.bdfu events
 ---
 
 = callhome.bdfu events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

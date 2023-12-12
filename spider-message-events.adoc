@@ -6,7 +6,6 @@ summary: spider.message events
 ---
 
 = spider.message events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

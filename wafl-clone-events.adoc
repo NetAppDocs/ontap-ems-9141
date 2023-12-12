@@ -6,7 +6,6 @@ summary: wafl.clone events
 ---
 
 = wafl.clone events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

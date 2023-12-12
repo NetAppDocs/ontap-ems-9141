@@ -6,7 +6,6 @@ summary: diskown.completion events
 ---
 
 = diskown.completion events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

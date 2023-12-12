@@ -6,7 +6,6 @@ summary: mgmt.nfsserver events
 ---
 
 = mgmt.nfsserver events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

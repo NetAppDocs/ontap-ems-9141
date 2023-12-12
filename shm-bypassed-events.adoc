@@ -6,7 +6,6 @@ summary: shm.bypassed events
 ---
 
 = shm.bypassed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

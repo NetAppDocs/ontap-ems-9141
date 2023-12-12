@@ -6,7 +6,6 @@ summary: lmgr.notify events
 ---
 
 = lmgr.notify events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

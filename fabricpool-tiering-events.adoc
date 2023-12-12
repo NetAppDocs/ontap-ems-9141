@@ -6,7 +6,6 @@ summary: fabricpool.tiering events
 ---
 
 = fabricpool.tiering events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

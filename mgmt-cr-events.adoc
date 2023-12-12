@@ -6,7 +6,6 @@ summary: mgmt.cr events
 ---
 
 = mgmt.cr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

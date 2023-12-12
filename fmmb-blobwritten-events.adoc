@@ -6,7 +6,6 @@ summary: fmmb.blobwritten events
 ---
 
 = fmmb.blobwritten events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

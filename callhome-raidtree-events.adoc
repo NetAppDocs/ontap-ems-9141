@@ -6,7 +6,6 @@ summary: callhome.raidtree events
 ---
 
 = callhome.raidtree events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

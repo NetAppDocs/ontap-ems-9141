@@ -6,7 +6,6 @@ summary: coredump.micro events
 ---
 
 = coredump.micro events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

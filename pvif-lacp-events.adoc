@@ -6,7 +6,6 @@ summary: pvif.lacp events
 ---
 
 = pvif.lacp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

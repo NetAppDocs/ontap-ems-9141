@@ -6,7 +6,6 @@ summary: scsiblade.isolated events
 ---
 
 = scsiblade.isolated events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

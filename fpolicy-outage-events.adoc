@@ -6,7 +6,6 @@ summary: fpolicy.outage events
 ---
 
 = fpolicy.outage events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: haosc.invalid events
 ---
 
 = haosc.invalid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

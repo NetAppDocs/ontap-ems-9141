@@ -6,7 +6,6 @@ summary: sas.shelf events
 ---
 
 = sas.shelf events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

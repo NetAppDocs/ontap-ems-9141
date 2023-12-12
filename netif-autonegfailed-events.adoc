@@ -6,7 +6,6 @@ summary: netif.autonegfailed events
 ---
 
 = netif.autonegfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

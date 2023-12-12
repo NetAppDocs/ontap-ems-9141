@@ -6,7 +6,6 @@ summary: smc.snap events
 ---
 
 = smc.snap events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

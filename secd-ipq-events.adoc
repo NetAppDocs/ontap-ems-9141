@@ -6,7 +6,6 @@ summary: secd.ipq events
 ---
 
 = secd.ipq events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

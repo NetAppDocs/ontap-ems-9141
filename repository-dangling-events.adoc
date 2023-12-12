@@ -6,7 +6,6 @@ summary: repository.dangling events
 ---
 
 = repository.dangling events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

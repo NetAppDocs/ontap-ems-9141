@@ -6,7 +6,6 @@ summary: diskshelf.support events
 ---
 
 = diskshelf.support events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

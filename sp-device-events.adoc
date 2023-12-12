@@ -6,7 +6,6 @@ summary: sp.device events
 ---
 
 = sp.device events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

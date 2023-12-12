@@ -6,7 +6,6 @@ summary: dbs.cluster events
 ---
 
 = dbs.cluster events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

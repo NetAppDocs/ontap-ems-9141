@@ -6,7 +6,6 @@ summary: ha.resvmediatormbxstatus events
 ---
 
 = ha.resvmediatormbxstatus events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

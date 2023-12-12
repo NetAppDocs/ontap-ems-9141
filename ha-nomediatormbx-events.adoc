@@ -6,7 +6,6 @@ summary: ha.nomediatormbx events
 ---
 
 = ha.nomediatormbx events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

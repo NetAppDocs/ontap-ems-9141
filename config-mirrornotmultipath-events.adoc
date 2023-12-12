@@ -6,7 +6,6 @@ summary: config.mirrornotmultipath events
 ---
 
 = config.mirrornotmultipath events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

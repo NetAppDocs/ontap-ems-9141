@@ -6,7 +6,6 @@ summary: config.badpoolassign events
 ---
 
 = config.badpoolassign events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

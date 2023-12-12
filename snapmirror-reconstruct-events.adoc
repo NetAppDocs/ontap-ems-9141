@@ -6,7 +6,6 @@ summary: snapmirror.reconstruct events
 ---
 
 = snapmirror.reconstruct events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

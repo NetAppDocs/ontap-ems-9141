@@ -6,7 +6,6 @@ summary: secd.asidtrans events
 ---
 
 = secd.asidtrans events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: splog.failed events
 ---
 
 = splog.failed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

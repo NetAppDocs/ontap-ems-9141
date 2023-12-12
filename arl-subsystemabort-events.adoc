@@ -6,7 +6,6 @@ summary: arl.subsystemabort events
 ---
 
 = arl.subsystemabort events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

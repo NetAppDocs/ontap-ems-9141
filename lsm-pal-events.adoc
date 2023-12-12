@@ -6,7 +6,6 @@ summary: lsm.pal events
 ---
 
 = lsm.pal events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

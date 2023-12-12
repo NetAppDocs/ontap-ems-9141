@@ -6,7 +6,6 @@ summary: vserver.storage events
 ---
 
 = vserver.storage events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

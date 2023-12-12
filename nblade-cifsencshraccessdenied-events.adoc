@@ -6,7 +6,6 @@ summary: nblade.cifsencshraccessdenied events
 ---
 
 = nblade.cifsencshraccessdenied events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

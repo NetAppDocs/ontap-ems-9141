@@ -6,7 +6,6 @@ summary: callhome.syncm events
 ---
 
 = callhome.syncm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: nand.unable events
 ---
 
 = nand.unable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

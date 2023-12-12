@@ -6,7 +6,6 @@ summary: sfu.resumediskio events
 ---
 
 = sfu.resumediskio events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: sas.8072 events
 ---
 
 = sas.8072 events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

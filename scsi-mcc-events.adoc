@@ -6,7 +6,6 @@ summary: scsi.mcc events
 ---
 
 = scsi.mcc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

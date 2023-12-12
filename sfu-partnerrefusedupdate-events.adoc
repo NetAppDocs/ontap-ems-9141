@@ -6,7 +6,6 @@ summary: sfu.partnerrefusedupdate events
 ---
 
 = sfu.partnerrefusedupdate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

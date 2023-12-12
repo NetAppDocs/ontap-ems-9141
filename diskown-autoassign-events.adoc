@@ -6,7 +6,6 @@ summary: diskown.autoassign events
 ---
 
 = diskown.autoassign events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

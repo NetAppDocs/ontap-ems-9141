@@ -6,7 +6,6 @@ summary: lmgr.ca events
 ---
 
 = lmgr.ca events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

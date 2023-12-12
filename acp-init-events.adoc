@@ -6,7 +6,6 @@ summary: acp.init events
 ---
 
 = acp.init events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

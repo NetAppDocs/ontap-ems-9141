@@ -6,7 +6,6 @@ summary: netif.tcp events
 ---
 
 = netif.tcp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

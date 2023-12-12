@@ -6,7 +6,6 @@ summary: respmon.service events
 ---
 
 = respmon.service events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: fcvi.disabled events
 ---
 
 = fcvi.disabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

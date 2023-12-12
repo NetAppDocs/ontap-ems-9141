@@ -6,7 +6,6 @@ summary: dbs.install events
 ---
 
 = dbs.install events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: sp.heartbeat events
 ---
 
 = sp.heartbeat events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

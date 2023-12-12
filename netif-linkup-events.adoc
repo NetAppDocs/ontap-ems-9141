@@ -6,7 +6,6 @@ summary: netif.linkup events
 ---
 
 = netif.linkup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

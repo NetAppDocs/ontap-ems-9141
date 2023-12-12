@@ -6,7 +6,6 @@ summary: dfu.clustericerror events
 ---
 
 = dfu.clustericerror events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

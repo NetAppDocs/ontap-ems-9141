@@ -6,7 +6,6 @@ summary: sis.logical events
 ---
 
 = sis.logical events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: coredump.disk events
 ---
 
 = coredump.disk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

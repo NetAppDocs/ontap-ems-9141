@@ -6,7 +6,6 @@ summary: token.pit events
 ---
 
 = token.pit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

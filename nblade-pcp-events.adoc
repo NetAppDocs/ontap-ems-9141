@@ -6,7 +6,6 @@ summary: nblade.pcp events
 ---
 
 = nblade.pcp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

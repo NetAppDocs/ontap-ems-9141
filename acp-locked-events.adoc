@@ -6,7 +6,6 @@ summary: acp.locked events
 ---
 
 = acp.locked events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

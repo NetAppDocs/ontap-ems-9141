@@ -6,7 +6,6 @@ summary: diskown.isenabled events
 ---
 
 = diskown.isenabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

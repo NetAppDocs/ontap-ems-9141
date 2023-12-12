@@ -6,7 +6,6 @@ summary: clam.valid events
 ---
 
 = clam.valid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

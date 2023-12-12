@@ -6,7 +6,6 @@ summary: air.repair events
 ---
 
 = air.repair events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

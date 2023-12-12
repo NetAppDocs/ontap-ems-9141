@@ -6,7 +6,6 @@ summary: nblade.qosvioldetectregfail events
 ---
 
 = nblade.qosvioldetectregfail events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

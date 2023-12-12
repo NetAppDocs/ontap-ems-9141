@@ -6,7 +6,6 @@ summary: kmip2.invalid events
 ---
 
 = kmip2.invalid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

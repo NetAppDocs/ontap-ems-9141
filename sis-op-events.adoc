@@ -6,7 +6,6 @@ summary: sis.op events
 ---
 
 = sis.op events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

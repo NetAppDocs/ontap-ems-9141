@@ -6,7 +6,6 @@ summary: dfu.firmwareuptodate events
 ---
 
 = dfu.firmwareuptodate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

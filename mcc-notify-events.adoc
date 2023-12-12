@@ -6,7 +6,6 @@ summary: mcc.notify events
 ---
 
 = mcc.notify events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

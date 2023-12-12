@@ -6,7 +6,6 @@ summary: wafl.ino events
 ---
 
 = wafl.ino events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

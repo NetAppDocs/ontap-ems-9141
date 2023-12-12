@@ -6,7 +6,6 @@ summary: vifmgr.lif events
 ---
 
 = vifmgr.lif events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

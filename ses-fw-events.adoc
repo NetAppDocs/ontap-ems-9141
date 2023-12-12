@@ -6,7 +6,6 @@ summary: ses.fw events
 ---
 
 = ses.fw events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: token.node events
 ---
 
 = token.node events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

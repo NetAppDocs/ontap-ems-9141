@@ -6,7 +6,6 @@ summary: platform.nopartnerpresent events
 ---
 
 = platform.nopartnerpresent events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: splog.sp events
 ---
 
 = splog.sp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

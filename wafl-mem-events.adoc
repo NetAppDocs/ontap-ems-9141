@@ -6,7 +6,6 @@ summary: wafl.mem events
 ---
 
 = wafl.mem events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

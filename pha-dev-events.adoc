@@ -6,7 +6,6 @@ summary: pha.dev events
 ---
 
 = pha.dev events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

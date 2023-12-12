@@ -6,7 +6,6 @@ summary: wafl.disable events
 ---
 
 = wafl.disable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

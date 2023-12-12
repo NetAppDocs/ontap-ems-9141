@@ -6,7 +6,6 @@ summary: pcp.linkstatechangesucceed events
 ---
 
 = pcp.linkstatechangesucceed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

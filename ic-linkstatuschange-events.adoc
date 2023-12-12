@@ -6,7 +6,6 @@ summary: ic.linkstatuschange events
 ---
 
 = ic.linkstatuschange events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.mirror events
 ---
 
 = wafl.mirror events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

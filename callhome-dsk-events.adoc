@@ -6,7 +6,6 @@ summary: callhome.dsk events
 ---
 
 = callhome.dsk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

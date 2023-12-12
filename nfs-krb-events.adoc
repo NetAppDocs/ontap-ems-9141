@@ -6,7 +6,6 @@ summary: nfs.krb events
 ---
 
 = nfs.krb events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

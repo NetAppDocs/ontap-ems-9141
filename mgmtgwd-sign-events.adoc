@@ -6,7 +6,6 @@ summary: mgmtgwd.sign events
 ---
 
 = mgmtgwd.sign events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

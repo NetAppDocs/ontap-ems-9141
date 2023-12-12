@@ -6,7 +6,6 @@ summary: san.slmsupportcheckfailed events
 ---
 
 = san.slmsupportcheckfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

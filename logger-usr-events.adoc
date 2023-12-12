@@ -6,7 +6,6 @@ summary: logger.usr events
 ---
 
 = logger.usr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

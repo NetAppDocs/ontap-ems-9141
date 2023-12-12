@@ -6,7 +6,6 @@ summary: snaplock.ss events
 ---
 
 = snaplock.ss events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

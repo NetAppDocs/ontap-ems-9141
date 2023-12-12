@@ -6,7 +6,6 @@ summary: rdmalib.multichan events
 ---
 
 = rdmalib.multichan events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: sis.verify events
 ---
 
 = sis.verify events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

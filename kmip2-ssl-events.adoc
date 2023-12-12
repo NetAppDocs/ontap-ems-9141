@@ -6,7 +6,6 @@ summary: kmip2.ssl events
 ---
 
 = kmip2.ssl events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

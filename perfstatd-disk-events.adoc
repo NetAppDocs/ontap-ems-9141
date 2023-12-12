@@ -6,7 +6,6 @@ summary: perfstatd.disk events
 ---
 
 = perfstatd.disk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

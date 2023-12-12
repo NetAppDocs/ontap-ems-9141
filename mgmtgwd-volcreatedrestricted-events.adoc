@@ -6,7 +6,6 @@ summary: mgmtgwd.volcreatedrestricted events
 ---
 
 = mgmtgwd.volcreatedrestricted events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

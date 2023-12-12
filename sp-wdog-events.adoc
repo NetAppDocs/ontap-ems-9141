@@ -6,7 +6,6 @@ summary: sp.wdog events
 ---
 
 = sp.wdog events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

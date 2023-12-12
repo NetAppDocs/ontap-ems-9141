@@ -6,7 +6,6 @@ summary: lun.inconsistent events
 ---
 
 = lun.inconsistent events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

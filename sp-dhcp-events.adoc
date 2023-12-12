@@ -6,7 +6,6 @@ summary: sp.dhcp events
 ---
 
 = sp.dhcp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

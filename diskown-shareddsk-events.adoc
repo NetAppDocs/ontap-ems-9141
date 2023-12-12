@@ -6,7 +6,6 @@ summary: diskown.shareddsk events
 ---
 
 = diskown.shareddsk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

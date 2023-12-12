@@ -6,7 +6,6 @@ summary: ctl.ctlbe events
 ---
 
 = ctl.ctlbe events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

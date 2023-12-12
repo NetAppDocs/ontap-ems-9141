@@ -6,7 +6,6 @@ summary: fm.cpuutilduringtransition events
 ---
 
 = fm.cpuutilduringtransition events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

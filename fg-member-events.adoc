@@ -6,7 +6,6 @@ summary: fg.member events
 ---
 
 = fg.member events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

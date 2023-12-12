@@ -6,7 +6,6 @@ summary: nblade.vscanbadipprivaccess events
 ---
 
 = nblade.vscanbadipprivaccess events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

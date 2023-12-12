@@ -6,7 +6,6 @@ summary: api.output events
 ---
 
 = api.output events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

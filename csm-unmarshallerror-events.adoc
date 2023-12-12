@@ -6,7 +6,6 @@ summary: csm.unmarshallerror events
 ---
 
 = csm.unmarshallerror events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

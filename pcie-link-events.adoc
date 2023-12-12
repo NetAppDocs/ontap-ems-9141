@@ -6,7 +6,6 @@ summary: pcie.link events
 ---
 
 = pcie.link events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

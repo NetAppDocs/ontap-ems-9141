@@ -6,7 +6,6 @@ summary: san.nosamenamediscsiport events
 ---
 
 = san.nosamenamediscsiport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

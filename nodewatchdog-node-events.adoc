@@ -6,7 +6,6 @@ summary: nodewatchdog.node events
 ---
 
 = nodewatchdog.node events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

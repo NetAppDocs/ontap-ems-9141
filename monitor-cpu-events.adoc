@@ -6,7 +6,6 @@ summary: monitor.cpu events
 ---
 
 = monitor.cpu events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

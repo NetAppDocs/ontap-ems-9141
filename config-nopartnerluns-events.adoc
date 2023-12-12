@@ -6,7 +6,6 @@ summary: config.nopartnerluns events
 ---
 
 = config.nopartnerluns events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

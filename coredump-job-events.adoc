@@ -6,7 +6,6 @@ summary: coredump.job events
 ---
 
 = coredump.job events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

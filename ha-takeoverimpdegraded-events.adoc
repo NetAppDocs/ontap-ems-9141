@@ -6,7 +6,6 @@ summary: ha.takeoverimpdegraded events
 ---
 
 = ha.takeoverimpdegraded events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

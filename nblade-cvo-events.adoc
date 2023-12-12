@@ -6,7 +6,6 @@ summary: nblade.cvo events
 ---
 
 = nblade.cvo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: disk.ioreassignsuccess events
 ---
 
 = disk.ioreassignsuccess events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

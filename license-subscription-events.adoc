@@ -6,7 +6,6 @@ summary: license.subscription events
 ---
 
 = license.subscription events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

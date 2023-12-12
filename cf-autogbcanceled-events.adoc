@@ -6,7 +6,6 @@ summary: cf.autogbcanceled events
 ---
 
 = cf.autogbcanceled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

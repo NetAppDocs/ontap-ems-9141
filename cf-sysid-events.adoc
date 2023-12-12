@@ -6,7 +6,6 @@ summary: cf.sysid events
 ---
 
 = cf.sysid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

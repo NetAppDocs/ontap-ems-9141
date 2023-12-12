@@ -6,7 +6,6 @@ summary: san.volrehostlunmapfailed events
 ---
 
 = san.volrehostlunmapfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

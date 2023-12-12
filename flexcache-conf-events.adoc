@@ -6,7 +6,6 @@ summary: flexcache.conf events
 ---
 
 = flexcache.conf events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

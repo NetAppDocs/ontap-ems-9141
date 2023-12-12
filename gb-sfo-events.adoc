@@ -6,7 +6,6 @@ summary: gb.sfo events
 ---
 
 = gb.sfo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: repl.out events
 ---
 
 = repl.out events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

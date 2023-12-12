@@ -6,7 +6,6 @@ summary: hya.dup_vbn_lookup events
 ---
 
 = hya.dup_vbn_lookup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

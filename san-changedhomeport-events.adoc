@@ -6,7 +6,6 @@ summary: san.changedhomeport events
 ---
 
 = san.changedhomeport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

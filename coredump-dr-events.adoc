@@ -6,7 +6,6 @@ summary: coredump.dr events
 ---
 
 = coredump.dr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

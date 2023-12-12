@@ -6,7 +6,6 @@ summary: dev.path events
 ---
 
 = dev.path events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

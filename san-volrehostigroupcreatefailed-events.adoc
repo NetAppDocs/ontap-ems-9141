@@ -6,7 +6,6 @@ summary: san.volrehostigroupcreatefailed events
 ---
 
 = san.volrehostigroupcreatefailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

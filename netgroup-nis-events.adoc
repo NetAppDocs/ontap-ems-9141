@@ -6,7 +6,6 @@ summary: netgroup.nis events
 ---
 
 = netgroup.nis events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

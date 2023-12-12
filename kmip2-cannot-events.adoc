@@ -6,7 +6,6 @@ summary: kmip2.cannot events
 ---
 
 = kmip2.cannot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

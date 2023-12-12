@@ -6,7 +6,6 @@ summary: esh.xfer events
 ---
 
 = esh.xfer events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

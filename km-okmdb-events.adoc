@@ -6,7 +6,6 @@ summary: km.okmdb events
 ---
 
 = km.okmdb events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

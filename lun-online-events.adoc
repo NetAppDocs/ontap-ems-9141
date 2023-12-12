@@ -6,7 +6,6 @@ summary: lun.online events
 ---
 
 = lun.online events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

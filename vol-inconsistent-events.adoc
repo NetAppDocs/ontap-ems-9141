@@ -6,7 +6,6 @@ summary: vol.inconsistent events
 ---
 
 = vol.inconsistent events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

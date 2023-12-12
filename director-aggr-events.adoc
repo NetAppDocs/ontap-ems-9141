@@ -6,7 +6,6 @@ summary: director.aggr events
 ---
 
 = director.aggr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

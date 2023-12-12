@@ -6,7 +6,6 @@ summary: dbs.software events
 ---
 
 = dbs.software events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

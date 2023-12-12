@@ -6,7 +6,6 @@ summary: nblade.dbladenoresponse events
 ---
 
 = nblade.dbladenoresponse events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

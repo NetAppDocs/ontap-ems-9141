@@ -6,7 +6,6 @@ summary: nblade.sectracequeoverload events
 ---
 
 = nblade.sectracequeoverload events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

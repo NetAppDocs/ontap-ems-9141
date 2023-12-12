@@ -6,7 +6,6 @@ summary: sp.auth events
 ---
 
 = sp.auth events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: arw.volume events
 ---
 
 = arw.volume events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

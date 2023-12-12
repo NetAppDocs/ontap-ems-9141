@@ -6,7 +6,6 @@ summary: sectrace.warning events
 ---
 
 = sectrace.warning events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

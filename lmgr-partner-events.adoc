@@ -6,7 +6,6 @@ summary: lmgr.partner events
 ---
 
 = lmgr.partner events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

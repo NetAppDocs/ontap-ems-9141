@@ -6,7 +6,6 @@ summary: token.vol events
 ---
 
 = token.vol events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

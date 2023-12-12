@@ -6,7 +6,6 @@ summary: callhome.coredump events
 ---
 
 = callhome.coredump events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

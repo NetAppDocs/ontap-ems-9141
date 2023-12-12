@@ -6,7 +6,6 @@ summary: perfstatd.start events
 ---
 
 = perfstatd.start events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

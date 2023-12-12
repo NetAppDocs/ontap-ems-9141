@@ -6,7 +6,6 @@ summary: smc.vlt events
 ---
 
 = smc.vlt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

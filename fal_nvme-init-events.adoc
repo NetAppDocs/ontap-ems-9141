@@ -6,7 +6,6 @@ summary: fal_nvme.init events
 ---
 
 = fal_nvme.init events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

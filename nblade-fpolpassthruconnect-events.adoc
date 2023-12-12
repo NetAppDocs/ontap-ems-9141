@@ -6,7 +6,6 @@ summary: nblade.fpolpassthruconnect events
 ---
 
 = nblade.fpolpassthruconnect events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

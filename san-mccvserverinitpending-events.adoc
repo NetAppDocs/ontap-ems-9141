@@ -6,7 +6,6 @@ summary: san.mccvserverinitpending events
 ---
 
 = san.mccvserverinitpending events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

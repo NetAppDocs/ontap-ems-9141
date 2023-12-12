@@ -6,7 +6,6 @@ summary: fabric.sdm events
 ---
 
 = fabric.sdm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

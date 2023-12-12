@@ -6,7 +6,6 @@ summary: sms.snap events
 ---
 
 = sms.snap events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

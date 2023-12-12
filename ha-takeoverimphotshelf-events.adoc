@@ -6,7 +6,6 @@ summary: ha.takeoverimphotshelf events
 ---
 
 = ha.takeoverimphotshelf events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

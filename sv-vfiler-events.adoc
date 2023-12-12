@@ -6,7 +6,6 @@ summary: sv.vfiler events
 ---
 
 = sv.vfiler events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

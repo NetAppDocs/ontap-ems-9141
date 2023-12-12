@@ -6,7 +6,6 @@ summary: dbs.ikm events
 ---
 
 = dbs.ikm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

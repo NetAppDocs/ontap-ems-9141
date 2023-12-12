@@ -6,7 +6,6 @@ summary: splog.running events
 ---
 
 = splog.running events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

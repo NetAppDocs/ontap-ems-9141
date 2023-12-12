@@ -6,7 +6,6 @@ summary: raid.encrypt events
 ---
 
 = raid.encrypt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

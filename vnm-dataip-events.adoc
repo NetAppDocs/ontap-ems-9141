@@ -6,7 +6,6 @@ summary: vnm.dataip events
 ---
 
 = vnm.dataip events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

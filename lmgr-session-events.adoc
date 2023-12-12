@@ -6,7 +6,6 @@ summary: lmgr.session events
 ---
 
 = lmgr.session events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

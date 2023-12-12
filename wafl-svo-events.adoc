@@ -6,7 +6,6 @@ summary: wafl.svo events
 ---
 
 = wafl.svo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

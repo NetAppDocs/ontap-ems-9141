@@ -6,7 +6,6 @@ summary: dbs.disconn events
 ---
 
 = dbs.disconn events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

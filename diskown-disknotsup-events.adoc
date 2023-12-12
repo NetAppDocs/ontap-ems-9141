@@ -6,7 +6,6 @@ summary: diskown.disknotsup events
 ---
 
 = diskown.disknotsup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

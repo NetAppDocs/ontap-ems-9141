@@ -6,7 +6,6 @@ summary: adt.aucb events
 ---
 
 = adt.aucb events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

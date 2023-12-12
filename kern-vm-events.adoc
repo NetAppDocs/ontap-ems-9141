@@ -6,7 +6,6 @@ summary: kern.vm events
 ---
 
 = kern.vm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

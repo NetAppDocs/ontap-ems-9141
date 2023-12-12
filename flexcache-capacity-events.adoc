@@ -6,7 +6,6 @@ summary: flexcache.capacity events
 ---
 
 = flexcache.capacity events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

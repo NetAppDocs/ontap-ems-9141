@@ -6,7 +6,6 @@ summary: ha.disasterbootinitiated events
 ---
 
 = ha.disasterbootinitiated events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

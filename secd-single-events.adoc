@@ -6,7 +6,6 @@ summary: secd.single events
 ---
 
 = secd.single events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: secd.unexpectedfailure events
 ---
 
 = secd.unexpectedfailure events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

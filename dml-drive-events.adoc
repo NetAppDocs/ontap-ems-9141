@@ -6,7 +6,6 @@ summary: dml.drive events
 ---
 
 = dml.drive events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: mcc.forced events
 ---
 
 = mcc.forced events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

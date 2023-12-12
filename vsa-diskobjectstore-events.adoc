@@ -6,7 +6,6 @@ summary: vsa.diskobjectstore events
 ---
 
 = vsa.diskobjectstore events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

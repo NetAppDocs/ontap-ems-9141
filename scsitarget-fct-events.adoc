@@ -6,7 +6,6 @@ summary: scsitarget.fct events
 ---
 
 = scsitarget.fct events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

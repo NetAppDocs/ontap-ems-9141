@@ -6,7 +6,6 @@ summary: sis.fingerprint events
 ---
 
 = sis.fingerprint events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

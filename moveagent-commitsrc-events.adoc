@@ -6,7 +6,6 @@ summary: moveagent.commitsrc events
 ---
 
 = moveagent.commitsrc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

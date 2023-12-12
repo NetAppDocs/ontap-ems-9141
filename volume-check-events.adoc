@@ -6,7 +6,6 @@ summary: volume.check events
 ---
 
 = volume.check events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

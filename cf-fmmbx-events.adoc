@@ -6,7 +6,6 @@ summary: cf.fmmbx events
 ---
 
 = cf.fmmbx events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

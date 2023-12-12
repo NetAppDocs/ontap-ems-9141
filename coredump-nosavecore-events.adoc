@@ -6,7 +6,6 @@ summary: coredump.nosavecore events
 ---
 
 = coredump.nosavecore events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

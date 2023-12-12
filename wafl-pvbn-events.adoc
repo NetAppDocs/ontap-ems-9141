@@ -6,7 +6,6 @@ summary: wafl.pvbn events
 ---
 
 = wafl.pvbn events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

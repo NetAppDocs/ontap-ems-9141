@@ -6,7 +6,6 @@ summary: cr.sync events
 ---
 
 = cr.sync events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

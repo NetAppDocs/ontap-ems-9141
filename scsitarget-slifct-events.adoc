@@ -6,7 +6,6 @@ summary: scsitarget.slifct events
 ---
 
 = scsitarget.slifct events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

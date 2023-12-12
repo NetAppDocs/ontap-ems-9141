@@ -6,7 +6,6 @@ summary: mgmtgwd.wafl events
 ---
 
 = mgmtgwd.wafl events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

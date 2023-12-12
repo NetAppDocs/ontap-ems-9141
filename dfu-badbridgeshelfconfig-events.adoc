@@ -6,7 +6,6 @@ summary: dfu.badbridgeshelfconfig events
 ---
 
 = dfu.badbridgeshelfconfig events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

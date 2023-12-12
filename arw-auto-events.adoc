@@ -6,7 +6,6 @@ summary: arw.auto events
 ---
 
 = arw.auto events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: vs.multiple events
 ---
 
 = vs.multiple events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

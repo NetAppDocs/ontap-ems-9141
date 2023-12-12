@@ -6,7 +6,6 @@ summary: lun.space events
 ---
 
 = lun.space events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

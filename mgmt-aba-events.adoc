@@ -6,7 +6,6 @@ summary: mgmt.aba events
 ---
 
 = mgmt.aba events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

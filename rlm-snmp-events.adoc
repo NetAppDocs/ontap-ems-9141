@@ -6,7 +6,6 @@ summary: rlm.snmp events
 ---
 
 = rlm.snmp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

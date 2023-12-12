@@ -6,7 +6,6 @@ summary: diskown.generated events
 ---
 
 = diskown.generated events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

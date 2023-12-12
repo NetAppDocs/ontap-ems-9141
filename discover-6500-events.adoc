@@ -6,7 +6,6 @@ summary: discover.6500 events
 ---
 
 = discover.6500 events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

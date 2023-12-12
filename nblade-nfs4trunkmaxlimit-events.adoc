@@ -6,7 +6,6 @@ summary: nblade.nfs4trunkmaxlimit events
 ---
 
 = nblade.nfs4trunkmaxlimit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

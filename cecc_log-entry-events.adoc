@@ -6,7 +6,6 @@ summary: cecc_log.entry events
 ---
 
 = cecc_log.entry events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

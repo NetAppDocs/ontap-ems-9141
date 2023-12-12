@@ -6,7 +6,6 @@ summary: coredump.sparecoreinit events
 ---
 
 = coredump.sparecoreinit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

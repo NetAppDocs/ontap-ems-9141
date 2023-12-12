@@ -6,7 +6,6 @@ summary: vsa.savecore events
 ---
 
 = vsa.savecore events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

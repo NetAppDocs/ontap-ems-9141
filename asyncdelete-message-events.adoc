@@ -6,7 +6,6 @@ summary: asyncdelete.message events
 ---
 
 = asyncdelete.message events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

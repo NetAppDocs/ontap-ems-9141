@@ -6,7 +6,6 @@ summary: config.badslot events
 ---
 
 = config.badslot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

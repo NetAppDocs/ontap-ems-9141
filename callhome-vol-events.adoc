@@ -6,7 +6,6 @@ summary: callhome.vol events
 ---
 
 = callhome.vol events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

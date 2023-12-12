@@ -6,7 +6,6 @@ summary: san.lifspernodelimit events
 ---
 
 = san.lifspernodelimit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

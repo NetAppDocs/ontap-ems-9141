@@ -6,7 +6,6 @@ summary: disk.fli events
 ---
 
 = disk.fli events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

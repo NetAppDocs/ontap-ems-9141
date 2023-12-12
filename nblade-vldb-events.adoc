@@ -6,7 +6,6 @@ summary: nblade.vldb events
 ---
 
 = nblade.vldb events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

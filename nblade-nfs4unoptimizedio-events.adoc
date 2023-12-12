@@ -6,7 +6,6 @@ summary: nblade.nfs4unoptimizedio events
 ---
 
 = nblade.nfs4unoptimizedio events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

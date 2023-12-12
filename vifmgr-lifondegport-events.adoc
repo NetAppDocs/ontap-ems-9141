@@ -6,7 +6,6 @@ summary: vifmgr.lifondegport events
 ---
 
 = vifmgr.lifondegport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

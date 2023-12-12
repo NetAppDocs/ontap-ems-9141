@@ -6,7 +6,6 @@ summary: acp.ioxm events
 ---
 
 = acp.ioxm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: ctran.jpc events
 ---
 
 = ctran.jpc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

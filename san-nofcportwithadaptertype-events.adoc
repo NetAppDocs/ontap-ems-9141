@@ -6,7 +6,6 @@ summary: san.nofcportwithadaptertype events
 ---
 
 = san.nofcportwithadaptertype events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

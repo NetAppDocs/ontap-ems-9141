@@ -6,7 +6,6 @@ summary: wafl.data events
 ---
 
 = wafl.data events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

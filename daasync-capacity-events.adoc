@@ -6,7 +6,6 @@ summary: daasync.capacity events
 ---
 
 = daasync.capacity events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: fcvi.update events
 ---
 
 = fcvi.update events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

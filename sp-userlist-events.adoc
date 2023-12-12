@@ -6,7 +6,6 @@ summary: sp.userlist events
 ---
 
 = sp.userlist events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

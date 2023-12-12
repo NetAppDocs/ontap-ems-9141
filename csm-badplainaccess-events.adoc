@@ -6,7 +6,6 @@ summary: csm.badplainaccess events
 ---
 
 = csm.badplainaccess events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

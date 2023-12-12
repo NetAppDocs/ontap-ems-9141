@@ -6,7 +6,6 @@ summary: raid.mv events
 ---
 
 = raid.mv events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

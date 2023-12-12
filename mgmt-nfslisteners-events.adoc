@@ -6,7 +6,6 @@ summary: mgmt.nfslisteners events
 ---
 
 = mgmt.nfslisteners events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

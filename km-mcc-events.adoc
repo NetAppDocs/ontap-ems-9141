@@ -6,7 +6,6 @@ summary: km.mcc events
 ---
 
 = km.mcc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

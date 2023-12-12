@@ -6,7 +6,6 @@ summary: km.restore events
 ---
 
 = km.restore events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

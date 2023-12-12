@@ -6,7 +6,6 @@ summary: mcc.ipspace events
 ---
 
 = mcc.ipspace events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

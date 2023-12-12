@@ -6,7 +6,6 @@ summary: mhost.ca events
 ---
 
 = mhost.ca events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

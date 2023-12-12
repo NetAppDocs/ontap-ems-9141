@@ -6,7 +6,6 @@ summary: csm.ctfallbackswitchless events
 ---
 
 = csm.ctfallbackswitchless events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

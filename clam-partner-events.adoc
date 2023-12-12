@@ -6,7 +6,6 @@ summary: clam.partner events
 ---
 
 = clam.partner events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

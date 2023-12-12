@@ -6,7 +6,6 @@ summary: vsdr.clonetmp events
 ---
 
 = vsdr.clonetmp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

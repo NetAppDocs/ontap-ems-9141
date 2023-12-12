@@ -6,7 +6,6 @@ summary: adt.nfs events
 ---
 
 = adt.nfs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

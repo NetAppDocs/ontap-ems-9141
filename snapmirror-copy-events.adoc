@@ -6,7 +6,6 @@ summary: snapmirror.copy events
 ---
 
 = snapmirror.copy events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

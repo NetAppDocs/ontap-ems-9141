@@ -6,7 +6,6 @@ summary: dbs.drive events
 ---
 
 = dbs.drive events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

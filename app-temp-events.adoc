@@ -6,7 +6,6 @@ summary: app.temp events
 ---
 
 = app.temp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

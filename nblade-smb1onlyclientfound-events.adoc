@@ -6,7 +6,6 @@ summary: nblade.smb1onlyclientfound events
 ---
 
 = nblade.smb1onlyclientfound events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

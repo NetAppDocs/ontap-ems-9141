@@ -6,7 +6,6 @@ summary: mgmtgwd.jobmgr events
 ---
 
 = mgmtgwd.jobmgr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

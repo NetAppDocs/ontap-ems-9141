@@ -6,7 +6,6 @@ summary: dbs.snapshot events
 ---
 
 = dbs.snapshot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: spm.ucoreman events
 ---
 
 = spm.ucoreman events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

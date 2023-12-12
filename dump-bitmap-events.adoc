@@ -6,7 +6,6 @@ summary: dump.bitmap events
 ---
 
 = dump.bitmap events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

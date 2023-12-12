@@ -6,7 +6,6 @@ summary: connectx.fatalerror events
 ---
 
 = connectx.fatalerror events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

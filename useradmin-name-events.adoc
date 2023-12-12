@@ -6,7 +6,6 @@ summary: useradmin.name events
 ---
 
 = useradmin.name events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

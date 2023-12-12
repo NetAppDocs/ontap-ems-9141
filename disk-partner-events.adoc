@@ -6,7 +6,6 @@ summary: disk.partner events
 ---
 
 = disk.partner events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: sis.idedup events
 ---
 
 = sis.idedup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: cpeer.dns events
 ---
 
 = cpeer.dns events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

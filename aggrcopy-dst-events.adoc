@@ -6,7 +6,6 @@ summary: aggrcopy.dst events
 ---
 
 = aggrcopy.dst events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: nvmeof.mixedports events
 ---
 
 = nvmeof.mixedports events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: mcc.nso events
 ---
 
 = mcc.nso events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

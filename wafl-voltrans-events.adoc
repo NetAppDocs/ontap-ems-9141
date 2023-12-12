@@ -6,7 +6,6 @@ summary: wafl.voltrans events
 ---
 
 = wafl.voltrans events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

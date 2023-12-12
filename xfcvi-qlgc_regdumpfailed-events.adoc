@@ -6,7 +6,6 @@ summary: xfcvi.qlgc_regdumpfailed events
 ---
 
 = xfcvi.qlgc_regdumpfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

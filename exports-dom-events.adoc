@@ -6,7 +6,6 @@ summary: exports.dom events
 ---
 
 = exports.dom events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

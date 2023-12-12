@@ -6,7 +6,6 @@ summary: arl.aggrdesttimeout events
 ---
 
 = arl.aggrdesttimeout events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

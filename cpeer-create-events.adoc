@@ -6,7 +6,6 @@ summary: cpeer.create events
 ---
 
 = cpeer.create events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

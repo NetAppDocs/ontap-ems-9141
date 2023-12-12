@@ -6,7 +6,6 @@ summary: certificate.node events
 ---
 
 = certificate.node events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

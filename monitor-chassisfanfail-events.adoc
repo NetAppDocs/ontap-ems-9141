@@ -6,7 +6,6 @@ summary: monitor.chassisfanfail events
 ---
 
 = monitor.chassisfanfail events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

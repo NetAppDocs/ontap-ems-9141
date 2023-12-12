@@ -6,7 +6,6 @@ summary: diskown.duplicatesoftentries events
 ---
 
 = diskown.duplicatesoftentries events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

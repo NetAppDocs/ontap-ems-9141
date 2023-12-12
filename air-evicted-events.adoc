@@ -6,7 +6,6 @@ summary: air.evicted events
 ---
 
 = air.evicted events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: lun.clone events
 ---
 
 = lun.clone events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

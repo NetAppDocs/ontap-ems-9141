@@ -6,7 +6,6 @@ summary: dfu.fwdownloadfailedwbuf events
 ---
 
 = dfu.fwdownloadfailedwbuf events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

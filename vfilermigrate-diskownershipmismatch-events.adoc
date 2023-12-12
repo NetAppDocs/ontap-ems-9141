@@ -6,7 +6,6 @@ summary: vfilermigrate.diskownershipmismatch events
 ---
 
 = vfilermigrate.diskownershipmismatch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

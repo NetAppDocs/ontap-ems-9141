@@ -6,7 +6,6 @@ summary: adt.wrkrq events
 ---
 
 = adt.wrkrq events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wackiron.panic events
 ---
 
 = wackiron.panic events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: dns.server events
 ---
 
 = dns.server events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

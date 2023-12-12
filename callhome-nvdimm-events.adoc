@@ -6,7 +6,6 @@ summary: callhome.nvdimm events
 ---
 
 = callhome.nvdimm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

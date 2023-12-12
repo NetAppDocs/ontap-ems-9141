@@ -6,7 +6,6 @@ summary: diskown.rescan events
 ---
 
 = diskown.rescan events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

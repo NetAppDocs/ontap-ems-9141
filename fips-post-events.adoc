@@ -6,7 +6,6 @@ summary: fips.post events
 ---
 
 = fips.post events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:
