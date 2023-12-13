@@ -6,7 +6,6 @@ summary: mgmtgwd.snapshot events
 ---
 
 = mgmtgwd.snapshot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

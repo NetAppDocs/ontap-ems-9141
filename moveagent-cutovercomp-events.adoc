@@ -6,7 +6,6 @@ summary: moveagent.cutovercomp events
 ---
 
 = moveagent.cutovercomp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

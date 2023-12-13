@@ -6,7 +6,6 @@ summary: callhome.sm events
 ---
 
 = callhome.sm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

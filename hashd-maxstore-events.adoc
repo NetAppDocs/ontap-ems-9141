@@ -6,7 +6,6 @@ summary: hashd.maxstore events
 ---
 
 = hashd.maxstore events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

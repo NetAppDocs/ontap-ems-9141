@@ -6,7 +6,6 @@ summary: repl.hole events
 ---
 
 = repl.hole events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

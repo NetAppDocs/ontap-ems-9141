@@ -6,7 +6,6 @@ summary: mcc.switchover events
 ---
 
 = mcc.switchover events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

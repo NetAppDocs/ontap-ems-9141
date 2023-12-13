@@ -6,7 +6,6 @@ summary: rdb.env events
 ---
 
 = rdb.env events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

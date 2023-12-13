@@ -6,7 +6,6 @@ summary: ses.drive events
 ---
 
 = ses.drive events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

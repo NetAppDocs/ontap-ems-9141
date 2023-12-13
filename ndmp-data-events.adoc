@@ -6,7 +6,6 @@ summary: ndmp.data events
 ---
 
 = ndmp.data events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

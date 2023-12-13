@@ -6,7 +6,6 @@ summary: netinet.ethr events
 ---
 
 = netinet.ethr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

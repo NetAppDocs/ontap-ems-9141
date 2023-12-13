@@ -6,7 +6,6 @@ summary: sm.slc events
 ---
 
 = sm.slc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

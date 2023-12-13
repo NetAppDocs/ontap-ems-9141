@@ -6,7 +6,6 @@ summary: netgroup.ldap events
 ---
 
 = netgroup.ldap events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

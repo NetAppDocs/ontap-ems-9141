@@ -6,7 +6,6 @@ summary: shelf.module events
 ---
 
 = shelf.module events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

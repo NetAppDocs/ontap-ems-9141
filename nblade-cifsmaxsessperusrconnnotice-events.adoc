@@ -6,7 +6,6 @@ summary: nblade.cifsmaxsessperusrconnnotice events
 ---
 
 = nblade.cifsmaxsessperusrconnnotice events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

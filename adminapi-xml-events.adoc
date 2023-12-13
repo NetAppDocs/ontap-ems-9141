@@ -6,7 +6,6 @@ summary: adminapi.xml events
 ---
 
 = adminapi.xml events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: rpl.fixer events
 ---
 
 = rpl.fixer events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

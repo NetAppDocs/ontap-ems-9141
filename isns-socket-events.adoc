@@ -6,7 +6,6 @@ summary: isns.socket events
 ---
 
 = isns.socket events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

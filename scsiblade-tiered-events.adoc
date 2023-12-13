@@ -6,7 +6,6 @@ summary: scsiblade.tiered events
 ---
 
 = scsiblade.tiered events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

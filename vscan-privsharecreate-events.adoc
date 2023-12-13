@@ -6,7 +6,6 @@ summary: vscan.privsharecreate events
 ---
 
 = vscan.privsharecreate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

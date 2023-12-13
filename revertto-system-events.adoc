@@ -6,7 +6,6 @@ summary: revertto.system events
 ---
 
 = revertto.system events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: raid.sparecore events
 ---
 
 = raid.sparecore events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

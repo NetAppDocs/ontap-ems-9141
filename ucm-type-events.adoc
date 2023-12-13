@@ -6,7 +6,6 @@ summary: ucm.type events
 ---
 
 = ucm.type events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

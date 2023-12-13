@@ -6,7 +6,6 @@ summary: dump.inconsistent_streamdir_lunclone events
 ---
 
 = dump.inconsistent_streamdir_lunclone events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

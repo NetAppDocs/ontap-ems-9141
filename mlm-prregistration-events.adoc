@@ -6,7 +6,6 @@ summary: mlm.prregistration events
 ---
 
 = mlm.prregistration events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

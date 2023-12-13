@@ -6,7 +6,6 @@ summary: config.mirroring events
 ---
 
 = config.mirroring events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

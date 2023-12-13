@@ -6,7 +6,6 @@ summary: mcc.drdom events
 ---
 
 = mcc.drdom events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

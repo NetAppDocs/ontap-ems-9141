@@ -6,7 +6,6 @@ summary: sis.corrupt events
 ---
 
 = sis.corrupt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

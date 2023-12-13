@@ -6,7 +6,6 @@ summary: backup.flip events
 ---
 
 = backup.flip events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

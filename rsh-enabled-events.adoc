@@ -6,7 +6,6 @@ summary: rsh.enabled events
 ---
 
 = rsh.enabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

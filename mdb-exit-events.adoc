@@ -6,7 +6,6 @@ summary: mdb.exit events
 ---
 
 = mdb.exit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

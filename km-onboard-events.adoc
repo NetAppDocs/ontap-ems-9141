@@ -6,7 +6,6 @@ summary: km.onboard events
 ---
 
 = km.onboard events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

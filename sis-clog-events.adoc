@@ -6,7 +6,6 @@ summary: sis.clog events
 ---
 
 = sis.clog events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

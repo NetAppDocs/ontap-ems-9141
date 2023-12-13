@@ -6,7 +6,6 @@ summary: wafl.giveback events
 ---
 
 = wafl.giveback events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

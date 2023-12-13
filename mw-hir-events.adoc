@@ -6,7 +6,6 @@ summary: mw.hir events
 ---
 
 = mw.hir events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

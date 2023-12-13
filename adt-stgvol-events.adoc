@@ -6,7 +6,6 @@ summary: adt.stgvol events
 ---
 
 = adt.stgvol events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: asa.personality events
 ---
 
 = asa.personality events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

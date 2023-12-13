@@ -6,7 +6,6 @@ summary: sk.hog events
 ---
 
 = sk.hog events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

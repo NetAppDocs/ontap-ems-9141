@@ -6,7 +6,6 @@ summary: callhome.ondemand events
 ---
 
 = callhome.ondemand events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

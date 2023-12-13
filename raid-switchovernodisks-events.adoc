@@ -6,7 +6,6 @@ summary: raid.switchovernodisks events
 ---
 
 = raid.switchovernodisks events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

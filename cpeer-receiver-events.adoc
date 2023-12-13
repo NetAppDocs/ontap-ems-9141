@@ -6,7 +6,6 @@ summary: cpeer.receiver events
 ---
 
 = cpeer.receiver events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

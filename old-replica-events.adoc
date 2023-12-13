@@ -6,7 +6,6 @@ summary: old.replica events
 ---
 
 = old.replica events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

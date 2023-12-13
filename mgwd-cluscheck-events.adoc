@@ -6,7 +6,6 @@ summary: mgwd.cluscheck events
 ---
 
 = mgwd.cluscheck events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

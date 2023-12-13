@@ -6,7 +6,6 @@ summary: nvmeof.hostport events
 ---
 
 = nvmeof.hostport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

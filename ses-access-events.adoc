@@ -6,7 +6,6 @@ summary: ses.access events
 ---
 
 = ses.access events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

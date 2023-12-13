@@ -6,7 +6,6 @@ summary: gpo.security events
 ---
 
 = gpo.security events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

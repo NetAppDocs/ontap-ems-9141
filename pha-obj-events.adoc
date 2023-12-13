@@ -6,7 +6,6 @@ summary: pha.obj events
 ---
 
 = pha.obj events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

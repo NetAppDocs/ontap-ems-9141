@@ -6,7 +6,6 @@ summary: coredump.segment events
 ---
 
 = coredump.segment events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

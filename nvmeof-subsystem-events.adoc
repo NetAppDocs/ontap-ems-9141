@@ -6,7 +6,6 @@ summary: nvmeof.subsystem events
 ---
 
 = nvmeof.subsystem events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

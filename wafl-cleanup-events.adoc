@@ -6,7 +6,6 @@ summary: wafl.cleanup events
 ---
 
 = wafl.cleanup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

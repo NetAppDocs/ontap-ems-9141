@@ -6,7 +6,6 @@ summary: nblade.vscannodispatcher events
 ---
 
 = nblade.vscannodispatcher events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

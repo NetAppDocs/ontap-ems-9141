@@ -6,7 +6,6 @@ summary: nblade.scannerconnected events
 ---
 
 = nblade.scannerconnected events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

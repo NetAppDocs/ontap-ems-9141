@@ -6,7 +6,6 @@ summary: lmgr.sf events
 ---
 
 = lmgr.sf events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

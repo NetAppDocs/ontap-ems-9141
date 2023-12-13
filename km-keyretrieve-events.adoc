@@ -6,7 +6,6 @@ summary: km.keyretrieve events
 ---
 
 = km.keyretrieve events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

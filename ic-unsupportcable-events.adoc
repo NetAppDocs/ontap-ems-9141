@@ -6,7 +6,6 @@ summary: ic.unsupportcable events
 ---
 
 = ic.unsupportcable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

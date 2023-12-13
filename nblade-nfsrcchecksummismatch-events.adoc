@@ -6,7 +6,6 @@ summary: nblade.nfsrcchecksummismatch events
 ---
 
 = nblade.nfsrcchecksummismatch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

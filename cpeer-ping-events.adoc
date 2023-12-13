@@ -6,7 +6,6 @@ summary: cpeer.ping events
 ---
 
 = cpeer.ping events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

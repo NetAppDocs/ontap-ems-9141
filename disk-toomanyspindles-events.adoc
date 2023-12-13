@@ -6,7 +6,6 @@ summary: disk.toomanyspindles events
 ---
 
 = disk.toomanyspindles events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

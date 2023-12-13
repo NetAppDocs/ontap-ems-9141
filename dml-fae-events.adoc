@@ -6,7 +6,6 @@ summary: dml.fae events
 ---
 
 = dml.fae events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

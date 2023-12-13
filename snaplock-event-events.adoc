@@ -6,7 +6,6 @@ summary: snaplock.event events
 ---
 
 = snaplock.event events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

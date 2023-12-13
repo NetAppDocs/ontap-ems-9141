@@ -6,7 +6,6 @@ summary: vscan.odjob events
 ---
 
 = vscan.odjob events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

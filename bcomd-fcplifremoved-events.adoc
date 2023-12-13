@@ -6,7 +6,6 @@ summary: bcomd.fcplifremoved events
 ---
 
 = bcomd.fcplifremoved events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: lic.cappool events
 ---
 
 = lic.cappool events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

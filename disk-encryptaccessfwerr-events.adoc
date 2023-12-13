@@ -6,7 +6,6 @@ summary: disk.encryptaccessfwerr events
 ---
 
 = disk.encryptaccessfwerr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

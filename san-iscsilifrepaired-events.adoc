@@ -6,7 +6,6 @@ summary: san.iscsilifrepaired events
 ---
 
 = san.iscsilifrepaired events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

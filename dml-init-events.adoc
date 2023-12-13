@@ -6,7 +6,6 @@ summary: dml.init events
 ---
 
 = dml.init events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

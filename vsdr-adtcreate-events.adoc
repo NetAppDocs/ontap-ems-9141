@@ -6,7 +6,6 @@ summary: vsdr.adtcreate events
 ---
 
 = vsdr.adtcreate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

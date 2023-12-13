@@ -6,7 +6,6 @@ summary: exports.anon events
 ---
 
 = exports.anon events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: vol.language events
 ---
 
 = vol.language events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

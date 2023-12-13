@@ -6,7 +6,6 @@ summary: mcc.drsom events
 ---
 
 = mcc.drsom events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

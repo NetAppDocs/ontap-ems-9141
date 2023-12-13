@@ -6,7 +6,6 @@ summary: sp.upd events
 ---
 
 = sp.upd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

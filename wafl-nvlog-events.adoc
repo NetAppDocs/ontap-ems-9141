@@ -6,7 +6,6 @@ summary: wafl.nvlog events
 ---
 
 = wafl.nvlog events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: scsiblade.disabled events
 ---
 
 = scsiblade.disabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

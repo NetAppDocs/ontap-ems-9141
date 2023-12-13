@@ -6,7 +6,6 @@ summary: nblade.vifdel events
 ---
 
 = nblade.vifdel events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

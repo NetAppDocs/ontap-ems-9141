@@ -6,7 +6,6 @@ summary: passwd.changed events
 ---
 
 = passwd.changed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

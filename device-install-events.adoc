@@ -6,7 +6,6 @@ summary: device.install events
 ---
 
 = device.install events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

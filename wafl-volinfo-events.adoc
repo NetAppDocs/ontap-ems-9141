@@ -6,7 +6,6 @@ summary: wafl.volinfo events
 ---
 
 = wafl.volinfo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

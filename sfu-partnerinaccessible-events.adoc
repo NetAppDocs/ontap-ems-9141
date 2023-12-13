@@ -6,7 +6,6 @@ summary: sfu.partnerinaccessible events
 ---
 
 = sfu.partnerinaccessible events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

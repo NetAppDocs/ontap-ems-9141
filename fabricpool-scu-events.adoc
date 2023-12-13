@@ -6,7 +6,6 @@ summary: fabricpool.scu events
 ---
 
 = fabricpool.scu events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

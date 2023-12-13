@@ -6,7 +6,6 @@ summary: smbc.aufo events
 ---
 
 = smbc.aufo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

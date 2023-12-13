@@ -6,7 +6,6 @@ summary: repository.invalid events
 ---
 
 = repository.invalid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: nblade.cifsmaxopensamefilenotice events
 ---
 
 = nblade.cifsmaxopensamefilenotice events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

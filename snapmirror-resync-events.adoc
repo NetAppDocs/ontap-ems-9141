@@ -6,7 +6,6 @@ summary: snapmirror.resync events
 ---
 
 = snapmirror.resync events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

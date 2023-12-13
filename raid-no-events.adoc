@@ -6,7 +6,6 @@ summary: raid.no events
 ---
 
 = raid.no events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

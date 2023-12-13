@@ -6,7 +6,6 @@ summary: sas.adapter events
 ---
 
 = sas.adapter events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

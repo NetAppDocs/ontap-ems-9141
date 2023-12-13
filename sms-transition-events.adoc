@@ -6,7 +6,6 @@ summary: sms.transition events
 ---
 
 = sms.transition events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: isns.enqueue events
 ---
 
 = isns.enqueue events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

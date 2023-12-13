@@ -6,7 +6,6 @@ summary: wafl.c2c events
 ---
 
 = wafl.c2c events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

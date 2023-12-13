@@ -6,7 +6,6 @@ summary: callhome.ext events
 ---
 
 = callhome.ext events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

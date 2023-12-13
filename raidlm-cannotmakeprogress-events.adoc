@@ -6,7 +6,6 @@ summary: raidlm.cannotmakeprogress events
 ---
 
 = raidlm.cannotmakeprogress events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

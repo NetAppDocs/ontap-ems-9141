@@ -6,7 +6,6 @@ summary: dbs.block events
 ---
 
 = dbs.block events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

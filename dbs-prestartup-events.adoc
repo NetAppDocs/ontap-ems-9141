@@ -6,7 +6,6 @@ summary: dbs.prestartup events
 ---
 
 = dbs.prestartup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

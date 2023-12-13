@@ -6,7 +6,6 @@ summary: nv.none events
 ---
 
 = nv.none events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

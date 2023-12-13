@@ -6,7 +6,6 @@ summary: raid.olm events
 ---
 
 = raid.olm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

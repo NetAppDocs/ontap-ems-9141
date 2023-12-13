@@ -6,7 +6,6 @@ summary: nblade.cifssametreepersessnotice events
 ---
 
 = nblade.cifssametreepersessnotice events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: scsiblade.illegal events
 ---
 
 = scsiblade.illegal events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

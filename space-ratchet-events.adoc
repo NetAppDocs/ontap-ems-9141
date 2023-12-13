@@ -6,7 +6,6 @@ summary: space.ratchet events
 ---
 
 = space.ratchet events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

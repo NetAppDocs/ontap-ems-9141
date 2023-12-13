@@ -6,7 +6,6 @@ summary: rlib.duplicate events
 ---
 
 = rlib.duplicate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

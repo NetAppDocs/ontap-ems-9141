@@ -6,7 +6,6 @@ summary: snapvault.qtree events
 ---
 
 = snapvault.qtree events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

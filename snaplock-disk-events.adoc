@@ -6,7 +6,6 @@ summary: snaplock.disk events
 ---
 
 = snaplock.disk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

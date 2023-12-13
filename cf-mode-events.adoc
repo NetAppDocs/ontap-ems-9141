@@ -6,7 +6,6 @@ summary: cf.mode events
 ---
 
 = cf.mode events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

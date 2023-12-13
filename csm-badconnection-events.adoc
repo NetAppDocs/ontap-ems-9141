@@ -6,7 +6,6 @@ summary: csm.badconnection events
 ---
 
 = csm.badconnection events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: arw.new events
 ---
 
 = arw.new events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

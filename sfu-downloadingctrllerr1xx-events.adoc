@@ -6,7 +6,6 @@ summary: sfu.downloadingctrllerr1xx events
 ---
 
 = sfu.downloadingctrllerr1xx events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

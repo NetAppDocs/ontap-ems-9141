@@ -6,7 +6,6 @@ summary: raid.warn events
 ---
 
 = raid.warn events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

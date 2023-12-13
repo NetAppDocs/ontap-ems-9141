@@ -6,7 +6,6 @@ summary: nvmeof.onlyoneport events
 ---
 
 = nvmeof.onlyoneport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: vsdr.volmov events
 ---
 
 = vsdr.volmov events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

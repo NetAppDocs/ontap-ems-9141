@@ -6,7 +6,6 @@ summary: diskown.mcc events
 ---
 
 = diskown.mcc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

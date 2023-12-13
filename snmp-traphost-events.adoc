@@ -6,7 +6,6 @@ summary: snmp.traphost events
 ---
 
 = snmp.traphost events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

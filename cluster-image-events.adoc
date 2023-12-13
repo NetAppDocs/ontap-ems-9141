@@ -6,7 +6,6 @@ summary: cluster.image events
 ---
 
 = cluster.image events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

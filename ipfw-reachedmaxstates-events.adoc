@@ -6,7 +6,6 @@ summary: ipfw.reachedmaxstates events
 ---
 
 = ipfw.reachedmaxstates events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

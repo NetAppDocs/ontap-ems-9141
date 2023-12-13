@@ -6,7 +6,6 @@ summary: spm.vifmgr events
 ---
 
 = spm.vifmgr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: dbs.unresponsive events
 ---
 
 = dbs.unresponsive events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

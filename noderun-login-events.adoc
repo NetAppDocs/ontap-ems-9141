@@ -6,7 +6,6 @@ summary: noderun.login events
 ---
 
 = noderun.login events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: nv.switchover events
 ---
 
 = nv.switchover events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

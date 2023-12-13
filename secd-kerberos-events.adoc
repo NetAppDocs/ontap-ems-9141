@@ -6,7 +6,6 @@ summary: secd.kerberos events
 ---
 
 = secd.kerberos events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

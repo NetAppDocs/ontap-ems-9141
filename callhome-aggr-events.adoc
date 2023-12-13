@@ -6,7 +6,6 @@ summary: callhome.aggr events
 ---
 
 = callhome.aggr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

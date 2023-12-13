@@ -6,7 +6,6 @@ summary: sas.cpr events
 ---
 
 = sas.cpr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

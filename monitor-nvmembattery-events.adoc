@@ -6,7 +6,6 @@ summary: monitor.nvmembattery events
 ---
 
 = monitor.nvmembattery events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

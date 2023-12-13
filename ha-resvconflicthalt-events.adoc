@@ -6,7 +6,6 @@ summary: ha.resvconflicthalt events
 ---
 
 = ha.resvconflicthalt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

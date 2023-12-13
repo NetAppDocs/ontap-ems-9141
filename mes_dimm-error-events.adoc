@@ -6,7 +6,6 @@ summary: mes_dimm.error events
 ---
 
 = mes_dimm.error events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

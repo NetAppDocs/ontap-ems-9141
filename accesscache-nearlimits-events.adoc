@@ -6,7 +6,6 @@ summary: accesscache.nearlimits events
 ---
 
 = accesscache.nearlimits events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

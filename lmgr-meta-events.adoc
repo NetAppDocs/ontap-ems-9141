@@ -6,7 +6,6 @@ summary: lmgr.meta events
 ---
 
 = lmgr.meta events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

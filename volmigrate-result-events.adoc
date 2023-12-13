@@ -6,7 +6,6 @@ summary: volmigrate.result events
 ---
 
 = volmigrate.result events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

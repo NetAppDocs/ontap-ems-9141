@@ -6,7 +6,6 @@ summary: raid.fs events
 ---
 
 = raid.fs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

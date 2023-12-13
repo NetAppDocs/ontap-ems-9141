@@ -6,7 +6,6 @@ summary: moveagent.phase events
 ---
 
 = moveagent.phase events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

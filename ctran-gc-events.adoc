@@ -6,7 +6,6 @@ summary: ctran.gc events
 ---
 
 = ctran.gc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: cf.ndustart events
 ---
 
 = cf.ndustart events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

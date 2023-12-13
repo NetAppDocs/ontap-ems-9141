@@ -6,7 +6,6 @@ summary: nblade.nfsv4poolexhaust events
 ---
 
 = nblade.nfsv4poolexhaust events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

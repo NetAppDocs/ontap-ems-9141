@@ -6,7 +6,6 @@ summary: dfu.firmwaredownloading events
 ---
 
 = dfu.firmwaredownloading events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

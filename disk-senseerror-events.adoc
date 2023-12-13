@@ -6,7 +6,6 @@ summary: disk.senseerror events
 ---
 
 = disk.senseerror events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

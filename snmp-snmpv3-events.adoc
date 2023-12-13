@@ -6,7 +6,6 @@ summary: snmp.snmpv3 events
 ---
 
 = snmp.snmpv3 events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

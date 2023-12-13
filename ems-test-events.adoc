@@ -6,7 +6,6 @@ summary: ems.test events
 ---
 
 = ems.test events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

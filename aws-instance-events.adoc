@@ -6,7 +6,6 @@ summary: aws.instance events
 ---
 
 = aws.instance events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

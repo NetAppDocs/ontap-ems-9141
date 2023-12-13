@@ -6,7 +6,6 @@ summary: scsiblade.offline events
 ---
 
 = scsiblade.offline events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

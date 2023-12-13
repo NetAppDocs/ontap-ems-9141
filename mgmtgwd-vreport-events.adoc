@@ -6,7 +6,6 @@ summary: mgmtgwd.vreport events
 ---
 
 = mgmtgwd.vreport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

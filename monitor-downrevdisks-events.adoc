@@ -6,7 +6,6 @@ summary: monitor.downrevdisks events
 ---
 
 = monitor.downrevdisks events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

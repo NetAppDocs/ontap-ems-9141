@@ -6,7 +6,6 @@ summary: vsdr.schedule events
 ---
 
 = vsdr.schedule events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

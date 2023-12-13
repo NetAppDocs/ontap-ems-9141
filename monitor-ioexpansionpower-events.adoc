@@ -6,7 +6,6 @@ summary: monitor.ioexpansionpower events
 ---
 
 = monitor.ioexpansionpower events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

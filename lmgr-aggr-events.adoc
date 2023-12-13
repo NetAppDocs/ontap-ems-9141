@@ -6,7 +6,6 @@ summary: lmgr.aggr events
 ---
 
 = lmgr.aggr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: sfu.downloadctrllerbridge events
 ---
 
 = sfu.downloadctrllerbridge events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

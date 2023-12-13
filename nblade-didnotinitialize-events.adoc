@@ -6,7 +6,6 @@ summary: nblade.didnotinitialize events
 ---
 
 = nblade.didnotinitialize events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

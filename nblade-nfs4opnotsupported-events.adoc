@@ -6,7 +6,6 @@ summary: nblade.nfs4opnotsupported events
 ---
 
 = nblade.nfs4opnotsupported events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

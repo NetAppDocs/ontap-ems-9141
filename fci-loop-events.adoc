@@ -6,7 +6,6 @@ summary: fci.loop events
 ---
 
 = fci.loop events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

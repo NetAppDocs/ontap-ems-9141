@@ -6,7 +6,6 @@ summary: vol.phy events
 ---
 
 = vol.phy events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

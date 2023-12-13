@@ -6,7 +6,6 @@ summary: dfu.clusterpartner events
 ---
 
 = dfu.clusterpartner events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

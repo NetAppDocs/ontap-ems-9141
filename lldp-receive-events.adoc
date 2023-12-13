@@ -6,7 +6,6 @@ summary: lldp.receive events
 ---
 
 = lldp.receive events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

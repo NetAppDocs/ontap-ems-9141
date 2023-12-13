@@ -6,7 +6,6 @@ summary: cs.create events
 ---
 
 = cs.create events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

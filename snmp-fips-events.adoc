@@ -6,7 +6,6 @@ summary: snmp.fips events
 ---
 
 = snmp.fips events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: vf.cleanup events
 ---
 
 = vf.cleanup events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

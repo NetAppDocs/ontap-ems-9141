@@ -6,7 +6,6 @@ summary: cluster.epsilon events
 ---
 
 = cluster.epsilon events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

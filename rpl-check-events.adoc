@@ -6,7 +6,6 @@ summary: rpl.check events
 ---
 
 = rpl.check events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

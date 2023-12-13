@@ -6,7 +6,6 @@ summary: wafl.raid events
 ---
 
 = wafl.raid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

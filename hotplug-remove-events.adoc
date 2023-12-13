@@ -6,7 +6,6 @@ summary: hotplug.remove events
 ---
 
 = hotplug.remove events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

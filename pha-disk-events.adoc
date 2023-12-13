@@ -6,7 +6,6 @@ summary: pha.disk events
 ---
 
 = pha.disk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: arw.analytics events
 ---
 
 = arw.analytics events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

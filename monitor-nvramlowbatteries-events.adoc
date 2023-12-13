@@ -6,7 +6,6 @@ summary: monitor.nvramlowbatteries events
 ---
 
 = monitor.nvramlowbatteries events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

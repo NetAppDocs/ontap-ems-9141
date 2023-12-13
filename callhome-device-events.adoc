@@ -6,7 +6,6 @@ summary: callhome.device events
 ---
 
 = callhome.device events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

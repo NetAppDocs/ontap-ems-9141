@@ -6,7 +6,6 @@ summary: config.sameswitch events
 ---
 
 = config.sameswitch events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

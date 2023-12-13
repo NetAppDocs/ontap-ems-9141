@@ -6,7 +6,6 @@ summary: wafl.memory events
 ---
 
 = wafl.memory events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

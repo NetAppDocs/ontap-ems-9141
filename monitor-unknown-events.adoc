@@ -6,7 +6,6 @@ summary: monitor.unknown events
 ---
 
 = monitor.unknown events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

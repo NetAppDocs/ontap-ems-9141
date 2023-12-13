@@ -6,7 +6,6 @@ summary: repl.cloud events
 ---
 
 = repl.cloud events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

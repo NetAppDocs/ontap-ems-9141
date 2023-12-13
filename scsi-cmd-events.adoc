@@ -6,7 +6,6 @@ summary: scsi.cmd events
 ---
 
 = scsi.cmd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

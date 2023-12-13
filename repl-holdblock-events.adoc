@@ -6,7 +6,6 @@ summary: repl.holdblock events
 ---
 
 = repl.holdblock events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: iclink.probe events
 ---
 
 = iclink.probe events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

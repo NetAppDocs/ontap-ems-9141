@@ -6,7 +6,6 @@ summary: cna.initfailed events
 ---
 
 = cna.initfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

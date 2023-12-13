@@ -6,7 +6,6 @@ summary: nblade.cifsmanyauths events
 ---
 
 = nblade.cifsmanyauths events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

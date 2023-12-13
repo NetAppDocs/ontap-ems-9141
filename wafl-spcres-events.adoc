@@ -6,7 +6,6 @@ summary: wafl.spcres events
 ---
 
 = wafl.spcres events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

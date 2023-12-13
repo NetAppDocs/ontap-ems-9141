@@ -6,7 +6,6 @@ summary: replication.wormlog events
 ---
 
 = replication.wormlog events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

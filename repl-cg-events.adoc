@@ -6,7 +6,6 @@ summary: repl.cg events
 ---
 
 = repl.cg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

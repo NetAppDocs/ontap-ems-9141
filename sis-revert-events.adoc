@@ -6,7 +6,6 @@ summary: sis.revert events
 ---
 
 = sis.revert events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: nvdimm.excessive events
 ---
 
 = nvdimm.excessive events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

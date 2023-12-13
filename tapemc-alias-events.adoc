@@ -6,7 +6,6 @@ summary: tapemc.alias events
 ---
 
 = tapemc.alias events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

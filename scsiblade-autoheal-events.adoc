@@ -6,7 +6,6 @@ summary: scsiblade.autoheal events
 ---
 
 = scsiblade.autoheal events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

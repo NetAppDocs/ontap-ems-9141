@@ -6,7 +6,6 @@ summary: sfo.ignoretakeover events
 ---
 
 = sfo.ignoretakeover events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

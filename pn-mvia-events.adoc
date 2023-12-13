@@ -6,7 +6,6 @@ summary: pn.mvia events
 ---
 
 = pn.mvia events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: usbmon.boot events
 ---
 
 = usbmon.boot events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

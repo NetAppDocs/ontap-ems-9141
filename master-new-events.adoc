@@ -6,7 +6,6 @@ summary: master.new events
 ---
 
 = master.new events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

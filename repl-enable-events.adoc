@@ -6,7 +6,6 @@ summary: repl.enable events
 ---
 
 = repl.enable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

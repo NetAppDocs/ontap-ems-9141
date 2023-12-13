@@ -6,7 +6,6 @@ summary: bootfs.env events
 ---
 
 = bootfs.env events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

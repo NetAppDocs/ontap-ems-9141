@@ -6,7 +6,6 @@ summary: air.vplus events
 ---
 
 = air.vplus events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

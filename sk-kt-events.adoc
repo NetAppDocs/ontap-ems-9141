@@ -6,7 +6,6 @@ summary: sk.kt events
 ---
 
 = sk.kt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

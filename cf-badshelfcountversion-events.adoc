@@ -6,7 +6,6 @@ summary: cf.badshelfcountversion events
 ---
 
 = cf.badshelfcountversion events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

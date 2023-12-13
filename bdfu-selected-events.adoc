@@ -6,7 +6,6 @@ summary: bdfu.selected events
 ---
 
 = bdfu.selected events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

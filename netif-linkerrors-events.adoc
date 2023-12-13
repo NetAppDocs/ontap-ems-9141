@@ -6,7 +6,6 @@ summary: netif.linkerrors events
 ---
 
 = netif.linkerrors events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

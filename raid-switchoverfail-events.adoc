@@ -6,7 +6,6 @@ summary: raid.switchoverfail events
 ---
 
 = raid.switchoverfail events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

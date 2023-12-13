@@ -6,7 +6,6 @@ summary: vsdr.invalid events
 ---
 
 = vsdr.invalid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

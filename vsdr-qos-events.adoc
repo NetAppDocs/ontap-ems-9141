@@ -6,7 +6,6 @@ summary: vsdr.qos events
 ---
 
 = vsdr.qos events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

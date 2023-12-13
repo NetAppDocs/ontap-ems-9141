@@ -6,7 +6,6 @@ summary: san.changedhomenode events
 ---
 
 = san.changedhomenode events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

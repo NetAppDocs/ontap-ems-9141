@@ -6,7 +6,6 @@ summary: san.mccpurgeverifyfailed events
 ---
 
 = san.mccpurgeverifyfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

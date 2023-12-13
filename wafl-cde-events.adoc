@@ -6,7 +6,6 @@ summary: wafl.cde events
 ---
 
 = wafl.cde events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

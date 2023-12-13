@@ -6,7 +6,6 @@ summary: ic.hainterconnectdown events
 ---
 
 = ic.hainterconnectdown events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

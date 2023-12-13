@@ -6,7 +6,6 @@ summary: sfu.suspendses events
 ---
 
 = sfu.suspendses events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

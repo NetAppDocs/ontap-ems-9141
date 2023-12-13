@@ -6,7 +6,6 @@ summary: spm.vldb events
 ---
 
 = spm.vldb events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

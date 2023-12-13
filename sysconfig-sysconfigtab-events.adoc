@@ -6,7 +6,6 @@ summary: sysconfig.sysconfigtab events
 ---
 
 = sysconfig.sysconfigtab events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

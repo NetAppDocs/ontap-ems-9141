@@ -6,7 +6,6 @@ summary: fg.statechange events
 ---
 
 = fg.statechange events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

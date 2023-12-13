@@ -6,7 +6,6 @@ summary: icmp.ping events
 ---
 
 = icmp.ping events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

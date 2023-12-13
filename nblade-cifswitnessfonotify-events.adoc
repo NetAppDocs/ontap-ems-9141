@@ -6,7 +6,6 @@ summary: nblade.cifswitnessfonotify events
 ---
 
 = nblade.cifswitnessfonotify events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

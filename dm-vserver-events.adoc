@@ -6,7 +6,6 @@ summary: dm.vserver events
 ---
 
 = dm.vserver events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

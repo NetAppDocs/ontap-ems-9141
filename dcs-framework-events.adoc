@@ -6,7 +6,6 @@ summary: dcs.framework events
 ---
 
 = dcs.framework events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

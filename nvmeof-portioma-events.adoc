@@ -6,7 +6,6 @@ summary: nvmeof.portioma events
 ---
 
 = nvmeof.portioma events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

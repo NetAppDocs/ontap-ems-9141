@@ -6,7 +6,6 @@ summary: tape.device events
 ---
 
 = tape.device events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

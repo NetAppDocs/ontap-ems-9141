@@ -6,7 +6,6 @@ summary: raid.quiesce events
 ---
 
 = raid.quiesce events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

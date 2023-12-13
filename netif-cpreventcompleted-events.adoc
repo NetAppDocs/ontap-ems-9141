@@ -6,7 +6,6 @@ summary: netif.cpreventcompleted events
 ---
 
 = netif.cpreventcompleted events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: cf.hwassist events
 ---
 
 = cf.hwassist events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

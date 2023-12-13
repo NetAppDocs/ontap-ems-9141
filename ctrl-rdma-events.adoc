@@ -6,7 +6,6 @@ summary: ctrl.rdma events
 ---
 
 = ctrl.rdma events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

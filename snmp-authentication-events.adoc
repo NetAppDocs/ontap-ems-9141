@@ -6,7 +6,6 @@ summary: snmp.authentication events
 ---
 
 = snmp.authentication events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

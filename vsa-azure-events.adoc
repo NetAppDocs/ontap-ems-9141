@@ -6,7 +6,6 @@ summary: vsa.azure events
 ---
 
 = vsa.azure events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

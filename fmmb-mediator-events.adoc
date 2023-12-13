@@ -6,7 +6,6 @@ summary: fmmb.mediator events
 ---
 
 = fmmb.mediator events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

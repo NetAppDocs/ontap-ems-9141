@@ -6,7 +6,6 @@ summary: fp.est events
 ---
 
 = fp.est events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

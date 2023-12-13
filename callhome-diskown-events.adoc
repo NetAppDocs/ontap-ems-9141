@@ -6,7 +6,6 @@ summary: callhome.diskown events
 ---
 
 = callhome.diskown events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

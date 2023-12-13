@@ -6,7 +6,6 @@ summary: wafl.pnso events
 ---
 
 = wafl.pnso events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

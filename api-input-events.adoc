@@ -6,7 +6,6 @@ summary: api.input events
 ---
 
 = api.input events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

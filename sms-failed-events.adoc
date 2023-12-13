@@ -6,7 +6,6 @@ summary: sms.failed events
 ---
 
 = sms.failed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

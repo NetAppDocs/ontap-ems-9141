@@ -6,7 +6,6 @@ summary: fmmb.payload events
 ---
 
 = fmmb.payload events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

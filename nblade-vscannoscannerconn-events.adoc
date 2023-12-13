@@ -6,7 +6,6 @@ summary: nblade.vscannoscannerconn events
 ---
 
 = nblade.vscannoscannerconn events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: mgmt.cifsshare events
 ---
 
 = mgmt.cifsshare events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

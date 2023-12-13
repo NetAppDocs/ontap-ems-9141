@@ -6,7 +6,6 @@ summary: coredump.nvlog events
 ---
 
 = coredump.nvlog events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

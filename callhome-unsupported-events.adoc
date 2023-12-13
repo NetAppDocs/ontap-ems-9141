@@ -6,7 +6,6 @@ summary: callhome.unsupported events
 ---
 
 = callhome.unsupported events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

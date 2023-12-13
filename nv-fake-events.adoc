@@ -6,7 +6,6 @@ summary: nv.fake events
 ---
 
 = nv.fake events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

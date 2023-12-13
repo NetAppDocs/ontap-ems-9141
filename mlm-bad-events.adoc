@@ -6,7 +6,6 @@ summary: mlm.bad events
 ---
 
 = mlm.bad events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

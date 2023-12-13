@@ -6,7 +6,6 @@ summary: encryption.queue events
 ---
 
 = encryption.queue events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: callhome.shutdown events
 ---
 
 = callhome.shutdown events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

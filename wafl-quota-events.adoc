@@ -6,7 +6,6 @@ summary: wafl.quota events
 ---
 
 = wafl.quota events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

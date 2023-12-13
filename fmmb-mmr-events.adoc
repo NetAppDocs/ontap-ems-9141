@@ -6,7 +6,6 @@ summary: fmmb.mmr events
 ---
 
 = fmmb.mmr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

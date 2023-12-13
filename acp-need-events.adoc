@@ -6,7 +6,6 @@ summary: acp.need events
 ---
 
 = acp.need events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

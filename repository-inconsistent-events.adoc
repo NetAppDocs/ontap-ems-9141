@@ -6,7 +6,6 @@ summary: repository.inconsistent events
 ---
 
 = repository.inconsistent events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

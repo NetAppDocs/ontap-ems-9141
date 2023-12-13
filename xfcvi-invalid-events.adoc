@@ -6,7 +6,6 @@ summary: xfcvi.invalid events
 ---
 
 = xfcvi.invalid events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

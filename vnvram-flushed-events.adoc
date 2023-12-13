@@ -6,7 +6,6 @@ summary: vnvram.flushed events
 ---
 
 = vnvram.flushed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

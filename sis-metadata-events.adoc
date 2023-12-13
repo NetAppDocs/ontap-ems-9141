@@ -6,7 +6,6 @@ summary: sis.metadata events
 ---
 
 = sis.metadata events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

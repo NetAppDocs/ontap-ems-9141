@@ -6,7 +6,6 @@ summary: moveagent.outofmemory events
 ---
 
 = moveagent.outofmemory events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

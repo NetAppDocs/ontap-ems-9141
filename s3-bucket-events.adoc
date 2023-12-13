@@ -6,7 +6,6 @@ summary: s3.bucket events
 ---
 
 = s3.bucket events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

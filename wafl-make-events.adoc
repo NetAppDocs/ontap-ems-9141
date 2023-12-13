@@ -6,7 +6,6 @@ summary: wafl.make events
 ---
 
 = wafl.make events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

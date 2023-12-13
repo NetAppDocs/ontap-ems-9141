@@ -6,7 +6,6 @@ summary: sm.disable events
 ---
 
 = sm.disable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

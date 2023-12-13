@@ -6,7 +6,6 @@ summary: esh.init events
 ---
 
 = esh.init events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

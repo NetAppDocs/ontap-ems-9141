@@ -6,7 +6,6 @@ summary: nblade.cifsshrconnectfailed events
 ---
 
 = nblade.cifsshrconnectfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

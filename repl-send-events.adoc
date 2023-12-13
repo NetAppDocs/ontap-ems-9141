@@ -6,7 +6,6 @@ summary: repl.send events
 ---
 
 = repl.send events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

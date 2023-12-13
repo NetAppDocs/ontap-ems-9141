@@ -6,7 +6,6 @@ summary: dbs.capacity events
 ---
 
 = dbs.capacity events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

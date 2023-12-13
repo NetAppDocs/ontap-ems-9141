@@ -6,7 +6,6 @@ summary: diff.svcs events
 ---
 
 = diff.svcs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

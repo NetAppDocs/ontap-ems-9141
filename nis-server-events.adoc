@@ -6,7 +6,6 @@ summary: nis.server events
 ---
 
 = nis.server events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

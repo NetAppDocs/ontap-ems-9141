@@ -6,7 +6,6 @@ summary: clam.takeover events
 ---
 
 = clam.takeover events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

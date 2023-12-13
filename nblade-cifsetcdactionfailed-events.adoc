@@ -6,7 +6,6 @@ summary: nblade.cifsetcdactionfailed events
 ---
 
 = nblade.cifsetcdactionfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.attr events
 ---
 
 = wafl.attr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

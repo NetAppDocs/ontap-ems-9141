@@ -6,7 +6,6 @@ summary: cde.undo events
 ---
 
 = cde.undo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

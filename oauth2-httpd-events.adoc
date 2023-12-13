@@ -6,7 +6,6 @@ summary: oauth2.httpd events
 ---
 
 = oauth2.httpd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

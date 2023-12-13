@@ -6,7 +6,6 @@ summary: dbs.assignments events
 ---
 
 = dbs.assignments events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

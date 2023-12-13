@@ -6,7 +6,6 @@ summary: coredump.long events
 ---
 
 = coredump.long events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

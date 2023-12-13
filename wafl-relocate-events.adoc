@@ -6,7 +6,6 @@ summary: wafl.relocate events
 ---
 
 = wafl.relocate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

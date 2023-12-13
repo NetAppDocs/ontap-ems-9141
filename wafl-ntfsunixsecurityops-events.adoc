@@ -6,7 +6,6 @@ summary: wafl.ntfsunixsecurityops events
 ---
 
 = wafl.ntfsunixsecurityops events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: raid.unpartition events
 ---
 
 = raid.unpartition events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

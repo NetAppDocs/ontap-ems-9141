@@ -6,7 +6,6 @@ summary: arl.connecttodestfailed events
 ---
 
 = arl.connecttodestfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

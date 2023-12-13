@@ -6,7 +6,6 @@ summary: vifmgr.svcpolicy events
 ---
 
 = vifmgr.svcpolicy events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

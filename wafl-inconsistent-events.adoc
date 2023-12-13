@@ -6,7 +6,6 @@ summary: wafl.inconsistent events
 ---
 
 = wafl.inconsistent events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

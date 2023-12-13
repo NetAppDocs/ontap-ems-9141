@@ -6,7 +6,6 @@ summary: configbr.deletefailed events
 ---
 
 = configbr.deletefailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.err events
 ---
 
 = wafl.err events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: secd.ldap events
 ---
 
 = secd.ldap events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

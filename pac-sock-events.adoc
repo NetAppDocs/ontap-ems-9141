@@ -6,7 +6,6 @@ summary: pac.sock events
 ---
 
 = pac.sock events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

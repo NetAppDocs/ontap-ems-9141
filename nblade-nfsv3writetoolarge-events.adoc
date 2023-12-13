@@ -6,7 +6,6 @@ summary: nblade.nfsv3writetoolarge events
 ---
 
 = nblade.nfsv3writetoolarge events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

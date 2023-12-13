@@ -6,7 +6,6 @@ summary: arl.aggronlinefailed events
 ---
 
 = arl.aggronlinefailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

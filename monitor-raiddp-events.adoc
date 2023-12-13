@@ -6,7 +6,6 @@ summary: monitor.raiddp events
 ---
 
 = monitor.raiddp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

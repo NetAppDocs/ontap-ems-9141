@@ -6,7 +6,6 @@ summary: ic.linkwidthdegraded events
 ---
 
 = ic.linkwidthdegraded events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

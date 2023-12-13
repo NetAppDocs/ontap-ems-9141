@@ -6,7 +6,6 @@ summary: config.atanotsupported events
 ---
 
 = config.atanotsupported events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

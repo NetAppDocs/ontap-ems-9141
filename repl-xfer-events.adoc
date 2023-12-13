@@ -6,7 +6,6 @@ summary: repl.xfer events
 ---
 
 = repl.xfer events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

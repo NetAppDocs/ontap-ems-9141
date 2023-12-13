@@ -6,7 +6,6 @@ summary: pvif.badmtu events
 ---
 
 = pvif.badmtu events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

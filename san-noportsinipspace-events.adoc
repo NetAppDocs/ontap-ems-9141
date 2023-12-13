@@ -6,7 +6,6 @@ summary: san.noportsinipspace events
 ---
 
 = san.noportsinipspace events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

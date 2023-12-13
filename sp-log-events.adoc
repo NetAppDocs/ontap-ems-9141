@@ -6,7 +6,6 @@ summary: sp.log events
 ---
 
 = sp.log events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.spcmgmt events
 ---
 
 = wafl.spcmgmt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

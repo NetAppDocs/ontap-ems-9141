@@ -6,7 +6,6 @@ summary: wafl.seclabel events
 ---
 
 = wafl.seclabel events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: nis.group events
 ---
 
 = nis.group events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: sysmgr.upload events
 ---
 
 = sysmgr.upload events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

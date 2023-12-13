@@ -6,7 +6,6 @@ summary: vifmgr.ipspace events
 ---
 
 = vifmgr.ipspace events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

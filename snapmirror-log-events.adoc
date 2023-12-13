@@ -6,7 +6,6 @@ summary: snapmirror.log events
 ---
 
 = snapmirror.log events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

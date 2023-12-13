@@ -6,7 +6,6 @@ summary: sis.auto events
 ---
 
 = sis.auto events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

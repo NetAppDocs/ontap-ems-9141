@@ -6,7 +6,6 @@ summary: lun.destroy events
 ---
 
 = lun.destroy events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

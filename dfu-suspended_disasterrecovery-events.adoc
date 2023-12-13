@@ -6,7 +6,6 @@ summary: dfu.suspended_disasterrecovery events
 ---
 
 = dfu.suspended_disasterrecovery events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

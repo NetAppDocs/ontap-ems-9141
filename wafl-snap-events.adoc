@@ -6,7 +6,6 @@ summary: wafl.snap events
 ---
 
 = wafl.snap events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

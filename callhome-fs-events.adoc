@@ -6,7 +6,6 @@ summary: callhome.fs events
 ---
 
 = callhome.fs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

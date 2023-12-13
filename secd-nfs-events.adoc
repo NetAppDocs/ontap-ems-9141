@@ -6,7 +6,6 @@ summary: secd.nfs events
 ---
 
 = secd.nfs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

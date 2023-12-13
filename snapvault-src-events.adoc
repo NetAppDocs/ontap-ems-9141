@@ -6,7 +6,6 @@ summary: snapvault.src events
 ---
 
 = snapvault.src events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: nblade.css events
 ---
 
 = nblade.css events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

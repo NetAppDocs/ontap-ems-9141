@@ -6,7 +6,6 @@ summary: sas.reset events
 ---
 
 = sas.reset events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

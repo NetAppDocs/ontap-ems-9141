@@ -6,7 +6,6 @@ summary: clam.node events
 ---
 
 = clam.node events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

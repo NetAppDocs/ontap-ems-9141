@@ -6,7 +6,6 @@ summary: callhome.battery events
 ---
 
 = callhome.battery events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

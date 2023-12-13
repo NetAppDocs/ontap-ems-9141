@@ -6,7 +6,6 @@ summary: callhome.fcp events
 ---
 
 = callhome.fcp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

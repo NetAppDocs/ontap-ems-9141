@@ -6,7 +6,6 @@ summary: ses.psu events
 ---
 
 = ses.psu events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

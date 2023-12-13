@@ -6,7 +6,6 @@ summary: disk.releasefailed events
 ---
 
 = disk.releasefailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

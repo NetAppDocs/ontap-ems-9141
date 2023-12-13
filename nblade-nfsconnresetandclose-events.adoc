@@ -6,7 +6,6 @@ summary: nblade.nfsconnresetandclose events
 ---
 
 = nblade.nfsconnresetandclose events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

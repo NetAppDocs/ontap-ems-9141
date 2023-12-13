@@ -6,7 +6,6 @@ summary: wafl.snapshot_xlation_duplicate_entry events
 ---
 
 = wafl.snapshot_xlation_duplicate_entry events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

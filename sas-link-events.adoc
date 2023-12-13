@@ -6,7 +6,6 @@ summary: sas.link events
 ---
 
 = sas.link events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

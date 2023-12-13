@@ -6,7 +6,6 @@ summary: scsiblade.lu events
 ---
 
 = scsiblade.lu events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

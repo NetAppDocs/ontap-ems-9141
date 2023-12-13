@@ -6,7 +6,6 @@ summary: snapmirror.registry events
 ---
 
 = snapmirror.registry events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

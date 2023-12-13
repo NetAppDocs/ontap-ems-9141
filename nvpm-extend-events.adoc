@@ -6,7 +6,6 @@ summary: nvpm.extend events
 ---
 
 = nvpm.extend events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

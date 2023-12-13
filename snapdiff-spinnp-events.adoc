@@ -6,7 +6,6 @@ summary: snapdiff.spinnp events
 ---
 
 = snapdiff.spinnp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

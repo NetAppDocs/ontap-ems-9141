@@ -6,7 +6,6 @@ summary: vifmgr.skippingl2pingtest events
 ---
 
 = vifmgr.skippingl2pingtest events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

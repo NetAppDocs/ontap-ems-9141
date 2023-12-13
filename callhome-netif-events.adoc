@@ -6,7 +6,6 @@ summary: callhome.netif events
 ---
 
 = callhome.netif events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: kern.uptime events
 ---
 
 = kern.uptime events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

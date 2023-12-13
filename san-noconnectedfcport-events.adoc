@@ -6,7 +6,6 @@ summary: san.noconnectedfcport events
 ---
 
 = san.noconnectedfcport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

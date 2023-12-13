@@ -6,7 +6,6 @@ summary: spm.pipd events
 ---
 
 = spm.pipd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

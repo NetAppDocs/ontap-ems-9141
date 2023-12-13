@@ -6,7 +6,6 @@ summary: rdmalib.rcm events
 ---
 
 = rdmalib.rcm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

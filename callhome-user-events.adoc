@@ -6,7 +6,6 @@ summary: callhome.user events
 ---
 
 = callhome.user events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

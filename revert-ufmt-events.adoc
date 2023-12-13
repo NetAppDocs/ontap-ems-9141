@@ -6,7 +6,6 @@ summary: revert.ufmt events
 ---
 
 = revert.ufmt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

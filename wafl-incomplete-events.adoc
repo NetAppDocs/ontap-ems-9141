@@ -6,7 +6,6 @@ summary: wafl.incomplete events
 ---
 
 = wafl.incomplete events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

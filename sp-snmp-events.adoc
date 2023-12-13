@@ -6,7 +6,6 @@ summary: sp.snmp events
 ---
 
 = sp.snmp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

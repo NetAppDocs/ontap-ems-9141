@@ -6,7 +6,6 @@ summary: spm.httpd events
 ---
 
 = spm.httpd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

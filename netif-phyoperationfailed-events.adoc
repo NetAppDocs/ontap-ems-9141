@@ -6,7 +6,6 @@ summary: netif.phyoperationfailed events
 ---
 
 = netif.phyoperationfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

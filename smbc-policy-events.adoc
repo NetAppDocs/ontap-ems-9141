@@ -6,7 +6,6 @@ summary: smbc.policy events
 ---
 
 = smbc.policy events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

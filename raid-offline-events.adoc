@@ -6,7 +6,6 @@ summary: raid.offline events
 ---
 
 = raid.offline events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

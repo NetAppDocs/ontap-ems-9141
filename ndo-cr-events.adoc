@@ -6,7 +6,6 @@ summary: ndo.cr events
 ---
 
 = ndo.cr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

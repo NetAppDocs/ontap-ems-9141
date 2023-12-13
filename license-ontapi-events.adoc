@@ -6,7 +6,6 @@ summary: license.ontapi events
 ---
 
 = license.ontapi events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

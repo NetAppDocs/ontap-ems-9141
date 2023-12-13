@@ -6,7 +6,6 @@ summary: wafl.spacetax events
 ---
 
 = wafl.spacetax events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

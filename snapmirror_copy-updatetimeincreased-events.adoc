@@ -6,7 +6,6 @@ summary: snapmirror_copy.updatetimeincreased events
 ---
 
 = snapmirror_copy.updatetimeincreased events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

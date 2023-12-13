@@ -6,7 +6,6 @@ summary: monitor.rtchighpower events
 ---
 
 = monitor.rtchighpower events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

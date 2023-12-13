@@ -6,7 +6,6 @@ summary: ffm.attach events
 ---
 
 = ffm.attach events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: repl.checker events
 ---
 
 = repl.checker events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

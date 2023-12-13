@@ -6,7 +6,6 @@ summary: nblade.fpolpsvolofflined events
 ---
 
 = nblade.fpolpsvolofflined events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

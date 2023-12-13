@@ -6,7 +6,6 @@ summary: disk.failmsg events
 ---
 
 = disk.failmsg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

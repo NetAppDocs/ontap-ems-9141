@@ -6,7 +6,6 @@ summary: sasmon.adapter events
 ---
 
 = sasmon.adapter events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

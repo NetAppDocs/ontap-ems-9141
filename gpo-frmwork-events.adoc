@@ -6,7 +6,6 @@ summary: gpo.frmwork events
 ---
 
 = gpo.frmwork events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

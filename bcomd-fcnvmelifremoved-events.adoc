@@ -6,7 +6,6 @@ summary: bcomd.fcnvmelifremoved events
 ---
 
 = bcomd.fcnvmelifremoved events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

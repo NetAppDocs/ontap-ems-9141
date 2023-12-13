@@ -6,7 +6,6 @@ summary: tsse.scan events
 ---
 
 = tsse.scan events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

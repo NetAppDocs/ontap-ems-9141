@@ -6,7 +6,6 @@ summary: aggr.full events
 ---
 
 = aggr.full events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

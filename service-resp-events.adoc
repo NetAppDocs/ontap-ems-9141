@@ -6,7 +6,6 @@ summary: service.resp events
 ---
 
 = service.resp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

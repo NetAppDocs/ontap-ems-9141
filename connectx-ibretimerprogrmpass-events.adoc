@@ -6,7 +6,6 @@ summary: connectx.ibretimerprogrmpass events
 ---
 
 = connectx.ibretimerprogrmpass events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

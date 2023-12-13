@@ -6,7 +6,6 @@ summary: dbs.master events
 ---
 
 = dbs.master events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: csm.ctfallbackactiveopen events
 ---
 
 = csm.ctfallbackactiveopen events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

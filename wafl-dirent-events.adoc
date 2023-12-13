@@ -6,7 +6,6 @@ summary: wafl.dirent events
 ---
 
 = wafl.dirent events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

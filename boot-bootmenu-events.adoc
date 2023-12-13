@@ -6,7 +6,6 @@ summary: boot.bootmenu events
 ---
 
 = boot.bootmenu events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

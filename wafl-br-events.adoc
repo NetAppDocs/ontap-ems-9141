@@ -6,7 +6,6 @@ summary: wafl.br events
 ---
 
 = wafl.br events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

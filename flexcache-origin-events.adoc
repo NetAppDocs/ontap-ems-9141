@@ -6,7 +6,6 @@ summary: flexcache.origin events
 ---
 
 = flexcache.origin events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

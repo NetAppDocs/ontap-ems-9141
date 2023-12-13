@@ -6,7 +6,6 @@ summary: vsdr.ip events
 ---
 
 = vsdr.ip events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

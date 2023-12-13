@@ -6,7 +6,6 @@ summary: crypto.debug events
 ---
 
 = crypto.debug events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: lsm.rangedelete events
 ---
 
 = lsm.rangedelete events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

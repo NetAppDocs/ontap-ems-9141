@@ -6,7 +6,6 @@ summary: scsiblade.online events
 ---
 
 = scsiblade.online events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

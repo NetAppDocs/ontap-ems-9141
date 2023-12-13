@@ -6,7 +6,6 @@ summary: ffm.restart events
 ---
 
 = ffm.restart events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

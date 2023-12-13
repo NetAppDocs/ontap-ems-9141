@@ -6,7 +6,6 @@ summary: fal_nvme.online events
 ---
 
 = fal_nvme.online events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

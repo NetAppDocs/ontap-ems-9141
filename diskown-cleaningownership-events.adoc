@@ -6,7 +6,6 @@ summary: diskown.cleaningownership events
 ---
 
 = diskown.cleaningownership events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

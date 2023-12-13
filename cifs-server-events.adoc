@@ -6,7 +6,6 @@ summary: cifs.server events
 ---
 
 = cifs.server events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

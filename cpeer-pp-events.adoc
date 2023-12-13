@@ -6,7 +6,6 @@ summary: cpeer.pp events
 ---
 
 = cpeer.pp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

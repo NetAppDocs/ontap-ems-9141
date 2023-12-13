@@ -6,7 +6,6 @@ summary: arl.precmt events
 ---
 
 = arl.precmt events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

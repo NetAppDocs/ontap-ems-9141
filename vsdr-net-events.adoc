@@ -6,7 +6,6 @@ summary: vsdr.net events
 ---
 
 = vsdr.net events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

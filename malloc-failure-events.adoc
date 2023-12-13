@@ -6,7 +6,6 @@ summary: malloc.failure events
 ---
 
 = malloc.failure events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

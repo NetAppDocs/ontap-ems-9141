@@ -6,7 +6,6 @@ summary: config.habadremote events
 ---
 
 = config.habadremote events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

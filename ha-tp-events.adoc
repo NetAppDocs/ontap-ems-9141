@@ -6,7 +6,6 @@ summary: ha.tp events
 ---
 
 = ha.tp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

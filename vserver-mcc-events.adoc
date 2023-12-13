@@ -6,7 +6,6 @@ summary: vserver.mcc events
 ---
 
 = vserver.mcc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

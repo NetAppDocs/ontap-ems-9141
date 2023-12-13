@@ -6,7 +6,6 @@ summary: raid.mgrio events
 ---
 
 = raid.mgrio events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

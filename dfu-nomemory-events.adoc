@@ -6,7 +6,6 @@ summary: dfu.nomemory events
 ---
 
 = dfu.nomemory events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

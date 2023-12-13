@@ -6,7 +6,6 @@ summary: query.execution events
 ---
 
 = query.execution events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

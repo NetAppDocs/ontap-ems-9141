@@ -6,7 +6,6 @@ summary: telnet.firewall events
 ---
 
 = telnet.firewall events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: disk.lun events
 ---
 
 = disk.lun events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

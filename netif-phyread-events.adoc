@@ -6,7 +6,6 @@ summary: netif.phyread events
 ---
 
 = netif.phyread events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

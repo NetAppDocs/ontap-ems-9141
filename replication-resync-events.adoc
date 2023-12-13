@@ -6,7 +6,6 @@ summary: replication.resync events
 ---
 
 = replication.resync events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

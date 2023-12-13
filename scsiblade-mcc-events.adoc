@@ -6,7 +6,6 @@ summary: scsiblade.mcc events
 ---
 
 = scsiblade.mcc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: acp.downrev events
 ---
 
 = acp.downrev events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

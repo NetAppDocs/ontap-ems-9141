@@ -6,7 +6,6 @@ summary: hm.alert events
 ---
 
 = hm.alert events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: lib.nvtrace events
 ---
 
 = lib.nvtrace events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

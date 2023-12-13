@@ -6,7 +6,6 @@ summary: wafl.8 events
 ---
 
 = wafl.8 events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

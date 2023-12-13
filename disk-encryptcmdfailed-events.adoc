@@ -6,7 +6,6 @@ summary: disk.encryptcmdfailed events
 ---
 
 = disk.encryptcmdfailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

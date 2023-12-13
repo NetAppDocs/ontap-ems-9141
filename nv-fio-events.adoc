@@ -6,7 +6,6 @@ summary: nv.fio events
 ---
 
 = nv.fio events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

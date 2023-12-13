@@ -6,7 +6,6 @@ summary: ha.giveback events
 ---
 
 = ha.giveback events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

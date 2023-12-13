@@ -6,7 +6,6 @@ summary: nblade.nfscredcacheflushed events
 ---
 
 = nblade.nfscredcacheflushed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

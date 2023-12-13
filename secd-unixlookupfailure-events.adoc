@@ -6,7 +6,6 @@ summary: secd.unixlookupfailure events
 ---
 
 = secd.unixlookupfailure events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

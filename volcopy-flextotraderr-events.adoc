@@ -6,7 +6,6 @@ summary: volcopy.flextotraderr events
 ---
 
 = volcopy.flextotraderr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

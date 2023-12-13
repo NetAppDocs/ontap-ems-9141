@@ -6,7 +6,6 @@ summary: exports.nsdb events
 ---
 
 = exports.nsdb events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

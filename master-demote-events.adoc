@@ -6,7 +6,6 @@ summary: master.demote events
 ---
 
 = master.demote events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

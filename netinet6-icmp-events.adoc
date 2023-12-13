@@ -6,7 +6,6 @@ summary: netinet6.icmp events
 ---
 
 = netinet6.icmp events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

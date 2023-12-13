@@ -6,7 +6,6 @@ summary: scsiblade.lun events
 ---
 
 = scsiblade.lun events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

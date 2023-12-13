@@ -6,7 +6,6 @@ summary: ipmultipath.init events
 ---
 
 = ipmultipath.init events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

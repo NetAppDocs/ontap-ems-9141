@@ -6,7 +6,6 @@ summary: netif.nicnotsupported events
 ---
 
 = netif.nicnotsupported events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: acp.fw events
 ---
 
 = acp.fw events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: callhome.sas events
 ---
 
 = callhome.sas events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

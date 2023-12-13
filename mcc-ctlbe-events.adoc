@@ -6,7 +6,6 @@ summary: mcc.ctlbe events
 ---
 
 = mcc.ctlbe events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

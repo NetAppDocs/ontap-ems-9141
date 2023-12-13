@@ -6,7 +6,6 @@ summary: savecore.completed events
 ---
 
 = savecore.completed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

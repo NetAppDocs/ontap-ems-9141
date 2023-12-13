@@ -6,7 +6,6 @@ summary: nvram.battery events
 ---
 
 = nvram.battery events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

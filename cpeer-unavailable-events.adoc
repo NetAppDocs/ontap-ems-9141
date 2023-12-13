@@ -6,7 +6,6 @@ summary: cpeer.unavailable events
 ---
 
 = cpeer.unavailable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

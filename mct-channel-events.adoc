@@ -6,7 +6,6 @@ summary: mct.channel events
 ---
 
 = mct.channel events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

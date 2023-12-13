@@ -6,7 +6,6 @@ summary: dbs.node events
 ---
 
 = dbs.node events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

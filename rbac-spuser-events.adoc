@@ -6,7 +6,6 @@ summary: rbac.spuser events
 ---
 
 = rbac.spuser events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

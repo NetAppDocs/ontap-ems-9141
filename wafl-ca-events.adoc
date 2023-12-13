@@ -6,7 +6,6 @@ summary: wafl.ca events
 ---
 
 = wafl.ca events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

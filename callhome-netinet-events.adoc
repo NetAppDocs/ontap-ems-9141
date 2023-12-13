@@ -6,7 +6,6 @@ summary: callhome.netinet events
 ---
 
 = callhome.netinet events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

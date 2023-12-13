@@ -6,7 +6,6 @@ summary: disk.checksum events
 ---
 
 = disk.checksum events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

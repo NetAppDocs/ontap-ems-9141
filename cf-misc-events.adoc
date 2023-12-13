@@ -6,7 +6,6 @@ summary: cf.misc events
 ---
 
 = cf.misc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

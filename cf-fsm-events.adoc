@@ -6,7 +6,6 @@ summary: cf.fsm events
 ---
 
 = cf.fsm events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

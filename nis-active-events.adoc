@@ -6,7 +6,6 @@ summary: nis.active events
 ---
 
 = nis.active events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

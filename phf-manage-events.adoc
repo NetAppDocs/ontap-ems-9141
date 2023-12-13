@@ -6,7 +6,6 @@ summary: phf.manage events
 ---
 
 = phf.manage events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

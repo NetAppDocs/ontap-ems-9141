@@ -6,7 +6,6 @@ summary: mcc.network events
 ---
 
 = mcc.network events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

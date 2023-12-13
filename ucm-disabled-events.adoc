@@ -6,7 +6,6 @@ summary: ucm.disabled events
 ---
 
 = ucm.disabled events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

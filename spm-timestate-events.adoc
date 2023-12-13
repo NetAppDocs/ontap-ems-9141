@@ -6,7 +6,6 @@ summary: spm.timestate events
 ---
 
 = spm.timestate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

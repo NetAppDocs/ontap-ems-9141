@@ -6,7 +6,6 @@ summary: snaptags.file events
 ---
 
 = snaptags.file events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: wafl.iron events
 ---
 
 = wafl.iron events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

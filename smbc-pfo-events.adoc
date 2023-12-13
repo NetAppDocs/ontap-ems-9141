@@ -6,7 +6,6 @@ summary: smbc.pfo events
 ---
 
 = smbc.pfo events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

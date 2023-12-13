@@ -6,7 +6,6 @@ summary: dev.driver events
 ---
 
 = dev.driver events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

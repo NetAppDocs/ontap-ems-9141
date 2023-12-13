@@ -6,7 +6,6 @@ summary: adt.service events
 ---
 
 = adt.service events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

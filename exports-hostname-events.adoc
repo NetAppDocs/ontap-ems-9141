@@ -6,7 +6,6 @@ summary: exports.hostname events
 ---
 
 = exports.hostname events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

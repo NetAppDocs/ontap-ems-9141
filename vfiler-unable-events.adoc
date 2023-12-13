@@ -6,7 +6,6 @@ summary: vfiler.unable events
 ---
 
 = vfiler.unable events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

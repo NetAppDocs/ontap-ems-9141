@@ -6,7 +6,6 @@ summary: sfu.partnerupdatetimeout events
 ---
 
 = sfu.partnerupdatetimeout events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

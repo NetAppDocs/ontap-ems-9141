@@ -6,7 +6,6 @@ summary: ha.bdfu events
 ---
 
 = ha.bdfu events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: callhome.mhost events
 ---
 
 = callhome.mhost events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

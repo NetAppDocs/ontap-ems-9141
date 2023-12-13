@@ -6,7 +6,6 @@ summary: ses.status events
 ---
 
 = ses.status events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: netgroup.files events
 ---
 
 = netgroup.files events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

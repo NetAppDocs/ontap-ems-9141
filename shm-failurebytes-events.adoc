@@ -6,7 +6,6 @@ summary: shm.failurebytes events
 ---
 
 = shm.failurebytes events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

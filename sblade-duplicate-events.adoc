@@ -6,7 +6,6 @@ summary: sblade.duplicate events
 ---
 
 = sblade.duplicate events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

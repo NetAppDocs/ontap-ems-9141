@@ -6,7 +6,6 @@ summary: bridge.removed events
 ---
 
 = bridge.removed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

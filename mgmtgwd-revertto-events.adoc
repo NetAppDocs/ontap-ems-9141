@@ -6,7 +6,6 @@ summary: mgmtgwd.revertto events
 ---
 
 = mgmtgwd.revertto events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: tape.cmd events
 ---
 
 = tape.cmd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

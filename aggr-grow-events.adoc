@@ -6,7 +6,6 @@ summary: aggr.grow events
 ---
 
 = aggr.grow events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

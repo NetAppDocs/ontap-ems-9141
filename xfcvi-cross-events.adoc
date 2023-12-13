@@ -6,7 +6,6 @@ summary: xfcvi.cross events
 ---
 
 = xfcvi.cross events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

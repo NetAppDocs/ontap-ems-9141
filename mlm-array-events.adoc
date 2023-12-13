@@ -6,7 +6,6 @@ summary: mlm.array events
 ---
 
 = mlm.array events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

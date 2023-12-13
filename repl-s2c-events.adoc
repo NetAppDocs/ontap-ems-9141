@@ -6,7 +6,6 @@ summary: repl.s2c events
 ---
 
 = repl.s2c events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

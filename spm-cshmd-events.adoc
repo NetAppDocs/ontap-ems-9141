@@ -6,7 +6,6 @@ summary: spm.cshmd events
 ---
 
 = spm.cshmd events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

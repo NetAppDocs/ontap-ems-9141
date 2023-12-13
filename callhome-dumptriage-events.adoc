@@ -6,7 +6,6 @@ summary: callhome.dumptriage events
 ---
 
 = callhome.dumptriage events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

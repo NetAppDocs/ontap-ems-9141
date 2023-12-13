@@ -6,7 +6,6 @@ summary: fpolicy.fgconversion events
 ---
 
 = fpolicy.fgconversion events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

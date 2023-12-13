@@ -6,7 +6,6 @@ summary: vscan.odreport events
 ---
 
 = vscan.odreport events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

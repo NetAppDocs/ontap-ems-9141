@@ -6,7 +6,6 @@ summary: splog.unsupported events
 ---
 
 = splog.unsupported events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

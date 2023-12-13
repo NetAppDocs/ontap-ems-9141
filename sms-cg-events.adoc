@@ -6,7 +6,6 @@ summary: sms.cg events
 ---
 
 = sms.cg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

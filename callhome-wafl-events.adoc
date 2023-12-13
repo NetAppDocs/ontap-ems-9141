@@ -6,7 +6,6 @@ summary: callhome.wafl events
 ---
 
 = callhome.wafl events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

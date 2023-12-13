@@ -6,7 +6,6 @@ summary: aggr.wafliron events
 ---
 
 = aggr.wafliron events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

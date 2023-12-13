@@ -6,7 +6,6 @@ summary: fmmb.exthdr events
 ---
 
 = fmmb.exthdr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

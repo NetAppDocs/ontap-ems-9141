@@ -6,7 +6,6 @@ summary: objectattach.hw events
 ---
 
 = objectattach.hw events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

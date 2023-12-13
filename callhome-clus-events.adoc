@@ -6,7 +6,6 @@ summary: callhome.clus events
 ---
 
 = callhome.clus events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

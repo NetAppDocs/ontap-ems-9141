@@ -6,7 +6,6 @@ summary: disk.unabletorewritedata events
 ---
 
 = disk.unabletorewritedata events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: snapmirror.flextotraderr events
 ---
 
 = snapmirror.flextotraderr events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

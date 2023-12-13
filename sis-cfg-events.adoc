@@ -6,7 +6,6 @@ summary: sis.cfg events
 ---
 
 = sis.cfg events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

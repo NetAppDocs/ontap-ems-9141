@@ -6,7 +6,6 @@ summary: cf.nducomplete events
 ---
 
 = cf.nducomplete events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

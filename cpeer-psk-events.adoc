@@ -6,7 +6,6 @@ summary: cpeer.psk events
 ---
 
 = cpeer.psk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

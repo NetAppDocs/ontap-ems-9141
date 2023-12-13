@@ -6,7 +6,6 @@ summary: secd.dc events
 ---
 
 = secd.dc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

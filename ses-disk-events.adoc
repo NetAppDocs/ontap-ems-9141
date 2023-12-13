@@ -6,7 +6,6 @@ summary: ses.disk events
 ---
 
 = ses.disk events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

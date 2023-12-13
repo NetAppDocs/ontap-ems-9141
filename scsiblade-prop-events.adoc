@@ -6,7 +6,6 @@ summary: scsiblade.prop events
 ---
 
 = scsiblade.prop events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

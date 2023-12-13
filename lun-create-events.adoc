@@ -6,7 +6,6 @@ summary: lun.create events
 ---
 
 = lun.create events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: mgmtgwd.filereplication events
 ---
 
 = mgmtgwd.filereplication events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: dfu.clustericdown events
 ---
 
 = dfu.clustericdown events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

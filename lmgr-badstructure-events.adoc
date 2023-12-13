@@ -6,7 +6,6 @@ summary: lmgr.badstructure events
 ---
 
 = lmgr.badstructure events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

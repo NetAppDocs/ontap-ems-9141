@@ -6,7 +6,6 @@ summary: prov.rollback events
 ---
 
 = prov.rollback events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

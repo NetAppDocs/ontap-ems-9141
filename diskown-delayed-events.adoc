@@ -6,7 +6,6 @@ summary: diskown.delayed events
 ---
 
 = diskown.delayed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

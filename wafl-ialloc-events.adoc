@@ -6,7 +6,6 @@ summary: wafl.ialloc events
 ---
 
 = wafl.ialloc events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

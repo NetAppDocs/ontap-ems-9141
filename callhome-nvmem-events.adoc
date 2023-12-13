@@ -6,7 +6,6 @@ summary: callhome.nvmem events
 ---
 
 = callhome.nvmem events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

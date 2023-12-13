@@ -6,7 +6,6 @@ summary: fmmb.lock events
 ---
 
 = fmmb.lock events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: netif.badeeprom events
 ---
 
 = netif.badeeprom events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

@@ -6,7 +6,6 @@ summary: raid.plex events
 ---
 
 = raid.plex events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

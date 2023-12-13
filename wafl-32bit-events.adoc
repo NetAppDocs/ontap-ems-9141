@@ -6,7 +6,6 @@ summary: wafl.32bit events
 ---
 
 = wafl.32bit events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

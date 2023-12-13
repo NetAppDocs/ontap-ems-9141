@@ -6,7 +6,6 @@ summary: perfstatd.dir events
 ---
 
 = perfstatd.dir events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

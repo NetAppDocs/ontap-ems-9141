@@ -6,7 +6,6 @@ summary: netif.ratelimitthreshold events
 ---
 
 = netif.ratelimitthreshold events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

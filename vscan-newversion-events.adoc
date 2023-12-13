@@ -6,7 +6,6 @@ summary: vscan.newversion events
 ---
 
 = vscan.newversion events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

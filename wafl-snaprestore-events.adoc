@@ -6,7 +6,6 @@ summary: wafl.snaprestore events
 ---
 
 = wafl.snaprestore events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

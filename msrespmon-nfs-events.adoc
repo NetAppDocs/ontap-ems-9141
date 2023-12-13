@@ -6,7 +6,6 @@ summary: msrespmon.nfs events
 ---
 
 = msrespmon.nfs events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:

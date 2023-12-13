@@ -6,7 +6,6 @@ summary: disk.reservefailed events
 ---
 
 = disk.reservefailed events
-:toc: macro
 :toclevels: 1
 :hardbreaks:
 :nofooter:
