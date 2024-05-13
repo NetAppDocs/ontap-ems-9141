@@ -13,6 +13,8 @@ settings:
   versions:
     - version-number: "9.14.1"
       url: /ontap-ems-9141
+    - version-number: "9.15.1"
+      url: /ontap-ems
     - version-number: "9.13.1"
       url: /ontap-ems-9131
     - version-number: "9.12.1"
