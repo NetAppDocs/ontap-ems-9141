@@ -4,8 +4,8 @@ indexpage:
   summary: The ONTAP 9.14.1 EMS reference documents all EMS (Event Management System) events in the ONTAP 9.14.1 release.
   keywords: ontap, ems, events, 9.14.1
   tiles:
-    - title: EMS references for other ONTAP releases
-      link:
+    - title: About the ONTAP 9 EMS
+      links:
           - title: Configure EMS
             url: https://docs.netapp.com/us-en/ontap/error-messages/index.html
     - title: More resources
