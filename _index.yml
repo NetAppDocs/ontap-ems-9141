@@ -4,34 +4,12 @@ indexpage:
   summary: The ONTAP 9.14.1 EMS reference documents all EMS (Event Management System) events in the ONTAP 9.14.1 release.
   keywords: ontap, ems, events, 9.14.1
   tiles:
-    - title: EMS references for other ONTAP releases
-      links:
-          - title: ONTAP 9.15.1
-            url: https://docs.netapp.com/us-en/ontap-ems/index.html
-          - title: ONTAP 9.13.1
-            url: https://docs.netapp.com/us-en/ontap-ems-9131/index.html
-          - title: ONTAP 9.12.1
-            url: https://docs.netapp.com/us-en/ontap-ems-9121/index.html         
-          - title: ONTAP 9.11.1
-            url: https://docs.netapp.com/us-en/ontap-ems-9111/index.html      
-          - title: ONTAP 9.10.1
-            url: https://docs.netapp.com/us-en/ontap-ems-9101/index.html
-          - title: ONTAP 9.9.1
-            url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2876977
-          - title: ONTAP 9.8
-            url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2874591
-          - title: ONTAP 9.7
-            url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2864253
-          - title: ONTAP 9.6
-            url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2857180
-          - title: ONTAP 9.5
-            url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2851597
-          - title: ONTAP 9.3
-            url: https://library.netapp.com/ecm/ecm_get_file/ECMLP2843561
-    - title: More resources
+    - title: About the ONTAP 9 EMS
       links:
           - title: Configure EMS
             url: https://docs.netapp.com/us-en/ontap/error-messages/index.html
+    - title: More resources
+      links:
           - title: ONTAP 9 Release Notes
             url: https://library.netapp.com/ecm/ecm_download_file/ECMLP2492508
           - title: ONTAP 9 documentation
