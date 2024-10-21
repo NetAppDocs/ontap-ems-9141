@@ -1,5 +1,5 @@
 settings:
-  name: ONTAP 9.14.1 EMS reference
+  name: ONTAP
   downlevel: true
   internal:
     pdf_enabled: true
@@ -14,8 +14,10 @@ settings:
   versions:
     - version-number: "9.14.1"
       url: /ontap-ems-9141
+    - version-number: "9.16.1"
+      url: /ontap-ems  
     - version-number: "9.15.1"
-      url: /ontap-ems
+      url: /ontap-ems-9151
     - version-number: "9.13.1"
       url: /ontap-ems-9131
     - version-number: "9.12.1"
@@ -42,7 +44,7 @@ product-family:
 
 sidebar:
   entries:
-    - title: EMS Event Catalog
+    - title: ONTAP 9.14.1 EMS Event Catalog
       url: /index.html
     - title: accesscache events
       entries:
