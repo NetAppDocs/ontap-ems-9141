@@ -44,7 +44,7 @@ product-family:
 
 sidebar:
   entries:
-    - title: ONTAP 9.14.1 EMS Event Catalog
+    - title: ONTAP 9.14.1 EMS reference
       url: /index.html
     - title: accesscache events
       entries:
