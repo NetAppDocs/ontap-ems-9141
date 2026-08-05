@@ -13,6 +13,10 @@ summary: scsitarget.fct events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a Fibre Channel (FC) Host Bus Adapter (HBA) encounters a physical layer issue.
+
+
 == scsitarget.fct.linkError
 *Severity*::
 ERROR

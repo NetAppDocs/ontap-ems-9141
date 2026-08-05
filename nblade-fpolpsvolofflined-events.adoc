@@ -13,6 +13,10 @@ summary: nblade.fpolpsvolofflined events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when persistent store volume is offline.
+
+
 == Nblade.fpolPsVolOfflined
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: nblade.nocsmsession events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the local node could not acquire a Connection Session Manager (CSM) session.
+
+
 == Nblade.noCsmSession
 *Severity*::
 NOTICE

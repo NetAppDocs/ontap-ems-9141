@@ -13,6 +13,10 @@ summary: xfcvi.initfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the driver fails to initialize a FC-VI port.
+
+
 == xfcvi.initFailed
 *Severity*::
 ERROR

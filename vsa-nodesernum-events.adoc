@@ -13,6 +13,10 @@ summary: vsa.nodesernum events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a node serial number change operation fails.
+
+
 == vsa.nodeSerNum.change.failed
 *Severity*::
 ALERT

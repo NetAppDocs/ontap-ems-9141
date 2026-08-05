@@ -13,6 +13,10 @@ summary: nvmf.qos events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when an NVMe-oF target subsystem contains namespaces that have different QoS policies.
+
+
 == nvmf.qos.mismatched.policy
 *Severity*::
 ERROR

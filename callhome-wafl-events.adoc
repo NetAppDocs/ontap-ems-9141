@@ -13,6 +13,10 @@ summary: callhome.wafl events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs after a WAFL(R) check (wack) operation runs.
+
+
 == callhome.wafl.check
 *Severity*::
 ALERT

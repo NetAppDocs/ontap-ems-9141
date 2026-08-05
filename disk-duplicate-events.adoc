@@ -13,6 +13,10 @@ summary: disk.duplicate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when duplicate disk names are detected.
+
+
 == disk.duplicate.name
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: asup.config events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is issued when we are unable to parse /etc/asup_content.conf *Corrective Action*:: Either the /etc/asup_content.conf file was corrupt or it may have been accidentally modified, compare the file to the released version of the file and make the appropriate modifications.
+
+
 == asup.config.minimal.parse
 *Severity*::
 INFORMATIONAL

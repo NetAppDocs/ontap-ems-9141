@@ -13,6 +13,10 @@ summary: raid.debug events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+The SCSI debug event.
+
+
 == raid.debug
 *Severity*::
 INFORMATIONAL

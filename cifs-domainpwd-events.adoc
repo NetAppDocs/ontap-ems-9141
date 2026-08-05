@@ -13,6 +13,10 @@ summary: cifs.domainpwd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when disabling of CIFS domain password change schedule fails to delete the job for a Vserver.
+
+
 == cifs.domainpwd.job.deletion
 *Severity*::
 NOTICE

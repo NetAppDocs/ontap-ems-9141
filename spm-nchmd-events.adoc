@@ -13,6 +13,10 @@ summary: spm.nchmd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the Node Connectivity Health Monitor process (nchmd) involuntarily terminates.
+
+
 == spm.nchmd.process.exit
 *Severity*::
 ALERT

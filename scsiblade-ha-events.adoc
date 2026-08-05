@@ -13,6 +13,10 @@ summary: scsiblade.ha events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Unable to retrive HA Partner DBlade ID.
+
+
 == scsiblade.ha.partner.dblade.id.retrive.error
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: wafl.playlist events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event indicates bad playlist file handle *Corrective Action*:: (None).
+
+
 == wafl.playlist.bad_fh
 *Severity*::
 INFORMATIONAL

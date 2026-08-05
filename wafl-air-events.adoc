@@ -13,6 +13,10 @@ summary: wafl.air events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Generic wafl air message *Corrective Action*:: (None).
+
+
 == wafl.air.info
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: zsm.socket events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+The event posted when the listener socket for the ZAPI Socket Manager (ZSM) service cannot be created.
+
+
 == zsm.socket.listener.create
 *Severity*::
 NOTICE

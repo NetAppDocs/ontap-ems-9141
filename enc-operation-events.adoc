@@ -13,6 +13,10 @@ summary: enc.operation events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when either the rekeying of an encrypted flexible volume, or the conversion of the volume from unencrypted to encrypted, has been aborted.
+
+
 == enc.operation.aborted
 *Severity*::
 ERROR

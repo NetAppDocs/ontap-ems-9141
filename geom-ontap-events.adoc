@@ -13,6 +13,10 @@ summary: geom.ontap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the geometry layer (geom) detects a device to be detached from the system.
+
+
 == geom.ontap.orphan.removing
 *Severity*::
 NOTICE

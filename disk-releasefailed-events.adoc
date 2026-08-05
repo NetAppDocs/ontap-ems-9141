@@ -13,6 +13,10 @@ summary: disk.releasefailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a SCSI release reservation fails.
+
+
 == disk.releaseFailed
 *Severity*::
 ERROR

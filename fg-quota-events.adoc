@@ -13,6 +13,10 @@ summary: fg.quota events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a FlexGroup cannot enforce its quota as expected.
+
+
 == fg.quota.cannot.enforce
 *Severity*::
 NOTICE

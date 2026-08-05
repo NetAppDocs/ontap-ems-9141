@@ -13,6 +13,10 @@ summary: callhome.reboot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs after an appliance reboot--the appliance reports this event after the reboot is complete.
+
+
 == callhome.reboot
 *Severity*::
 NOTICE

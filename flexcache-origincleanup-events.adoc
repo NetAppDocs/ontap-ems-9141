@@ -13,6 +13,10 @@ summary: flexcache.origincleanup events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the origin of a FlexCache(R) volume cleanup job fails to clean up the origin volume.
+
+
 == flexcache.origincleanup.fail
 *Severity*::
 ERROR

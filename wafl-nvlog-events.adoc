@@ -13,6 +13,10 @@ summary: wafl.nvlog events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is issued to indicate that the system is unable to create nvlog stats file.
+
+
 == wafl.nvlog.stats.createError
 *Severity*::
 NOTICE

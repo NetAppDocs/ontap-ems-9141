@@ -13,6 +13,10 @@ summary: crypto.debug events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+The Crypto module debug event.
+
+
 == crypto.debug
 *Severity*::
 INFORMATIONAL

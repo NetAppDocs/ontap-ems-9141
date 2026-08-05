@@ -13,6 +13,10 @@ summary: replication.err events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the replication engine fails to create an automatic Snapshot(tm) copy.
+
+
 == replication.err.snapCreateFailed
 *Severity*::
 ERROR

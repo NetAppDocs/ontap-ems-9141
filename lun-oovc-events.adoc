@@ -13,6 +13,10 @@ summary: lun.oovc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the rebuilding of the Out Of Volume Container (OOVC) file is complete.
+
+
 == LUN.oovc.rebuild.done
 *Severity*::
 NOTICE

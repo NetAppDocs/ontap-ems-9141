@@ -13,6 +13,10 @@ summary: dbs.node events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when Distributed Block Store (DBS) detects a node with a maintenance mode failure.
+
+
 == dbs.node.maint.mode.alert
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: dbs.ekm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when Distributed Block Store (DBS) detects that an External Key Management (EKM) key server configuration contains a certificate that will expire in less than 7 days.
+
+
 == dbs.ekm.cert.alert
 *Severity*::
 ALERT

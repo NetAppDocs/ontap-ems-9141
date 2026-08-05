@@ -13,6 +13,10 @@ summary: mcc.lunmgr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when failing to allocate a CTL Target LUN ID to a target disk *Corrective Action*:: This indicates an internal error during the discovery of Target LUN devices.
+
+
 == mcc.lunmgr.lunid_alloc_failure
 *Severity*::
 ERROR

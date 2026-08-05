@@ -13,6 +13,10 @@ summary: lun.metafile events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lun metafile directory creation failed *Corrective Action*:: Check available space on the volume and make sure that the volume is not full or close to full.
+
+
 == lun.metafile.dirCreateFailed
 *Severity*::
 ERROR

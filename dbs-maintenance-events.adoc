@@ -13,6 +13,10 @@ summary: dbs.maintenance events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a Distributed Block Store (DBS) maintenance mode event occurs, such as that a node no longer exists.
+
+
 == dbs.maintenance.mode
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: hybaggrcopy.srcgeommismatch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when an aggregate cannot be copied.
+
+
 == hybAggrCopy.srcGeomMismatch
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: snapmirror.migrate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is issued when a migrate completes successfully.
+
+
 == snapmirror.migrate.complete
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: ffm.dataip events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a data IP address was failed to host on the node.
+
+
 == ffm.dataip.failedToHost
 *Severity*::
 NOTICE

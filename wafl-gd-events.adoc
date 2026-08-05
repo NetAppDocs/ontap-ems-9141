@@ -13,6 +13,10 @@ summary: wafl.gd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when converting a file to use granular data fails because a scanner is currently running on the volume.
+
+
 == wafl.gd.convert.scan.running
 *Severity*::
 NOTICE

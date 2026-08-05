@@ -13,6 +13,10 @@ summary: mc.channel events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs on failure in new channel creation in Mirror Cache.
+
+
 == mc.channel.create.failed
 *Severity*::
 NOTICE

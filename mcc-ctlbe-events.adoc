@@ -13,6 +13,10 @@ summary: mcc.ctlbe events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+SCSI IO for RSM is delayed significantly in the iSCSI stack.
+
+
 == mcc.ctlbe.IODelayed
 *Severity*::
 INFORMATIONAL

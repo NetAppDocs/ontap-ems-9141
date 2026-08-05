@@ -13,6 +13,10 @@ summary: diskown.autoassign events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when automatic assigning of a disk fails because the disks on the loop are owned by multiple systems.
+
+
 == diskown.AutoAssign.MultipleOwners
 *Severity*::
 ERROR

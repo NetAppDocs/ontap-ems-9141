@@ -13,6 +13,10 @@ summary: dbs.file events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the Distributed Block Store (DBS) detects the mounted container file system ("/", "/persist", "/var/log") has capacity below 5 percent.
+
+
 == dbs.file.system.capacity.low
 *Severity*::
 ERROR

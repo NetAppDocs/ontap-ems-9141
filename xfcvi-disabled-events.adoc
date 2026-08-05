@@ -13,6 +13,10 @@ summary: xfcvi.disabled events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the HA interconnect card is disabled by the ic-type environment variable.
+
+
 == xfcvi.disabled
 *Severity*::
 ALERT

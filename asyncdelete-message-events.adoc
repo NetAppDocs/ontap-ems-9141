@@ -13,6 +13,10 @@ summary: asyncdelete.message events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when an async delete job fails.
+
+
 == asyncDelete.message.fail
 *Severity*::
 ALERT

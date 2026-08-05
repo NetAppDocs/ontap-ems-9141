@@ -13,6 +13,10 @@ summary: coredump.dump events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when there is an unsaved core on the dump device.
+
+
 == coredump.dump.abort
 *Severity*::
 ERROR

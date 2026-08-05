@@ -13,6 +13,10 @@ summary: wafl.make events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when container cant be made dense *Corrective Action*:: (None).
+
+
 == wafl.make.container.dense.failed
 *Severity*::
 NOTICE

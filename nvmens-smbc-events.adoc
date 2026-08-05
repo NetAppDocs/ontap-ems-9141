@@ -13,6 +13,10 @@ summary: nvmens.smbc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when an NVMe namespace is partially restored to a SnapMirror Business Continuity (SMBC) volume because the SMBC volume does not support NVMe namespace.
+
+
 == NVMeNS.SMBC.vol.unsupp
 *Severity*::
 ERROR

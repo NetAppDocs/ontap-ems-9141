@@ -13,6 +13,10 @@ summary: dump.register events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is generated when a registry transaction failed to commit *Corrective Action*:: (None).
+
+
 == dump.register.commit
 *Severity*::
 ERROR

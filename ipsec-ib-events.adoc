@@ -13,6 +13,10 @@ summary: ipsec.ib events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when an inbound IPsec packet cannot be successfully decrypted.
+
+
 == ipsec.ib.bad.encrypt
 *Severity*::
 ALERT

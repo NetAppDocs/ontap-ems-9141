@@ -13,6 +13,10 @@ summary: dbs.disconn events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the distributed block store detects that a cluster pair is disconnected or configured incorrectly.
+
+
 == dbs.disconn.cluster.pair
 *Severity*::
 ERROR

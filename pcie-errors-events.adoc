@@ -13,6 +13,10 @@ summary: pcie.errors events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when correctable PCI Express errors are detected.
+
+
 == pcie.errors
 *Severity*::
 NOTICE

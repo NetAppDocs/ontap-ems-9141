@@ -13,6 +13,10 @@ summary: vol.duplicate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a duplicate master set ID (MSID) has been detected.
+
+
 == vol.duplicate.msid
 *Severity*::
 EMERGENCY

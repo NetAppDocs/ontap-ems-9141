@@ -13,6 +13,10 @@ summary: dbs.ie events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a Distributed Block Store (DBS) internal interface exception condition occurs.
+
+
 == dbs.ie
 *Severity*::
 NOTICE

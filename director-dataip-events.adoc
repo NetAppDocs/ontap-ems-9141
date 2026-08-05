@@ -13,6 +13,10 @@ summary: director.dataip events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a data IP address is being reassigned from one node to another node.
+
+
 == director.dataip.reassigned
 *Severity*::
 NOTICE

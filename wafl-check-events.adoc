@@ -13,6 +13,10 @@ summary: wafl.check events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+Generic wafl check message *Corrective Action*:: (None).
+
+
 == wafl.check.info
 *Severity*::
 ERROR

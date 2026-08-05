@@ -13,6 +13,10 @@ summary: nvdimm.nvmem events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when NVDIMM-based NVMEM checks fail.
+
+
 == nvdimm.nvmem.checkfail
 *Severity*::
 EMERGENCY

@@ -13,6 +13,10 @@ summary: storage.interface events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a storage interface reports a link down.
+
+
 == storage.interface.linkdown
 *Severity*::
 ALERT

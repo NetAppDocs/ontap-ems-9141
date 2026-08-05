@@ -13,6 +13,10 @@ summary: dbs.raid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when distributed block store detects that a RAID group in the cluster is degraded.
+
+
 == dbs.raid.group.degraded
 *Severity*::
 ERROR

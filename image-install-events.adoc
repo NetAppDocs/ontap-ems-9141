@@ -13,6 +13,10 @@ summary: image.install events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a software image installation fails, because one or more aggregates or volumes are not online.
+
+
 == image.install.fail.aggregate
 *Severity*::
 ERROR

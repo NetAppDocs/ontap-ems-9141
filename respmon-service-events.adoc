@@ -13,6 +13,10 @@ summary: respmon.service events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a service being monitored is responding to requests.
+
+
 == respMon.service.responsive
 *Severity*::
 NOTICE

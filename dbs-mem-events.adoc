@@ -13,6 +13,10 @@ summary: dbs.mem events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when Distributed Block Store (DBS) detects a node's container has very low memory.
+
+
 == dbs.mem.threshold.alert
 *Severity*::
 ALERT

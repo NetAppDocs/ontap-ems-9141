@@ -13,6 +13,10 @@ summary: cf.nduincomplete events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a nondisruptive upgrade fails.
+
+
 == cf.nduIncomplete
 *Severity*::
 INFORMATIONAL

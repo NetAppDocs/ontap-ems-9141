@@ -13,6 +13,10 @@ summary: dipmon.dataip events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a data IP address becomes responsive on the node on which it is hosted and has been committed to the Zookeeper database.
+
+
 == dipmon.dataip.responsive
 *Severity*::
 NOTICE

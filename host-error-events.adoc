@@ -13,6 +13,10 @@ summary: host.error events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the host software encounters an error.
+
+
 == host.error
 *Severity*::
 ERROR

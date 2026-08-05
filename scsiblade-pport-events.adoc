@@ -13,6 +13,10 @@ summary: scsiblade.pport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+PPorts LIF migration started before BSH cancel completed.
+
+
 == scsiblade.pport.bsh.cancel.timeout
 *Severity*::
 NOTICE

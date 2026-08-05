@@ -13,6 +13,10 @@ summary: accesscache.reachedlimits events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the access cache module reaches its limit for entries or export rules.
+
+
 == AccessCache.ReachedLimits
 *Severity*::
 EMERGENCY

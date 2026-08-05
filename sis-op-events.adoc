@@ -13,6 +13,10 @@ summary: sis.op events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is issued when a SIS volume operation is aborted due to unexpected conditions.
+
+
 == sis.op.aborted
 *Severity*::
 ERROR

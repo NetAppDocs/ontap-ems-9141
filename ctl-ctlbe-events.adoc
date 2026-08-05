@@ -13,6 +13,10 @@ summary: ctl.ctlbe events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+IO failure due to internal error *Corrective Action*:: The command failure associated with the device specified in this event is caused by some internal error.
+
+
 == ctl.ctlbe.IOInternalError
 *Severity*::
 ERROR

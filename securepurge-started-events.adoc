@@ -13,6 +13,10 @@ summary: securepurge.started events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a secure purge operation is started in a flexible volume.
+
+
 == securepurge.started
 *Severity*::
 NOTICE

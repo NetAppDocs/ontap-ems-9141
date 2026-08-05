@@ -13,6 +13,10 @@ summary: disk.partition events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the disk partition layout contains more partitions than are supported by the system.
+
+
 == disk.partition.exceeded
 *Severity*::
 ERROR

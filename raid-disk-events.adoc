@@ -13,6 +13,10 @@ summary: raid.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is issued to inform what the sum of all disk sizes is as well as what system capacity limit is.
+
+
 == raid.disk.capacity.info
 *Severity*::
 NOTICE

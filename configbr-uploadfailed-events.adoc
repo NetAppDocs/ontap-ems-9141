@@ -13,6 +13,10 @@ summary: configbr.uploadfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the configuration backup cannot be uploaded to the destination URL.
+
+
 == configbr.uploadFailed
 *Severity*::
 ERROR

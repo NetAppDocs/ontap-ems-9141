@@ -13,6 +13,10 @@ summary: ndmp.fail events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is generated when there is an error in NDMP *Corrective Action*:: (None).
+
+
 == ndmp.fail.log
 *Severity*::
 ERROR

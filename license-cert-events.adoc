@@ -13,6 +13,10 @@ summary: license.cert events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the license validation certificate is expired.
+
+
 == license.cert.expired
 *Severity*::
 ALERT

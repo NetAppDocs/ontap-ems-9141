@@ -13,6 +13,10 @@ summary: diskown.disknotsup events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when newly inserted disks are only supported with software disk ownership enabled, but it is not enabled.
+
+
 == diskown.diskNotSup
 *Severity*::
 INFORMATIONAL

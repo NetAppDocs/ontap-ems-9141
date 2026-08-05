@@ -13,6 +13,10 @@ summary: dbs.upgrade events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when Distributed Block Store (DBS) detects a software upgrade is in progress longer than 24 hours.
+
+
 == dbs.upgrade
 *Severity*::
 ERROR

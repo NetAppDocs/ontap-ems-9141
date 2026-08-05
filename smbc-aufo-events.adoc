@@ -13,6 +13,10 @@ summary: smbc.aufo events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the SnapMirror(R) Business Continuity (SMBC) automatic unplanned failover operation completes.
+
+
 == smbc.aufo.completed
 *Severity*::
 NOTICE

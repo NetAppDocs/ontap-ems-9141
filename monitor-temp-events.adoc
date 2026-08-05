@@ -13,6 +13,10 @@ summary: monitor.temp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the controller module temperature is not readable.
+
+
 == monitor.temp.unreadable
 *Severity*::
 ERROR

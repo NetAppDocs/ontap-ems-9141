@@ -13,6 +13,10 @@ summary: nvme.boot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the NVMe boot device firmware has been updated, but requires a system reboot or takeover/giveback to activate the new firmware.
+
+
 == nvme.boot.fw.update.complete
 *Severity*::
 ALERT

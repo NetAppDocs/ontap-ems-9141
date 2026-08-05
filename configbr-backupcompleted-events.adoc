@@ -13,6 +13,10 @@ summary: configbr.backupcompleted events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a scheduled configuration backup is successfully created.
+
+
 == configbr.backupCompleted
 *Severity*::
 NOTICE

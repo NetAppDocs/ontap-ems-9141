@@ -13,6 +13,10 @@ summary: dbs.volumes events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the distributed block store detects that the listed volumes currently have only one copy of some of their data (they do not have a live secondary).
+
+
 == dbs.volumes.degraded
 *Severity*::
 ALERT

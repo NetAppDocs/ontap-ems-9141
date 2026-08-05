@@ -13,6 +13,10 @@ summary: rpl.snapshot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when SnapMirror(R) or SnapVault(R) cannot delete one of its Snapshot(tm) copies.
+
+
 == rpl.snapshot.delete.error
 *Severity*::
 ERROR

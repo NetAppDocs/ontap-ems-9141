@@ -13,6 +13,10 @@ summary: wafl.mount events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the FlexVol(R) volume cannot be mounted; the volume is marked as inconsistent.
+
+
 == wafl.mount.inconsistent
 *Severity*::
 ERROR

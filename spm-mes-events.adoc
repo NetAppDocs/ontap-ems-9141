@@ -13,6 +13,10 @@ summary: spm.mes events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the SPD MES daemon (spd) involuntarily terminates.
+
+
 == spm.mes.process.exit
 *Severity*::
 ERROR

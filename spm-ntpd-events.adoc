@@ -13,6 +13,10 @@ summary: spm.ntpd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the Network Time Protocol Daemon process (ntpd) involuntarily terminates.
+
+
 == spm.ntpd.process.exit
 *Severity*::
 ERROR

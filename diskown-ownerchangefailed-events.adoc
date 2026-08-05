@@ -13,6 +13,10 @@ summary: diskown.ownerchangefailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a disk ownership change request fails.
+
+
 == diskown.ownerChangeFailed
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: fcvi.cross events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the fcvi driver detects a cross connection *Corrective Action*:: Check the FCVI interconnect cabling at the local and remote nodes.
+
+
 == fcvi.cross.connect.detected
 *Severity*::
 ERROR

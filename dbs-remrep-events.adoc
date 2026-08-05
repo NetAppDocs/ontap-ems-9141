@@ -13,6 +13,10 @@ summary: dbs.remrep events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the Distributed Block Store (DBS) is executing remote replication for a pair of volumes, but that it has not reached active state for 6 hours.
+
+
 == dbs.remrep.async.dly.exceed
 *Severity*::
 ERROR

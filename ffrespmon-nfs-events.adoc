@@ -13,6 +13,10 @@ summary: ffrespmon.nfs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a data interface's IP address is unreachable.
+
+
 == ffRespMon.nfs.unresponsive
 *Severity*::
 NOTICE

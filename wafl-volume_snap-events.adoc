@@ -13,6 +13,10 @@ summary: wafl.volume_snap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when automatic deletion of a Snapshot(tm) copy fails.
+
+
 == wafl.volume_snap.autoDelete.fail
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: crypto.export events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the export of a cryptographic key fails.
+
+
 == crypto.export.failed
 *Severity*::
 ALERT

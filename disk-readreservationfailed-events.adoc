@@ -13,6 +13,10 @@ summary: disk.readreservationfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a SCSI (Small Computer System Interface) read reservation fails.
+
+
 == disk.readReservationFailed
 *Severity*::
 ERROR

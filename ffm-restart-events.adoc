@@ -13,6 +13,10 @@ summary: ffm.restart events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the Firefly manager restarts Firefly after detecting abnormal behavior.
+
+
 == ffm.restart.firefly
 *Severity*::
 NOTICE

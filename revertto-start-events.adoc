@@ -13,6 +13,10 @@ summary: revertto.start events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a revert to process is started.
+
+
 == revertTo.start
 *Severity*::
 NOTICE

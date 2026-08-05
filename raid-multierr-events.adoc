@@ -13,6 +13,10 @@ summary: raid.multierr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when RAID encounters more errors than the RAID level protection affords, and RAID cannot recover the block.
+
+
 == raid.multierr.bad.block
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: snapvault.sys events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when SnapVault(R) encounters an internal error.
+
+
 == snapvault.sys.internal
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: nvme.link events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the NVMe driver disables the PCIe link due to excessive errors.
+
+
 == nvme.link.disabled.error
 *Severity*::
 ERROR

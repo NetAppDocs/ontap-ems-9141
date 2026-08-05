@@ -13,6 +13,10 @@ summary: cmd.shelfchk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is generated while verifying disk shelf cabling and configuration.
+
+
 == cmd.shelfchk.config.OK
 *Severity*::
 INFORMATIONAL

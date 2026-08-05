@@ -13,6 +13,10 @@ summary: dbs.generic events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a Distributed Block Store (DBS) cluster fault is reported as a generic fault.
+
+
 == dbs.generic.cluster.fault
 *Severity*::
 NOTICE

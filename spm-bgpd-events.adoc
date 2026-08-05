@@ -13,6 +13,10 @@ summary: spm.bgpd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the Border Gateway Protocol daemon (bgpd) involuntarily terminates.
+
+
 == spm.bgpd.process.exit
 *Severity*::
 NOTICE

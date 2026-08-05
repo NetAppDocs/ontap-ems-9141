@@ -13,6 +13,10 @@ summary: repl.physdiff events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a block to replicate was found to be inconsistent in the source volume.
+
+
 == repl.physdiff.invalid.hole
 *Severity*::
 EMERGENCY

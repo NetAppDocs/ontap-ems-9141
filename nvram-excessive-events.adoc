@@ -13,6 +13,10 @@ summary: nvram.excessive events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when excessive correctable error-correcting code (ECC) memory errors are reported by the NVRAM complex.
+
+
 == nvram.excessive.cecc.errs
 *Severity*::
 ALERT

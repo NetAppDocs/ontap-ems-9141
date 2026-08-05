@@ -13,6 +13,10 @@ summary: mgr.avail events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message is emitted when statistics is reset *Corrective Action*:: (None).
+
+
 == mgr.avail.stat.reset
 *Severity*::
 NOTICE

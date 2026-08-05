@@ -13,6 +13,10 @@ summary: secd.unixlookupfailure events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when an UNIXi(R) user or group lookup fails.
+
+
 == secd.unixLookupFailure
 *Severity*::
 ERROR

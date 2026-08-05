@@ -13,6 +13,10 @@ summary: mlm.vmdisk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the system discovers a new virtual disk in a virtual machine (VM).
+
+
 == mlm.vmdisk.discovery
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: smc.cg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a FlexGroup(R) Snapshot copy rename fails and the revert to the original Snapshot copy name also fails.
+
+
 == smc.cg.snap.ren.revert.fail
 *Severity*::
 ERROR

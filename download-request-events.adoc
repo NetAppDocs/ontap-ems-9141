@@ -13,6 +13,10 @@ summary: download.request events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is generated when a user-initiated download is initiated.
+
+
 == download.request
 *Severity*::
 NOTICE

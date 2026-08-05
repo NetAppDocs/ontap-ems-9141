@@ -13,6 +13,10 @@ summary: sm.xfer events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when active file system diverges on a SnapMirror(R) destination.
+
+
 == sm.xfer.afs.divergence
 *Severity*::
 NOTICE

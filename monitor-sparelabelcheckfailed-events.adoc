@@ -13,6 +13,10 @@ summary: monitor.sparelabelcheckfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the system detects that a hot spare disk has an invalid or a missing label.
+
+
 == monitor.spareLabelCheckFailed
 *Severity*::
 NOTICE

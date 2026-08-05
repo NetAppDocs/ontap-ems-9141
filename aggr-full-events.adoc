@@ -13,6 +13,10 @@ summary: aggr.full events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when an aggregate is full.
+
+
 == aggr.full
 *Severity*::
 ALERT

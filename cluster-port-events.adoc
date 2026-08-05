@@ -13,6 +13,10 @@ summary: cluster.port events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the cluster ports are operating at an unsupported speed.
+
+
 == cluster.port.unsupport.speed
 *Severity*::
 ERROR

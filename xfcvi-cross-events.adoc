@@ -13,6 +13,10 @@ summary: xfcvi.cross events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the xfcvi driver detects a cross connection *Corrective Action*:: Check the xfcvi interconnect cabling at the local and remote nodes.
+
+
 == xfcvi.cross.connect.detected
 *Severity*::
 ERROR

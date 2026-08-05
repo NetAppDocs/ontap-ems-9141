@@ -13,6 +13,10 @@ summary: sm.dst events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the SnapMirror(R) labels are lost for all Snapshot(tm) copies on the vault destination.
+
+
 == sm.dst.vol.no.tag.metadata
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: dbs.schedule events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the Distributed Block Store (DBS) is running one or more of the scheduled activities but the activity failed, for example running a scheduled create snapshot fails to complete.
+
+
 == dbs.schedule.action.error
 *Severity*::
 ERROR

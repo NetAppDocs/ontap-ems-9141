@@ -13,6 +13,10 @@ summary: master.taking events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when the node is promoted to the cluster master and takes control as the master.
+
+
 == master.taking.over.cm
 *Severity*::
 NOTICE

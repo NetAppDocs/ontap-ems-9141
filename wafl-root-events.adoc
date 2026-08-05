@@ -13,6 +13,10 @@ summary: wafl.root events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is issued when no online root volume is found.
+
+
 == wafl.root.autocreate
 *Severity*::
 NOTICE

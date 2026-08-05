@@ -13,6 +13,10 @@ summary: discover.6500 events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when discovery of a 6500N FC-to-SAS bridge is enabled.
+
+
 == discover.6500.supported
 *Severity*::
 NOTICE

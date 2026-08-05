@@ -13,6 +13,10 @@ summary: volcopy.dst events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is issued when a vol copy start is issued on a volume which is offline.
+
+
 == volcopy.dst.autoRestrictMsg
 *Severity*::
 NOTICE

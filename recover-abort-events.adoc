@@ -13,6 +13,10 @@ summary: recover.abort events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event is generated when restore has been aborted and currently ROOLR (Read Only On Line Replica) is running on the Filer.
+
+
 == recover.abort.ROOLR
 *Severity*::
 NOTICE

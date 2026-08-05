@@ -13,6 +13,10 @@ summary: raid.mirror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a SyncMirror(R) aggregate uses aggregate Snapshot(tm) copies other than SyncMirror aggregate Snapshot copies.
+
+
 == raid.mirror.aggrSnapUse
 *Severity*::
 NOTICE

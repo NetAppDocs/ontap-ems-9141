@@ -13,6 +13,10 @@ summary: diskown.rescanmessagefailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs while transferring the ownership of a disk to another node, when a rescan message is sent but does not go through.
+
+
 == diskown.RescanMessageFailed
 *Severity*::
 ERROR

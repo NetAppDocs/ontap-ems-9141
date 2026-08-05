@@ -13,6 +13,10 @@ summary: repl.dest events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This message occurs when a snapshot that contains ilabels is transferred to a destination whose ONTAP version that does not support ilabels.
+
+
 == repl.dest.ilabels.notsup
 *Severity*::
 ERROR

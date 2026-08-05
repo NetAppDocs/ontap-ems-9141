@@ -13,6 +13,10 @@ summary: fcadmin.bridge events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+This event reports the WWN written to a device.
+
+
 == fcadmin.bridge.prog.disk
 *Severity*::
 INFORMATIONAL
