@@ -14,7 +14,7 @@ summary: dbs.node events
 :imagesdir: ./media/
 
 [.lead]
-This message occurs when Distributed Block Store (DBS) detects a node with a maintenance mode failure.
+dbs.node events are presented when Distributed Block Store (DBS) detects a node with a maintenance mode failure, and corrective action is to Contact NetApp technical support.
 
 
 == dbs.node.maint.mode.alert

@@ -14,7 +14,7 @@ summary: dbs.snmp events
 :imagesdir: ./media/
 
 [.lead]
-This message occurs when a Distributed Block Store (DBS) reports an SNMP trap.
+dbs.snmp events are presented when a Distributed Block Store (DBS) reports an SNMP trap, and no corrective action is typically required.
 
 
 == dbs.snmp.trap

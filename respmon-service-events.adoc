@@ -14,7 +14,7 @@ summary: respmon.service events
 :imagesdir: ./media/
 
 [.lead]
-This message occurs when a service being monitored is responding to requests.
+respmon.service events are presented when a service being monitored is responding to requests, and no corrective action is typically required.
 
 
 == respMon.service.responsive

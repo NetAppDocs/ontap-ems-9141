@@ -14,7 +14,7 @@ summary: storage.interface events
 :imagesdir: ./media/
 
 [.lead]
-This message occurs when a storage interface reports a link down.
+storage.interface events are presented when a storage interface reports a link down, and corrective action is to Check the system and attempt to bring the network interface back online.
 
 
 == storage.interface.linkdown

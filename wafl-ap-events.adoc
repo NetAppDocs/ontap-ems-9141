@@ -14,7 +14,7 @@ summary: wafl.ap events
 :imagesdir: ./media/
 
 [.lead]
-adaptive playlist message *Corrective Action*:: (None).
+wafl.ap events are presented when adaptive playlist message which typically does not require corrective action.
 
 
 == wafl.ap.info

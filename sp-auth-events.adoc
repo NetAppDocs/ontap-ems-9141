@@ -14,7 +14,7 @@ summary: sp.auth events
 :imagesdir: ./media/
 
 [.lead]
-This message occurs when a login is attempted on the node's Service Processor (SP) or baseboard management controller (BMC) and the login is denied.
+sp.auth events are presented when a login is attempted on the node's Service Processor (SP) or baseboard management controller (BMC) and the login is denied, and no corrective action is typically required.
 
 
 == sp.auth.loginDenied

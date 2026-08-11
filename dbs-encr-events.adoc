@@ -14,7 +14,7 @@ summary: dbs.encr events
 :imagesdir: ./media/
 
 [.lead]
-This message occurs when Distributed Block Store (DBS) enables or disables encryption at rest on a self-encrypting drive.
+dbs.encr events are presented when Distributed Block Store (DBS) enables or disables encryption at rest on a self-encrypting drive, and no corrective action is typically required.
 
 
 == dbs.encr.at.rest

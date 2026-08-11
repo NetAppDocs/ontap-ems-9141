@@ -14,7 +14,7 @@ summary: master.cast events
 :imagesdir: ./media/
 
 [.lead]
-This message occurs when the master service of the associated node cannot connect to current cluster master.
+master.cast events are presented when the master service of the associated node cannot connect to current cluster master, and no corrective action is typically required.
 
 
 == master.cast.cm.vote.against

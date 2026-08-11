@@ -14,7 +14,7 @@ summary: dbs.software events
 :imagesdir: ./media/
 
 [.lead]
-This message occurs when Distributed Block Store (DBS) detects a software version mismatch in the cluster.
+dbs.software events are presented when Distributed Block Store (DBS) detects a software version mismatch in the cluster, and corrective action is to Bring the node out of maintenance mode.
 
 
 == dbs.software.version.mismatch

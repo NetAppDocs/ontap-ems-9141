@@ -14,7 +14,7 @@ summary: dbs.volumes events
 :imagesdir: ./media/
 
 [.lead]
-This message occurs when the distributed block store detects that the listed volumes currently have only one copy of some of their data (they do not have a live secondary).
+dbs.volumes events are presented when the distributed block store detects that the listed volumes currently have only one copy of some of their data (they do not have a live secondary), and corrective action is to Check for network connectivity issues and hardware errors.
 
 
 == dbs.volumes.degraded

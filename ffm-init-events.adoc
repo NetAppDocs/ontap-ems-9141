@@ -14,7 +14,7 @@ summary: ffm.init events
 :imagesdir: ./media/
 
 [.lead]
-This message occurs when the Firefly manager is initiated during Firefly boot.
+ffm.init events are presented when the Firefly manager is initiated during Firefly boot, and no corrective action is typically required.
 
 
 == ffm.init.firefly
