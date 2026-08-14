@@ -13,6 +13,10 @@ summary: dbs.exception events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.exception events are presented when the Distributed Block Store (DBS) is unable to process a cluster fault, and corrective action is to Wait 60 minutes and check that the fault status has changed to Resolved.
+
+
 == dbs.exception
 *Severity*::
 ERROR

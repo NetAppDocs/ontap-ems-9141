@@ -13,6 +13,10 @@ summary: pcp.linkstateinprogress events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+pcp.linkstateinprogress events are presented when a change of network port state cannot be confirmed because another configuration task is in progress which is typically fixed by following the documented corrective steps.
+
+
 == pcp.linkStateInProgress
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: mgmt.nfsserver events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmt.nfsserver events are presented when a NFS server fails to be configured and, therefore, NFS access might not be available which is typically fixed by verifying system state and connectivity.
+
+
 == mgmt.nfsserver.failure
 *Severity*::
 ERROR

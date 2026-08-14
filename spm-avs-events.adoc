@@ -13,6 +13,10 @@ summary: spm.avs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.avs events are presented when the antivirus service stops running due to repeated failures which may require contacting NetApp support.
+
+
 == spm.avs.process.exit
 *Severity*::
 ERROR

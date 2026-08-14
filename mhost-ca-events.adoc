@@ -13,6 +13,10 @@ summary: mhost.ca events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mhost.ca events are presented when the client connection has failed due to certificate error which is typically fixed by verifying system state and connectivity.
+
+
 == mhost.ca.connect.cert.error
 *Severity*::
 ERROR

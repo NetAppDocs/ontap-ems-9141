@@ -13,6 +13,10 @@ summary: dbs.disconn events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.disconn events are presented when the distributed block store detects that a cluster pair is disconnected or configured incorrectly, and corrective action is to Check network connectivity between clusters.
+
+
 == dbs.disconn.cluster.pair
 *Severity*::
 ERROR

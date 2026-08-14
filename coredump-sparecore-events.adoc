@@ -13,6 +13,10 @@ summary: coredump.sparecore events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+coredump.sparecore events are presented when sparecore was aborted by partner which typically does not require corrective action.
+
+
 == coredump.sparecore.killed
 *Severity*::
 INFORMATIONAL

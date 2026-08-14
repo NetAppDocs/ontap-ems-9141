@@ -13,6 +13,10 @@ summary: wackiron.near events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wackiron.near events are presented when the number of hours since wafliron was last run on the specified volume is approaching its limit which is typically fixed by following the documented corrective steps.
+
+
 == wackiron.near.hour.limit
 *Severity*::
 ERROR

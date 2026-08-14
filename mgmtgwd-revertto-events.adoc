@@ -13,6 +13,10 @@ summary: mgmtgwd.revertto events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmtgwd.revertto events are presented when a revert to process is being initiated with the "force" flag, and configuration errors have been detected which typically does not require corrective action.
+
+
 == mgmtgwd.revertTo.forceErrors
 *Deprecated*::
 This event was replaced by revertTo.force.

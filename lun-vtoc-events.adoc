@@ -13,6 +13,10 @@ summary: lun.vtoc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lun.vtoc events are presented when the rebuilding of the Vdisk Table of Contents (VTOC) file is complete which typically does not require corrective action.
+
+
 == LUN.vtoc.rebuild.done
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: sis.wafliron events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sis.wafliron events are presented when a requested SIS volume 'undo' operation fails to correct on-disk corruption and requires wafliron to be run which is typically fixed by following the documented corrective steps.
+
+
 == sis.wafliron.required
 *Severity*::
 ALERT

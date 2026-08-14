@@ -13,6 +13,10 @@ summary: ffm.init events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ffm.init events are presented when the Firefly manager is initiated during Firefly boot, and no corrective action is typically required.
+
+
 == ffm.init.firefly
 *Severity*::
 NOTICE

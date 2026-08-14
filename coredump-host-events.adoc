@@ -13,6 +13,10 @@ summary: coredump.host events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+coredump.host events are presented when no sparecore disk is found at boot/takeover time which typically does not require corrective action.
+
+
 == coredump.host.spare.none
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: nvme.boot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvme.boot events are presented when the NVMe boot device firmware has been updated which typically does not require corrective action.
+
+
 == nvme.boot.fw.update.complete
 *Severity*::
 ALERT

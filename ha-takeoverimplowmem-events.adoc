@@ -13,6 +13,10 @@ summary: ha.takeoverimplowmem events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ha.takeoverimplowmem events are presented when the partner node is down; however, due to this node being low on memory, it is currently impossible to perform a takeover which may require contacting NetApp support.
+
+
 == ha.takeoverImpLowMem
 *Severity*::
 ERROR

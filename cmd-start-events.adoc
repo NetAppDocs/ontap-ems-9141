@@ -13,6 +13,10 @@ summary: cmd.start events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cmd.start events are presented when the Counter Manager daemon (cmd) fails to start which may require restarting affected services or nodes.
+
+
 == cmd.start.unsuccessful
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: nis.active events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nis.active events are presented when the last system to be upgraded in a cluster removes NIS configurations that were marked as inactive which typically does not require corrective action.
+
+
 == nis.active.false.removed
 *Severity*::
 NOTICE

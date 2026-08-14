@@ -13,6 +13,10 @@ summary: cdpd.recv events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cdpd.recv events are presented when the CDP (Cisco Discovery Protocol) daemon running on the storage controller receives more unique neighbor advertisements than it can cache which is typically fixed by verifying system state and connectivity.
+
+
 == cdpd.recv.cacheOverflow
 *Severity*::
 ERROR

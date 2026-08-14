@@ -13,6 +13,10 @@ summary: fg.writeback events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fg.writeback events are presented when an inconsistency is discovered during a writeback which typically does not require corrective action.
+
+
 == fg.writeback.delta.checker
 *Severity*::
 NOTICE

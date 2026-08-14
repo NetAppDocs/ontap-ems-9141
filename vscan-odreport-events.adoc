@@ -13,6 +13,10 @@ summary: vscan.odreport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vscan.odreport events are presented when the On-Demand job fails to create report file which is typically fixed by following the documented corrective steps.
+
+
 == vscan.odReport.create.failed
 *Severity*::
 ERROR

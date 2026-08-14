@@ -13,6 +13,10 @@ summary: ucore.limits events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ucore.limits events are presented when a userspace core is not dumped because system limits for this process are reached which may require contacting NetApp support.
+
+
 == ucore.limits.reached
 *Severity*::
 ERROR

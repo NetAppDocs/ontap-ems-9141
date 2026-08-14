@@ -13,6 +13,10 @@ summary: fci.fwupdate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fci.fwupdate events are presented when the Service Level Initiator Fibre Channel (SLIFC) Initiator driver successfully updates the firmware of the host bus adapter (HBA) which is typically fixed by following the documented corrective steps.
+
+
 == fci.fwupdate.AutoBoot
 *Severity*::
 NOTICE

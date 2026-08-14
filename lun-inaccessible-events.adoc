@@ -13,6 +13,10 @@ summary: lun.inaccessible events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lun.inaccessible events are presented when a LUN or NVMe namespace that is inaccessible due to restore is found in a volume which is typically fixed by following the documented corrective steps.
+
+
 == LUN.inaccessible.restore
 *Severity*::
 NOTICE

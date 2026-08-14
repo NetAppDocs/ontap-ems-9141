@@ -13,6 +13,10 @@ summary: cpeer.recv events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cpeer.recv events are presented when there is an incoming cluster peer request using the system-generated passphrase which is typically fixed by verifying system state and connectivity.
+
+
 == cpeer.recv.pp.mismatch
 *Severity*::
 NOTICE

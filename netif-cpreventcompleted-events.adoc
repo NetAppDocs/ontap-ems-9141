@@ -13,6 +13,10 @@ summary: netif.cpreventcompleted events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.cpreventcompleted events are presented when a CPR Event (core PCI resiliency) has completed which is typically fixed by following the documented corrective steps.
+
+
 == netif.cprEventCompleted
 *Severity*::
 INFORMATIONAL

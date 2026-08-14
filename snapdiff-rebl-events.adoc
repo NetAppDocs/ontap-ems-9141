@@ -13,6 +13,10 @@ summary: snapdiff.rebl events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snapdiff.rebl events are presented when snapDiff(R), the snapshot copy differencing engine, encounters an absent allocated block which is typically fixed by following the documented corrective steps.
+
+
 == snapdiff.rebl.absent.allocated.block
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: configbr.initfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+configbr.initfailed events are presented when the configuration backup and restore feature cannot initialize the necessary software components which is typically fixed by verifying system state and connectivity.
+
+
 == configbr.initFailed
 *Severity*::
 ERROR

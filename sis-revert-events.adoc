@@ -13,6 +13,10 @@ summary: sis.revert events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sis.revert events are presented when the Single Instance Storage (SIS) volume command 'sis revert_to' has failed which typically does not require corrective action.
+
+
 == sis.revert.to.has.Aborted
 *Severity*::
 NOTICE

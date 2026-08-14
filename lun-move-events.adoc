@@ -13,6 +13,10 @@ summary: lun.move events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lun.move events are presented when a LUN appears in the public namespace of the destination volume during a LUN move operation which typically does not require corrective action.
+
+
 == LUN.move.dstPresent
 *Severity*::
 INFORMATIONAL

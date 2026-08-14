@@ -13,6 +13,10 @@ summary: sis.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sis.vol events are presented when deprioritized volume gets auto promoted which typically does not require corrective action.
+
+
 == sis.vol.auto.promote
 *Severity*::
 NOTICE

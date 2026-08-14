@@ -13,6 +13,10 @@ summary: asa.personality events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+asa.personality events are presented when the cluster personality has been changed to an All SAN Array which typically does not require corrective action.
+
+
 == asa.personality.enable.end
 *Severity*::
 NOTICE

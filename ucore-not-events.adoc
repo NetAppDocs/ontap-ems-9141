@@ -13,6 +13,10 @@ summary: ucore.not events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ucore.not events are presented when a userspace core cannot be dumped either because coredumps are not enabled or because the process called setuid, and coredump is disabled for processes that have changed their user credentials which may require contacting NetApp support.
+
+
 == ucore.not.enabled
 *Severity*::
 ERROR

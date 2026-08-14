@@ -13,6 +13,10 @@ summary: fg.provision events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fg.provision events are presented when a user provisions a FlexGroup on unmirrored aggregates on nodes in a MetroCluster(tm) configuration which typically does not require corrective action.
+
+
 == fg.provision.unmirrored.aggr
 *Severity*::
 NOTICE

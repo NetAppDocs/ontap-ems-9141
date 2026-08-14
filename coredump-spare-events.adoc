@@ -13,6 +13,10 @@ summary: coredump.spare events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+coredump.spare events are presented when coredump attempts to terminate any sparecore dump that might be in progress on the partner which typically does not require corrective action.
+
+
 == coredump.spare.abort
 *Severity*::
 INFORMATIONAL

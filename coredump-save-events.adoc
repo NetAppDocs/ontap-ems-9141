@@ -13,6 +13,10 @@ summary: coredump.save events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+coredump.save events are presented when the savecore operation is aborted while saving a kernel core which typically does not require corrective action.
+
+
 == coredump.save.aborted
 *Severity*::
 NOTICE

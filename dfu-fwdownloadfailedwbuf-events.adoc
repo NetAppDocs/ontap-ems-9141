@@ -13,6 +13,10 @@ summary: dfu.fwdownloadfailedwbuf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dfu.fwdownloadfailedwbuf events are presented when retries are exhausted on the write buffer command that is used to download firmware to a disk which is typically fixed by following the documented corrective steps.
+
+
 == dfu.fwDownloadFailedWbuf
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: fmmb.mmr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fmmb.mmr events are presented when the outbound FM payload area is found to be corrupted and the master mailbox record is missing, which typically does not require corrective action.
+
+
 == fmmb.MMR.payload.bad
 *Severity*::
 ALERT

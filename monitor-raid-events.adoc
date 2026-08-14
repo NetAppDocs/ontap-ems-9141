@@ -13,6 +13,10 @@ summary: monitor.raid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.raid events are presented when the monitor detects a broken disk which may require reseating or replacing affected hardware.
+
+
 == monitor.raid.brokenDisk
 *Severity*::
 ERROR

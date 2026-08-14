@@ -13,6 +13,10 @@ summary: ses.unsupported events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ses.unsupported events are presented when a disk shelf has one unsupported power supply unit installed in it which is typically fixed by verifying system state and connectivity.
+
+
 == ses.unsupported.shelf.psu
 *Severity*::
 EMERGENCY

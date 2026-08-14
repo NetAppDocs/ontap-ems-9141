@@ -13,6 +13,10 @@ summary: spm.named events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.named events are presented when the Domain Name Service (DNS) name resolution daemon 'named' involuntarily exits which may require contacting NetApp support.
+
+
 == spm.named.process.exit
 *Severity*::
 ERROR

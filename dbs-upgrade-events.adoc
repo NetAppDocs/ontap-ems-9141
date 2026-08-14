@@ -13,6 +13,10 @@ summary: dbs.upgrade events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.upgrade events are presented when Distributed Block Store (DBS) detects a software upgrade is in progress longer than 24 hours, and corrective action is to Contact NetApp technical support.
+
+
 == dbs.upgrade
 *Severity*::
 ERROR

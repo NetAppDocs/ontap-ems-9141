@@ -13,6 +13,10 @@ summary: wafl.cbin events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.cbin events are presented when cloud mirror configuration changes during the WAFLiron operation on a FabricPool aggregate with unified format enabled which is typically fixed by following the documented corrective steps.
+
+
 == wafl.cbin.iron.mirror.config.changed
 *Severity*::
 INFORMATIONAL

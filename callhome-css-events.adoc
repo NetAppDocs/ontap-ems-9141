@@ -13,6 +13,10 @@ summary: callhome.css events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.css events are presented when an inconsistency is discovered in a metadata record of the Cloud Storage Service (CSS) which is typically fixed by verifying system state and connectivity.
+
+
 == callhome.css.toc.repair
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: shm.bypassed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+shm.bypassed events are presented when the system recommends that a disk be failed because it has been bypassed which typically does not require corrective action.
+
+
 == shm.bypassed.disk.fail
 *Deprecated*::
 Deprecated as of Data ONTAP 9.3 because bypass code has been removed.

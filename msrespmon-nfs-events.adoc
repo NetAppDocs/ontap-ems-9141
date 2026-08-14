@@ -13,6 +13,10 @@ summary: msrespmon.nfs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+msrespmon.nfs events are presented when data IP is detected to be unresponsive, and no corrective action is typically required.
+
+
 == msRespMon.nfs.unresponsive
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: dbs.install events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.install events are presented when a Distributed Block Store (DBS) install event occurs, such as inability to install the system software on a pending node, and no corrective action is typically required.
+
+
 == dbs.install
 *Severity*::
 NOTICE

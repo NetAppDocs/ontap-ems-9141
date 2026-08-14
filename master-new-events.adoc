@@ -13,6 +13,10 @@ summary: master.new events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+master.new events are presented when the connection state from the associated node to current cluster master has changed, and no corrective action is typically required.
+
+
 == master.new.connection.state
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: sfu.fcdownloadfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sfu.fcdownloadfailed events are presented when a disk shelf firmware update fails to download shelf firmware to an FC or an ATA shelf successfully which is typically fixed by updating configuration.
+
+
 == sfu.FCDownloadFailed
 *Severity*::
 ERROR

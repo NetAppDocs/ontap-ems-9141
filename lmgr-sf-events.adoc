@@ -13,6 +13,10 @@ summary: lmgr.sf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lmgr.sf events are presented when the lock manager non-disruption subsystem for CIFS continuously available (CA) shares notifies the high-availability (HA) module that transition into the up state is allowed which typically does not require corrective action.
+
+
 == lmgr.sf.up.ready
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: snaplock.user events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snaplock.user events are presented when the SnapLock(R) logging system fails to securely log either the addition or deletion of the compliance admin role to or from a user account which is typically fixed by following the documented corrective steps.
+
+
 == snaplock.user
 *Severity*::
 NOTICE

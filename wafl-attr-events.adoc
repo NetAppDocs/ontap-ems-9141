@@ -13,6 +13,10 @@ summary: wafl.attr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.attr events are presented when the large directory report fails to be cleared for a volume when this feature is turned off due to an internal error which may require contacting NetApp support.
+
+
 == wafl.attr.topK.clear.fail
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: dml.drive events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dml.drive events are presented when drive offline completes which typically does not require corrective action.
+
+
 == dml.drive.offline.status
 *Severity*::
 NOTICE

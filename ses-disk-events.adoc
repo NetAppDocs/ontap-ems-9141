@@ -13,6 +13,10 @@ summary: ses.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ses.disk events are presented when there are no longer any drives in a FAS2050 system's slots 20 through 23 which typically does not require corrective action.
+
+
 == ses.disk.configOk
 *Severity*::
 INFORMATIONAL

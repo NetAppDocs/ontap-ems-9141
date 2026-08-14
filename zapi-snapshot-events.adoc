@@ -13,6 +13,10 @@ summary: zapi.snapshot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+zapi.snapshot events are presented when an asynchronous Snapshot(tm) copy is created successfully through the Zephyr API (ZAPI) interface, which typically does not require corrective action.
+
+
 == zapi.snapshot.success
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: netinet6.nbr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netinet6.nbr events are presented when oNTAP receives unexpected Neighbor Discovery (ND) packets which is typically fixed by verifying system state and connectivity.
+
+
 == netinet6.nbr.bad.addr
 *Severity*::
 ERROR

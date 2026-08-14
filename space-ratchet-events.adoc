@@ -13,6 +13,10 @@ summary: space.ratchet events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+space.ratchet events are presented when if the space ratchet catches a space-check error, which typically does not require corrective action.
+
+
 == space.ratchet.failure
 *Severity*::
 ERROR

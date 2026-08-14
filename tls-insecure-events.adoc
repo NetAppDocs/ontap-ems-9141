@@ -13,6 +13,10 @@ summary: tls.insecure events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+tls.insecure events are presented when during the TLS handshake a peer negotiates a cipher suite that is no longer considered sufficiently secure to be enabled in the default configuration which is typically fixed by updating configuration.
+
+
 == tls.insecure.cipher
 *Severity*::
 ERROR

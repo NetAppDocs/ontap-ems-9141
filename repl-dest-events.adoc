@@ -13,6 +13,10 @@ summary: repl.dest events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+repl.dest events are presented when replication Engine encounters CSS Upload Table in a snapshot which typically does not require corrective action.
+
+
 == repl.dest.ilabels.notsup
 *Severity*::
 ERROR

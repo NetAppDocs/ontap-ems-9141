@@ -13,6 +13,10 @@ summary: vifmgr.gcp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.gcp events are presented when the network load balancing listener becomes unresponsive which may require a reboot.
+
+
 == vifmgr.gcp.NlbdDown
 *Severity*::
 ERROR

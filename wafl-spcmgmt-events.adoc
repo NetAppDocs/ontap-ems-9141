@@ -13,6 +13,10 @@ summary: wafl.spcmgmt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.spcmgmt events are presented when a space management strategy or an autosize grow threshold for a volume is being configured and the autogrow or autodelete thresholds conflict with the space-mgmt-try-first policy which is typically fixed by updating configuration.
+
+
 == wafl.spcmgmt.policyConflict
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: sis.max events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sis.max events are presented when single Instance Storage (SIS) savings on the volume is nearing its maximum limit which typically does not require corrective action.
+
+
 == sis.max.saving.near
 *Severity*::
 NOTICE

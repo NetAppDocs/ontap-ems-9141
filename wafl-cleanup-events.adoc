@@ -13,6 +13,10 @@ summary: wafl.cleanup events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.cleanup events are presented when after WAFL(R) completes the post-giveback cleanup which typically does not require corrective action.
+
+
 == wafl.cleanup.after.giveback
 *Severity*::
 INFORMATIONAL

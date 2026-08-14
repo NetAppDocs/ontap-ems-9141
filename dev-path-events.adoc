@@ -13,6 +13,10 @@ summary: dev.path events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dev.path events are presented when the system fails to discover the drive which is typically fixed by verifying system state and connectivity.
+
+
 == dev.path.inquiry.failed
 *Severity*::
 ERROR

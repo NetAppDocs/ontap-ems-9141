@@ -13,6 +13,10 @@ summary: netif.ratelimitthreshold events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.ratelimitthreshold events are presented when the protocol rate threshold is reached on a network interface which is typically fixed by updating configuration.
+
+
 == netif.rateLimitThreshold
 *Severity*::
 ERROR

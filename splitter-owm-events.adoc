@@ -13,6 +13,10 @@ summary: splitter.owm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+splitter.owm events are presented when overlapping write manager recycling is activated as the allocation exceeds the threshold which typically does not require corrective action.
+
+
 == splitter.owm.recycle.start
 *Severity*::
 NOTICE

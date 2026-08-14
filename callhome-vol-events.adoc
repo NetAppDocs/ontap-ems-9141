@@ -13,6 +13,10 @@ summary: callhome.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.vol events are presented when the system detects an inconsistent volume and takes it offline which is typically fixed by verifying system state and connectivity.
+
+
 == callhome.vol.offline
 *Severity*::
 ALERT

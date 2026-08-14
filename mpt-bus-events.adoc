@@ -13,6 +13,10 @@ summary: mpt.bus events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mpt.bus events are presented when the message processing technology (MPT) adapter driver registration fails which typically does not require corrective action.
+
+
 == mpt.bus.reg
 *Severity*::
 NOTICE

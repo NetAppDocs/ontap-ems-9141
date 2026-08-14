@@ -13,6 +13,10 @@ summary: disk.outofservice events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.outofservice events are presented when a drive is removed from service because it has been marked failed, is being sanitized, or has entered Maintenance Center which typically does not require corrective action.
+
+
 == disk.outOfService
 *Severity*::
 NOTICE

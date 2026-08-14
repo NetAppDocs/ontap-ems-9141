@@ -13,6 +13,10 @@ summary: aggr.grow events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+aggr.grow events are presented when request to grow an aggregate is completed successfully which typically does not require corrective action.
+
+
 == aggr.grow.completed
 *Severity*::
 NOTICE

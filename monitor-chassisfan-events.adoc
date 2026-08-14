@@ -13,6 +13,10 @@ summary: monitor.chassisfan events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.chassisfan events are presented when a chassis fan is degraded which may require reseating or replacing affected hardware.
+
+
 == monitor.chassisFan.degraded
 *Severity*::
 ALERT

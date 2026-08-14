@@ -13,6 +13,10 @@ summary: nis.server events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nis.server events are presented when the Storage Virtual Machine (SVM, formerly Vserver) binds to any of the configured NIS servers which typically does not require corrective action.
+
+
 == nis.server.active
 *Severity*::
 INFORMATIONAL

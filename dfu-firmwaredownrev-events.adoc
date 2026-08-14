@@ -13,6 +13,10 @@ summary: dfu.firmwaredownrev events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dfu.firmwaredownrev events are presented when the system finds disks with a downrev version of firmware, as defined by the installed version of Data ONTAP(R) which is typically fixed by verifying system state and updating configuration.
+
+
 == dfu.firmwareDownrev
 *Severity*::
 ERROR

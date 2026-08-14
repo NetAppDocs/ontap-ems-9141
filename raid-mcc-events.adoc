@@ -13,6 +13,10 @@ summary: raid.mcc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.mcc events are presented when reports the summary information for the MetroCluster(tm) switchover operation which typically does not require corrective action.
+
+
 == raid.mcc.disasterSummary
 *Severity*::
 INFORMATIONAL

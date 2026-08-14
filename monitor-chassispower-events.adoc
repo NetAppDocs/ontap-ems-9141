@@ -13,6 +13,10 @@ summary: monitor.chassispower events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.chassispower events are presented when a power supply is degraded which may require contacting NetApp support.
+
+
 == monitor.chassisPower.degraded
 *Severity*::
 ALERT

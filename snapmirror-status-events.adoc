@@ -13,6 +13,10 @@ summary: snapmirror.status events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snapmirror.status events are presented when ONTAP cannot update the latest base snapshot for the replication destination, which is typically fixed by verifying system state and connectivity.
+
+
 == snapmirror.status.dstUpdateSnapErr
 *Severity*::
 ERROR

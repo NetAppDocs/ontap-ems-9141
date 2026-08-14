@@ -13,6 +13,10 @@ summary: backup.abort events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+backup.abort events are presented when backup event like dump has been aborted and currently ROOLR (Read Only On Line Replica) is running on the Filer, which typically does not require corrective action.
+
+
 == backup.abort.ROOLR
 *Severity*::
 NOTICE

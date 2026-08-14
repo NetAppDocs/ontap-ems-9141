@@ -13,6 +13,10 @@ summary: dbs.mem events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.mem events are presented when Distributed Block Store (DBS) detects a node's container has very low memory, and corrective action is to Purge unused volumes and allow up to an hour for garbage collection between the Block and Slice services to run.
+
+
 == dbs.mem.threshold.alert
 *Severity*::
 ALERT

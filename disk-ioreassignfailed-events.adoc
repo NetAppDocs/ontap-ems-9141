@@ -13,6 +13,10 @@ summary: disk.ioreassignfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.ioreassignfailed events are presented when a disk reports a medium error and the sector reassignment fails which may require reseating or replacing affected hardware.
+
+
 == disk.ioReassignFailed
 *Severity*::
 ALERT

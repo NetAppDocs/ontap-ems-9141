@@ -13,6 +13,10 @@ summary: dlock.release events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dlock.release events are presented when oNTAP(R) software reports an error while attempting to release an internal lock which is typically fixed by verifying system state and connectivity.
+
+
 == dlock.release.error
 *Severity*::
 ERROR

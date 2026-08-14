@@ -13,6 +13,10 @@ summary: rdb.node events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+rdb.node events are presented when the replicated database (RDB) detects CPU starvation on this node, potentially causing it to leave cluster quorum which is typically fixed by following the documented corrective steps.
+
+
 == rdb.node.starvation
 *Severity*::
 ERROR

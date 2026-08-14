@@ -13,6 +13,10 @@ summary: objectattach.hw events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+objectattach.hw events are presented when an object store attach failed due to an unsupported hardware configuration which typically does not require corrective action.
+
+
 == objectAttach.hw.unsupported
 *Severity*::
 NOTICE

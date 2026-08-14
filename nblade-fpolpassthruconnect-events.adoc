@@ -13,6 +13,10 @@ summary: nblade.fpolpassthruconnect events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.fpolpassthruconnect events are presented when a pass-through read channel is established between the node and the FPolicy server which typically does not require corrective action.
+
+
 == Nblade.fpolPassthruConnect
 *Severity*::
 INFORMATIONAL

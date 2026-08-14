@@ -13,6 +13,10 @@ summary: monitor.rtchighpower events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.rtchighpower events are presented when the real-time clock (RTC) battery voltage is above normal level which may require reseating or replacing affected hardware.
+
+
 == monitor.rtcHighPower
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: air.repaired events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+air.repaired events are presented when oNTAP(R) discovers an inconsistency in a metadata bucket header record which typically does not require corrective action.
+
+
 == air.repaired.bucket.header
 *Severity*::
 NOTICE

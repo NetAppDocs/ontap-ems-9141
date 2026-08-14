@@ -13,6 +13,10 @@ summary: raid.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.vol events are presented when a disk is added to a aggregate, which typically does not require corrective action.
+
+
 == raid.vol.disk.add.done
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: nodewatchdog.node events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nodewatchdog.node events are presented when data ONTAP(R) experiences a prolonged outage of internal services critical to continued data service which may require contacting NetApp support.
+
+
 == nodewatchdog.node.failure
 *Severity*::
 EMERGENCY

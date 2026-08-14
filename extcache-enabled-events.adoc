@@ -13,6 +13,10 @@ summary: extcache.enabled events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+extcache.enabled events are presented when the external cache is administratively enabled which typically does not require corrective action.
+
+
 == extCache.enabled
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: flexcache.origincleanup events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+flexcache.origincleanup events are presented when the origin of a FlexCache(R) volume cleanup job fails to clean up the origin volume which may require contacting NetApp support.
+
+
 == flexcache.origincleanup.fail
 *Severity*::
 ERROR

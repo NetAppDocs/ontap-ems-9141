@@ -13,6 +13,10 @@ summary: smc.snapmir events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+smc.snapmir events are presented when the destination volume of a SnapMirror(R) relationship is not a Data Protection (DP) type and a snapmirror initialize operation is attempted which is typically fixed by updating configuration.
+
+
 == smc.snapmir.dst.invalidType
 *Severity*::
 ERROR

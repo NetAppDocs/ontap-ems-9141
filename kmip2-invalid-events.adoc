@@ -13,6 +13,10 @@ summary: kmip2.invalid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+kmip2.invalid events are presented when oNTAP cannot push a key to a KMIP key server because the key has an invalid length which typically does not require corrective action.
+
+
 == kmip2.invalid.key.length
 *Severity*::
 ALERT

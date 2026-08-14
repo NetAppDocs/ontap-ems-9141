@@ -13,6 +13,10 @@ summary: disk.fli events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.fli events are presented when an I/O operation below the SCSI layer is aborted because a Foreign LUN Import (FLI) abort message was issued which typically does not require corrective action.
+
+
 == disk.fli.abort.ioSent
 *Severity*::
 NOTICE

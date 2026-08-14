@@ -13,6 +13,10 @@ summary: nv.rename events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nv.rename events are presented when there is an error while renaming the files specified in /etc/nvfail_rename which typically does not require corrective action.
+
+
 == nv.rename.err
 *Severity*::
 INFORMATIONAL

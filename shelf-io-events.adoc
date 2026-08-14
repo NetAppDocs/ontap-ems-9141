@@ -13,6 +13,10 @@ summary: shelf.io events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+shelf.io events are presented when a request cannot be performed because I/O is still in progress which typically does not require corrective action.
+
+
 == shelf.IO.in.progress
 *Severity*::
 NOTICE

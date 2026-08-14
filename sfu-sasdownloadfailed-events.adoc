@@ -13,6 +13,10 @@ summary: sfu.sasdownloadfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sfu.sasdownloadfailed events are presented when a disk shelf firmware update fails to download disk shelf firmware to a disk shelf successfully which is typically fixed by updating configuration.
+
+
 == sfu.SASDownloadFailed
 *Severity*::
 ERROR

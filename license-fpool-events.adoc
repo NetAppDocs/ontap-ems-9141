@@ -13,6 +13,10 @@ summary: license.fpool events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+license.fpool events are presented when the maximum storage capacity limit for FabricPool is changed which typically does not require corrective action.
+
+
 == license.fpool.changed
 *Severity*::
 NOTICE

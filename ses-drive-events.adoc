@@ -13,6 +13,10 @@ summary: ses.drive events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ses.drive events are presented when disk drives are placed in locations that do not provide for proper signal integrity which is typically fixed by following the documented corrective steps.
+
+
 == ses.drive.badPlacement
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: flexcache.origin events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+flexcache.origin events are presented when the origin of the FlexCache volume expand operation fails to synchronize the configuration information between the newly created constituent volume and the FlexCache cluster which is typically fixed by updating configuration.
+
+
 == flexcache.origin.config.sync.failed
 *Severity*::
 ERROR

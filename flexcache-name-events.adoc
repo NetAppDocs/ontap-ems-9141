@@ -13,6 +13,10 @@ summary: flexcache.name events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+flexcache.name events are presented when the FlexCache(R) volume rename operation fails to synchronize the FlexCache name information to the origin cluster which is typically fixed by updating configuration.
+
+
 == flexcache.name.sync.failed
 *Severity*::
 ERROR

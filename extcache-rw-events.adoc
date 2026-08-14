@@ -13,6 +13,10 @@ summary: extcache.rw events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+extcache.rw events are presented when an external cache cannot obtain sufficient system resources which typically does not require corrective action.
+
+
 == extCache.rw.alloc
 *Severity*::
 NOTICE

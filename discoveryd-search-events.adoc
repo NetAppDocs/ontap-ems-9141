@@ -13,6 +13,10 @@ summary: discoveryd.search events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+discoveryd.search events are presented when the discoveryd service is contacted during the initial cluster setup phase with an M-SEARCH multicast and a follow up HTTP GET to get the device description document which typically does not require corrective action.
+
+
 == discoveryd.search.request
 *Severity*::
 NOTICE

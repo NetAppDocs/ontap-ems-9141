@@ -13,6 +13,10 @@ summary: wafl.transition events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.transition events are presented when at the completion of a WAFL(R) consistency point (CP) that occurs during a failover transition, such as takeover or giveback which typically does not require corrective action.
+
+
 == wafl.transition.cp.completed
 *Severity*::
 NOTICE

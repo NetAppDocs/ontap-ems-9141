@@ -13,6 +13,10 @@ summary: nblade.smb1onlyclientfound events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.smb1onlyclientfound events are presented when oNTAP(R) detects a client that supports only the SMB1 protocol which typically does not require corrective action.
+
+
 == Nblade.smb1OnlyClientFound
 *Severity*::
 NOTICE

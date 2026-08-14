@@ -13,6 +13,10 @@ summary: wafl.enc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.enc events are presented when the system detects a corrupted WAFL aggregate encryption keys metafile and creates a corrected replacement which typically does not require corrective action.
+
+
 == wafl.enc.aggrMFRecreated
 *Severity*::
 NOTICE

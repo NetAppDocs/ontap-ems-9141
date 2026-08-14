@@ -13,6 +13,10 @@ summary: dbs.maintenance events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.maintenance events are presented when a Distributed Block Store (DBS) maintenance mode event occurs, such as that a node no longer exists, and no corrective action is typically required.
+
+
 == dbs.maintenance.mode
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: lsm.rangedelete events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lsm.rangedelete events are presented when a block store encounters an error while performing a range delete operation which typically does not require corrective action.
+
+
 == lsm.rangeDelete.problem
 *Severity*::
 NOTICE

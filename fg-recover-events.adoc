@@ -13,6 +13,10 @@ summary: fg.recover events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fg.recover events are presented when the recovery of a FlexGroup volume back into a FlexVol(R) fails which may require contacting NetApp support.
+
+
 == fg.recover.fail
 *Severity*::
 ERROR

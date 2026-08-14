@@ -13,6 +13,10 @@ summary: vifmgr.bcastdomain events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.bcastdomain events are presented when a network port is added to a broadcast domain which typically does not require corrective action.
+
+
 == vifmgr.bcastdomain.portadd
 *Severity*::
 NOTICE

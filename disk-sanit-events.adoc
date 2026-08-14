@@ -13,6 +13,10 @@ summary: disk.sanit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.sanit events are presented when disk sanitization has been completed which typically does not require corrective action.
+
+
 == disk.sanit.complete
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: block.giveback events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+block.giveback events are presented when a SnapMirror(R) active sync automatic unplanned failover operation is in progress during a storage failover (SFO) aggregate giveback, which may require a reboot.
+
+
 == block.giveback.during.aufo
 *Severity*::
 ALERT

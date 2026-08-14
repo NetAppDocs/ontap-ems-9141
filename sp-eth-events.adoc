@@ -13,6 +13,10 @@ summary: sp.eth events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sp.eth events are presented when service Processor (SP) or Baseboard Management Controller (BMC) fails to auto-update the internal Ethernet switch which is typically fixed by updating configuration.
+
+
 == sp.eth.switch.upd.failed
 *Severity*::
 ERROR

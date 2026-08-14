@@ -13,6 +13,10 @@ summary: netport.eth events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netport.eth events are presented when a physical network port has been discovered which typically does not require corrective action.
+
+
 == netport.eth.discovered
 *Severity*::
 NOTICE

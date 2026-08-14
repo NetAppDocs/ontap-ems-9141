@@ -13,6 +13,10 @@ summary: callhome.dr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.dr events are presented when all attempts to replicate the configuration fails which may require contacting NetApp support.
+
+
 == callhome.dr.apply.failed
 *Severity*::
 ERROR

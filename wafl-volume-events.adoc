@@ -13,6 +13,10 @@ summary: wafl.volume events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.volume events are presented when a volume comes online with a corrupted or unavailable character mapping configuration which may require contacting NetApp support.
+
+
 == wafl.volume.charmap.loadfail
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: cf.partner events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cf.partner events are presented when a login to the console of the partner occurs as a result of the 'partner' command being issued with no arguments, which typically does not require corrective action.
+
+
 == cf.partner.login
 *Severity*::
 INFORMATIONAL

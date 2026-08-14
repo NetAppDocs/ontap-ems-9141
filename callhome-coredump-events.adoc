@@ -13,6 +13,10 @@ summary: callhome.coredump events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.coredump events are presented when all the core segments belonging to a coredump have been saved which is typically fixed by verifying system state and connectivity.
+
+
 == callhome.coredump.save.done
 *Severity*::
 NOTICE

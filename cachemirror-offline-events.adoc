@@ -13,6 +13,10 @@ summary: cachemirror.offline events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cachemirror.offline events are presented when cache Mirror encounters an error and has to be taken offline which may require a reboot.
+
+
 == cacheMirror.offline
 *Severity*::
 ERROR

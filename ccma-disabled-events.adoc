@@ -13,6 +13,10 @@ summary: ccma.disabled events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ccma.disabled events are presented when the Performance Archive has been disabled for more than an hour which is typically fixed by updating configuration.
+
+
 == ccma.disabled
 *Severity*::
 ERROR

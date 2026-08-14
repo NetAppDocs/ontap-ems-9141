@@ -13,6 +13,10 @@ summary: vol.phy events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vol.phy events are presented when the volume is running dangerously low on free blocks to write to which is typically fixed by updating configuration.
+
+
 == vol.phy.overalloc.inc.sav
 *Severity*::
 EMERGENCY

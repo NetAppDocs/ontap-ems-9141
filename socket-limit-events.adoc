@@ -13,6 +13,10 @@ summary: socket.limit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+socket.limit events are presented when the operating system is cannot allocate a new socket because that would exceed the maximum open sockets which typically does not require corrective action.
+
+
 == socket.limit.exceeded
 *Severity*::
 NOTICE

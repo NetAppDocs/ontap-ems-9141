@@ -13,6 +13,10 @@ summary: cpeer.addr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cpeer.addr events are presented when a stable address for the peer cluster cannot be resolved because of a bad name-server which may require contacting NetApp support.
+
+
 == cpeer.addr.bad.dns
 *Severity*::
 ERROR

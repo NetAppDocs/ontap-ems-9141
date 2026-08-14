@@ -13,6 +13,10 @@ summary: callhome.hainterconnect events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.hainterconnect events are presented when the high-availability (HA) interconnect is down which is typically fixed by verifying system state and connectivity.
+
+
 == callhome.hainterconnect.down
 *Severity*::
 ALERT

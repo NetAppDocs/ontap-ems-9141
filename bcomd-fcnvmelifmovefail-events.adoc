@@ -13,6 +13,10 @@ summary: bcomd.fcnvmelifmovefail events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+bcomd.fcnvmelifmovefail events are presented when a LIF move failed and the recovery action to restore the LIF has also failed which may require contacting NetApp support.
+
+
 == bcomd.fcNvmeLifMoveFail
 *Severity*::
 EMERGENCY

@@ -13,6 +13,10 @@ summary: haosc.sa events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+haosc.sa events are presented when nonvolatile memory on a stand-alone system is configured for a high-availability system which may require a reboot.
+
+
 == haosc.sa.config
 *Severity*::
 ERROR

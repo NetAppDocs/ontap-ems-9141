@@ -13,6 +13,10 @@ summary: ic.hainterconnectdown events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ic.hainterconnectdown events are presented when the high-availability (HA) interconnect is down every hour, which is typically fixed by verifying system state and connectivity.
+
+
 == ic.HAInterconnectDown
 *Severity*::
 ERROR

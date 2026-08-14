@@ -13,6 +13,10 @@ summary: spm.schmd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.schmd events are presented when the System Connectivity Health Monitor process (schmd) involuntarily terminates which may require restarting affected services or nodes.
+
+
 == spm.schmd.process.exit
 *Severity*::
 ALERT

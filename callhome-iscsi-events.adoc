@@ -13,6 +13,10 @@ summary: callhome.iscsi events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.iscsi events are presented when the iSCSI host bus adapter (HBA crashes which may require a reboot.
+
+
 == callhome.iscsi.hba.crash
 *Severity*::
 ALERT

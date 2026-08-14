@@ -13,6 +13,10 @@ summary: mpt.tmf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mpt.tmf events are presented when the system cannot allocate a SCSI Task Management Function (TMF) request in the message processing technology (MPT)adapter driver which typically does not require corrective action.
+
+
 == mpt.tmf.req
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: sis.upgrademetafile events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sis.upgrademetafile events are presented when single Instance Storage (SIS) metafiles cannot be created during a Data ONTAP(R) upgrade which is typically fixed by following the documented corrective steps.
+
+
 == sis.upgrademetafile.failed
 *Severity*::
 ERROR

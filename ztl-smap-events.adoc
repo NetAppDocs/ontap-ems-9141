@@ -13,6 +13,10 @@ summary: ztl.smap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ztl.smap events are presented when the specified partition on a SSD-ZNS drive could not be onlined due to internal S/W or device error which typically does not require corrective action.
+
+
 == ztl.smap.online.status
 *Severity*::
 NOTICE

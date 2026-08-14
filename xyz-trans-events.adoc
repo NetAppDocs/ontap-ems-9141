@@ -13,6 +13,10 @@ summary: xyz.trans events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+xyz.trans events are presented when Copy-Free Transition's volume transition job, responsible for transitioning 7-Mode volumes to clustered Data ONTAP(R), starts, and no corrective action is typically required.
+
+
 == xyz.trans.vol.start
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: configbr.snapshotdelfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+configbr.snapshotdelfailed events are presented when a Snapshot(tm) copy on the root volume cannot be deleted which is typically fixed by verifying system state and connectivity.
+
+
 == configbr.snapshotDelFailed
 *Severity*::
 ERROR

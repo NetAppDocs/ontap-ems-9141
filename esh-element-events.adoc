@@ -13,6 +13,10 @@ summary: esh.element events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+esh.element events are presented when the filer cannot communicate with the ESH module which is typically fixed by verifying system state and connectivity.
+
+
 == esh.element.fault
 *Severity*::
 ERROR

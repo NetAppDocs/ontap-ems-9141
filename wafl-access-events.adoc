@@ -13,6 +13,10 @@ summary: wafl.access events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.access events are presented when the user attempts to access a fenced file which typically does not require corrective action.
+
+
 == wafl.access.fenced.file
 *Severity*::
 NOTICE

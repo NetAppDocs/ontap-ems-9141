@@ -13,6 +13,10 @@ summary: extcache.configunsupported events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+extcache.configunsupported events are presented when the controller contains an external cache hardware configuration that cannot be supported on the controller which is typically fixed by verifying system state and connectivity.
+
+
 == extCache.configUnsupported
 *Severity*::
 ERROR

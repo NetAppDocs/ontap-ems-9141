@@ -13,6 +13,10 @@ summary: token.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+token.vol events are presented when a 'volume offline' operation results in clearing the token cache for that volume which typically does not require corrective action.
+
+
 == token.vol.cache.cleared
 *Severity*::
 NOTICE

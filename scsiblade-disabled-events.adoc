@@ -13,6 +13,10 @@ summary: scsiblade.disabled events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsiblade.disabled events are presented when the local node is made ineligible which is typically fixed by updating configuration.
+
+
 == scsiblade.disabled
 *Severity*::
 NOTICE

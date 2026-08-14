@@ -13,6 +13,10 @@ summary: vifmgr.clusterlfoconf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.clusterlfoconf events are presented when the failover policy and failover group for a cluster LIF are restored to their default values which typically does not require corrective action.
+
+
 == vifmgr.clusterLFOConf
 *Severity*::
 NOTICE

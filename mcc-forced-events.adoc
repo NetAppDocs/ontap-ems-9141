@@ -13,6 +13,10 @@ summary: mcc.forced events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mcc.forced events are presented when the node triggers a forced automatic unplanned switchover because the "allow-auto-forced-switchover" option is true which typically does not require corrective action.
+
+
 == mcc.forced.auso.issued
 *Severity*::
 NOTICE

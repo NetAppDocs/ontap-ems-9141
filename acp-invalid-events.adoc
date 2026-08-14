@@ -13,6 +13,10 @@ summary: acp.invalid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+acp.invalid events are presented when the Alternate Control Path (ACP) system detects that an Alternate Control Path Processor (ACPP) has invalid VPD (Vital Product Data) info which may require reseating or replacing affected hardware.
+
+
 == acp.invalid.vpd.info
 *Severity*::
 ALERT

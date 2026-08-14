@@ -13,6 +13,10 @@ summary: nodewatchdog.config events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nodewatchdog.config events are presented when bootarg.nodewatchdog.level is set to an invalid value which is typically fixed by updating configuration.
+
+
 == nodewatchdog.config.invalid
 *Severity*::
 ERROR

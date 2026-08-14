@@ -13,6 +13,10 @@ summary: rdma.rlib events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+rdma.rlib events are presented when the system fails to start the advertisement service for the high-availability (HA) interconnect which may require contacting NetApp support.
+
+
 == rdma.rlib.adv.failed
 *Deprecated*::
 Deprecated as of ONTAP 9.1 because this platform is no longer supported.

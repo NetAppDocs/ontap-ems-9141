@@ -13,6 +13,10 @@ summary: callhome.syncsm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.syncsm events are presented when critical thresholds are breached for a SnapMirror(R) Synchronous relationship which is typically fixed by verifying system state and connectivity.
+
+
 == callhome.syncsm.exception
 *Severity*::
 ERROR

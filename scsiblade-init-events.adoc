@@ -13,6 +13,10 @@ summary: scsiblade.init events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsiblade.init events are presented when the specified Vserver initialization was skipped due to a user-initiated abort which may require restarting affected services or nodes.
+
+
 == scsiblade.init.abort
 *Severity*::
 ALERT

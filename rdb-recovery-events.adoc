@@ -13,6 +13,10 @@ summary: rdb.recovery events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+rdb.recovery events are presented when the cluster management Data Replication Module could not automatically repair its local replicas which is typically fixed by following the documented corrective steps.
+
+
 == rdb.recovery.failed
 *Severity*::
 EMERGENCY

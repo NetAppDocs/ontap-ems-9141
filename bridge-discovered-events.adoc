@@ -13,6 +13,10 @@ summary: bridge.discovered events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+bridge.discovered events are presented when the system discovers an FC-to-SAS bridge which typically does not require corrective action.
+
+
 == bridge.discovered
 *Severity*::
 INFORMATIONAL

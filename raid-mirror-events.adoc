@@ -13,6 +13,10 @@ summary: raid.mirror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.mirror events are presented when a SyncMirror(R) aggregate uses aggregate snapshots other than SyncMirror aggregate snapshots which may require contacting NetApp support.
+
+
 == raid.mirror.aggrSnapUse
 *Severity*::
 NOTICE

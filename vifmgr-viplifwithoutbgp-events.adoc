@@ -13,6 +13,10 @@ summary: vifmgr.viplifwithoutbgp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.viplifwithoutbgp events are presented when a logical interface (LIF) associated with the Virtual IP (VIP) feature does not have a BGP peer group which is typically fixed by following the documented corrective steps.
+
+
 == vifmgr.vipLifWithoutBgp
 *Severity*::
 ERROR

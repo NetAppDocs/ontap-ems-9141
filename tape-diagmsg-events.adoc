@@ -13,6 +13,10 @@ summary: tape.diagmsg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+tape.diagmsg events are presented when there is a new state of the tape diagnostic message flag which is typically fixed by verifying system state and connectivity.
+
+
 == tape.diagMsg
 *Severity*::
 INFORMATIONAL

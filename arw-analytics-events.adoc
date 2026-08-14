@@ -13,6 +13,10 @@ summary: arw.analytics events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+arw.analytics events are presented when anti-ransomware analytics generates or updates the "suspicious file extensions" report for a volume which typically does not require corrective action.
+
+
 == arw.analytics.ext.report
 *Severity*::
 NOTICE

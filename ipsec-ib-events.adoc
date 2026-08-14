@@ -13,6 +13,10 @@ summary: ipsec.ib events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ipsec.ib events are presented when an inbound IPsec packet cannot be successfully decrypted which is typically fixed by updating configuration.
+
+
 == ipsec.ib.bad.encrypt
 *Severity*::
 ALERT

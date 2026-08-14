@@ -13,6 +13,10 @@ summary: pac.access events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+pac.access events are presented when the access is denied or unsuccessful for the specified source host, destination host, and network interface combination which is typically fixed by updating configuration.
+
+
 == pac.access
 *Severity*::
 INFORMATIONAL

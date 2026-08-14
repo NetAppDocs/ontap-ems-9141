@@ -13,6 +13,10 @@ summary: fli.lun events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fli.lun events are presented when a checkpoint record delete fails which is typically fixed by following the documented corrective steps.
+
+
 == fli.lun.import.checkpoint
 *Severity*::
 ERROR

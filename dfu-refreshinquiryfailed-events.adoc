@@ -13,6 +13,10 @@ summary: dfu.refreshinquiryfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dfu.refreshinquiryfailed events are presented when the 'SCSI inquiry' command after a successful disk firmware update, which is issued to all disks as part of the disk firmware download process, fails to finish which is typically fixed by verifying system state and connectivity.
+
+
 == dfu.refreshInquiryFailed
 *Severity*::
 ERROR

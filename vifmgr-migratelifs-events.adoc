@@ -13,6 +13,10 @@ summary: vifmgr.migratelifs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.migratelifs events are presented when the network load balancing listener is not responding to probes over a node management LIF, and cluster-scoped LIFs with the same current port have been migrated elsewhere which is typically fixed by verifying system state and connectivity.
+
+
 == vifmgr.migrateLifs.nlbdDown
 *Severity*::
 ERROR

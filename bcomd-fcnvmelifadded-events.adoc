@@ -13,6 +13,10 @@ summary: bcomd.fcnvmelifadded events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+bcomd.fcnvmelifadded events are presented when an FC NVMe (Nonvolatile Memory Express) logical interface (LIF) is added which typically does not require corrective action.
+
+
 == bcomd.fcNvmeLifAdded
 *Severity*::
 NOTICE

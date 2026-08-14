@@ -13,6 +13,10 @@ summary: diskshelf.unsupported events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskshelf.unsupported events are presented when oNTAP(R) software detects an unsupported disk shelf which is typically fixed by verifying system state and connectivity.
+
+
 == diskShelf.unsupported
 *Severity*::
 ALERT

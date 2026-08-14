@@ -13,6 +13,10 @@ summary: license.check events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+license.check events are presented when the license checker determines that the Base license has expired which may require reseating or replacing affected hardware.
+
+
 == license.check.expired
 *Severity*::
 ERROR

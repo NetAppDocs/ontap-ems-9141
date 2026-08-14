@@ -13,6 +13,10 @@ summary: vsdr.ip events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vsdr.ip events are presented when a logical interface (LIF) is automatically created through configuration replication in a MetroCluster(TM) configuration which typically does not require corrective action.
+
+
 == vsdr.ip.lif.auto.created
 *Severity*::
 NOTICE

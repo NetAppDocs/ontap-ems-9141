@@ -13,6 +13,10 @@ summary: raid.unpartition events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.unpartition events are presented when indicates a disk was successfully unpartitioned which typically does not require corrective action.
+
+
 == raid.unpartition.disk
 *Severity*::
 NOTICE

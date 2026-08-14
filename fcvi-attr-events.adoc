@@ -13,6 +13,10 @@ summary: fcvi.attr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fcvi.attr events are presented when any of the FCVI attributes changes which typically does not require corrective action.
+
+
 == fcvi.attr.changed
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: wafl.convert events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.convert events are presented when a directory cannot be safely converted to Unicode format which is typically fixed by verifying system state and updating configuration.
+
+
 == wafl.convert.directory.failed
 *Severity*::
 ERROR

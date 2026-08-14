@@ -13,6 +13,10 @@ summary: sis.undo events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sis.undo events are presented when a SIS volume 'undo' operation is aborted due to unexpected conditions, which typically does not require corrective action.
+
+
 == sis.undo.aborted
 *Severity*::
 ERROR

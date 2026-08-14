@@ -13,6 +13,10 @@ summary: monitor.rtcwarnlowpower events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.rtcwarnlowpower events are presented when the real-time clock (RTC) battery is at a "warning low" voltage level which may require reseating or replacing affected hardware.
+
+
 == monitor.rtcWarnLowPower
 *Severity*::
 ERROR

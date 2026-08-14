@@ -13,6 +13,10 @@ summary: snapmirror.sockstrreaderr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snapmirror.sockstrreaderr events are presented when SnapMirror tries to read a large string from the socket, which typically does not require corrective action.
+
+
 == snapmirror.sockStrReadErr
 *Severity*::
 ERROR

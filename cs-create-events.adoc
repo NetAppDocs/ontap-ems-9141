@@ -13,6 +13,10 @@ summary: cs.create events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cs.create events are presented when there is an attempt to release SnapMirror resources for a volume as a result of volume delete while a Cloud Snapshot create operation is in progress which is typically fixed by following the documented corrective steps.
+
+
 == cs.create.inprogress
 *Severity*::
 ALERT

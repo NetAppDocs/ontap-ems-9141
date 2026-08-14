@@ -13,6 +13,10 @@ summary: kern.shutdown events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+kern.shutdown events are presented when to indicate a pending shutdown is underway, which typically does not require corrective action.
+
+
 == kern.shutdown
 *Severity*::
 NOTICE

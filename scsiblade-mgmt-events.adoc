@@ -13,6 +13,10 @@ summary: scsiblade.mgmt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsiblade.mgmt events are presented when a SAN management event is lost because the system could not allocate enough free memory which may require a reboot.
+
+
 == scsiblade.mgmt.evt.lost.mem
 *Severity*::
 ERROR

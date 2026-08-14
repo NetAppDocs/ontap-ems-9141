@@ -13,6 +13,10 @@ summary: wafl.shutdown events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.shutdown events are presented when during shutdown, to indicate that a volume has not been marked clean which may require contacting NetApp support.
+
+
 == wafl.shutdown.notClean
 *Severity*::
 NOTICE

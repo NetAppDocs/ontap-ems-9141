@@ -13,6 +13,10 @@ summary: callhome.dbs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.dbs events are presented when the Distributed Block Store (DBS) assignments reports a validation error which may require contacting NetApp support.
+
+
 == callhome.dbs.assign.error
 *Severity*::
 EMERGENCY

@@ -13,6 +13,10 @@ summary: vldb.aggrbladeid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vldb.aggrbladeid events are presented when the system discovers an inconsistency in the volume location database (VLDB) which typically does not require corrective action.
+
+
 == vldb.aggrBladeID.missing
 *Severity*::
 NOTICE

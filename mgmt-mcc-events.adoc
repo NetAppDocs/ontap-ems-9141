@@ -13,6 +13,10 @@ summary: mgmt.mcc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmt.mcc events are presented when metroCluster(tm) switchback or switchover happens while applying a file security (fsecurity) policy on the MetroCluster partner which may require contacting NetApp support.
+
+
 == mgmt.mcc.fsecurity.cfig.err
 *Severity*::
 ERROR

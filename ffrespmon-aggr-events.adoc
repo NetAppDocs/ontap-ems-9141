@@ -13,6 +13,10 @@ summary: ffrespmon.aggr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ffrespmon.aggr events are presented when an aggregate is detected to be offline due to an unresponsive Firefly Service on a node, and no corrective action is typically required.
+
+
 == ffRespMon.aggr.offline
 *Severity*::
 NOTICE

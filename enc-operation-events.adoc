@@ -13,6 +13,10 @@ summary: enc.operation events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+enc.operation events are presented when rekey or conversion to encryption operation is completed in a flexible volume which typically does not require corrective action.
+
+
 == enc.operation.aborted
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: lun.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lun.vol events are presented when an operation on a LUN or NVMe namespace fails due to insufficient space in the volume which is typically fixed by following the documented corrective steps.
+
+
 == LUN.vol.no.space
 *Severity*::
 ERROR

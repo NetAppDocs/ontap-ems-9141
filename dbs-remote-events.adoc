@@ -13,6 +13,10 @@ summary: dbs.remote events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.remote events are presented when a Distributed Block Store (DBS) event such as a change in cluster pair connectivity status occurs, and no corrective action is typically required.
+
+
 == dbs.remote.cluster
 *Severity*::
 NOTICE

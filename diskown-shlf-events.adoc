@@ -13,6 +13,10 @@ summary: diskown.shlf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.shlf events are presented when shelf granular-based drive assignment is enabled or disabled which typically does not require corrective action.
+
+
 == diskown.Shlf.assignStatus
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: callhome.andu events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.andu events are presented when the automated update of the cluster has been completed which typically does not require corrective action.
+
+
 == callhome.andu.completed
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: esh.unexpected events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+esh.unexpected events are presented when a disk shelf reports an unknown status which may require contacting NetApp support.
+
+
 == esh.unexpected.status
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: lmgr.recons events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lmgr.recons events are presented when locks established through CIFS Continuously Available (CA) shares are dropped after a takeover, giveback, or aggregate relocation which is typically fixed by following the documented corrective steps.
+
+
 == lmgr.recons.CA.lock.dropped
 *Severity*::
 ERROR

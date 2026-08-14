@@ -13,6 +13,10 @@ summary: ffm.restart events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ffm.restart events are presented when the Firefly manager restarts Firefly after detecting abnormal behavior, and no corrective action is typically required.
+
+
 == ffm.restart.firefly
 *Severity*::
 NOTICE

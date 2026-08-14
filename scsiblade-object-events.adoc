@@ -13,6 +13,10 @@ summary: scsiblade.object events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsiblade.object events are presented when a SAN management event receives a timeout error due to network congestion in the system and all efforts of recovery fail which may require contacting NetApp support.
+
+
 == scsiblade.object.out.of.sync
 *Severity*::
 ERROR

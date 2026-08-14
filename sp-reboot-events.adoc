@@ -13,6 +13,10 @@ summary: sp.reboot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sp.reboot events are presented when the node's Service Processor (SP) or Baseboard Management Controller (BMC) log partition is mounted as read-only after an internal error has occurred which typically does not require corrective action.
+
+
 == sp.reboot.ro.partition
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: callhome.svm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.svm events are presented when a Vserver migration failed to be aborted which is typically fixed by verifying system state and connectivity.
+
+
 == callhome.svm.mig.abort.fail
 *Severity*::
 ERROR

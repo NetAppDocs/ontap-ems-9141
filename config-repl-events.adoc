@@ -13,6 +13,10 @@ summary: config.repl events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+config.repl events are presented when the configuration replication bypass has been disabled which typically does not require corrective action.
+
+
 == config.repl.bypass.disabled
 *Severity*::
 NOTICE

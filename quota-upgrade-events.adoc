@@ -13,6 +13,10 @@ summary: quota.upgrade events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+quota.upgrade events are presented when a quota upgrade on the volume is started, ended or aborted which typically does not require corrective action.
+
+
 == quota.upgrade
 *Severity*::
 INFORMATIONAL

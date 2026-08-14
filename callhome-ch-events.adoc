@@ -13,6 +13,10 @@ summary: callhome.ch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.ch events are presented when a degraded chassis power supply unit (PSU) state exists which may require reseating or replacing affected hardware.
+
+
 == callhome.ch.ps.degraded
 *Severity*::
 ERROR

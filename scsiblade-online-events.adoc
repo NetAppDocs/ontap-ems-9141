@@ -13,6 +13,10 @@ summary: scsiblade.online events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsiblade.online events are presented when the node completes initialization of the SAN configuration cache which typically does not require corrective action.
+
+
 == scsiblade.online
 *Severity*::
 NOTICE

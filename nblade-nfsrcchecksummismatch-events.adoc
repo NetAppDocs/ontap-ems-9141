@@ -13,6 +13,10 @@ summary: nblade.nfsrcchecksummismatch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.nfsrcchecksummismatch events are presented when the server detects a retransmitted request from the client with a modified payload which is typically fixed by following the documented corrective steps.
+
+
 == Nblade.nfsRCChecksumMismatch
 *Severity*::
 ALERT

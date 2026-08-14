@@ -13,6 +13,10 @@ summary: diskown.diskhaswronginfo events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.diskhaswronginfo events are presented when the disk ownership information on a disk does not belong to the disk that it was read from which is typically fixed by following the documented corrective steps.
+
+
 == diskown.diskHasWrongInfo
 *Severity*::
 ERROR

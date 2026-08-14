@@ -13,6 +13,10 @@ summary: repl.extended events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+repl.extended events are presented when the replication engine encounters a destination that does not support extended time format which is typically fixed by following the documented corrective steps.
+
+
 == repl.extended.time.format.unsupported
 *Severity*::
 ERROR

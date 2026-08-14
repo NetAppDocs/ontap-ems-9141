@@ -13,6 +13,10 @@ summary: vserver.start events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vserver.start events are presented when a 'vserver start' operation fails due to failure to start either a logical interface (LIF) or a protocol for the Vserver specified which is typically fixed by following the documented corrective steps.
+
+
 == vserver.start.failed
 *Severity*::
 ERROR

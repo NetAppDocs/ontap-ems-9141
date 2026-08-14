@@ -13,6 +13,10 @@ summary: cpeer.localid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cpeer.localid events are presented when there is an issue reading the local cluster ID which is typically fixed by following the documented corrective steps.
+
+
 == cpeer.localid.bad
 *Severity*::
 ERROR

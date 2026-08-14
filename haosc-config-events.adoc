@@ -13,6 +13,10 @@ summary: haosc.config events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+haosc.config events are presented when the chassis and controller field-replaceable unit programmable read-only memories (FRU PROMs) have inconsistent data which is typically fixed by updating configuration.
+
+
 == haosc.config.unknown.cf
 *Severity*::
 ALERT

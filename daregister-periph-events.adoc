@@ -13,6 +13,10 @@ summary: daregister.periph events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+daregister.periph events are presented when a peripheral device is lost during registration which is typically fixed by verifying system state and connectivity.
+
+
 == daregister.periph.lost
 *Severity*::
 ERROR

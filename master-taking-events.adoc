@@ -13,6 +13,10 @@ summary: master.taking events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+master.taking events are presented when the node is promoted to the cluster master and takes control as the master, and no corrective action is typically required.
+
+
 == master.taking.over.cm
 *Severity*::
 NOTICE

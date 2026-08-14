@@ -13,6 +13,10 @@ summary: vs.migrate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vs.migrate events are presented when the source Vserver cleanup operation has completed which typically does not require corrective action.
+
+
 == vs.migrate.cleanup.completed
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: wafl.analytics events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.analytics events are presented when the system detects an inconsistency in the file system analytics database which is typically fixed by following the documented corrective steps.
+
+
 == wafl.analytics.air.uh
 *Severity*::
 ALERT

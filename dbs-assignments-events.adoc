@@ -13,6 +13,10 @@ summary: dbs.assignments events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.assignments events are presented when a Distributed Block Store (DBS) assignments event is reported, which occurs when the distribution of block data within the cluster changes, and no corrective action is typically required.
+
+
 == dbs.assignments
 *Severity*::
 NOTICE

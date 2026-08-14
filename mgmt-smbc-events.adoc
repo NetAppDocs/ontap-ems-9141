@@ -13,6 +13,10 @@ summary: mgmt.smbc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmt.smbc events are presented when the system fails to replicate the configuration of Report Target Group Port(RTPG) and Inter-Cluster(IC) LIF information which typically does not require corrective action.
+
+
 == mgmt.smbc.config.not.repl
 *Severity*::
 NOTICE

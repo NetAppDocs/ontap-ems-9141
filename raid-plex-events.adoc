@@ -13,6 +13,10 @@ summary: raid.plex events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.plex events are presented when disks in a plex do not have the same hardware-based pool which may require reseating or replacing affected hardware.
+
+
 == raid.plex.faultIsolation.reminder
 *Severity*::
 ERROR

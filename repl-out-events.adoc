@@ -13,6 +13,10 @@ summary: repl.out events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+repl.out events are presented when replication source is asked to send certain blocks out of band because the replica volume did a snapshot restore which typically does not require corrective action.
+
+
 == repl.out.of.band.vbn
 *Severity*::
 INFORMATIONAL

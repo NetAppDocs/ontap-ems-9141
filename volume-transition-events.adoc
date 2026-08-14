@@ -13,6 +13,10 @@ summary: volume.transition events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+volume.transition events are presented when a volume transition plug-in is taking longer than expected which typically does not require corrective action.
+
+
 == volume.transition.plugin.slow
 *Severity*::
 INFORMATIONAL

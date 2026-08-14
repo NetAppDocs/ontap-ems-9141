@@ -13,6 +13,10 @@ summary: pci.init events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+pci.init events are presented when PCI configuration is waiting for outstanding background threads that might still be running, which typically does not require corrective action.
+
+
 == PCI.init.process.timeWarn
 *Severity*::
 NOTICE

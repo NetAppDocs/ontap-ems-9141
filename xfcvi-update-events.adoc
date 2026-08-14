@@ -13,6 +13,10 @@ summary: xfcvi.update events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+xfcvi.update events are presented when there is a change in physical link state of the Fibre Channel Virtual Interface (FC-VI) adapter which typically does not require corrective action.
+
+
 == xfcvi.update.link.state
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: raid.switchovernodisks events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.switchovernodisks events are presented when a MetroCluster(tm) switchover finds no disks during RAID assimilation which typically does not require corrective action.
+
+
 == raid.switchoverNoDisks
 *Severity*::
 INFORMATIONAL
