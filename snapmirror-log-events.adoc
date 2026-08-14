@@ -13,6 +13,10 @@ summary: snapmirror.log events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snapmirror.log events are presented when an error is encountered when opening the SnapMirror log file for writing, which typically does not require corrective action.
+
+
 == snapmirror.log.openErr
 *Severity*::
 ERROR

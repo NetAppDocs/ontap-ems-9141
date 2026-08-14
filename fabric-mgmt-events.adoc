@@ -13,6 +13,10 @@ summary: fabric.mgmt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fabric.mgmt events are presented when the system fails to establish a management interface on the fabric which typically does not require corrective action.
+
+
 == fabric.mgmt.interface
 *Severity*::
 NOTICE

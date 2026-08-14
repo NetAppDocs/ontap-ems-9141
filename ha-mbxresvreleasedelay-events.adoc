@@ -13,6 +13,10 @@ summary: ha.mbxresvreleasedelay events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ha.mbxresvreleasedelay events are presented when the takeover node cannot release a disk reservation for a mailbox disk in preparation for a giveback event which may require a reboot.
+
+
 == ha.mbxResvReleaseDelay
 *Severity*::
 NOTICE

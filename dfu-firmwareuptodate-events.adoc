@@ -13,6 +13,10 @@ summary: dfu.firmwareuptodate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dfu.firmwareuptodate events are presented when all eligible disks are determined to be updated to the latest version of firmware available on the system which typically does not require corrective action.
+
+
 == dfu.firmwareUpToDate
 *Severity*::
 NOTICE

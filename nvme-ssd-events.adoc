@@ -13,6 +13,10 @@ summary: nvme.ssd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvme.ssd events are presented when the NVMe drive encounters an error before the drive is reported to upper layers which may require reseating or replacing affected hardware.
+
+
 == nvme.ssd.attach.error
 *Severity*::
 ERROR

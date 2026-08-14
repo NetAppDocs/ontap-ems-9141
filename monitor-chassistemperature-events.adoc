@@ -13,6 +13,10 @@ summary: monitor.chassistemperature events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.chassistemperature events are presented when the chassis temperature is too cool which is typically fixed by following the documented corrective steps.
+
+
 == monitor.chassisTemperature.cool
 *Severity*::
 ALERT

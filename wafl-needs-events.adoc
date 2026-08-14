@@ -13,6 +13,10 @@ summary: wafl.needs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.needs events are presented when batched_free_log needs to be turned on to allow performing one of the requested actions, such as "Dense Undo", "Dense Revert", and "Clone Split" which may require contacting NetApp support.
+
+
 == wafl.needs.blog
 *Severity*::
 ERROR

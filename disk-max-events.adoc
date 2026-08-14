@@ -13,6 +13,10 @@ summary: disk.max events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.max events are presented when oNTAP(R) software cannot partition a disk because the system already has the maximum number of partitioned disks which may require contacting NetApp support.
+
+
 == disk.max.partitions
 *Severity*::
 ERROR

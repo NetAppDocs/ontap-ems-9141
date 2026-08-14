@@ -13,6 +13,10 @@ summary: sfu.downloadsummaryerrors events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sfu.downloadsummaryerrors events are presented when a disk shelf firmware update completes without successfully downloading to all shelves it attempted which is typically fixed by updating configuration.
+
+
 == sfu.downloadSummaryErrors
 *Severity*::
 ERROR

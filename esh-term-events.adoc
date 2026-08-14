@@ -13,6 +13,10 @@ summary: esh.term events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+esh.term events are presented when there is an error related to loop termination which is typically fixed by updating configuration.
+
+
 == esh.term.error
 *Severity*::
 ERROR

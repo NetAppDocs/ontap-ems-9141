@@ -13,6 +13,10 @@ summary: sectrace.warning events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sectrace.warning events are presented when a security tracing filter is enabled which is typically fixed by updating configuration.
+
+
 == sectrace.warning.aboutperf
 *Severity*::
 ALERT

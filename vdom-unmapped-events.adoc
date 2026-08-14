@@ -13,6 +13,10 @@ summary: vdom.unmapped events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vdom.unmapped events are presented when for Virtual Disk Object Manager (VDOM) errors that do not currently map to specific VDOM EMS events which typically does not require corrective action.
+
+
 == VDOM.unmapped.event
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: secd.strong events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+secd.strong events are presented when the external LDAP server configured for a Vserver is enforcing stronger authentication than what the ONTAP(R) LDAP client is configured for which is typically fixed by updating configuration.
+
+
 == secd.strong.auth.required
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: dbs.ensemble events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.ensemble events are presented when a Distributed Block Store (DBS) event related to the database ensemble occurs, such as the inability to reach the database in a node, and no corrective action is typically required.
+
+
 == dbs.ensemble
 *Severity*::
 NOTICE

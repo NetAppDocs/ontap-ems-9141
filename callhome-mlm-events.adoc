@@ -13,6 +13,10 @@ summary: callhome.mlm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.mlm events are presented when all paths for an array LUN are connected to the same controller on the array which is typically fixed by updating configuration.
+
+
 == callhome.mlm.array.portOneController
 *Severity*::
 ALERT

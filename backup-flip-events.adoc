@@ -13,6 +13,10 @@ summary: backup.flip events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+backup.flip events are presented when while flipping inodemap, which typically does not require corrective action.
+
+
 == backup.flip.inodemap
 *Severity*::
 INFORMATIONAL

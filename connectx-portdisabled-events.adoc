@@ -13,6 +13,10 @@ summary: connectx.portdisabled events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+connectx.portdisabled events are presented when the HA interconnect port experiences persistent node advertisement send timeouts which may require a reboot.
+
+
 == connectx.portDisabled
 *Severity*::
 ALERT

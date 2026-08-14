@@ -13,6 +13,10 @@ summary: wafl.dir events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.dir events are presented when indicates that CIFS directory conversion is in progress and WAFL will not hang due to timeout which typically does not require corrective action.
+
+
 == wafl.dir.convert
 *Severity*::
 NOTICE

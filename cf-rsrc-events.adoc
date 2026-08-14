@@ -13,6 +13,10 @@ summary: cf.rsrc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cf.rsrc events are presented when a failure is detected during giveback which may require a reboot.
+
+
 == cf.rsrc.givebackFail
 *Severity*::
 ALERT

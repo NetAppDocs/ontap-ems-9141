@@ -13,6 +13,10 @@ summary: xinetd.hit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+xinetd.hit events are presented when the rate of incoming network connections for a service exceeds the maximum allowed rate which is typically fixed by following the documented corrective steps.
+
+
 == xinetd.hit.cps.limit
 *Severity*::
 ERROR

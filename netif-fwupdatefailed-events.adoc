@@ -13,6 +13,10 @@ summary: netif.fwupdatefailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.fwupdatefailed events are presented when there is an error during a network interface firmware update which is typically fixed by updating configuration.
+
+
 == netif.fwUpdateFailed
 *Severity*::
 ERROR

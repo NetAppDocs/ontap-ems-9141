@@ -13,6 +13,10 @@ summary: disk.lun events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.lun events are presented when to confirm that enough memory is present to successfully allocate command blocks for all of the disks in the system and for additional LUNS which typically does not require corrective action.
+
+
 == disk.lun.allMemoryAvailable
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: wafl.objstore events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.objstore events are presented when fabricPool aggregate and SnapMirror(R) tries to share the same underlying objectstore connection pools in a platform where the sharing is not supported which may require contacting NetApp support.
+
+
 == wafl.objstore.ownership.conflict
 *Severity*::
 ALERT

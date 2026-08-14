@@ -13,6 +13,10 @@ summary: replication.givebackcancel events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+replication.givebackcancel events are presented when a 'giveback' command is issued while a SnapMirror(R) or SnapVault(R) transfer is in progress which typically does not require corrective action.
+
+
 == replication.givebackCancel
 *Severity*::
 ERROR

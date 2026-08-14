@@ -13,6 +13,10 @@ summary: raid.data events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.data events are presented when a WAFL(R) generated read detects a stale block due to a lost write which typically does not require corrective action.
+
+
 == raid.data.lw.blkErr
 *Severity*::
 NOTICE

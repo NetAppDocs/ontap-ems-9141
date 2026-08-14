@@ -13,6 +13,10 @@ summary: ses.mismatch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ses.mismatch events are presented when the two disk shelf modules within the same disk shelf are running different versions of the firmware which is typically fixed by following the documented corrective steps.
+
+
 == ses.mismatch.fw.version
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: bridge.removed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+bridge.removed events are presented when an FC-to-SAS bridge is removed from the system which typically does not require corrective action.
+
+
 == bridge.removed
 *Severity*::
 INFORMATIONAL

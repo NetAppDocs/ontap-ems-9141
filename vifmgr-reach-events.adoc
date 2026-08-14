@@ -13,6 +13,10 @@ summary: vifmgr.reach events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.reach events are presented when the node has completed its initial scan of reachability for all ports which typically does not require corrective action.
+
+
 == vifmgr.reach.avail
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: adt.stgvol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+adt.stgvol events are presented when retrieving staging volume information fails which is typically fixed by verifying system state and connectivity.
+
+
 == adt.stgvol.info.notavailable
 *Severity*::
 ERROR

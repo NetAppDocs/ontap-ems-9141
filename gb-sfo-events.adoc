@@ -13,6 +13,10 @@ summary: gb.sfo events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+gb.sfo events are presented when a high-availability (HA) storage failover (SFO) giveback is canceled due to RAID activity on a partner aggregate which may require a reboot.
+
+
 == gb.sfo.abort.raid.fm
 *Severity*::
 ERROR

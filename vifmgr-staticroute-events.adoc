@@ -13,6 +13,10 @@ summary: vifmgr.staticroute events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.staticroute events are presented when a static route is added to a Vserver which typically does not require corrective action.
+
+
 == vifmgr.staticRoute.add
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: crypto.export events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+crypto.export events are presented when the export of a cryptographic key fails which may require contacting NetApp support.
+
+
 == crypto.export.failed
 *Severity*::
 ALERT

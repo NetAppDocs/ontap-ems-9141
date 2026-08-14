@@ -13,6 +13,10 @@ summary: mgmtgwd.configbr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmtgwd.configbr events are presented when a scheduled configuration backup is successfully created which typically does not require corrective action.
+
+
 == mgmtgwd.configbr.backupCompleted
 *Deprecated*::
 This event was replaced by configbr.backupCompleted.

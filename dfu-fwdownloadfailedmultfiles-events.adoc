@@ -13,6 +13,10 @@ summary: dfu.fwdownloadfailedmultfiles events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dfu.fwdownloadfailedmultfiles events are presented when more than one file is found for downloading to an ATA drive which is typically fixed by verifying system state and updating configuration.
+
+
 == dfu.fwDownloadFailedMultFiles
 *Severity*::
 ERROR

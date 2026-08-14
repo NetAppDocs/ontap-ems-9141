@@ -13,6 +13,10 @@ summary: net.ipsconfig events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+net.ipsconfig events are presented when creation of an IPspace fails which is typically fixed by verifying system state and connectivity.
+
+
 == net.ipsconfig.failed
 *Severity*::
 ALERT

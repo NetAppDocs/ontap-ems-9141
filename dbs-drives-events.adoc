@@ -13,6 +13,10 @@ summary: dbs.drives events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.drives events are presented when Distributed Block Store (DBS) has one or more failed drives, and corrective action is to Check network connectivity for the node.
+
+
 == dbs.drives.failed
 *Severity*::
 ERROR

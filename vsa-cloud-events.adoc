@@ -13,6 +13,10 @@ summary: vsa.cloud events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vsa.cloud events are presented when cluster LIF route update succeeds upon node switchover which typically does not require corrective action.
+
+
 == vsa.cloud.aws.api.rtUpdt
 *Severity*::
 NOTICE

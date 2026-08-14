@@ -13,6 +13,10 @@ summary: lic.lm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lic.lm events are presented when oNTAP(R) software is running in the capacity pools licensing model and there is no License Manager configuration available which is typically fixed by verifying system state and updating configuration.
+
+
 == lic.lm.server.not.configured
 *Severity*::
 ALERT

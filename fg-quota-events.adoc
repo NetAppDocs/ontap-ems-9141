@@ -13,6 +13,10 @@ summary: fg.quota events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fg.quota events are presented when a FlexGroup cannot enforce its quota as expected which typically does not require corrective action.
+
+
 == fg.quota.cannot.enforce
 *Severity*::
 NOTICE

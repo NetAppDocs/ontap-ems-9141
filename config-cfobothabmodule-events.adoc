@@ -13,6 +13,10 @@ summary: config.cfobothabmodule events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+config.cfobothabmodule events are presented when a disk shelf in a node is cabled for multipathing and the configuration does not support it which is typically fixed by following the documented corrective steps.
+
+
 == config.CFObothABmodule
 *Severity*::
 ALERT

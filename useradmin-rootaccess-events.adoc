@@ -13,6 +13,10 @@ summary: useradmin.rootaccess events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+useradmin.rootaccess events are presented when the root account has been enabled or disabled because of the option security.rootaccess.enable which is typically fixed by following the documented corrective steps.
+
+
 == useradmin.rootaccess.enabled
 *Severity*::
 INFORMATIONAL

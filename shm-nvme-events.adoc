@@ -13,6 +13,10 @@ summary: shm.nvme events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+shm.nvme events are presented when the NVMe drive returns a critical warning to the health monitor which typically does not require corrective action.
+
+
 == shm.NVME.critical.warning
 *Severity*::
 ERROR

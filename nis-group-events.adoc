@@ -13,6 +13,10 @@ summary: nis.group events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nis.group events are presented when the NIS group database build fails which is typically fixed by following the documented corrective steps.
+
+
 == nis.group.db.build.failure
 *Severity*::
 ERROR

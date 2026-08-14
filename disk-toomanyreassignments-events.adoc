@@ -13,6 +13,10 @@ summary: disk.toomanyreassignments events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.toomanyreassignments events are presented when a reassignment fails due to table overflow which typically does not require corrective action.
+
+
 == disk.tooManyReassignments
 *Severity*::
 NOTICE

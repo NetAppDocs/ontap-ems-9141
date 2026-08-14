@@ -13,6 +13,10 @@ summary: cap.cache events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cap.cache events are presented when a corrupt Central Access Policy (CAP) is encountered during access checks which is typically fixed by updating configuration.
+
+
 == cap.cache.corrupt
 *Severity*::
 ERROR

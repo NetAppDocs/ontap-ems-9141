@@ -13,6 +13,10 @@ summary: reg.transaction events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+reg.transaction events are presented when oNTAP(R) cannot commit a registry transaction which is typically fixed by verifying system state and connectivity.
+
+
 == reg.transaction.commitFail
 *Severity*::
 ERROR

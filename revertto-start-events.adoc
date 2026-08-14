@@ -13,6 +13,10 @@ summary: revertto.start events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+revertto.start events are presented when a revert to process is started which typically does not require corrective action.
+
+
 == revertTo.start
 *Severity*::
 NOTICE

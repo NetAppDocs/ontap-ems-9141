@@ -13,6 +13,10 @@ summary: nvmf.qos events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvmf.qos events are presented when an NVMe over Fabrics (NVMe-oF) target subsystem contains namespaces that have different quality of service (QoS) policies which might affect the I/O of the namespaces with higher QoS policies which is typically fixed by verifying system state and connectivity.
+
+
 == nvmf.qos.mismatched.policy
 *Severity*::
 ERROR

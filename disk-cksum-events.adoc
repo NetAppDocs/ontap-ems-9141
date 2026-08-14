@@ -13,6 +13,10 @@ summary: disk.cksum events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.cksum events are presented when the system detects a block number mismatch during disk checksum verification which typically does not require corrective action.
+
+
 == disk.cksum.bno.verifyFailed
 *Severity*::
 ALERT

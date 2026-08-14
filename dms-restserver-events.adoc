@@ -13,6 +13,10 @@ summary: dms.restserver events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dms.restserver events are presented when the system hits an error in enabling SSL authentication in the rest server which is typically fixed by verifying system state and connectivity.
+
+
 == dms.restserver.ssl.disabled
 *Severity*::
 ERROR

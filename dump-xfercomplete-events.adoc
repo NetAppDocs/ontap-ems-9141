@@ -13,6 +13,10 @@ summary: dump.xfercomplete events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dump.xfercomplete events are presented when the dump engine completes data backup with disk errors in user files which may require contacting NetApp support.
+
+
 == dump.xfercomplete.inconsistent_data
 *Severity*::
 ERROR

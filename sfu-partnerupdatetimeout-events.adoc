@@ -13,6 +13,10 @@ summary: sfu.partnerupdatetimeout events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sfu.partnerupdatetimeout events are presented when in a high-availability (HA) configuration in which an HA partner was downloading disk shelf firmware and the download has timed out which is typically fixed by verifying system state and updating configuration.
+
+
 == sfu.partnerUpdateTimeout
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: wafl.compress events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.compress events are presented when compression is automatically disabled on a space guarantee volume because it is not supported on this platform which typically does not require corrective action.
+
+
 == wafl.compress.cde.auto.enablement
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: lmgr.hostfile events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lmgr.hostfile events are presented when the volume lock manager hosts file is unusable which is typically fixed by following the documented corrective steps.
+
+
 == lmgr.hostfile.cleared
 *Severity*::
 INFORMATIONAL

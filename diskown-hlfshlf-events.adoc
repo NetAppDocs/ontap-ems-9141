@@ -13,6 +13,10 @@ summary: diskown.hlfshlf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.hlfshlf events are presented when half-shelf based drive assignment is enabled or disabled which typically does not require corrective action.
+
+
 == diskown.hlfShlf.assignStatus
 *Severity*::
 NOTICE

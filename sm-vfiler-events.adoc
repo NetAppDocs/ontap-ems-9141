@@ -13,6 +13,10 @@ summary: sm.vfiler events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sm.vfiler events are presented when movement of the SnapMirror(R) status configuration from 'from' vFiler to 'to' vFiler fails which typically does not require corrective action.
+
+
 == SM.vfiler.config.move.warn
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: lmgr.owners events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lmgr.owners events are presented when a lock manager owner object cannot be allocated due to reaching the limit for owner objects in the associated pool which is typically fixed by verifying system state and connectivity.
+
+
 == lmgr.owners.limit.hit
 *Severity*::
 ERROR

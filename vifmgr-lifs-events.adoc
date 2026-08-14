@@ -13,6 +13,10 @@ summary: vifmgr.lifs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.lifs events are presented when the total number of logical interfaces (LIFs) exceeds the supported per-cluster limit which is typically fixed by verifying system state and connectivity.
+
+
 == vifmgr.lifs.clusterlimit
 *Severity*::
 ERROR

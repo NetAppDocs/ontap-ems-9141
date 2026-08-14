@@ -13,6 +13,10 @@ summary: net.vserverupdatesuccess events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+net.vserverupdatesuccess events are presented when the Vserver configuration on a node is successfully updated after a previous failure which typically does not require corrective action.
+
+
 == net.vServerUpdateSuccess
 *Severity*::
 NOTICE

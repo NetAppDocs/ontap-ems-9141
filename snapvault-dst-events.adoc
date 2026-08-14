@@ -13,6 +13,10 @@ summary: snapvault.dst events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snapvault.dst events are presented when snapVault(R) creates a backup snapshot for a given backup schedule which typically does not require corrective action.
+
+
 == snapvault.dst.bkpSnapCreate
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: san.changedhomenode events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+san.changedhomenode events are presented when the home node of an existing SAN LIF is modified during LIF placement which typically does not require corrective action.
+
+
 == san.ChangedHomeNode
 *Severity*::
 NOTICE

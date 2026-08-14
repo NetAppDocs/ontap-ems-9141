@@ -13,6 +13,10 @@ summary: nwd.dataip events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nwd.dataip events are presented when a data IP address is being removed from a node, and no corrective action is typically required.
+
+
 == nwd.dataip.removed
 *Severity*::
 NOTICE

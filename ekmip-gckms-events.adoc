@@ -13,6 +13,10 @@ summary: ekmip.gckms events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ekmip.gckms events are presented when a configured Google Cloud Key Management Service (GCKMS) that was previously reported as unavailable for key operations is now available which typically does not require corrective action.
+
+
 == ekmip.gckms.available
 *Severity*::
 NOTICE

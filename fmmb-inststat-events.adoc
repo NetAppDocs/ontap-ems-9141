@@ -13,6 +13,10 @@ summary: fmmb.inststat events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fmmb.inststat events are presented when ever the mailbox instance state changes which typically does not require corrective action.
+
+
 == fmmb.instStat.change
 *Severity*::
 INFORMATIONAL

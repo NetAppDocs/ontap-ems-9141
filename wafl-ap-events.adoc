@@ -13,6 +13,10 @@ summary: wafl.ap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.ap events are presented when adaptive playlist message which typically does not require corrective action.
+
+
 == wafl.ap.info
 *Severity*::
 NOTICE

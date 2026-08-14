@@ -13,6 +13,10 @@ summary: connectx.iblinkretrainnotreqd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+connectx.iblinkretrainnotreqd events are presented when the software detects that the previous InfiniBand link training was successful which typically does not require corrective action.
+
+
 == connectx.IBLinkRetrainNotReqd
 *Severity*::
 INFORMATIONAL

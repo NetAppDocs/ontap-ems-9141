@@ -13,6 +13,10 @@ summary: ffm.aggr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ffm.aggr events are presented when an aggregate attach operation is complete, and no corrective action is typically required.
+
+
 == ffm.aggr.attach.done
 *Severity*::
 NOTICE

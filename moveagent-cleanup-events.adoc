@@ -13,6 +13,10 @@ summary: moveagent.cleanup events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+moveagent.cleanup events are presented when a volume move operation running on the partner cluster is interrupted by a disaster recovery event (such as switchover or switchback) in the MetroCluster(tm) configuration before the operation reaches the cutover phase which is typically fixed by verifying system state and connectivity.
+
+
 == moveagent.cleanup.dest
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: dbs.file events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.file events are presented when the Distributed Block Store (DBS) detects the mounted container file system (/, /persist, /var/log) has capacity below 5 percent, and corrective action is to Add additional filesystem capacity to the node or remove any unneeded files until the fault is cleared.
+
+
 == dbs.file.system.capacity.low
 *Severity*::
 ERROR

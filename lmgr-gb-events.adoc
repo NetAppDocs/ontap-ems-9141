@@ -13,6 +13,10 @@ summary: lmgr.gb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lmgr.gb events are presented when giveback veto is overridden which typically does not require corrective action.
+
+
 == lmgr.gb.CA.locks.lost
 *Severity*::
 NOTICE

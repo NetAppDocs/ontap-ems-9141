@@ -13,6 +13,10 @@ summary: replication.resync events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+replication.resync events are presented when during a SnapMirror(R) or SnapVault(R) resync operation to inform the user of the number of common snapshots detected between the source and destination which typically does not require corrective action.
+
+
 == replication.resync.cmnSnpCnt
 *Severity*::
 NOTICE

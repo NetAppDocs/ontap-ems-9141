@@ -13,6 +13,10 @@ summary: daasync.periph events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+daasync.periph events are presented when the system cannot attach a drive which is typically fixed by verifying system state and connectivity.
+
+
 == daasync.periph.alloc.fail
 *Severity*::
 ERROR

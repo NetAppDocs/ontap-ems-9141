@@ -13,6 +13,10 @@ summary: lmgr.vol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lmgr.vol events are presented when a volume cannot reclaim certain file locks when the system attempts to bring it online which typically does not require corrective action.
+
+
 == lmgr.vol.lock.reclaim.partial
 *Severity*::
 NOTICE

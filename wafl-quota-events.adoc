@@ -13,6 +13,10 @@ summary: wafl.quota events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.quota events are presented when the system cannot create the quota database file which typically does not require corrective action.
+
+
 == wafl.quota.control.inconsistent
 *Severity*::
 ERROR

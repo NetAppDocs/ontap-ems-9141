@@ -13,6 +13,10 @@ summary: ha.panicinfosznotok events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ha.panicinfosznotok events are presented when the size of the panic information received from the high-availability (HA) partner is not equal to the expected panic information size which typically does not require corrective action.
+
+
 == ha.panicInfoSzNotOk
 *Severity*::
 NOTICE

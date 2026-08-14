@@ -13,6 +13,10 @@ summary: callhome.diskown events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.diskown events are presented when too many disks have been installed which may require contacting NetApp support.
+
+
 == callhome.diskown.AssignExceeded
 *Severity*::
 ERROR

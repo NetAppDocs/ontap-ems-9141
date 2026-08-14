@@ -13,6 +13,10 @@ summary: callhome.shlf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.shlf events are presented when the system detects faulty hardware on the disk shelf, such as a fan, power supply unit (PSU), or failing temperature sensor which may require reseating or replacing affected hardware.
+
+
 == callhome.shlf.fan
 *Severity*::
 EMERGENCY

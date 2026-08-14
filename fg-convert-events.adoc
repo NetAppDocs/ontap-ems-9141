@@ -13,6 +13,10 @@ summary: fg.convert events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fg.convert events are presented when the conversion of a FlexVol(R) volume into a FlexGroup fails which is typically fixed by following the documented corrective steps.
+
+
 == fg.convert.critical.fail
 *Severity*::
 ALERT

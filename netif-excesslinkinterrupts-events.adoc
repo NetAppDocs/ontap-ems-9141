@@ -13,6 +13,10 @@ summary: netif.excesslinkinterrupts events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.excesslinkinterrupts events are presented when excessive link status change interrupts occur on the network interface which may require reseating or replacing affected hardware.
+
+
 == netif.excessLinkInterrupts
 *Severity*::
 ERROR

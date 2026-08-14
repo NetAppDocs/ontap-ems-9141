@@ -13,6 +13,10 @@ summary: clam.enable events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+clam.enable events are presented when the Kernel Cluster Services (KCS) Connectivity, Liveliness, Availability Monitor (CLAM) is enabled to operate on this node which is typically fixed by following the documented corrective steps.
+
+
 == clam.enable
 *Severity*::
 INFORMATIONAL

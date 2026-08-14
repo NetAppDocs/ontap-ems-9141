@@ -13,6 +13,10 @@ summary: configbr.backupcompleted events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+configbr.backupcompleted events are presented when a scheduled configuration backup is successfully created which typically does not require corrective action.
+
+
 == configbr.backupCompleted
 *Severity*::
 NOTICE

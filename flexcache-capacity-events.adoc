@@ -13,6 +13,10 @@ summary: flexcache.capacity events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+flexcache.capacity events are presented when the total cluster-wide FlexCache provisioned space has exceeded the licensed limit, and corrective action is to increase the licensed capacity, install a new license in the cluster.
+
+
 == flexcache.capacity.exceeded
 *Severity*::
 ERROR

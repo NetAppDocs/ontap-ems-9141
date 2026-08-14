@@ -13,6 +13,10 @@ summary: kern.uptime events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+kern.uptime events are presented when to display the uptime status of the controller which typically does not require corrective action.
+
+
 == kern.uptime.filer
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: savecore.completed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+savecore.completed events are presented when a synchronous savecore operation has completed which typically does not require corrective action.
+
+
 == savecore.completed
 *Severity*::
 INFORMATIONAL

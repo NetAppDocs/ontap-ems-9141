@@ -13,6 +13,10 @@ summary: coredump.sparecoreinit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+coredump.sparecoreinit events are presented when sparecore initialization is completed which typically does not require corrective action.
+
+
 == coredump.sparecoreinit.times
 *Severity*::
 NOTICE

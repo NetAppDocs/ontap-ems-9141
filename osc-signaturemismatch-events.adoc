@@ -13,6 +13,10 @@ summary: osc.signaturemismatch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+osc.signaturemismatch events are presented when the request signature sent to the object-store server does not match the signature calculated which is typically fixed by verifying system state and connectivity.
+
+
 == osc.signatureMismatch
 *Severity*::
 ERROR

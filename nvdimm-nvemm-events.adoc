@@ -13,6 +13,10 @@ summary: nvdimm.nvemm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvdimm.nvemm events are presented when all NVDIMM devices have copied nonvolatile data to flash memory, and no corrective action is typically required.
+
+
 == nvdimm.nvemm.destage.succeed
 *Severity*::
 NOTICE

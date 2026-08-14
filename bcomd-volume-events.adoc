@@ -13,6 +13,10 @@ summary: bcomd.volume events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+bcomd.volume events are presented when the SAN Kernel Agent is cannot process a volume LUN inventory update resulting from a Snapshot(R) copy restore operation which is typically fixed by following the documented corrective steps.
+
+
 == bcomd.volume.update.lost
 *Severity*::
 ERROR

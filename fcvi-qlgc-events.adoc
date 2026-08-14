@@ -13,6 +13,10 @@ summary: fcvi.qlgc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fcvi.qlgc events are presented when total number of async events are overflowed which typically does not require corrective action.
+
+
 == fcvi.qlgc.async.event.overflow
 *Severity*::
 ERROR

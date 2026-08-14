@@ -13,6 +13,10 @@ summary: snaprestore.log events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snaprestore.log events are presented when the logical used space in the volume is greater than the total size of the volume and the Logical Space View enforcement feature was turned ON on the volume after creating the snapshot during a SnapRestore(TM) operation, of a volume, which is typically fixed by updating configuration.
+
+
 == snaprestore.log.overalloc
 *Severity*::
 EMERGENCY

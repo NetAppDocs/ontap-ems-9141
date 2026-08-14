@@ -13,6 +13,10 @@ summary: repl.ser events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+repl.ser events are presented when number of operations serialized on parent directory exceed an internal limit which typically does not require corrective action.
+
+
 == repl.ser.ops.pardir.breach
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: snaplock.event events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snaplock.event events are presented when on completion of a event based retention apply operation on a SnapLock(R) volume which typically does not require corrective action.
+
+
 == snaplock.event.based.retention.op.status
 *Severity*::
 NOTICE

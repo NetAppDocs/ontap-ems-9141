@@ -13,6 +13,10 @@ summary: scsitarget.fcp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsitarget.fcp events are presented when a small form-factor pluggable (SFP) is inserted into the Fibre Channel (FC) target adapter which is typically fixed by verifying system state and connectivity.
+
+
 == scsitarget.fcp.sfp.inserted
 *Severity*::
 INFORMATIONAL

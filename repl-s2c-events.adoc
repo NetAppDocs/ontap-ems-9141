@@ -13,6 +13,10 @@ summary: repl.s2c events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+repl.s2c events are presented when the checksum of an object's contents does not match with the expected checksum which may require contacting NetApp support.
+
+
 == repl.s2c.checksum.mismatch
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: gpo.frmwork events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+gpo.frmwork events are presented when after the resultant set of Group Policy (GPO) is calculated and applied to the Replicated Database (RDB) successfully, which typically does not require corrective action.
+
+
 == gpo.frmwork.RSoPApplied
 *Severity*::
 NOTICE

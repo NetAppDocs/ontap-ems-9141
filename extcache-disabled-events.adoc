@@ -13,6 +13,10 @@ summary: extcache.disabled events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+extcache.disabled events are presented when the external cache is administratively disabled which typically does not require corrective action.
+
+
 == extCache.disabled
 *Severity*::
 NOTICE

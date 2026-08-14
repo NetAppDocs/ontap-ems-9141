@@ -13,6 +13,10 @@ summary: netif.fwupdatestatus events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.fwupdatestatus events are presented when to indicate the status of a network interface firmware update which typically does not require corrective action.
+
+
 == netif.fwUpdateStatus
 *Severity*::
 NOTICE

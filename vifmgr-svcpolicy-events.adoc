@@ -13,6 +13,10 @@ summary: vifmgr.svcpolicy events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.svcpolicy events are presented when a service is added to a network interface service policy which typically does not require corrective action.
+
+
 == vifmgr.svcPolicy.addSvc
 *Severity*::
 NOTICE

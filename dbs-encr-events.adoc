@@ -13,6 +13,10 @@ summary: dbs.encr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.encr events are presented when Distributed Block Store (DBS) enables or disables encryption at rest on a self-encrypting drive, and no corrective action is typically required.
+
+
 == dbs.encr.at.rest
 *Severity*::
 NOTICE

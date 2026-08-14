@@ -13,6 +13,10 @@ summary: mgr.stack events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgr.stack events are presented when contains the panic string which typically does not require corrective action.
+
+
 == mgr.stack.at
 *Severity*::
 NOTICE

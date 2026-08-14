@@ -13,6 +13,10 @@ summary: dbs.slice events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.slice events are presented when a Distributed Block Store (DBS) event relating to a slice service operation such as removing a metadata drive, slice reassignment i.e, and no corrective action is typically required.
+
+
 == dbs.slice.operation
 *Severity*::
 NOTICE

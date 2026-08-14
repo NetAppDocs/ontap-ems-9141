@@ -13,6 +13,10 @@ summary: smbc.aufo events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+smbc.aufo events are presented when the SnapMirror(R) active sync automatic unplanned failover operation completes which typically does not require corrective action.
+
+
 == smbc.aufo.completed
 *Severity*::
 NOTICE

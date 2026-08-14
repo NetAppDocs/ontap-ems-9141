@@ -13,6 +13,10 @@ summary: snapvault.sys events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snapvault.sys events are presented when snapVault(R) encounters an internal error which may require restarting affected services or nodes.
+
+
 == snapvault.sys.internal
 *Severity*::
 ERROR

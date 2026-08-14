@@ -13,6 +13,10 @@ summary: sp.log events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sp.log events are presented when the available memory of the log partition in the Service Processor (SP) or the Baseboard Management Controller (BMC) is low which may require a reboot.
+
+
 == sp.log.partition.full
 *Severity*::
 ERROR

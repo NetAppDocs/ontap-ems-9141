@@ -13,6 +13,10 @@ summary: moveagent.swapvldb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+moveagent.swapvldb events are presented when a 'volume move' operation finishes moving the volume to the destination but fails to update the volume location database (VLDB) which is typically fixed by verifying system state and connectivity.
+
+
 == moveagent.swapvldb.fail
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: netif.speednotsupported events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.speednotsupported events are presented when a network interface autonegotiates to an unsupported speed which is typically fixed by following the documented corrective steps.
+
+
 == netif.speedNotSupported
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: dbs.service events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.service events are presented when a Distributed Block Store (DBS) service event occurs, such as inability to start the FireStorm service, and no corrective action is typically required.
+
+
 == dbs.service
 *Severity*::
 NOTICE

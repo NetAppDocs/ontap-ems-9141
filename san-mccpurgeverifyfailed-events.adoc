@@ -13,6 +13,10 @@ summary: san.mccpurgeverifyfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+san.mccpurgeverifyfailed events are presented when, in MetroCluster(TM) configurations on clustered Data ONTAP(R) systems, a SAN cache purge verify operation fails, which may require contacting NetApp support.
+
+
 == san.MCCPurgeVerifyFailed
 *Severity*::
 ERROR

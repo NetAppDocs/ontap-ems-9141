@@ -13,6 +13,10 @@ summary: fci.link events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fci.link events are presented when the Fibre Channel adapter detects a break in the link which is typically fixed by verifying system state and connectivity.
+
+
 == fci.link.break
 *Severity*::
 ERROR

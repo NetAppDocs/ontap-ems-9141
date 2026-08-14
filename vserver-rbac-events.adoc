@@ -13,6 +13,10 @@ summary: vserver.rbac events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vserver.rbac events are presented when a custom role associated with a Storage Virtual Machine (SVM) has an aliased command directory associated with it which is typically fixed by following the documented corrective steps.
+
+
 == vserver.rbac.alias.command
 *Deprecated*::
 ONTAP now directly creates a role entry on the target of the alias.

@@ -13,6 +13,10 @@ summary: moveagent.commitsrc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+moveagent.commitsrc events are presented when an active volume move operation cannot commit the source volume which may require contacting NetApp support.
+
+
 == moveagent.commitsrc.fail
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: dbs.network events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.network events are presented when a distributed block store detects network configuration or connectivity errors on nodes in the cluster, and corrective action is to Check and rectify network configuration parameters for configuration faults.
+
+
 == dbs.network.error.fault
 *Severity*::
 ERROR

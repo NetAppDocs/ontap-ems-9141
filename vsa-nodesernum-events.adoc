@@ -13,6 +13,10 @@ summary: vsa.nodesernum events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vsa.nodesernum events are presented when a node serial number change operation fails which may require a reboot.
+
+
 == vsa.nodeSerNum.change.failed
 *Severity*::
 ALERT

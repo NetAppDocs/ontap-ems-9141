@@ -13,6 +13,10 @@ summary: disk.checksum events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.checksum events are presented when multiple errors are detected during checksum verification which may require reseating or replacing affected hardware.
+
+
 == disk.checksum.offlineAdapter
 *Severity*::
 ALERT

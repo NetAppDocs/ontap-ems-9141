@@ -13,6 +13,10 @@ summary: ha.gettakoverlockstatus events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ha.gettakoverlockstatus events are presented when the HA subsystem attempts to acquire takeover lock as part of the takeover operation which typically does not require corrective action.
+
+
 == ha.getTakoverLockStatus
 *Severity*::
 NOTICE

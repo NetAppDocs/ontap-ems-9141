@@ -13,6 +13,10 @@ summary: sfo.takeover events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sfo.takeover events are presented when the taking over node cannot complete an attempted optimized negotiated takeover which is typically fixed by verifying system state and connectivity.
+
+
 == sfo.takeover.aborted
 *Severity*::
 ERROR

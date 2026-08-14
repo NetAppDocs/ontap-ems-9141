@@ -13,6 +13,10 @@ summary: disk.toomanynvmespindles events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.toomanynvmespindles events are presented when data ONTAP(R) finds more NVMe disks present on a platform than the platform actually supports which is typically fixed by updating configuration.
+
+
 == disk.tooManyNvmeSpindles
 *Severity*::
 ALERT

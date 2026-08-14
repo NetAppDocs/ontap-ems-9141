@@ -13,6 +13,10 @@ summary: asup.smtp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+asup.smtp events are presented when the AutoSupport(R) mechanism drops email messages after having retried for the specified times which is typically fixed by verifying system state and connectivity.
+
+
 == asup.smtp.drop
 *Severity*::
 ERROR

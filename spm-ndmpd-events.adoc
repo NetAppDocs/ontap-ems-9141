@@ -13,6 +13,10 @@ summary: spm.ndmpd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.ndmpd events are presented when the Network Data Management Protocol (NDMP) server (ndmpd) involuntarily terminates which may require restarting affected services or nodes.
+
+
 == spm.ndmpd.process.exit
 *Severity*::
 ALERT

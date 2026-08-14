@@ -13,6 +13,10 @@ summary: config.nomultipath events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+config.nomultipath events are presented when a disk is found with multiple paths and it does not support them which is typically fixed by following the documented corrective steps.
+
+
 == config.NoMultiPath
 *Severity*::
 ALERT

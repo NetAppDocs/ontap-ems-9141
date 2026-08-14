@@ -13,6 +13,10 @@ summary: wafl.vv events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.vv events are presented when data ONTAP(R) cannot map a volume to serve a client request because of invalid data Set Identifiers which may require contacting NetApp support.
+
+
 == wafl.vv.bad.DSIDorMSID
 *Severity*::
 ERROR

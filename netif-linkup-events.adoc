@@ -13,6 +13,10 @@ summary: netif.linkup events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.linkup events are presented when the state of a network link changes to "up" which typically does not require corrective action.
+
+
 == netif.linkUp
 *Severity*::
 INFORMATIONAL

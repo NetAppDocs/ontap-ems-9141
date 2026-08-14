@@ -13,6 +13,10 @@ summary: sms.cg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sms.cg events are presented when a SnapMirror(R) Synchronous Automated Failover relationship is part of a cascade configuration which is typically fixed by following the documented corrective steps.
+
+
 == sms.cg.cascade.not.supported
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: dfu.clusterdisknotready events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dfu.clusterdisknotready events are presented when the controller failover partner reports that a disk selected for download is in the NOT READY state which is typically fixed by following the documented corrective steps.
+
+
 == dfu.clusterDiskNotReady
 *Severity*::
 ERROR

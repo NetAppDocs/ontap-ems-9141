@@ -13,6 +13,10 @@ summary: spm.ntpd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.ntpd events are presented when the Network Time Protocol Daemon process (ntpd) involuntarily terminates which may require restarting affected services or nodes.
+
+
 == spm.ntpd.process.exit
 *Severity*::
 ERROR

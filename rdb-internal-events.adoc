@@ -13,6 +13,10 @@ summary: rdb.internal events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+rdb.internal events are presented when the cluster management Data Replication Module encounters an internal error, possibly causing the process to exit which is typically fixed by verifying system state and connectivity.
+
+
 == rdb.internal.error
 *Severity*::
 ALERT

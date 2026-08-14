@@ -13,6 +13,10 @@ summary: license.feat events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+license.feat events are presented when the system cannot successfully delete a license for a feature which may require contacting NetApp support.
+
+
 == license.feat.delete.failed
 *Severity*::
 ERROR

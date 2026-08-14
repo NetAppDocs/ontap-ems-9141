@@ -13,6 +13,10 @@ summary: spm.bgpd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.bgpd events are presented when the Border Gateway Protocol daemon (bgpd) involuntarily terminates which may require contacting NetApp support.
+
+
 == spm.bgpd.process.exit
 *Severity*::
 NOTICE

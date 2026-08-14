@@ -13,6 +13,10 @@ summary: nblade.cifsmaxopensamefile events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.cifsmaxopensamefile events are presented when the number of times a user tries to open a file over a TCP connection is exceeded which is typically fixed by verifying system state and updating configuration.
+
+
 == Nblade.cifsMaxOpenSameFile
 *Severity*::
 ERROR

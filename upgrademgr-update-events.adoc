@@ -13,6 +13,10 @@ summary: upgrademgr.update events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+upgrademgr.update events are presented when the automated update of the cluster is canceled by the operator which typically does not require corrective action.
+
+
 == upgrademgr.update.cancelled
 *Severity*::
 INFORMATIONAL

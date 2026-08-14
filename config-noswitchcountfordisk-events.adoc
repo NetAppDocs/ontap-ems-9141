@@ -13,6 +13,10 @@ summary: config.noswitchcountfordisk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+config.noswitchcountfordisk events are presented when an attempt to obtain the switch port count fails because it does not exist which typically does not require corrective action.
+
+
 == config.NoSwitchCountForDisk
 *Severity*::
 NOTICE

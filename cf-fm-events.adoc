@@ -13,6 +13,10 @@ summary: cf.fm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cf.fm events are presented when at the start of a takeover, end of a successful takeover, start of root aggregate giveback, and completion of data aggregate giveback which typically does not require corrective action.
+
+
 == cf.fm.cpuUtilDuringTOAndGB
 *Deprecated*::
 Deprecated as of version 9.0.

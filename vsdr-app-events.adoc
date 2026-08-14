@@ -13,6 +13,10 @@ summary: vsdr.app events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vsdr.app events are presented when the consistency group that the system is trying to replicate already exists in the cluster on a different Vserver during the configuration replication phase of a Vserver DR transfer, which is typically fixed by following the documented corrective steps.
+
+
 == vsdr.app.cg.conflict
 *Severity*::
 NOTICE

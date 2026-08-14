@@ -13,6 +13,10 @@ summary: asyncdelcli.message events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+asyncdelcli.message events are presented when an async-delete job has finished on the specified path which typically does not require corrective action.
+
+
 == asyncDelCli.message.finish
 *Severity*::
 NOTICE

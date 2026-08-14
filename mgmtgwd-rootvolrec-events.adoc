@@ -13,6 +13,10 @@ summary: mgmtgwd.rootvolrec events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmtgwd.rootvolrec events are presented when the system detects that the root volume is dangerously low on space which may require contacting NetApp support.
+
+
 == mgmtgwd.rootvolrec.low.space
 *Severity*::
 EMERGENCY

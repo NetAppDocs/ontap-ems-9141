@@ -13,6 +13,10 @@ summary: mgr.avail events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgr.avail events are presented when statistics is reset, which typically does not require corrective action.
+
+
 == mgr.avail.stat.reset
 *Severity*::
 NOTICE

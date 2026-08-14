@@ -13,6 +13,10 @@ summary: raid.switchoverfail events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.switchoverfail events are presented when a MetroCluster(tm) switchover attempt fails because of an error detected during RAID assimilation which may require contacting NetApp support.
+
+
 == raid.switchoverFail
 *Severity*::
 ERROR

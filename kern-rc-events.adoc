@@ -13,6 +13,10 @@ summary: kern.rc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+kern.rc events are presented when an error printf is issued by the kernel in the context of executing the /etc/rc file, which typically does not require corrective action.
+
+
 == kern.rc.errorMsg
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: fcvi.disabled events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fcvi.disabled events are presented when the HA interconnect card is disabled by the ic-type environment variable which is typically fixed by following the documented corrective steps.
+
+
 == fcvi.disabled
 *Severity*::
 ALERT

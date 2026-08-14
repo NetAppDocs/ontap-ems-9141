@@ -13,6 +13,10 @@ summary: nblade.css events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.css events are presented when oNTAP(R) object-store-server denies access to a user which is typically fixed by verifying system state and connectivity.
+
+
 == nblade.css.s3.AccessDenied
 *Severity*::
 ERROR

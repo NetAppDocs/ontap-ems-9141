@@ -13,6 +13,10 @@ summary: hotplug.replace events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+hotplug.replace events are presented when module replacement is successful which typically does not require corrective action.
+
+
 == hotplug.replace.success
 *Severity*::
 NOTICE

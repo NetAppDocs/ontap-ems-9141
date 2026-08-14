@@ -13,6 +13,10 @@ summary: mgmtgwd.volcreatedrestricted events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmtgwd.volcreatedrestricted events are presented when a volume is created in the restricted state which typically does not require corrective action.
+
+
 == mgmtgwd.volcreatedrestricted
 *Severity*::
 NOTICE

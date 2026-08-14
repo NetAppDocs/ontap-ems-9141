@@ -13,6 +13,10 @@ summary: wafl.mirror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.mirror events are presented when the system rejects client access to a primordial volume which is typically fixed by following the documented corrective steps.
+
+
 == wafl.mirror.access.denied
 *Severity*::
 ERROR

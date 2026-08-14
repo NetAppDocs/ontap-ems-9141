@@ -13,6 +13,10 @@ summary: netif.linkdown events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.linkdown events are presented when a network link goes down or the interface is not operational when first configured up which is typically fixed by verifying system state and connectivity.
+
+
 == netif.linkDown
 *Severity*::
 INFORMATIONAL

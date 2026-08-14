@@ -13,6 +13,10 @@ summary: fci.device events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fci.device events are presented when the Fibre Channel port transmits a frame that is rejected which typically does not require corrective action.
+
+
 == fci.device.general.reject
 *Severity*::
 INFORMATIONAL

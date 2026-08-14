@@ -13,6 +13,10 @@ summary: wafl.mount events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.mount events are presented when the flexaggregate cannot be mounted; the flexaggregate is marked as inconsistent which may require contacting NetApp support.
+
+
 == wafl.mount.inconsistent
 *Severity*::
 ERROR

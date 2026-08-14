@@ -13,6 +13,10 @@ summary: disk.toomanypartitioneddisks events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.toomanypartitioneddisks events are presented when data ONTAP(R) finds more partitioned disks present on a platform than the platform supports which is typically fixed by updating configuration.
+
+
 == disk.tooManyPartitionedDisks
 *Severity*::
 ALERT

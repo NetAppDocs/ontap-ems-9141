@@ -13,6 +13,10 @@ summary: moveagent.phase events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+moveagent.phase events are presented when an active volume move operation cannot access the volume move phase information which is typically fixed by verifying system state and connectivity.
+
+
 == moveagent.phase.queryerr
 *Severity*::
 NOTICE

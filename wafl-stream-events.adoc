@@ -13,6 +13,10 @@ summary: wafl.stream events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.stream events are presented when the "wafl scan stream_check" command is completed successfully which typically does not require corrective action.
+
+
 == wafl.stream.check.complete
 *Severity*::
 NOTICE

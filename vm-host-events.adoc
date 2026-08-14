@@ -13,6 +13,10 @@ summary: vm.host events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vm.host events are presented when a VM is paused by the hypervisor which is typically fixed by verifying system state and connectivity.
+
+
 == vm.host.error
 *Severity*::
 EMERGENCY

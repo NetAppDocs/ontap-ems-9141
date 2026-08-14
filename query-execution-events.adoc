@@ -13,6 +13,10 @@ summary: query.execution events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+query.execution events are presented when the dotsql command-line program processes an SQL query which typically does not require corrective action.
+
+
 == query.execution.console
 *Severity*::
 NOTICE

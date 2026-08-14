@@ -13,6 +13,10 @@ summary: fcvi.cm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fcvi.cm events are presented when connection requests times out which typically does not require corrective action.
+
+
 == fcvi.cm.timedout
 *Severity*::
 NOTICE

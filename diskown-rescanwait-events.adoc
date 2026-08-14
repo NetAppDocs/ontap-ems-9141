@@ -13,6 +13,10 @@ summary: diskown.rescanwait events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.rescanwait events are presented when the disk ownership rescan code waits which typically does not require corrective action.
+
+
 == diskown.rescanWait
 *Severity*::
 INFORMATIONAL

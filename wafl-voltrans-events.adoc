@@ -13,6 +13,10 @@ summary: wafl.voltrans events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.voltrans events are presented when a volume transition clears the noi2p option on a volume which typically does not require corrective action.
+
+
 == wafl.voltrans.clear.noi2p
 *Severity*::
 NOTICE

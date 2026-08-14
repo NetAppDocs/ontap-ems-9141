@@ -13,6 +13,10 @@ summary: extcache.qos events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+extcache.qos events are presented when external Cache Quality of Service (QoS) monitoring is enabled/disabled which typically does not require corrective action.
+
+
 == extCache.QoS
 *Severity*::
 INFORMATIONAL

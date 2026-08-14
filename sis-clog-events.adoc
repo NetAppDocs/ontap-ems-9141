@@ -13,6 +13,10 @@ summary: sis.clog events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sis.clog events are presented when, while mounting a volume, an error with the SIS metafile operation results in the change logging function being disabled to avoid inconsistencies, which may require restarting affected services or nodes.
+
+
 == sis.clog.disabled
 *Severity*::
 ERROR

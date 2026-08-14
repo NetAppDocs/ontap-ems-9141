@@ -13,6 +13,10 @@ summary: csm.ctfallbackactiveopen events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+csm.ctfallbackactiveopen events are presented when the Cluster Session Manager (CSM) uses CT (TCP transport) as the default when creating LIF pairs because connections running CSM over remote direct memory access (RDMA) repeatedly fail during successive retry attempts which typically does not require corrective action.
+
+
 == csm.ctFallbackActiveOpen
 *Severity*::
 NOTICE

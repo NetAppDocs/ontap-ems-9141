@@ -13,6 +13,10 @@ summary: kmip2.cannot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+kmip2.cannot events are presented when the KMIP2 client cannot import the MROOT-AK key from a Key Management Interoperability Protocol (KMIP) key server which may require a reboot.
+
+
 == kmip2.cannot.import.NSE.key
 *Severity*::
 ALERT

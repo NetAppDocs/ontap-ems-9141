@@ -13,6 +13,10 @@ summary: dfu.readtestfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dfu.readtestfailed events are presented when a read of the disk fails after downloading firmware to a disk which is typically fixed by updating configuration.
+
+
 == dfu.readTestFailed
 *Severity*::
 ERROR

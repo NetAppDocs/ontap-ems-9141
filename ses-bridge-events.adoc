@@ -13,6 +13,10 @@ summary: ses.bridge events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ses.bridge events are presented when the bridge firmware revision cannot be obtained which is typically fixed by verifying system state and connectivity.
+
+
 == ses.bridge.fw.getFailWarn
 *Severity*::
 ERROR

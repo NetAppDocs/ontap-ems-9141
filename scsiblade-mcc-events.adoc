@@ -13,6 +13,10 @@ summary: scsiblade.mcc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsiblade.mcc events are presented when the Vserver load during MCC switchover/switchback consumes majority of the 120 second MAX timeout which typically does not require corrective action.
+
+
 == scsiblade.mcc.vs.load.wm
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: dbs.generic events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.generic events are presented when a Distributed Block Store (DBS) cluster fault is reported as a generic fault, and no corrective action is typically required.
+
+
 == dbs.generic.cluster.fault
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: scsiblade.unavailable events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsiblade.unavailable events are presented when the node loses connectivity with the majority of the cluster and is cannot recover automatically which may require a reboot.
+
+
 == scsiblade.unavailable
 *Severity*::
 EMERGENCY

@@ -13,6 +13,10 @@ summary: cluster.network events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cluster.network events are presented when a two node cluster transitions between a switched and switchless configuration which typically does not require corrective action.
+
+
 == cluster.network.config
 *Severity*::
 NOTICE

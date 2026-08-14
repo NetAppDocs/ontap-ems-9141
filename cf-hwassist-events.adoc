@@ -13,6 +13,10 @@ summary: cf.hwassist events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cf.hwassist events are presented when the hardware-assist module automatically picked a local IP address for the hardware-assisted takeover feature which typically does not require corrective action.
+
+
 == cf.hwassist.Default.NodemgmtAddr
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: ses.shelf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ses.shelf events are presented when one of the drive in bay 1 or 2 is missing which typically does not require corrective action.
+
+
 == ses.shelf.bay.populate
 *Severity*::
 INFORMATIONAL

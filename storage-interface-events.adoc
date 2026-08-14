@@ -13,6 +13,10 @@ summary: storage.interface events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+storage.interface events are presented when a storage interface reports a link down, and corrective action is to Check the system and attempt to bring the network interface back online.
+
+
 == storage.interface.linkdown
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: license.term events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+license.term events are presented when your feature license has expired which is typically fixed by following the documented corrective steps.
+
+
 == license.term.enforcement
 *Severity*::
 ALERT

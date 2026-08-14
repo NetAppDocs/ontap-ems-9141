@@ -13,6 +13,10 @@ summary: vsa.azure events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vsa.azure events are presented when oNTAP(R) Cloud on Microsoft(R) Azure(R) receives a probe, indicating that a transition to the expected normal state has occurred which typically does not require corrective action.
+
+
 == vsa.azure.nlb.probeActive
 *Severity*::
 NOTICE

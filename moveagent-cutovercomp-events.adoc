@@ -13,6 +13,10 @@ summary: moveagent.cutovercomp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+moveagent.cutovercomp events are presented when a 'volume move' operation cannot complete cutover which may require contacting NetApp support.
+
+
 == moveagent.cutovercomp.fail
 *Severity*::
 ALERT

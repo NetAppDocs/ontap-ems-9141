@@ -13,6 +13,10 @@ summary: nvmens.offline events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvmens.offline events are presented when an NVMe namespace has been brought offline manually which typically does not require corrective action.
+
+
 == NVMeNS.offline
 *Severity*::
 NOTICE

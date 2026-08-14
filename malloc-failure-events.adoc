@@ -13,6 +13,10 @@ summary: malloc.failure events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+malloc.failure events are presented when if malloc is called unsafely, which typically does not require corrective action.
+
+
 == malloc.failure
 *Severity*::
 ERROR

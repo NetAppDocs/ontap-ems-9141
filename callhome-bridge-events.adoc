@@ -13,6 +13,10 @@ summary: callhome.bridge events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.bridge events are presented when a bridge reboots unexpectedly which may require a reboot.
+
+
 == callhome.bridge.reboot.unexp
 *Severity*::
 ALERT

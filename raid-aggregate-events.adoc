@@ -13,6 +13,10 @@ summary: raid.aggregate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.aggregate events are presented when the source node prepares an aggregate for relocation to the specified destination node which typically does not require corrective action.
+
+
 == raid.aggregate.relocate
 *Severity*::
 INFORMATIONAL

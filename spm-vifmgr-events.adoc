@@ -13,6 +13,10 @@ summary: spm.vifmgr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.vifmgr events are presented when the Logical Interface Manager (VIFMgr) subsystem aborts which may require contacting NetApp support.
+
+
 == spm.vifmgr.process.exit
 *Severity*::
 EMERGENCY

@@ -13,6 +13,10 @@ summary: repl.holdblock events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+repl.holdblock events are presented when the replica volume did a snapshot restore before the transfer during an incremental transfer, which typically does not require corrective action.
+
+
 == repl.holdblock.arrived
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: repl.enable events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+repl.enable events are presented when sequential splitting mode is enabled for a SnapMirror Synchronous relationship which typically does not require corrective action.
+
+
 == repl.enable.seq.split
 *Severity*::
 NOTICE

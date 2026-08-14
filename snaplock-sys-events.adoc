@@ -13,6 +13,10 @@ summary: snaplock.sys events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snaplock.sys events are presented when the system's compliance clock time and date is set which typically does not require corrective action.
+
+
 == snaplock.sys.compclock.set
 *Severity*::
 NOTICE

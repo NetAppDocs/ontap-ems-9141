@@ -13,6 +13,10 @@ summary: raid.diskadd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.diskadd events are presented when the system aborts the addition of disks to an aggregate which may require contacting NetApp support.
+
+
 == raid.diskadd.abort
 *Severity*::
 ERROR

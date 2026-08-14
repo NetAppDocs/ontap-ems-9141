@@ -13,6 +13,10 @@ summary: lun.online events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lun.online events are presented when a LUN is brought online manually which typically does not require corrective action.
+
+
 == LUN.online
 *Severity*::
 NOTICE

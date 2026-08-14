@@ -13,6 +13,10 @@ summary: netinet6.frag events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netinet6.frag events are presented when the incoming fragment overlaps some of the existing previous fragment in the reassembly queue which typically does not require corrective action.
+
+
 == netinet6.frag.bytes.overlap
 *Severity*::
 ERROR

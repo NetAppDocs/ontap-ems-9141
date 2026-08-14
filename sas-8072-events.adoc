@@ -13,6 +13,10 @@ summary: sas.8072 events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sas.8072 events are presented when the PM8072 serial-att (SAS) host bus adapter reports an adapter firmware error which typically does not require corrective action.
+
+
 == sas.8072.firmware.fault
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: api.engine events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+api.engine events are presented when the ONTAPI(R) engine is unexpectedly terminated, which may require a reboot.
+
+
 == api.engine.killed
 *Severity*::
 EMERGENCY

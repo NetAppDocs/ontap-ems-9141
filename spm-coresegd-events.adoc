@@ -13,6 +13,10 @@ summary: spm.coresegd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.coresegd events are presented when the core segment server (coresegd) involuntarily terminates which may require restarting affected services or nodes.
+
+
 == spm.coresegd.process.exit
 *Severity*::
 ALERT

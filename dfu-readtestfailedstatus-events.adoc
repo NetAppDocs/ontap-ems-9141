@@ -13,6 +13,10 @@ summary: dfu.readtestfailedstatus events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dfu.readtestfailedstatus events are presented when a read test failure occurs after a firmware download which is typically fixed by following the documented corrective steps.
+
+
 == dfu.readTestFailedStatus
 *Severity*::
 ERROR

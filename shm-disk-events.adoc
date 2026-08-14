@@ -13,6 +13,10 @@ summary: shm.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+shm.disk events are presented when the system detects a lost write error which typically does not require corrective action.
+
+
 == shm.disk.lostWriteError
 *Severity*::
 ERROR

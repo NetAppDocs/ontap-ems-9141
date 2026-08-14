@@ -13,6 +13,10 @@ summary: callhome.partner events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.partner events are presented when the storage failover partner is down and takeover cannot begin which may require contacting NetApp support.
+
+
 == callhome.partner.down
 *Severity*::
 EMERGENCY

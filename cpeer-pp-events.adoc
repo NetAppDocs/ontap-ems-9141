@@ -13,6 +13,10 @@ summary: cpeer.pp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cpeer.pp events are presented when an incoming cluster peer authentication request fails due to a passphrase mismatch which is typically fixed by verifying system state and connectivity.
+
+
 == cpeer.pp.mismatch
 *Severity*::
 ERROR

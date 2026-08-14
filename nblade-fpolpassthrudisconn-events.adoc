@@ -13,6 +13,10 @@ summary: nblade.fpolpassthrudisconn events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.fpolpassthrudisconn events are presented when the pass-through read channel between the node and the FPolicy server is disconnected which typically does not require corrective action.
+
+
 == Nblade.fpolPassthruDisconn
 *Severity*::
 INFORMATIONAL

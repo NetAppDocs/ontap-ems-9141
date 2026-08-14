@@ -13,6 +13,10 @@ summary: reg.key events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+reg.key events are presented when oNTAP(R) software cannot access the registry because the key is not valid which is typically fixed by following the documented corrective steps.
+
+
 == reg.key.invalid
 *Severity*::
 ERROR

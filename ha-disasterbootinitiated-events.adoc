@@ -13,6 +13,10 @@ summary: ha.disasterbootinitiated events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ha.disasterbootinitiated events are presented when an HA disaster recovery boot is initiated which typically does not require corrective action.
+
+
 == ha.disasterBootInitiated
 *Severity*::
 NOTICE

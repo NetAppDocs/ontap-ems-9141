@@ -13,6 +13,10 @@ summary: virtual.limits events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+virtual.limits events are presented when the process virtual memory limit calculations are disabled on a given node which typically does not require corrective action.
+
+
 == virtual.limits.disabled
 *Severity*::
 INFORMATIONAL

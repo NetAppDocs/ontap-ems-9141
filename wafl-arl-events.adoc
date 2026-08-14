@@ -13,6 +13,10 @@ summary: wafl.arl events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.arl events are presented when the destination node fails the volume count limit and volume size limit checks during the relocation of an aggregate, which is typically fixed by following the documented corrective steps.
+
+
 == wafl.arl.vol.limitChkFailed
 *Severity*::
 ERROR
