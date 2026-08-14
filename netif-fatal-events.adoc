@@ -13,6 +13,10 @@ summary: netif.fatal events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.fatal events are presented when the network device's driver encounters an error from which it cannot recover which may require reseating or replacing affected hardware.
+
+
 == netif.fatal.err
 *Severity*::
 ALERT

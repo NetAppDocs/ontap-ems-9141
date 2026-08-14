@@ -13,6 +13,10 @@ summary: disk.encrypt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.encrypt events are presented when the disk encrypt destroy operation is completed which typically does not require corrective action.
+
+
 == disk.encrypt.destroy.complete
 *Severity*::
 INFORMATIONAL

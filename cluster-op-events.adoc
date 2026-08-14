@@ -13,6 +13,10 @@ summary: cluster.op events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cluster.op events are presented when a "cluster create" or a "cluster join" or a "cluster unjoin" operation is attempted but does not succeed which is typically fixed by following the documented corrective steps.
+
+
 == cluster.op.fail
 *Severity*::
 ERROR

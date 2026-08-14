@@ -13,6 +13,10 @@ summary: tapemc.device events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+tapemc.device events are presented when data ONTAP(R) cannot obtain a command block for sending operations to the device which is typically fixed by following the documented corrective steps.
+
+
 == tapemc.device.cmdAllocFail
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: diskown.waitingforreassign events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.waitingforreassign events are presented when a giveback is occurring and the "storage disk reassign" is in progress which typically does not require corrective action.
+
+
 == diskown.WaitingForReassign
 *Severity*::
 NOTICE

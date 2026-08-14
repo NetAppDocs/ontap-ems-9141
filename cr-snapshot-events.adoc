@@ -13,6 +13,10 @@ summary: cr.snapshot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cr.snapshot events are presented when a temporary Snapshot(tm) copy created by the 'volume check' command could not be deleted which is typically fixed by following the documented corrective steps.
+
+
 == CR.Snapshot.Not.Deleted
 *Deprecated*::
 Deprecated as of Data ONTAP 9.6 because Infinite Volumes no longer exist.

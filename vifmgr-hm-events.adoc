@@ -13,6 +13,10 @@ summary: vifmgr.hm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.hm events are presented when a health monitor has been fully activated for an IPspace which typically does not require corrective action.
+
+
 == vifmgr.hm.promoted
 *Severity*::
 NOTICE

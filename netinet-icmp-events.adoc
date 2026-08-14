@@ -13,6 +13,10 @@ summary: netinet.icmp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netinet.icmp events are presented when an ICMPv4 redirect message is received which is typically fixed by updating configuration.
+
+
 == netinet.icmp.redirect
 *Severity*::
 NOTICE

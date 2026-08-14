@@ -13,6 +13,10 @@ summary: telnet.setsockopt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+telnet.setsockopt events are presented when setsockopt on telnet socket fails which is typically fixed by following the documented corrective steps.
+
+
 == telnet.setsockopt.failure
 *Severity*::
 ERROR

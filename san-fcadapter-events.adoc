@@ -13,6 +13,10 @@ summary: san.fcadapter events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+san.fcadapter events are presented when fC adapters hosting LIFs does not start during node boot which may require a reboot.
+
+
 == san.fcadapter.init.failure
 *Severity*::
 ERROR

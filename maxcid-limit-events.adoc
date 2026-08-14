@@ -13,6 +13,10 @@ summary: maxcid.limit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+maxcid.limit events are presented when system exceeds the maximum number of open network data connections on the node which may require contacting NetApp support.
+
+
 == maxCID.limit.exceeded
 *Severity*::
 ALERT

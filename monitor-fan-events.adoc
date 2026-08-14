@@ -13,6 +13,10 @@ summary: monitor.fan events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.fan events are presented when one or more main unit fans have failed which may require reseating or replacing affected hardware.
+
+
 == monitor.fan.critical
 *Severity*::
 EMERGENCY

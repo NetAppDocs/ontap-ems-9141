@@ -13,6 +13,10 @@ summary: http.cfg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+http.cfg events are presented when the maximum number of Cross-Site Request Forgery (CSRF) tokens has been reached which is typically fixed by verifying system state and updating configuration.
+
+
 == http.cfg.csrf.max.tokens
 *Severity*::
 NOTICE

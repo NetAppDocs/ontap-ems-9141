@@ -13,6 +13,10 @@ summary: oauth2.httpd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+oauth2.httpd events are presented when the httpd process fails to restart when the OAuth 2.0 status changes which may require contacting NetApp support.
+
+
 == oauth2.httpd.restart.failed
 *Severity*::
 ERROR

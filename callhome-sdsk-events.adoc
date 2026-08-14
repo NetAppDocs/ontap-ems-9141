@@ -13,6 +13,10 @@ summary: callhome.sdsk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.sdsk events are presented when you fail a hot spare disk drive which typically does not require corrective action.
+
+
 == callhome.sdsk.admin
 *Severity*::
 NOTICE

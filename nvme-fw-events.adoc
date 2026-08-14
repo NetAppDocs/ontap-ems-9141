@@ -13,6 +13,10 @@ summary: nvme.fw events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvme.fw events are presented when new firmware has been successfully activated on the drive and running normally which typically does not require corrective action.
+
+
 == nvme.fw.activate.complete
 *Severity*::
 NOTICE

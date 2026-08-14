@@ -13,6 +13,10 @@ summary: cf.noautogb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cf.noautogb events are presented when an automatic giveback operation is cancelled because the high-availability (HA) partner is using an earlier and incompatible Data ONTAP(R) version than the local node which may require a reboot.
+
+
 == cf.noAutoGB.ptnrLowerVersion
 *Severity*::
 NOTICE

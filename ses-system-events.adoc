@@ -13,6 +13,10 @@ summary: ses.system events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ses.system events are presented when oNTAP(R) software does not support internal disk drives in this platform which is typically fixed by verifying system state and connectivity.
+
+
 == ses.system.em.mmErr
 *Severity*::
 EMERGENCY

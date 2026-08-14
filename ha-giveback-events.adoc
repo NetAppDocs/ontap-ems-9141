@@ -13,6 +13,10 @@ summary: ha.giveback events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ha.giveback events are presented when the RAID or WAFL(R) subsystem fails to bring online the aggregate or its containing volumes after giveback which is typically fixed by verifying system state and connectivity.
+
+
 == ha.giveback.aggrOnlineFailed
 *Severity*::
 INFORMATIONAL

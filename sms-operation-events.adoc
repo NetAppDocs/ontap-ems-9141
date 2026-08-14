@@ -13,6 +13,10 @@ summary: sms.operation events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sms.operation events are presented when a blacklisted operation is performed on the primary volume of a SnapMirror(R) Sync relationship when the relationship status is "Transitioning" which is typically fixed by following the documented corrective steps.
+
+
 == sms.operation.blacklisted
 *Severity*::
 ERROR

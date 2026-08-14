@@ -13,6 +13,10 @@ summary: ic.linkstatuschange events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ic.linkstatuschange events are presented when the link status changes for a high-availability (HA) interconnect port which is typically fixed by verifying system state and connectivity.
+
+
 == ic.linkStatusChange
 *Severity*::
 INFORMATIONAL

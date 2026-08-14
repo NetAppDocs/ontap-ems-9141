@@ -13,6 +13,10 @@ summary: callhome.weekly events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.weekly events are presented when the weekly AutoSupport or 'call home' event is sent which typically does not require corrective action.
+
+
 == callhome.weekly
 *Severity*::
 NOTICE

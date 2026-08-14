@@ -13,6 +13,10 @@ summary: cluster.switch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cluster.switch events are presented when Redundant configuration is missing for cluster switches, and corrective action is to Ensure that a redundant pair of cluster switches exists in the network.
+
+
 == cluster.switch.count
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: fg.member events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fg.member events are presented when a members available space is below the threshold which may require contacting NetApp support.
+
+
 == fg.member.below.threshold
 *Severity*::
 ALERT

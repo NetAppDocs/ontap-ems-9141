@@ -13,6 +13,10 @@ summary: nvmeof.mixedports events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvmeof.mixedports events are presented when there is no longer a nonrecommended mix of a dedicated port and a nondedicated port cabled from a node to a shelf which typically does not require corrective action.
+
+
 == nvmeof.mixedports.clear
 *Severity*::
 NOTICE

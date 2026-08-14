@@ -13,6 +13,10 @@ summary: callhome.fc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.fc events are presented when a Fibre Channel arbitrated loop (FC-AL) has link failures which is typically fixed by verifying system state and connectivity.
+
+
 == callhome.fc.al.link
 *Severity*::
 ALERT

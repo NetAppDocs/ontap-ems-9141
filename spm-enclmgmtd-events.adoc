@@ -13,6 +13,10 @@ summary: spm.enclmgmtd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.enclmgmtd events are presented when the Enclosure Management Daemon (enclmgmtd) involuntarily terminates which may require contacting NetApp support.
+
+
 == spm.enclmgmtd.process.exit
 *Severity*::
 NOTICE

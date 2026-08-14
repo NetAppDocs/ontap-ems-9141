@@ -13,6 +13,10 @@ summary: arl.aggrstart events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+arl.aggrstart events are presented when relocation of a storage failover aggregate starts which typically does not require corrective action.
+
+
 == arl.aggrStart
 *Severity*::
 NOTICE

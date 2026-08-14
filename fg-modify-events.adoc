@@ -13,6 +13,10 @@ summary: fg.modify events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fg.modify events are presented when a user modifies the workflow type of a FlexGroup volume which typically does not require corrective action.
+
+
 == fg.modify.workflow
 *Severity*::
 NOTICE

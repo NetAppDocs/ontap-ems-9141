@@ -13,6 +13,10 @@ summary: xfcvi.invalid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+xfcvi.invalid events are presented when xfcvi driver receives invalid advertisement which typically does not require corrective action.
+
+
 == xfcvi.invalid.advertisement
 *Severity*::
 ERROR

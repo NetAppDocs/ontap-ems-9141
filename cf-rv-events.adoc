@@ -13,6 +13,10 @@ summary: cf.rv events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cf.rv events are presented when an HA connection agent connects on an HA interconnect device which typically does not require corrective action.
+
+
 == cf.rv.connected
 *Severity*::
 INFORMATIONAL

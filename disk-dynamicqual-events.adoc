@@ -13,6 +13,10 @@ summary: disk.dynamicqual events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.dynamicqual events are presented when dynamic device qualification fails due to an invalid /etc/qual_devices file which may require contacting NetApp support.
+
+
 == disk.dynamicqual.fail.parse
 *Severity*::
 ERROR

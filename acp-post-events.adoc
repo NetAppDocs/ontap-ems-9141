@@ -13,6 +13,10 @@ summary: acp.post events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+acp.post events are presented when a 'post data' request that was sent to the Alternate Controller Path Processor fails which typically does not require corrective action.
+
+
 == acp.post.data.failed
 *Severity*::
 INFORMATIONAL

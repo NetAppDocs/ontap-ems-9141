@@ -13,6 +13,10 @@ summary: lmgr.lock events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lmgr.lock events are presented when the system aborts the volume lock reclaim process which is typically fixed by following the documented corrective steps.
+
+
 == lmgr.lock.reclaim.aborted
 *Severity*::
 ERROR

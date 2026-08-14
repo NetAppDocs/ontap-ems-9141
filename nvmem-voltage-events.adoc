@@ -13,6 +13,10 @@ summary: nvmem.voltage events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvmem.voltage events are presented when the NVMEM supply voltage is high and the system is at a high risk of data loss if power fails which may require reseating or replacing affected hardware.
+
+
 == nvmem.voltage.high
 *Severity*::
 EMERGENCY

@@ -13,6 +13,10 @@ summary: fmmb.mediator events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fmmb.mediator events are presented when a mailbox disk from the mediator site is selected to be included in the mailbox disk list which typically does not require corrective action.
+
+
 == fmmb.mediator.lckdiskSuggest
 *Severity*::
 INFORMATIONAL

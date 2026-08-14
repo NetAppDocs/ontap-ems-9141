@@ -13,6 +13,10 @@ summary: ffm.attach events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ffm.attach events are presented when volumes on an aggregate become available to the protocol clients near the end of the attach phase of volume relocation, and no corrective action is typically required.
+
+
 == ffm.attach.outage.end
 *Severity*::
 NOTICE

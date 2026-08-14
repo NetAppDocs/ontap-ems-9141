@@ -13,6 +13,10 @@ summary: repl.exovol events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+repl.exovol events are presented when an exo-volume scanner detects a loss of volume quiescence during a volume move operation which is typically fixed by verifying system state and connectivity.
+
+
 == repl.exovol.not.quiesced
 *Severity*::
 INFORMATIONAL

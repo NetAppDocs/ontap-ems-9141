@@ -13,6 +13,10 @@ summary: wafl.reallocate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.reallocate events are presented when an aggregate reallocation scan is interrupted which is typically fixed by following the documented corrective steps.
+
+
 == wafl.reallocate.aggr.interrupt
 *Severity*::
 INFORMATIONAL

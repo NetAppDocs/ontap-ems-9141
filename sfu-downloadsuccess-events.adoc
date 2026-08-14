@@ -13,6 +13,10 @@ summary: sfu.downloadsuccess events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sfu.downloadsuccess events are presented when disk shelf firmware updates successfully which typically does not require corrective action.
+
+
 == sfu.downloadSuccess
 *Severity*::
 INFORMATIONAL

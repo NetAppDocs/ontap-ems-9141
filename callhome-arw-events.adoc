@@ -13,6 +13,10 @@ summary: callhome.arw events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.arw events are presented when ransomware activity is detected which may require contacting NetApp support.
+
+
 == callhome.arw.activity.seen
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: mgmtgwd.schedsnap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmtgwd.schedsnap events are presented when the system fails to create a Snapshot(tm) copy for the given volume which may require contacting NetApp support.
+
+
 == mgmtgwd.schedSnap.createFail
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: sis.fingerprint events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sis.fingerprint events are presented when a bad block is encountered while reading SIS metafiles which typically does not require corrective action.
+
+
 == sis.fingerprint.notify.lost
 *Severity*::
 NOTICE

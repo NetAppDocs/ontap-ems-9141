@@ -13,6 +13,10 @@ summary: acp.shelf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+acp.shelf events are presented when the Alternate Control Path (ACP) Processor fails to complete a power cycle of the disk shelf which typically does not require corrective action.
+
+
 == acp.shelf.power.cycle.failed
 *Severity*::
 INFORMATIONAL

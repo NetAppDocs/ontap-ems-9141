@@ -13,6 +13,10 @@ summary: monitor.unknown events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.unknown events are presented when the status monitor receives an unexpected message type which typically does not require corrective action.
+
+
 == monitor.unknown.message
 *Severity*::
 ERROR

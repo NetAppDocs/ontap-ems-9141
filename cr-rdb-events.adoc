@@ -13,6 +13,10 @@ summary: cr.rdb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cr.rdb events are presented when the RDB (replicated database) cannot be updated with the inode counters for a particular scan which typically does not require corrective action.
+
+
 == CR.RDB.Counters.Not.Updated
 *Deprecated*::
 Deprecated as of Data ONTAP 9.6 because Infinite Volumes no longer exist.

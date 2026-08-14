@@ -13,6 +13,10 @@ summary: nblade.scannerconnected events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.scannerconnected events are presented when a Vserver connects successfully to a Vscan server which typically does not require corrective action.
+
+
 == Nblade.scannerConnected
 *Severity*::
 NOTICE

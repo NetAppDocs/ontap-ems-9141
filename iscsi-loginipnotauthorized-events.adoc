@@ -13,6 +13,10 @@ summary: iscsi.loginipnotauthorized events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+iscsi.loginipnotauthorized events are presented when the system rejects an iSCSI login attempt because it originates from an unauthorized IP address which is typically fixed by verifying system state and connectivity.
+
+
 == iscsi.loginIpNotAuthorized
 *Severity*::
 NOTICE

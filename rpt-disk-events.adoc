@@ -13,6 +13,10 @@ summary: rpt.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+rpt.disk events are presented when the generation of a disk UUID fails which may require a reboot.
+
+
 == rpt.disk.uuid.gen.failed
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: master.demote events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+master.demote events are presented when the associated node successfully updates the global database to demote current cluster master, and no corrective action is typically required.
+
+
 == master.demote.cm.committed
 *Severity*::
 NOTICE

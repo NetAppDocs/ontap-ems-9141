@@ -13,6 +13,10 @@ summary: ata.timeout events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ata.timeout events are presented when an I/O request to the ATA driver times out which typically does not require corrective action.
+
+
 == ata.timeout.failed
 *Deprecated*::
 Last used 9.2

@@ -13,6 +13,10 @@ summary: snaplock.volume events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snaplock.volume events are presented when wafliron is run on a SnapLock(R) volume which typically does not require corrective action.
+
+
 == snaplock.volume.repair
 *Severity*::
 NOTICE

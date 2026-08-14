@@ -13,6 +13,10 @@ summary: diskown.isenabled events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.isenabled events are presented when enable sanown, which typically does not require corrective action.
+
+
 == diskown.isEnabled
 *Severity*::
 INFORMATIONAL

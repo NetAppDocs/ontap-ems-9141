@@ -13,6 +13,10 @@ summary: config.oneswitch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+config.oneswitch events are presented when the disk is only connected to one switch which typically does not require corrective action.
+
+
 == config.OneSwitch
 *Severity*::
 ALERT

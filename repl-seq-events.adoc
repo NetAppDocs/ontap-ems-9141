@@ -13,6 +13,10 @@ summary: repl.seq events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+repl.seq events are presented when the SnapMirror sequential split is enabled on a SAN operating workload which is typically fixed by updating configuration.
+
+
 == repl.seq.split.enabled.SAN
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: wafl.air events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.air events are presented when generic wafl air message which typically does not require corrective action.
+
+
 == wafl.air.info
 *Severity*::
 ERROR

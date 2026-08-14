@@ -13,6 +13,10 @@ summary: vifmgr.hv events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.hv events are presented when no Hypervisor host configuration is available which is typically fixed by verifying system state and connectivity.
+
+
 == vifmgr.hv.nohostconfig
 *Severity*::
 ALERT

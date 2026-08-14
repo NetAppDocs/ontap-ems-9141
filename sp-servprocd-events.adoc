@@ -13,6 +13,10 @@ summary: sp.servprocd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sp.servprocd events are presented when in the following cases: 1 which is typically fixed by updating configuration.
+
+
 == sp.servprocd.upd.error
 *Severity*::
 ERROR

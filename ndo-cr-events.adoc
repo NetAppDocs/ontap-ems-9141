@@ -13,6 +13,10 @@ summary: ndo.cr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ndo.cr events are presented when a controller replacement operation is canceled by the operator which typically does not require corrective action.
+
+
 == ndo.cr.canceled
 *Severity*::
 NOTICE

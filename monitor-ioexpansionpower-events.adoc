@@ -13,6 +13,10 @@ summary: monitor.ioexpansionpower events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.ioexpansionpower events are presented when indicates that power on the I/O expansion module is degraded which may require contacting NetApp support.
+
+
 == monitor.ioexpansionPower.degraded
 *Severity*::
 NOTICE

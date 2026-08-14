@@ -13,6 +13,10 @@ summary: cf.nducomplete events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cf.nducomplete events are presented when a nondisruptive upgrade is completed successfully which typically does not require corrective action.
+
+
 == cf.nduComplete
 *Severity*::
 INFORMATIONAL

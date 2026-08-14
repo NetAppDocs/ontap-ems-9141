@@ -13,6 +13,10 @@ summary: vs.multiple events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vs.multiple events are presented when more than one Vserver audit consolidation jobs is found which is typically fixed by verifying system state and connectivity.
+
+
 == vs.multiple.adtjobs
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: nblade.fpolpsvolnoaccess events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.fpolpsvolnoaccess events are presented when events cannot be written into persistent store volume due to insufficient permissions which is typically fixed by verifying system state and connectivity.
+
+
 == Nblade.fpolPsVolNoAccess
 *Severity*::
 ERROR

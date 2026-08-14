@@ -13,6 +13,10 @@ summary: callhome.sm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.sm events are presented when a break operation on a SnapMirror(R) relationship that is a part of VserverDR fails which may require contacting NetApp support.
+
+
 == callhome.sm.vsdr.break.fail
 *Severity*::
 ERROR

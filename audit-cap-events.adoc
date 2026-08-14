@@ -13,6 +13,10 @@ summary: audit.cap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+audit.cap events are presented when the system fails to generate an audit staging event as a part of the Central Access Policy (CAP) evaluation during access checks which typically does not require corrective action.
+
+
 == audit.cap.staging.event.failure
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: vldb.update events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vldb.update events are presented when the aggregate ownership update fails during switchover which may require contacting NetApp support.
+
+
 == vldb.update.duringsofail
 *Severity*::
 EMERGENCY

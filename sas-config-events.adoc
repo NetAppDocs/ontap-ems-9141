@@ -13,6 +13,10 @@ summary: sas.config events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sas.config events are presented when the SAS (Serial Attached SCSI) adapter is connected to a misconfigured SAS domain which is typically fixed by following the documented corrective steps.
+
+
 == sas.config.bad
 *Severity*::
 ERROR

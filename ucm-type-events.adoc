@@ -13,6 +13,10 @@ summary: ucm.type events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ucm.type events are presented when the user changes the FC-4 type on a configurable adapter which typically does not require corrective action.
+
+
 == ucm.type.changed
 *Severity*::
 INFORMATIONAL

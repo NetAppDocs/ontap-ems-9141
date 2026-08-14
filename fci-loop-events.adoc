@@ -13,6 +13,10 @@ summary: fci.loop events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fci.loop events are presented when the Fibre Channel loop generates too many loop initialization events which is typically fixed by verifying system state and connectivity.
+
+
 == fci.loop.stability
 *Severity*::
 ERROR

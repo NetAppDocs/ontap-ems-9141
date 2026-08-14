@@ -13,6 +13,10 @@ summary: nvdimm.nvmem events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvdimm.nvmem events are presented when nVDIMM-based NVMEM checks fail which is typically fixed by verifying system state and connectivity.
+
+
 == nvdimm.nvmem.checkfail
 *Severity*::
 EMERGENCY

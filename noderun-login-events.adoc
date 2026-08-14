@@ -13,6 +13,10 @@ summary: noderun.login events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+noderun.login events are presented when a cluster user successfully logs in to the node using the 'run' command which typically does not require corrective action.
+
+
 == noderun.login.success
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: cpeer.xcm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cpeer.xcm events are presented when address discovery fails for a peer cluster which is typically fixed by verifying system state and updating configuration.
+
+
 == cpeer.xcm.addr.disc.warn
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: vsdr.volmovsrcfpnonfpaggr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vsdr.volmovsrcfpnonfpaggr events are presented when a volume move operation is executed between FabricPool and non-FabricPool aggregates on the source Vserver of an SVM disaster recovery (SVMDR) relationship which is typically fixed by following the documented corrective steps.
+
+
 == vsdr.volMovSrcFPNonFPAggr
 *Severity*::
 NOTICE

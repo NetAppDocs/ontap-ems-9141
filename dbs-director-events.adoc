@@ -13,6 +13,10 @@ summary: dbs.director events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.director events are presented when data address assignments are stable, and no corrective action is typically required.
+
+
 == dbs.director.addrs.stable
 *Severity*::
 NOTICE

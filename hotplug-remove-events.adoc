@@ -13,6 +13,10 @@ summary: hotplug.remove events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+hotplug.remove events are presented when module removal is successful which typically does not require corrective action.
+
+
 == hotplug.remove.success
 *Severity*::
 NOTICE

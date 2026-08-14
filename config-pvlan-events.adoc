@@ -13,6 +13,10 @@ summary: config.pvlan events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+config.pvlan events are presented when a pseudo-VLAN port is created which typically does not require corrective action.
+
+
 == config.pvlan.created
 *Severity*::
 NOTICE

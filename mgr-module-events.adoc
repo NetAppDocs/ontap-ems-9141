@@ -13,6 +13,10 @@ summary: mgr.module events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgr.module events are presented when this occurs to inform you of where kernel modules were loaded in memory which typically does not require corrective action.
+
+
 == mgr.module.address
 *Severity*::
 NOTICE

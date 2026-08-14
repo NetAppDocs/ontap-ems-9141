@@ -13,6 +13,10 @@ summary: mdb.exit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mdb.exit events are presented when the management process exits to recover from a database error which may require contacting NetApp support.
+
+
 == mdb.exit
 *Severity*::
 EMERGENCY

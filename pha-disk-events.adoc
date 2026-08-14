@@ -13,6 +13,10 @@ summary: pha.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+pha.disk events are presented when the backing disk type for an existing disk was changed from the cloud API which is typically fixed by verifying system state and connectivity.
+
+
 == pha.disk.type.changed
 *Severity*::
 ERROR

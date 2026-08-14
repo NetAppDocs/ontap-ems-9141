@@ -13,6 +13,10 @@ summary: nblade.flexgroupstatefulprotocolaccess events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.flexgroupstatefulprotocolaccess events are presented when the system detects an attempt to use Network Lock Manager (NLM) shared locks on a FlexGroup volume which is typically fixed by following the documented corrective steps.
+
+
 == Nblade.flexgroupStatefulProtocolAccess
 *Severity*::
 ERROR

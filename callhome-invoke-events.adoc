@@ -13,6 +13,10 @@ summary: callhome.invoke events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.invoke events are presented when you invoke an AutoSupport(R) message, and the "type" of that message is set to "test" which typically does not require corrective action.
+
+
 == callhome.invoke
 *Severity*::
 NOTICE

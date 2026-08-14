@@ -13,6 +13,10 @@ summary: nblade.vifdel events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.vifdel events are presented when there is a failure removing the IP address of a LIF that is being deleted which may require a reboot.
+
+
 == Nblade.vifdel.ipRemoveFailed
 *Severity*::
 ERROR

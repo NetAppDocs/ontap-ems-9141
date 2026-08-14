@@ -13,6 +13,10 @@ summary: dbs.ikm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.ikm events are presented when a Distributed Block Store (DBS) event relating to Internal Key Management (IKM) occurs, such as purging a key, and no corrective action is typically required.
+
+
 == dbs.ikm
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: mcc.toomany events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mcc.toomany events are presented when a volume is added to an aggregate in which the recommended maximum number of volumes for an aggregate in a MetroCluster setup is exceeded which is typically fixed by verifying system state and connectivity.
+
+
 == mcc.toomany.vols.per.aggr
 *Severity*::
 ALERT

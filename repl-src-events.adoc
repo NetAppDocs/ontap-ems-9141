@@ -13,6 +13,10 @@ summary: repl.src events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+repl.src events are presented when snapMirror(R) logical transfer is not possible due to incompatible snapshots which is typically fixed by following the documented corrective steps.
+
+
 == repl.src.snaps.check.failed
 *Severity*::
 ERROR

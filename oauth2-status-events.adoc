@@ -13,6 +13,10 @@ summary: oauth2.status events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+oauth2.status events are presented when the OAuth 2.0 status of the cluster is changed to DISABLED which typically does not require corrective action.
+
+
 == oauth2.status.disabled
 *Severity*::
 NOTICE

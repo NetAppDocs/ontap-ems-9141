@@ -13,6 +13,10 @@ summary: nse.op events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nse.op events are presented when oNTAP(R) does not succeed in performing an operation on a NetApp(R) Storage Encryption (NSE) self-encrypting drive (SED) which may require reseating or replacing affected hardware.
+
+
 == nse.op.failed
 *Severity*::
 ERROR

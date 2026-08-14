@@ -13,6 +13,10 @@ summary: xfcvi.fcrenabled events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+xfcvi.fcrenabled events are presented when if Fiber Channel Routing (FCR) functionality is enabled on the system which typically does not require corrective action.
+
+
 == xfcvi.fcrEnabled
 *Severity*::
 NOTICE

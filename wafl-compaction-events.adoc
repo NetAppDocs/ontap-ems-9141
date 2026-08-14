@@ -13,6 +13,10 @@ summary: wafl.compaction events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.compaction events are presented when the aggregates compaction CP value is changed which typically does not require corrective action.
+
+
 == wafl.compaction.CP.value
 *Severity*::
 INFORMATIONAL

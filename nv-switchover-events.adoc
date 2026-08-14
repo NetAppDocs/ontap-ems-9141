@@ -13,6 +13,10 @@ summary: nv.switchover events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nv.switchover events are presented when switchover proceeds even when nonvolatile RAM (NVRAM) inconsistencies are detected in the DR partner sections which typically does not require corrective action.
+
+
 == nv.switchover.continued
 *Severity*::
 ALERT

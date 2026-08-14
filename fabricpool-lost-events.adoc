@@ -13,6 +13,10 @@ summary: fabricpool.lost events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fabricpool.lost events are presented when oNTAP has lost contact with the Service Control Unit used with cloud subscription licenses which is typically fixed by following the documented corrective steps.
+
+
 == fabricpool.lost.contact.scu
 *Severity*::
 ALERT

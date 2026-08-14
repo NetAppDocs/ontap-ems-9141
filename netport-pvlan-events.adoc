@@ -13,6 +13,10 @@ summary: netport.pvlan events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netport.pvlan events are presented when a pseudo-VLAN port has been created which typically does not require corrective action.
+
+
 == netport.pvlan.created
 *Severity*::
 NOTICE

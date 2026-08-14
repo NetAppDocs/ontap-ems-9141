@@ -13,6 +13,10 @@ summary: user.group events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+user.group events are presented when the number of UNIX users or groups in the cluster reaches or exceeds system limits which is typically fixed by updating configuration.
+
+
 == user.group.limit.reached
 *Severity*::
 ERROR

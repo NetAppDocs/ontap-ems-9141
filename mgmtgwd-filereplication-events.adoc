@@ -13,6 +13,10 @@ summary: mgmtgwd.filereplication events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmtgwd.filereplication events are presented when the startup scan of the file replication publishing root directory fails to verify packages which may require contacting NetApp support.
+
+
 == mgmtgwd.filereplication.failverify
 *Severity*::
 ERROR

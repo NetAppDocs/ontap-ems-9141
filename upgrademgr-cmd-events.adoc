@@ -13,6 +13,10 @@ summary: upgrademgr.cmd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+upgrademgr.cmd events are presented when the execution of the commands listed in the support file has completed which typically does not require corrective action.
+
+
 == upgrademgr.cmd.invoke.done
 *Severity*::
 NOTICE

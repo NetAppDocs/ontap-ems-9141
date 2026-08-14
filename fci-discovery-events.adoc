@@ -13,6 +13,10 @@ summary: fci.discovery events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fci.discovery events are presented when the Fibre Channel adapter driver cannot complete device discovery within the specified time which typically does not require corrective action.
+
+
 == fci.discovery.timeout
 *Severity*::
 INFORMATIONAL

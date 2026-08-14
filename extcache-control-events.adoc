@@ -13,6 +13,10 @@ summary: extcache.control events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+extcache.control events are presented when the external cache software cannot signal its administrative thread which typically does not require corrective action.
+
+
 == extCache.control
 *Severity*::
 NOTICE

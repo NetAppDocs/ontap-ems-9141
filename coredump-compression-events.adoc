@@ -13,6 +13,10 @@ summary: coredump.compression events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+coredump.compression events are presented when a compressed kernel core is generated which typically does not require corrective action.
+
+
 == coredump.compression.details
 *Severity*::
 INFORMATIONAL

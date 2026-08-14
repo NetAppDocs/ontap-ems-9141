@@ -13,6 +13,10 @@ summary: raid.labelmaint events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.labelmaint events are presented when the system places an aggregate into online label maintenance mode which typically does not require corrective action.
+
+
 == raid.labelmaint.isolate.aggr
 *Severity*::
 INFORMATIONAL

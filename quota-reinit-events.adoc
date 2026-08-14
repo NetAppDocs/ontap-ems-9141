@@ -13,6 +13,10 @@ summary: quota.reinit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+quota.reinit events are presented when an unplanned MetroCluster(tm) switchover happens which may require restarting affected services or nodes.
+
+
 == quota.reinit.required
 *Severity*::
 ERROR

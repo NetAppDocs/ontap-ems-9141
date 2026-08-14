@@ -13,6 +13,10 @@ summary: pn.mvia events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+pn.mvia events are presented when the round-trip-time (RTT) measured in pass-through network layer exceeds predefined threshold which typically does not require corrective action.
+
+
 == pn.mvia.freeq.empty
 *Severity*::
 NOTICE

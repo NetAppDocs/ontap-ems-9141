@@ -13,6 +13,10 @@ summary: spm.vserverdr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.vserverdr events are presented when the Vserver DR process involuntarily terminates which may require restarting affected services or nodes.
+
+
 == spm.vserverdr.process.exit
 *Severity*::
 ALERT

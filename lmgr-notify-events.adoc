@@ -13,6 +13,10 @@ summary: lmgr.notify events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lmgr.notify events are presented when the volume lock manager cannot write to the notify hosts file due to an error, for example, insufficient space which typically does not require corrective action.
+
+
 == lmgr.notify.host.skip.write
 *Severity*::
 INFORMATIONAL

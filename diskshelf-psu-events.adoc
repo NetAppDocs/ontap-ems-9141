@@ -13,6 +13,10 @@ summary: diskshelf.psu events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskshelf.psu events are presented when a power supply unit is added to the disk shelf which typically does not require corrective action.
+
+
 == diskShelf.psu.added
 *Severity*::
 NOTICE

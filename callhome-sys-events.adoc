@@ -13,6 +13,10 @@ summary: callhome.sys events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.sys events are presented when the appliance has an unsupported PCI slot configuration which may require contacting NetApp support.
+
+
 == callhome.sys.config
 *Severity*::
 ERROR

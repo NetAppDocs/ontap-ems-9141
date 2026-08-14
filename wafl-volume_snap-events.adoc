@@ -13,6 +13,10 @@ summary: wafl.volume_snap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.volume_snap events are presented when automatic deletion of a snapshot fails which typically does not require corrective action.
+
+
 == wafl.volume_snap.autoDelete.fail
 *Severity*::
 INFORMATIONAL

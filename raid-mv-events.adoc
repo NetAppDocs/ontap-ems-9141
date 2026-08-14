@@ -13,6 +13,10 @@ summary: raid.mv events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.mv events are presented when aggregates are brought online in a deferred way after mirror votes are retrieved automatically which typically does not require corrective action.
+
+
 == raid.mv.defVol.online
 *Severity*::
 INFORMATIONAL

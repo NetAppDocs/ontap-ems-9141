@@ -13,6 +13,10 @@ summary: raid.nvram events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.nvram events are presented when rAID NVRAM contains some bad entries which typically does not require corrective action.
+
+
 == raid.nvram.bad.entry
 *Severity*::
 NOTICE

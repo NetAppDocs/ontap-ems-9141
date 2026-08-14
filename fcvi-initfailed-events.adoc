@@ -13,6 +13,10 @@ summary: fcvi.initfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fcvi.initfailed events are presented when the driver does not start a FC-VI port which may require a reboot.
+
+
 == fcvi.initFailed
 *Severity*::
 ERROR

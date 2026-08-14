@@ -13,6 +13,10 @@ summary: wafl.dosname events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.dosname events are presented when the system cannot correct duplicate dosnames present in a directory, and corrective action is to From the NFS client, check the directory for file or subdirectory names like {******}.
+
+
 == wafl.dosname.repair.fail
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: spm.vldb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.vldb events are presented when volume Location Database (VLDB) subsystem stops running which may require contacting NetApp support.
+
+
 == spm.vldb.process.exit
 *Severity*::
 EMERGENCY

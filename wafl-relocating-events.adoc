@@ -13,6 +13,10 @@ summary: wafl.relocating events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.relocating events are presented when the system cannot perform an aggregate relocation because a fence is set on one of the volumes in the aggregate which may require contacting NetApp support.
+
+
 == wafl.relocating.fence.fail
 *Severity*::
 ERROR

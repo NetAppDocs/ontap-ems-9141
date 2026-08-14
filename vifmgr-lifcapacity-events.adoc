@@ -13,6 +13,10 @@ summary: vifmgr.lifcapacity events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.lifcapacity events are presented when the system informs the administrator of the number of Logical Interfaces (LIFs) supported by the node which typically does not require corrective action.
+
+
 == vifmgr.lifCapacity
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: sfu.download events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sfu.download events are presented when a disk shelf firmware update completes download firmware to a disk shelf or shelves in the system which is typically fixed by updating configuration.
+
+
 == sfu.download.details
 *Deprecated*::
 Deprecated as of ONTAP(R) version 9.6. A new EMS message is added.

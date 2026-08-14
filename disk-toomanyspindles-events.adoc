@@ -13,6 +13,10 @@ summary: disk.toomanyspindles events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.toomanyspindles events are presented when data ONTAP(R) finds more disks present on a platform than the platform actually supports which is typically fixed by updating configuration.
+
+
 == disk.tooManySpindles
 *Severity*::
 ALERT

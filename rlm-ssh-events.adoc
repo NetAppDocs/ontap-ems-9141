@@ -13,6 +13,10 @@ summary: rlm.ssh events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+rlm.ssh events are presented when rLM SSH access list needs to be resetup which is typically fixed by updating configuration.
+
+
 == rlm.ssh.access.resetup
 *Severity*::
 ERROR

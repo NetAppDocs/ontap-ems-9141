@@ -13,6 +13,10 @@ summary: vifmgr.portdeg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.portdeg events are presented when an administrative action adds a port with a degraded health status to an interface group which typically does not require corrective action.
+
+
 == vifmgr.portDeg.ifgrpAdded
 *Severity*::
 NOTICE

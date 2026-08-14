@@ -13,6 +13,10 @@ summary: snaplock.state events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snaplock.state events are presented when if SnapLock is cannot destroy the SnapLock state for a SnapLock volume, which typically does not require corrective action.
+
+
 == snaplock.state.dir.destroyFail
 *Severity*::
 NOTICE

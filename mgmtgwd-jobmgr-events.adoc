@@ -13,6 +13,10 @@ summary: mgmtgwd.jobmgr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmtgwd.jobmgr events are presented when the system cannot locate the configuration for a specific Vserver which is typically fixed by following the documented corrective steps.
+
+
 == mgmtgwd.jobmgr.fetcherr
 *Severity*::
 ERROR

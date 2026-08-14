@@ -13,6 +13,10 @@ summary: fcmon.status events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fcmon.status events are presented when fCMON starts up, halts or is requested to print it's current state which is typically fixed by following the documented corrective steps.
+
+
 == fcmon.status
 *Deprecated*::
 Deprecated as of Data ONTAP 9.2 because FCMON process has been removed.

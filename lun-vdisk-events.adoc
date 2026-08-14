@@ -13,6 +13,10 @@ summary: lun.vdisk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lun.vdisk events are presented when a volume contains more than the supported limit of LUNs in the volume which is typically fixed by following the documented corrective steps.
+
+
 == LUN.vdisk.cnt.exceeded
 *Severity*::
 ERROR

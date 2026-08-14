@@ -13,6 +13,10 @@ summary: coredump.long events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+coredump.long events are presented when the coredump manager thread detects that a message has been queued longer than expected, as defined by an internal threshold, and no corrective action is typically required.
+
+
 == coredump.long.queued.msg
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: mct.control events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mct.control events are presented when the Mirror Cache Transport layer encounters an error in its control group which typically does not require corrective action.
+
+
 == mct.control.error
 *Severity*::
 NOTICE

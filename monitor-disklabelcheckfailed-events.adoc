@@ -13,6 +13,10 @@ summary: monitor.disklabelcheckfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.disklabelcheckfailed events are presented when the system detects that a file system disk has an invalid or a missing RAID label which is typically fixed by following the documented corrective steps.
+
+
 == monitor.diskLabelCheckFailed
 *Severity*::
 NOTICE

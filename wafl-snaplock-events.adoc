@@ -13,6 +13,10 @@ summary: wafl.snaplock events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.snaplock events are presented when this event indicates that the snaplock scan has completed which typically does not require corrective action.
+
+
 == wafl.snaplock.scan.complete
 *Severity*::
 NOTICE

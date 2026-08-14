@@ -13,6 +13,10 @@ summary: net.fib events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+net.fib events are presented when a Vserver resource allocation fails which is typically fixed by verifying system state and connectivity.
+
+
 == net.fib.createfailed
 *Severity*::
 ERROR

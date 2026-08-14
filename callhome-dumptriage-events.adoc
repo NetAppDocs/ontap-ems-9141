@@ -13,6 +13,10 @@ summary: callhome.dumptriage events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.dumptriage events are presented when kernel dumptriage files are collected for a coredump event which typically does not require corrective action.
+
+
 == callhome.dumptriage
 *Severity*::
 NOTICE

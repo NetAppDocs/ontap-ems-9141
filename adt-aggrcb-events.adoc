@@ -13,6 +13,10 @@ summary: adt.aggrcb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+adt.aggrcb events are presented when the auditing subsystem cannot remove a stale aggregate control block entry from the Audit aggregate hash table which may require a reboot.
+
+
 == adt.aggrcb.unlinkfail
 *Severity*::
 ALERT

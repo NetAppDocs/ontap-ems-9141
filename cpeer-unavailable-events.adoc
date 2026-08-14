@@ -13,6 +13,10 @@ summary: cpeer.unavailable events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cpeer.unavailable events are presented when a peer cluster becomes unavailable which is typically fixed by verifying system state and updating configuration.
+
+
 == cpeer.unavailable
 *Severity*::
 ALERT

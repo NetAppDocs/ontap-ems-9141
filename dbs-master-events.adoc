@@ -13,6 +13,10 @@ summary: dbs.master events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.master events are presented when the node fails to execute cluster master startup, and no corrective action is typically required.
+
+
 == dbs.master.didnt.start.cm
 *Severity*::
 NOTICE

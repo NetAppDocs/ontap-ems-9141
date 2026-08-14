@@ -13,6 +13,10 @@ summary: wafl.spcres events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.spcres events are presented when this event indicates that the new space reservation guarantee was unabled to be obtained, so the old reservation type was kept unchanged which typically does not require corrective action.
+
+
 == wafl.spcres.not.changed
 *Severity*::
 NOTICE

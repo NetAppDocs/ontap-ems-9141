@@ -13,6 +13,10 @@ summary: nvmeof.hostport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvmeof.hostport events are presented when a node shelf is no longer cabled incorrectly from a port that is not a storage port which typically does not require corrective action.
+
+
 == nvmeof.hostport.clear
 *Severity*::
 NOTICE

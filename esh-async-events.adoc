@@ -13,6 +13,10 @@ summary: esh.async events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+esh.async events are presented when there is an error allocating memory for an asynchronous message during disk shelf discovery processing which may require a reboot.
+
+
 == esh.async.error
 *Severity*::
 ERROR

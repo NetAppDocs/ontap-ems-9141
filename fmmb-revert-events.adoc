@@ -13,6 +13,10 @@ summary: fmmb.revert events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fmmb.revert events are presented when the HA Mailbox opaque recieves a write request for the opaque area and a revert_to command is in progress, which typically does not require corrective action.
+
+
 == fmmb.revert.opaque
 *Severity*::
 ERROR

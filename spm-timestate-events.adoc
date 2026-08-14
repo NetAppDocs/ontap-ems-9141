@@ -13,6 +13,10 @@ summary: spm.timestate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.timestate events are presented when the subsystem managing timekeeping parameters (time_state) stops running which may require contacting NetApp support.
+
+
 == spm.timeState.process.exit
 *Deprecated*::
 This event is removed since time_state server was removed in 8.3.

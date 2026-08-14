@@ -13,6 +13,10 @@ summary: vol.mount events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vol.mount events are presented when a volume or aggregate is mounted as read-only which typically does not require corrective action.
+
+
 == vol.mount.readOnly
 *Severity*::
 INFORMATIONAL

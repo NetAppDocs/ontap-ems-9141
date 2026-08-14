@@ -13,6 +13,10 @@ summary: vifmgr.lifmoved events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.lifmoved events are presented when an administrator action causes a logical interface (LIF) IP address to move to another node/port which typically does not require corrective action.
+
+
 == vifmgr.lifmoved.byadmin
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: vifmgr.portremoved events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.portremoved events are presented when a port is removed because it no longer exists which typically does not require corrective action.
+
+
 == vifmgr.portRemoved
 *Severity*::
 NOTICE

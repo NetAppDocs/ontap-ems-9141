@@ -13,6 +13,10 @@ summary: callhome.wafl events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.wafl events are presented when after a WAFL(R) check (wack) operation runs which is typically fixed by verifying system state and connectivity.
+
+
 == callhome.wafl.check
 *Severity*::
 ALERT

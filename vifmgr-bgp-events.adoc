@@ -13,6 +13,10 @@ summary: vifmgr.bgp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.bgp events are presented when logical Interface Manager (VifMgr) connects to BGP daemon which typically does not require corrective action.
+
+
 == vifmgr.bgp.connected
 *Severity*::
 NOTICE

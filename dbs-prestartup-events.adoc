@@ -13,6 +13,10 @@ summary: dbs.prestartup events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.prestartup events are presented when a Distributed Block Store (DBS) prestartup event occurs, and no corrective action is typically required.
+
+
 == dbs.prestartup
 *Severity*::
 NOTICE

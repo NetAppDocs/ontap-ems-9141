@@ -13,6 +13,10 @@ summary: mgmtgwd.sign events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmtgwd.sign events are presented when a digital certificate for a Vserver expires which is typically fixed by following the documented corrective steps.
+
+
 == mgmtgwd.sign.cert.expired
 *Severity*::
 ERROR

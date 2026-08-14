@@ -13,6 +13,10 @@ summary: scsiblade.prop events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsiblade.prop events are presented when a CTRAN "proposal done" message is not received which may require contacting NetApp support.
+
+
 == scsiblade.prop.done.error
 *Severity*::
 EMERGENCY

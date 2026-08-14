@@ -13,6 +13,10 @@ summary: sfu.partnerinaccessible events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sfu.partnerinaccessible events are presented when in a high-availability (HA) configuration in which communication between partner nodes cannot be established which is typically fixed by verifying system state and updating configuration.
+
+
 == sfu.partnerInaccessible
 *Severity*::
 ALERT

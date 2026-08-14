@@ -13,6 +13,10 @@ summary: fpolicy.pspath events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fpolicy.pspath events are presented when the creation of the FPolicy persistent store active or backlog directories fails which is typically fixed by verifying system state and connectivity.
+
+
 == fpolicy.pspath.failed
 *Severity*::
 ERROR

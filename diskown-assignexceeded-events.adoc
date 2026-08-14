@@ -13,6 +13,10 @@ summary: diskown.assignexceeded events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.assignexceeded events are presented when an attempt is made to assign more disks than are supported by this node which is typically fixed by following the documented corrective steps.
+
+
 == diskown.AssignExceeded
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: raid.tree events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.tree events are presented when rAID I/Os are active while removing a disk from the RAID tree which typically does not require corrective action.
+
+
 == raid.tree.remove.activeIOs
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: nvram.hw events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvram.hw events are presented when the NVRAM hardware is degraded which may require contacting NetApp support.
+
+
 == nvram.hw.degraded
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: vsa.instancemetadata events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vsa.instancemetadata events are presented when the system detects that a field in the virtual machine's instance metadata settings has changed which is typically fixed by following the documented corrective steps.
+
+
 == vsa.instanceMetadata.change
 *Severity*::
 ALERT

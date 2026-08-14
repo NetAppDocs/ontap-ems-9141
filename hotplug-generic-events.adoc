@@ -13,6 +13,10 @@ summary: hotplug.generic events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+hotplug.generic events are presented when a module replacement or removal command fails because the driver or system is busy which may require contacting NetApp support.
+
+
 == hotplug.generic.busy_not_ready
 *Severity*::
 ERROR

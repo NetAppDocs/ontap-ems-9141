@@ -13,6 +13,10 @@ summary: spm.perfstatd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.perfstatd events are presented when the perfstat daemon (perfstatd) involuntarily terminates which may require restarting affected services or nodes.
+
+
 == spm.perfstatd.process.exit
 *Severity*::
 ALERT

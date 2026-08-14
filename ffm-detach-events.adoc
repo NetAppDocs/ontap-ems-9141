@@ -13,6 +13,10 @@ summary: ffm.detach events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ffm.detach events are presented when a volume becomes unavailable to protocol traffic during a graceful volume relocation, and no corrective action is typically required.
+
+
 == ffm.detach.outage.start
 *Severity*::
 NOTICE

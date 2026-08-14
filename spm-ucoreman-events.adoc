@@ -13,6 +13,10 @@ summary: spm.ucoreman events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.ucoreman events are presented when the Usercore Manager (ucoreman) daemon involuntarily terminates which may require contacting NetApp support.
+
+
 == spm.ucoreman.process.exit
 *Severity*::
 NOTICE

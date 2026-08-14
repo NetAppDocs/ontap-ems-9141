@@ -13,6 +13,10 @@ summary: flexcache.autogrow events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+flexcache.autogrow events are presented when automatically growing a FlexCache volume fails because the total cluster-wide FlexCache provisioned space has exceeded the licensed limit, and corrective action is to increase the licensed capacity, install a new license in the cluster.
+
+
 == flexcache.autogrow.fail
 *Severity*::
 ERROR

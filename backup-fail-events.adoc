@@ -13,6 +13,10 @@ summary: backup.fail events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+backup.fail events are presented when there are active dump or restore processes running on root aggregates of the partner node during a giveback operation, which may require a reboot.
+
+
 == backup.fail.giveback
 *Severity*::
 ERROR

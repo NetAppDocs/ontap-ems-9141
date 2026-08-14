@@ -13,6 +13,10 @@ summary: sp.autoupdate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sp.autoupdate events are presented when the Service Processor (SP) AutoUpdate option is enabled or disabled which typically does not require corrective action.
+
+
 == sp.autoupdate.toggle
 *Severity*::
 INFORMATIONAL

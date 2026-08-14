@@ -13,6 +13,10 @@ summary: sm.mediator events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sm.mediator events are presented when oNTAP(R) Mediator is added successfully on a cluster which typically does not require corrective action.
+
+
 == sm.mediator.added
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: mlm.prregistration events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mlm.prregistration events are presented when the registration of a SCSI persistent reservation key fails which is typically fixed by following the documented corrective steps.
+
+
 == mlm.PRregistration.failed
 *Severity*::
 ERROR

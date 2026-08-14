@@ -13,6 +13,10 @@ summary: disk.writeverifyerror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.writeverifyerror events are presented when a write verify error occurs which typically does not require corrective action.
+
+
 == disk.writeVerifyError
 *Severity*::
 ERROR

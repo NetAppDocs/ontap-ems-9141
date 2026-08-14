@@ -13,6 +13,10 @@ summary: crypto.key events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+crypto.key events are presented when a cryptographic key is deleted which typically does not require corrective action.
+
+
 == crypto.key.deleted
 *Severity*::
 NOTICE

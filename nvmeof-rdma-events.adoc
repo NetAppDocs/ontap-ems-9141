@@ -13,6 +13,10 @@ summary: nvmeof.rdma events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvmeof.rdma events are presented when the NVMe-oF driver detects an RDMA disconnect which typically does not require corrective action.
+
+
 == nvmeof.rdma.disconnect.event
 *Deprecated*::
 Deprecated as of version 9.13.1.

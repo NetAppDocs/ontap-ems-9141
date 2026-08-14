@@ -13,6 +13,10 @@ summary: volmigrate.migrating events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+volmigrate.migrating events are presented when a volume is being migrated from the filer by means of a SAN ownership change which typically does not require corrective action.
+
+
 == volmigrate.migrating
 *Severity*::
 INFORMATIONAL

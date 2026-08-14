@@ -13,6 +13,10 @@ summary: config.sameswitch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+config.sameswitch events are presented when both ports of a disk is found to be attached to the same switch which typically does not require corrective action.
+
+
 == config.SameSwitch
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: san.volrehostlunmapcreated events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+san.volrehostlunmapcreated events are presented when on clustered Data ONTAP(R) systems for Volume Rehost operation on successful creation of the LUN map the destination Vserver which typically does not require corrective action.
+
+
 == san.volRehostLunMapCreated
 *Severity*::
 INFORMATIONAL

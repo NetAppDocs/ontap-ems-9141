@@ -13,6 +13,10 @@ summary: vnvram.dma events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vnvram.dma events are presented when a vNVRAM flush operation on an ONTAP-v system is taking too much time which is typically fixed by verifying system state and connectivity.
+
+
 == vnvram.dma.long.wait
 *Severity*::
 ALERT

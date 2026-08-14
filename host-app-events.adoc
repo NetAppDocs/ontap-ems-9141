@@ -13,6 +13,10 @@ summary: host.app events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+host.app events are presented when a host encounters an error specific to an application component which may require contacting NetApp support.
+
+
 == host.app.component.error
 *Severity*::
 ERROR

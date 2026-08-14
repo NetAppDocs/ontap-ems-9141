@@ -13,6 +13,10 @@ summary: raid.carrier events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.carrier events are presented when the evacuation operation is complete on a disk in a multidisk carrier that contains at least one failed disk which typically does not require corrective action.
+
+
 == raid.carrier.diskEvacuated
 *Severity*::
 NOTICE

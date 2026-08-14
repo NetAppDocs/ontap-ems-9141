@@ -13,6 +13,10 @@ summary: sas.link events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sas.link events are presented when the SAS adapter was cannot recover the link and is going offline which is typically fixed by verifying system state and connectivity.
+
+
 == sas.link.error
 *Severity*::
 ERROR

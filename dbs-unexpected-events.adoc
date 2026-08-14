@@ -13,6 +13,10 @@ summary: dbs.unexpected events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.unexpected events are presented when a Distributed Block Store (DBS) exception occurs unexpectedly, such as the inability to analyze existing error information, and no corrective action is typically required.
+
+
 == dbs.unexpected.exception
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: fg.inodes events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fg.inodes events are presented when conditions that led to previous "fg.inodes.member.nearlyFull" and "fg.inodes.member.full" events no longer apply for any constituent in this FlexGroup which typically does not require corrective action.
+
+
 == fg.inodes.member.allOK
 *Severity*::
 NOTICE

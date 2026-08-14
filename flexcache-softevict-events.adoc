@@ -13,6 +13,10 @@ summary: flexcache.softevict events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+flexcache.softevict events are presented when soft evicting a cache volume fails which typically does not require corrective action.
+
+
 == flexcache.softEvict.failed
 *Severity*::
 ERROR

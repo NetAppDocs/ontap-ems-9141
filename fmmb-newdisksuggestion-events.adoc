@@ -13,6 +13,10 @@ summary: fmmb.newdisksuggestion events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fmmb.newdisksuggestion events are presented when rAID sends to the high-availability (HA) mailbox code a list of disks to use for HA mailbox disks which typically does not require corrective action.
+
+
 == fmmb.NewDiskSuggestion
 *Severity*::
 INFORMATIONAL

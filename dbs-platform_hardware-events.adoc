@@ -13,6 +13,10 @@ summary: dbs.platform_hardware events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.platform_hardware events are presented when a Distributed Block Store (DBS) platform hardware event occurs, such as a drive hardware fault, and no corrective action is typically required.
+
+
 == dbs.platform_hardware
 *Severity*::
 NOTICE

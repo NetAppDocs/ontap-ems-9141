@@ -13,6 +13,10 @@ summary: ktls.badauth events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ktls.badauth events are presented when the system receives a TLS message with bad 'authentication' data which is typically fixed by following the documented corrective steps.
+
+
 == ktls.badAuth
 *Severity*::
 NOTICE

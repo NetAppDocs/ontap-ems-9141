@@ -13,6 +13,10 @@ summary: mcc.drmsg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mcc.drmsg events are presented when a DR message is successfully received from a DR partner node which typically does not require corrective action.
+
+
 == mcc.drmsg.received
 *Severity*::
 INFORMATIONAL

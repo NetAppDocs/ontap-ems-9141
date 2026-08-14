@@ -13,6 +13,10 @@ summary: diskown.autoassign events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.autoassign events are presented when automatic assigning of a disk fails because the disks on the stack are owned by multiple systems which is typically fixed by verifying system state and connectivity.
+
+
 == diskown.AutoAssign.MultipleOwners
 *Severity*::
 ERROR

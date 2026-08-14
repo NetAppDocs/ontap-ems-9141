@@ -13,6 +13,10 @@ summary: secd.nis events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+secd.nis events are presented when the server could not establish a TCP connection to a Network Information Service (NIS) server which is typically fixed by following the documented corrective steps.
+
+
 == secd.nis.connectFailure
 *Deprecated*::
 Deprecated as of version 9.5 since this EMS is no longer needed.

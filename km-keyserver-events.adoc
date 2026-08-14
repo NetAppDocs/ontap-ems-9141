@@ -13,6 +13,10 @@ summary: km.keyserver events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+km.keyserver events are presented when a check by the key manager for connectivity with a configured key management server indicates that the key management server that was previously unavailable is now available which typically does not require corrective action.
+
+
 == km.keyserver.available
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: fc.bridge events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fc.bridge events are presented when an FC port goes offline which is typically fixed by verifying system state and connectivity.
+
+
 == fc.bridge.fc.port.alert
 *Severity*::
 ALERT
