@@ -14,7 +14,7 @@ summary: dbs.network events
 :imagesdir: ./media/
 
 [.lead]
-dbs.network events are presented when a distributed block store detects network configuration or connectivity errors on nodes in the cluster, and corrective action is to Check and rectify network configuration parameters for configuration faults.
+dbs.network EMS events occur when ONTAP encounters issues associated with Distributed Block Store (DBS) storage cluster networking, such as connectivity errors or MTU configuration.
 
 
 == dbs.network.error.fault

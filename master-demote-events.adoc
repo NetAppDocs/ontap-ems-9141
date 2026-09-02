@@ -14,7 +14,7 @@ summary: master.demote events
 :imagesdir: ./media/
 
 [.lead]
-master.demote events are presented when the associated node successfully updates the global database to demote current cluster master, and no corrective action is typically required.
+master.demote EMS events occur when a node successfully updates the global database to demote the current cluster master.
 
 
 == master.demote.cm.committed

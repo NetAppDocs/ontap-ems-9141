@@ -14,7 +14,7 @@ summary: dbs.node events
 :imagesdir: ./media/
 
 [.lead]
-dbs.node events are presented when Distributed Block Store (DBS) detects a node with a maintenance mode failure, and corrective action is to Contact NetApp technical support.
+dbs.node EMS events occur when ONTAP encounters issues associated with Distributed Block Store (DBS) node availability, such as maintenance mode or communication failure with the Cluster Master.
 
 
 == dbs.node.maint.mode.alert

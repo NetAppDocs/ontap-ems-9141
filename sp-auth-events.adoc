@@ -14,7 +14,7 @@ summary: sp.auth events
 :imagesdir: ./media/
 
 [.lead]
-sp.auth events are presented when a login is attempted on the node's Service Processor (SP) or baseboard management controller (BMC) and the login is denied, and no corrective action is typically required.
+sp.auth EMS events occur when a login attempt on a node's Service Processor (SP) or baseboard management controller (BMC) is denied.
 
 
 == sp.auth.loginDenied

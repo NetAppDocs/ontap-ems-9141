@@ -14,7 +14,7 @@ summary: xyz.trans events
 :imagesdir: ./media/
 
 [.lead]
-xyz.trans events are presented when Copy-Free Transition's volume transition job, responsible for transitioning 7-Mode volumes to clustered Data ONTAP(R), starts, and no corrective action is typically required.
+xyz.trans EMS events occur when Copy-Free Transition's volume transition job, responsible for transitioning 7-Mode volumes to clustered Data ONTAP, starts.
 
 
 == xyz.trans.vol.start

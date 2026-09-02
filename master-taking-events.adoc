@@ -14,7 +14,7 @@ summary: master.taking events
 :imagesdir: ./media/
 
 [.lead]
-master.taking events are presented when the node is promoted to the cluster master and takes control as the master, and no corrective action is typically required.
+master.taking EMS events occur when a node is promoted to the cluster master.
 
 
 == master.taking.over.cm

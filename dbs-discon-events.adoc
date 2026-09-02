@@ -14,7 +14,7 @@ summary: dbs.discon events
 :imagesdir: ./media/
 
 [.lead]
-dbs.discon events are presented when the Distributed Block Store (DBS) is unable to access snapmirror endpoint on the network, and corrective action is to Check network connectivity between the cluster and the remote snapmirror endpoint.
+dbs.discon EMS events occur when the Distributed Block Store (DBS) is unable to access a snapmirror endpoint on the network.
 
 
 == dbs.discon.snapmirror.end

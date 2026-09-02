@@ -14,7 +14,7 @@ summary: dbs.mem events
 :imagesdir: ./media/
 
 [.lead]
-dbs.mem events are presented when Distributed Block Store (DBS) detects a node's container has very low memory, and corrective action is to Purge unused volumes and allow up to an hour for garbage collection between the Block and Slice services to run.
+dbs.mem EMS events occur when ONTAP encounters issues associated with low memory in a Distributed Block Store (DBS) node's container.
 
 
 == dbs.mem.threshold.alert

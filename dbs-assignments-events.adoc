@@ -14,7 +14,7 @@ summary: dbs.assignments events
 :imagesdir: ./media/
 
 [.lead]
-dbs.assignments events are presented when a Distributed Block Store (DBS) assignments event is reported, which occurs when the distribution of block data within the cluster changes, and no corrective action is typically required.
+dbs.assignments EMS events occur when the distribution of block data within the cluster changes.
 
 
 == dbs.assignments

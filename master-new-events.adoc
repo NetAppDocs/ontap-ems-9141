@@ -14,7 +14,7 @@ summary: master.new events
 :imagesdir: ./media/
 
 [.lead]
-master.new events are presented when the connection state from the associated node to current cluster master has changed, and no corrective action is typically required.
+master.new EMS events occur when the connection state from a node to the current cluster master changes.
 
 
 == master.new.connection.state

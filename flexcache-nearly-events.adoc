@@ -14,7 +14,7 @@ summary: flexcache.nearly events
 :imagesdir: ./media/
 
 [.lead]
-flexcache.nearly events are presented when the total cluster-wide FlexCache provisioned space has nearly reached the licensed limit, and corrective action is to increase the licensed capacity, install a new license in the cluster.
+flexcache.nearly EMS events occur when the total cluster-wide FlexCache provisioned space has nearly reached the licensed limit.
 
 
 == flexcache.nearly.full

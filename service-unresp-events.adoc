@@ -14,7 +14,7 @@ summary: service.unresp events
 :imagesdir: ./media/
 
 [.lead]
-service.unresp events are presented when a service (Firefly, Slice Service, etc.) is detected as unresponsive and this state is committed into the Zookeeper database, and no corrective action is typically required.
+service.unresp EMS events occur when a service is detected as unresponsive and this state is committed to the Zookeeper database.
 
 
 == service.unresp.committed

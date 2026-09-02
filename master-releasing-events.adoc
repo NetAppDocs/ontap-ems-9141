@@ -14,7 +14,7 @@ summary: master.releasing events
 :imagesdir: ./media/
 
 [.lead]
-master.releasing events are presented when the node is demoted from being the cluster master, and no corrective action is typically required.
+master.releasing EMS events occur when a node is demoted from being the cluster master.
 
 
 == master.releasing.cm

@@ -14,7 +14,7 @@ summary: dbs.disconn events
 :imagesdir: ./media/
 
 [.lead]
-dbs.disconn events are presented when the distributed block store detects that a cluster pair is disconnected or configured incorrectly, and corrective action is to Check network connectivity between clusters.
+dbs.disconn EMS events occur when ONTAP encounters issues associated with Distributed Block Store (DBS) cluster connectivity, such as a disconnected cluster pair or an unreachable remote node.
 
 
 == dbs.disconn.cluster.pair

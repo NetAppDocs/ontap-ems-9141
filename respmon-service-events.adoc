@@ -14,7 +14,7 @@ summary: respmon.service events
 :imagesdir: ./media/
 
 [.lead]
-respmon.service events are presented when a service being monitored is responding to requests, and no corrective action is typically required.
+respmon.service EMS events occur when ONTAP encounters issues associated with the responsiveness of a monitored service.
 
 
 == respMon.service.responsive

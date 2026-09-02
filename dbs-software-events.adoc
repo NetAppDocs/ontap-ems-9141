@@ -14,7 +14,7 @@ summary: dbs.software events
 :imagesdir: ./media/
 
 [.lead]
-dbs.software events are presented when Distributed Block Store (DBS) detects a software version mismatch in the cluster, and corrective action is to Bring the node out of maintenance mode.
+dbs.software EMS events occur when the Distributed Block Store (DBS) detects a software version mismatch in the cluster.
 
 
 == dbs.software.version.mismatch

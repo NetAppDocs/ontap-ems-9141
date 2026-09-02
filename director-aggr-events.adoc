@@ -14,7 +14,7 @@ summary: director.aggr events
 :imagesdir: ./media/
 
 [.lead]
-director.aggr events are presented when an aggregate is being reassigned from one node to another node, and no corrective action is typically required.
+director.aggr EMS events occur when an aggregate is being reassigned from one node to another node.
 
 
 == director.aggr.reassigned
