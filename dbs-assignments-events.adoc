@@ -13,6 +13,10 @@ summary: dbs.assignments events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.assignments EMS events occur when the distribution of block data within the cluster changes.
+
+
 == dbs.assignments
 *Severity*::
 NOTICE

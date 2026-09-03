@@ -13,6 +13,10 @@ summary: daregister.periph events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+daregister.periph EMS events occur when a peripheral device is lost during registration.
+
+
 == daregister.periph.lost
 *Severity*::
 ERROR

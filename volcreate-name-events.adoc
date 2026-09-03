@@ -13,6 +13,10 @@ summary: volcreate.name events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+volcreate.name EMS events occur when flexible volumes were created with names which conflict with existing volume names.
+
+
 == volcreate.name.dup
 *Severity*::
 ERROR

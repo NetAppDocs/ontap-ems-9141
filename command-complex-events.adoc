@@ -13,6 +13,10 @@ summary: command.complex events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+command.complex EMS events occur when a custom role associated with a Storage Virtual Machine has a command directory with complex query.
+
+
 == command.complex.query
 *Severity*::
 ERROR

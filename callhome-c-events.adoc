@@ -13,6 +13,10 @@ summary: callhome.c events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.c EMS events occur when ONTAP encounters issues associated with chassis fan failures or degraded operation.
+
+
 == callhome.c.fan
 *Severity*::
 ERROR

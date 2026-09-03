@@ -13,6 +13,10 @@ summary: nblade.cifslongrunpattmatch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.cifslongrunpattmatch EMS events occur when a CIFS query directory command that includes wildcard characters exceeds the reporting time threshold for completion.
+
+
 == Nblade.CifsLongRunPattMatch
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: dbs.ensemble events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.ensemble EMS events occur when ONTAP encounters issues associated with Distributed Block Store (DBS) database ensemble connectivity.
+
+
 == dbs.ensemble
 *Severity*::
 NOTICE

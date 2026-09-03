@@ -13,6 +13,10 @@ summary: sis.default events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sis.default EMS events occur when ONTAP encounters issues associated with automatic storage efficiency configuration.
+
+
 == sis.default.auto.se.enable
 *Severity*::
 NOTICE

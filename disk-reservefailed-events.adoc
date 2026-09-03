@@ -13,6 +13,10 @@ summary: disk.reservefailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.reservefailed EMS events occur when a SCSI reservation fails.
+
+
 == disk.reserveFailed
 *Severity*::
 ERROR

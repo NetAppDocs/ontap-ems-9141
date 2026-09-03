@@ -13,6 +13,10 @@ summary: vldb.update events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vldb.update EMS events occur when the aggregate ownership update fails during switchover.
+
+
 == vldb.update.duringsofail
 *Severity*::
 EMERGENCY

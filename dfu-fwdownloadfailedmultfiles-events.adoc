@@ -13,6 +13,10 @@ summary: dfu.fwdownloadfailedmultfiles events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dfu.fwdownloadfailedmultfiles EMS events occur when more than one file is found for downloading to an ATA drive.
+
+
 == dfu.fwDownloadFailedMultFiles
 *Severity*::
 ERROR

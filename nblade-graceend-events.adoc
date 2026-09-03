@@ -13,6 +13,10 @@ summary: nblade.graceend events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.graceend EMS events occur when the NFS server exits the grace state.
+
+
 == Nblade.graceEnd
 *Severity*::
 NOTICE

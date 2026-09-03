@@ -13,6 +13,10 @@ summary: sas.initialization events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sas.initialization EMS events occur when the SAS adapter failed to initialize the link and appears to be unattached/disconnected.
+
+
 == sas.initialization.failed
 *Severity*::
 ERROR

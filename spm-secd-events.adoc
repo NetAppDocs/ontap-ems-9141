@@ -13,6 +13,10 @@ summary: spm.secd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.secd EMS events occur when the Security daemon (secd) involuntarily terminates.
+
+
 == spm.secd.process.exit
 *Severity*::
 EMERGENCY

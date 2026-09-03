@@ -13,6 +13,10 @@ summary: cifs.replay events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cifs.replay EMS events occur when configuration is not synchronized.
+
+
 == cifs.replay.failure
 *Severity*::
 ALERT

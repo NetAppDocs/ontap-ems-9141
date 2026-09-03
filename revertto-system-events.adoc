@@ -13,6 +13,10 @@ summary: revertto.system events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+revertto.system EMS events occur when the system is rebooting to complete the revert process.
+
+
 == revertTo.system.reboot
 *Severity*::
 NOTICE

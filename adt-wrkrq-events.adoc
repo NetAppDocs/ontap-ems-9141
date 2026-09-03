@@ -13,6 +13,10 @@ summary: adt.wrkrq events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+adt.wrkrq EMS events occur when an internal audit worker queue fails to initialize.
+
+
 == adt.wrkrq.init.fail
 *Severity*::
 ALERT

@@ -13,6 +13,10 @@ summary: secd.dns events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+secd.dns EMS events occur when ONTAP encounters issues associated with DNS server communications.
+
+
 == secd.dns.server.timed.out
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: san.lifrepfieldsmissing events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+san.lifrepfieldsmissing EMS events occur when the system cannot replicate a SAN logical interface (LIF) in a MetroCluster(tm) configuration, because one or more attributes of the source LIF cannot be determined.
+
+
 == san.LifRepFieldsMissing
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: sp.servprocd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sp.servprocd EMS events occur in the following cases: 1.
+
+
 == sp.servprocd.upd.error
 *Severity*::
 ERROR

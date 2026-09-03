@@ -13,6 +13,10 @@ summary: callhome.corefile events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.corefile EMS events occur when you invoke an AutoSupport for corefile upload.
+
+
 == callhome.corefile.upload
 *Severity*::
 NOTICE

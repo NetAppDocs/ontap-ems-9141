@@ -13,6 +13,10 @@ summary: master.try events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+master.try EMS events occur when a node cannot connect to the current cluster master and tries to demote it by updating the global database.
+
+
 == master.try.demote.cm
 *Severity*::
 NOTICE

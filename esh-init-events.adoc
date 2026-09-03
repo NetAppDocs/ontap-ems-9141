@@ -13,6 +13,10 @@ summary: esh.init events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+esh.init EMS events occur when the system cannot allocate memory for a required service.
+
+
 == esh.init.error
 *Severity*::
 ERROR

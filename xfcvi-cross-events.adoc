@@ -13,6 +13,10 @@ summary: xfcvi.cross events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+xfcvi.cross EMS events occur when the xfcvi driver detects a cross connection.
+
+
 == xfcvi.cross.connect.detected
 *Severity*::
 ERROR

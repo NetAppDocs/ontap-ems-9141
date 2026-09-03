@@ -13,6 +13,10 @@ summary: lmgr.mcc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lmgr.mcc EMS events occur when the system vetoes MetroCluster(TM) switchback or negotiated switchover because CIFS oplock recall fails.
+
+
 == lmgr.mcc.oplock.recall.fail
 *Severity*::
 ERROR

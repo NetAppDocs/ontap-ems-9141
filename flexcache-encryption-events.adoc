@@ -13,6 +13,10 @@ summary: flexcache.encryption events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+flexcache.encryption EMS events occur when a plaintext FlexCache volume has been created for an encrypted origin volume.
+
+
 == flexcache.encryption.mismatch.with.origin
 *Severity*::
 ALERT

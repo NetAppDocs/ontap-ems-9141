@@ -13,6 +13,10 @@ summary: dbs.stat events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.stat EMS events occur when a Distributed Block Store (DBS) statistics event occurs, such as inconsistent statistics.
+
+
 == dbs.stat
 *Severity*::
 NOTICE

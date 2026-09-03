@@ -13,6 +13,10 @@ summary: cmd.sasadmin events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cmd.sasadmin EMS events occur when an adapter firmware update failure occurs.
+
+
 == cmd.sasadmin.fw_update.fail
 *Severity*::
 ERROR

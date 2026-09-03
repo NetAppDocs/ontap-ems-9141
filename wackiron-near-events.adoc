@@ -13,6 +13,10 @@ summary: wackiron.near events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wackiron.near EMS events occur when ONTAP encounters issues associated with wafliron operation time limits approaching their maximum threshold.
+
+
 == wackiron.near.hour.limit
 *Severity*::
 ERROR

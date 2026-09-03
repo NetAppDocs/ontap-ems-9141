@@ -13,6 +13,10 @@ summary: sms.failed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sms.failed EMS events occur when a SnapMirror(R) Sync relationship cannot be established due to precheck failures.
+
+
 == sms.failed.precheck
 *Severity*::
 ERROR

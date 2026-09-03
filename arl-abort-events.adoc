@@ -13,6 +13,10 @@ summary: arl.abort events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+arl.abort EMS events occur when a relocation of an aggregate is canceled due to activity in RAID.
+
+
 == arl.abort.raid
 *Severity*::
 ERROR

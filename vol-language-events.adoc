@@ -13,6 +13,10 @@ summary: vol.language events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vol.language EMS events occur when ONTAP encounters issues associated with the language configuration of aggregates or volumes.
+
+
 == vol.language.changed
 *Severity*::
 INFORMATIONAL

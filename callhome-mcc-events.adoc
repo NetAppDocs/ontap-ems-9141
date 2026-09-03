@@ -13,6 +13,10 @@ summary: callhome.mcc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.mcc EMS events occur when ONTAP encounters issues associated with MetroCluster(tm) operations.
+
+
 == callhome.mcc.auso.2min
 *Severity*::
 ALERT

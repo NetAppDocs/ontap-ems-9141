@@ -13,6 +13,10 @@ summary: mc.channel events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mc.channel EMS events occur on failure in new channel creation in Mirror Cache.
+
+
 == mc.channel.create.failed
 *Severity*::
 NOTICE

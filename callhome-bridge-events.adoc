@@ -13,6 +13,10 @@ summary: callhome.bridge events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.bridge EMS events occur when a bridge reboots unexpectedly.
+
+
 == callhome.bridge.reboot.unexp
 *Severity*::
 ALERT

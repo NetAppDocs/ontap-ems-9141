@@ -13,6 +13,10 @@ summary: encryption.queue events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+encryption.queue EMS events occur when an operation on the volume in the encryption queue failed.
+
+
 == encryption.queue.op.failed
 *Severity*::
 ERROR

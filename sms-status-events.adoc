@@ -13,6 +13,10 @@ summary: sms.status events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sms.status EMS events occur when ONTAP encounters issues associated with SnapMirror(R) Sync relationship status.
+
+
 == sms.status.in.sync
 *Severity*::
 NOTICE

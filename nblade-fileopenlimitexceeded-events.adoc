@@ -13,6 +13,10 @@ summary: nblade.fileopenlimitexceeded events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.fileopenlimitexceeded EMS events occur when the number of open files on a single SMB connection or session exceeds the system limit.
+
+
 == Nblade.fileOpenLimitExceeded
 *Severity*::
 NOTICE

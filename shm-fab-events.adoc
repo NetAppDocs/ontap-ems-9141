@@ -13,6 +13,10 @@ summary: shm.fab events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+shm.fab EMS events occur when ONTAP encounters issues associated with disk failure byte operations.
+
+
 == shm.fab.writeError
 *Severity*::
 NOTICE

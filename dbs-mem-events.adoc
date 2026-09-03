@@ -13,6 +13,10 @@ summary: dbs.mem events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.mem EMS events occur when ONTAP encounters issues associated with low memory in a Distributed Block Store (DBS) node's container.
+
+
 == dbs.mem.threshold.alert
 *Severity*::
 ALERT

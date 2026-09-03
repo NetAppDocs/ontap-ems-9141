@@ -13,6 +13,10 @@ summary: monitor.raid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.raid EMS events occur when ONTAP encounters issues associated with RAID disk failures and reconstruction.
+
+
 == monitor.raid.brokenDisk
 *Severity*::
 ERROR

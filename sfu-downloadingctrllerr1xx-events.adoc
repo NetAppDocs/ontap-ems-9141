@@ -13,6 +13,10 @@ summary: sfu.downloadingctrllerr1xx events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sfu.downloadingctrllerr1xx EMS events occur when a disk shelf firmware download starts on a particular disk shelf.
+
+
 == sfu.downloadingCtrllerR1XX
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: nblade.newclientidmismatch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.newclientidmismatch EMS events occur when a namestring collision occurs between NFS clients.
+
+
 == Nblade.NewClientIdMismatch
 *Severity*::
 ALERT

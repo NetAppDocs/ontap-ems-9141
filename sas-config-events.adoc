@@ -13,6 +13,10 @@ summary: sas.config events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sas.config EMS events occur when ONTAP encounters issues associated with SAS domain configuration.
+
+
 == sas.config.bad
 *Severity*::
 ERROR

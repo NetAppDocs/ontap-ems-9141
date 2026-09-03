@@ -13,6 +13,10 @@ summary: dbs.maintenance events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.maintenance EMS events occur when a Distributed Block Store (DBS) maintenance mode event occurs, such as a node no longer existing.
+
+
 == dbs.maintenance.mode
 *Severity*::
 NOTICE

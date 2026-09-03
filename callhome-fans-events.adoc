@@ -13,6 +13,10 @@ summary: callhome.fans events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.fans EMS events occur when multiple fans inside the appliance case fail.
+
+
 == callhome.fans.failed
 *Severity*::
 EMERGENCY

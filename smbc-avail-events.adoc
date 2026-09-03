@@ -13,6 +13,10 @@ summary: smbc.avail events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+smbc.avail EMS events occur when ONTAP encounters issues associated with SnapMirror(R) active sync availability and mediator connectivity.
+
+
 == smbc.avail.aufoDisabled
 *Severity*::
 ERROR

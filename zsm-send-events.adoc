@@ -13,6 +13,10 @@ summary: zsm.send events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+zsm.send EMS events occur when a socket timeout occurs on an intracluster Manage ONTAP(R) API request to an internal ONTAPI(R) server.
+
+
 == zsm.send.request.timeout
 *Severity*::
 ERROR

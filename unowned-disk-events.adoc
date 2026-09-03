@@ -13,6 +13,10 @@ summary: unowned.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+unowned.disk EMS events occur when the system has unowned/unassigned disks.
+
+
 == unowned.disk.reminder
 *Severity*::
 INFORMATIONAL

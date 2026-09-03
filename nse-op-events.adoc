@@ -13,6 +13,10 @@ summary: nse.op events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nse.op EMS events occur when ONTAP(R) does not succeed in performing an operation on a NetApp(R) Storage Encryption (NSE) self-encrypting drive (SED).
+
+
 == nse.op.failed
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: nameserv.config events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nameserv.config EMS events occur when a file write for name service configuration fails.
+
+
 == nameserv.config.write.failed
 *Severity*::
 ERROR

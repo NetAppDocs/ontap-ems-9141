@@ -13,6 +13,10 @@ summary: raid.debug events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.debug EMS events occur when the SCSI debug event.
+
+
 == raid.debug
 *Severity*::
 INFORMATIONAL

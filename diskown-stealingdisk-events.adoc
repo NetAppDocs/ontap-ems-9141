@@ -13,6 +13,10 @@ summary: diskown.stealingdisk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.stealingdisk EMS events occur when a user reassigns a disk that is owned and has a reservation from another system.
+
+
 == diskown.StealingDisk
 *Severity*::
 NOTICE

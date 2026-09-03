@@ -13,6 +13,10 @@ summary: discover.6500 events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+discover.6500 EMS events occur when ONTAP encounters issues associated with the discovery of a 6500N FC-to-SAS bridge.
+
+
 == discover.6500.supported
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: sm.log events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sm.log EMS events occur when writing SnapMirror(R) data to a log file fails.
+
+
 == sm.log.write.fail
 *Severity*::
 ERROR

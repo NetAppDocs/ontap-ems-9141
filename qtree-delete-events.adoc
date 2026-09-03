@@ -13,6 +13,10 @@ summary: qtree.delete events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+qtree.delete EMS events occur when ONTAP encounters issues associated with qtree deletion operations.
+
+
 == qtree.delete.failed
 *Severity*::
 ERROR

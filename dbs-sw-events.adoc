@@ -13,6 +13,10 @@ summary: dbs.sw events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.sw EMS events occur when a Distributed Block Store (DBS) event related to Software Encryption At Rest occurs, such as a master key rekey completing or failing.
+
+
 == dbs.sw.encr.at.rest
 *Severity*::
 NOTICE

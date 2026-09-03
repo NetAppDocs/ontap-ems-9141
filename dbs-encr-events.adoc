@@ -13,6 +13,10 @@ summary: dbs.encr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.encr EMS events occur when the Distributed Block Store (DBS) enables or disables encryption at rest on a self-encrypting drive.
+
+
 == dbs.encr.at.rest
 *Severity*::
 NOTICE

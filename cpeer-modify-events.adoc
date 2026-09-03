@@ -13,6 +13,10 @@ summary: cpeer.modify events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cpeer.modify EMS events occur when the address family for a peering relationship is modified.
+
+
 == cpeer.modify.address.family
 *Severity*::
 NOTICE

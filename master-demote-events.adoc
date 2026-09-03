@@ -13,6 +13,10 @@ summary: master.demote events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+master.demote EMS events occur when a node successfully updates the global database to demote the current cluster master.
+
+
 == master.demote.cm.committed
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: spm.shmd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.shmd EMS events occur when the System Health Monitor process (shmd) involuntarily terminates.
+
+
 == spm.shmd.process.exit
 *Severity*::
 ALERT

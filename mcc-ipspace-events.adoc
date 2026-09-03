@@ -13,6 +13,10 @@ summary: mcc.ipspace events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mcc.ipspace EMS events occur when the IPspace is not found in a MetroCluster(tm) configuration while replicating the object store configuration.
+
+
 == mcc.ipspace.not.found
 *Severity*::
 ERROR

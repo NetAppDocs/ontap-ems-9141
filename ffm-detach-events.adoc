@@ -13,6 +13,10 @@ summary: ffm.detach events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ffm.detach EMS events occur when ONTAP encounters issues associated with the detach phase of volume relocation.
+
+
 == ffm.detach.outage.start
 *Severity*::
 NOTICE

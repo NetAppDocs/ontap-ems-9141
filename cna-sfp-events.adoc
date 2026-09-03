@@ -13,6 +13,10 @@ summary: cna.sfp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cna.sfp EMS events occur when the converged network adapter (CNA) detects an unsupported small form-factor Pluggable (SFP) in the adapter.
+
+
 == cna.sfp.notSupported
 *Severity*::
 ERROR

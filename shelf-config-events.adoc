@@ -13,6 +13,10 @@ summary: shelf.config events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+shelf.config EMS events occur when ONTAP encounters issues associated with storage shelf configuration.
+
+
 == shelf.config.mixed
 *Severity*::
 NOTICE

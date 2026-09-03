@@ -13,6 +13,10 @@ summary: sk.panic events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sk.panic EMS events occur when a panic occurs.
+
+
 == sk.panic
 *Severity*::
 ALERT

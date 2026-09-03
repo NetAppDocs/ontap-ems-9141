@@ -13,6 +13,10 @@ summary: vserver.stop events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vserver.stop EMS events occur when ONTAP encounters issues associated with Vserver stop operations.
+
+
 == vserver.stop.failed
 *Severity*::
 ERROR

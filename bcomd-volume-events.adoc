@@ -13,6 +13,10 @@ summary: bcomd.volume events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+bcomd.volume EMS events occur when the SAN Kernel Agent is unable to process a volume LUN inventory update resulting from a Snapshot(R) copy restore operation.
+
+
 == bcomd.volume.update.lost
 *Severity*::
 ERROR

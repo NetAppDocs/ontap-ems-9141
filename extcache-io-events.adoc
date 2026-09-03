@@ -13,6 +13,10 @@ summary: extcache.io events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+extcache.io EMS events occur when ONTAP encounters issues associated with external cache I/O operations.
+
+
 == extCache.io.BlockChecksumError
 *Severity*::
 ERROR

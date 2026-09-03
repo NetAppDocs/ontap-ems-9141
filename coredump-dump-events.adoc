@@ -13,6 +13,10 @@ summary: coredump.dump events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+coredump.dump EMS events occur when ONTAP encounters issues associated with coredump operations.
+
+
 == coredump.dump.abort
 *Severity*::
 ERROR

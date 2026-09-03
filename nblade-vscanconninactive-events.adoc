@@ -13,6 +13,10 @@ summary: nblade.vscanconninactive events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.vscanconninactive EMS events occur when ONTAP(R) detects a nonresponsive antivirus (AV) server and forcibly closes its vscan connection.
+
+
 == Nblade.vscanConnInactive
 *Severity*::
 NOTICE

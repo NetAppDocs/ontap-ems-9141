@@ -13,6 +13,10 @@ summary: scsiblade.disabled events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsiblade.disabled EMS events occur when the local node is made ineligible.
+
+
 == scsiblade.disabled
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: tar.extract events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+tar.extract EMS events occur when ONTAP encounters issues associated with TAR archive extraction operations.
+
+
 == tar.extract.failure
 *Severity*::
 ERROR

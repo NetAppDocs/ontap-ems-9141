@@ -13,6 +13,10 @@ summary: vifmgr.bgp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.bgp EMS events occur when ONTAP encounters issues associated with Border Gateway Protocol (BGP) operations.
+
+
 == vifmgr.bgp.connected
 *Severity*::
 NOTICE

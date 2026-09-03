@@ -13,6 +13,10 @@ summary: enc.operation events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+enc.operation EMS events occur when ONTAP encounters issues associated with volume encryption operations.
+
+
 == enc.operation.aborted
 *Severity*::
 ERROR

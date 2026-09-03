@@ -13,6 +13,10 @@ summary: diskown.rescanwait events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.rescanwait EMS events occur when the disk ownership rescan code waits.
+
+
 == diskown.rescanWait
 *Severity*::
 INFORMATIONAL

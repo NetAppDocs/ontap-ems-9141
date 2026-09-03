@@ -13,6 +13,10 @@ summary: moveagent.dst events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+moveagent.dst EMS events occur when the move agent detects that the attributes of the destination volume are partially updated during the commit destination phase.
+
+
 == moveagent.dst.partial.commit
 *Severity*::
 ALERT

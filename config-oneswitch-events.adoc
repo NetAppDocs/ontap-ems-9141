@@ -13,6 +13,10 @@ summary: config.oneswitch events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+config.oneswitch EMS events occur when the disk is only connected to one switch.
+
+
 == config.OneSwitch
 *Severity*::
 ALERT

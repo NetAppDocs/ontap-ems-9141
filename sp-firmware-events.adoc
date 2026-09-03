@@ -13,6 +13,10 @@ summary: sp.firmware events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sp.firmware EMS events occur when ONTAP encounters issues associated with Service Processor (SP) or Baseboard Management Controller (BMC) firmware.
+
+
 == sp.firmware.corruption
 *Severity*::
 ALERT

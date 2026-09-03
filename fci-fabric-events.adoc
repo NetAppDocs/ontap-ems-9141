@@ -13,6 +13,10 @@ summary: fci.fabric events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fci.fabric EMS events occur when ONTAP encounters issues associated with Fibre Channel fabric configuration limits.
+
+
 == fci.fabric.max.ports
 *Severity*::
 ERROR

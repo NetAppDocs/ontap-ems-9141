@@ -13,6 +13,10 @@ summary: service.unresp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+service.unresp EMS events occur when a service is detected as unresponsive and this state is committed to the Zookeeper database.
+
+
 == service.unresp.committed
 *Severity*::
 NOTICE

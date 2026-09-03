@@ -13,6 +13,10 @@ summary: vifmgr.dbase events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.dbase EMS events occur when the logical interface manager (VIFMgr) experiences an error while verifying cluster database consistency.
+
+
 == vifmgr.dbase.checkerror
 *Severity*::
 ALERT

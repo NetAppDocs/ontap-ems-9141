@@ -13,6 +13,10 @@ summary: vm.host events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vm.host EMS events occur when a VM is paused by the hypervisor.
+
+
 == vm.host.error
 *Severity*::
 EMERGENCY

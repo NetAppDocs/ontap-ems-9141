@@ -13,6 +13,10 @@ summary: mlm.scsi events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mlm.scsi EMS events occur when ONTAP encounters issues associated with SCSI INQUIRY data support levels.
+
+
 == mlm.SCSI.supportLvl.bad
 *Severity*::
 ALERT

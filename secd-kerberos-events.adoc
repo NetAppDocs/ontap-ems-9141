@@ -13,6 +13,10 @@ summary: secd.kerberos events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+secd.kerberos EMS events occur when ONTAP encounters issues associated with Kerberos authentication.
+
+
 == secd.kerberos.clockskew
 *Severity*::
 ERROR

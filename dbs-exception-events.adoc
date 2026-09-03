@@ -13,6 +13,10 @@ summary: dbs.exception events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.exception EMS events occur when the Distributed Block Store (DBS) is unable to process a cluster fault.
+
+
 == dbs.exception
 *Severity*::
 ERROR

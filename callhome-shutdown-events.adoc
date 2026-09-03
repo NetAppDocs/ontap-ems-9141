@@ -13,6 +13,10 @@ summary: callhome.shutdown events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.shutdown EMS events occur when a disk drive fails but there are no suitable spares available for reconstruction.
+
+
 == callhome.shutdown.pending
 *Severity*::
 ALERT

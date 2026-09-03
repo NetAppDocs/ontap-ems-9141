@@ -13,6 +13,10 @@ summary: dbs.upgrade events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.upgrade EMS events occur when the Distributed Block Store (DBS) detects that a software upgrade has been in progress for longer than 24 hours.
+
+
 == dbs.upgrade
 *Severity*::
 ERROR

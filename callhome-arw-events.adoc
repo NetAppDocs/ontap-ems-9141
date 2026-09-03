@@ -13,6 +13,10 @@ summary: callhome.arw events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.arw EMS events occur when ransomware activity is detected.
+
+
 == callhome.arw.activity.seen
 *Severity*::
 ALERT

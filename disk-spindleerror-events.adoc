@@ -13,6 +13,10 @@ summary: disk.spindleerror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.spindleerror EMS events occur when ONTAP encounters issues associated with disk spindle motor problems.
+
+
 == disk.spindleError.detect
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: vol.max events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vol.max EMS events occur as a reminder that the maximum volume size limit is increased from the default value defined in the Platform Specific Module (PSM) table.
+
+
 == vol.max.size.increased
 *Severity*::
 INFORMATIONAL

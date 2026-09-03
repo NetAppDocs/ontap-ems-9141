@@ -13,6 +13,10 @@ summary: ffrespmon.aggr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ffrespmon.aggr EMS events occur when an aggregate is detected to be offline due to an unresponsive Firefly Service on a node.
+
+
 == ffRespMon.aggr.offline
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: tcpip.duplicate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+tcpip.duplicate EMS events occur when the local node detects that it and some other device are using the same IP address.
+
+
 == tcpip.duplicate.ip
 *Severity*::
 ERROR

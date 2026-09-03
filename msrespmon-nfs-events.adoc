@@ -13,6 +13,10 @@ summary: msrespmon.nfs events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+msrespmon.nfs EMS events occur when a data IP address is detected to be unresponsive.
+
+
 == msRespMon.nfs.unresponsive
 *Severity*::
 NOTICE

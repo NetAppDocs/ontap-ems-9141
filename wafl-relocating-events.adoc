@@ -13,6 +13,10 @@ summary: wafl.relocating events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.relocating EMS events occur when ONTAP encounters issues associated with aggregate relocation operation restrictions.
+
+
 == wafl.relocating.fence.fail
 *Severity*::
 ERROR

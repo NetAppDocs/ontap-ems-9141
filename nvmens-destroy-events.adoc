@@ -13,6 +13,10 @@ summary: nvmens.destroy events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvmens.destroy EMS events occur when an NVMe namespace has been destroyed.
+
+
 == NVMeNS.destroy
 *Severity*::
 NOTICE

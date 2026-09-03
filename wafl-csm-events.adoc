@@ -13,6 +13,10 @@ summary: wafl.csm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.csm EMS events occur when the Cluster Session Manager (CSM) session is stopped as part of the shutdown process.
+
+
 == wafl.csm.sessionStopped
 *Severity*::
 INFORMATIONAL

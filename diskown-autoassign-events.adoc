@@ -13,6 +13,10 @@ summary: diskown.autoassign events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.autoassign EMS events occur when ONTAP encounters issues associated with automatic disk assignment.
+
+
 == diskown.AutoAssign.MultipleOwners
 *Severity*::
 ERROR

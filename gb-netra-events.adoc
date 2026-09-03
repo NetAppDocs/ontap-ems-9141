@@ -13,6 +13,10 @@ summary: gb.netra events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+gb.netra EMS events occur when ONTAP encounters issues associated with storage failover (SFO) giveback object store connectivity.
+
+
 == gb.netra.ca.check.failed
 *Severity*::
 ERROR

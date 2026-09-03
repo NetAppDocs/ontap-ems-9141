@@ -13,6 +13,10 @@ summary: dbs.generic events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.generic EMS events occur when ONTAP encounters issues associated with Distributed Block Store (DBS) cluster faults or events that are reported generically.
+
+
 == dbs.generic.cluster.fault
 *Severity*::
 NOTICE

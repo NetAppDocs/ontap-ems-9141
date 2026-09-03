@@ -13,6 +13,10 @@ summary: socket.sndbuflimit events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+socket.sndbuflimit EMS events occur when an overflow is detected in the TCP socket send buffer.
+
+
 == socket.sndbuflimit.exceeded
 *Severity*::
 ERROR

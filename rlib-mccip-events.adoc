@@ -13,6 +13,10 @@ summary: rlib.mccip events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+rlib.mccip EMS events occur when ONTAP encounters issues associated with MetroCluster IP configuration.
+
+
 == rlib.mccip.config.failure
 *Severity*::
 ERROR

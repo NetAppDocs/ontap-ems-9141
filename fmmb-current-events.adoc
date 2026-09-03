@@ -13,6 +13,10 @@ summary: fmmb.current events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fmmb.current EMS events occur when HA mailbox disks are discovered or allocated.
+
+
 == fmmb.current.lock.disk
 *Severity*::
 INFORMATIONAL

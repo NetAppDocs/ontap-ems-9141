@@ -13,6 +13,10 @@ summary: reg.transaction events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+reg.transaction EMS events occur when ONTAP encounters issues associated with registry transaction commits.
+
+
 == reg.transaction.commitFail
 *Severity*::
 ERROR

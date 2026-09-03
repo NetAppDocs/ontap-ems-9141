@@ -13,6 +13,10 @@ summary: netif.sfpeventerrorcode events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.sfpeventerrorcode EMS events occur when the installed Small Form-factor Pluggable (SFP+ or QSFP+) module is either not supported or faulty.
+
+
 == netif.sfpEventErrorCode
 *Severity*::
 ERROR

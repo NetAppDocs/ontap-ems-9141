@@ -13,6 +13,10 @@ summary: callhome.netif events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.netif EMS events occur when ONTAP encounters issues associated with Network Interface Cards.
+
+
 == callhome.netif.fatal.error
 *Severity*::
 ERROR

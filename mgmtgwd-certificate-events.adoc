@@ -13,6 +13,10 @@ summary: mgmtgwd.certificate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmtgwd.certificate EMS events occur when ONTAP encounters issues associated with digital certificate expiration for Vservers.
+
+
 == mgmtgwd.certificate.expired
 *Severity*::
 ERROR

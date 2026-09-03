@@ -13,6 +13,10 @@ summary: dump.inconsistent events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dump.inconsistent EMS events occur when ONTAP encounters issues associated with disk errors during dump operations.
+
+
 == dump.inconsistent.acl_data
 *Severity*::
 ERROR

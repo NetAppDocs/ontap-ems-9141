@@ -13,6 +13,10 @@ summary: callhome.dumptriage events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.dumptriage EMS events occur when kernel dumptriage files are collected for a coredump event.
+
+
 == callhome.dumptriage
 *Severity*::
 NOTICE

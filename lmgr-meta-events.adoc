@@ -13,6 +13,10 @@ summary: lmgr.meta events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lmgr.meta EMS events occur when the system detects that the lock manager host metafile is corrupted.
+
+
 == lmgr.meta.corrupted
 *Severity*::
 ERROR

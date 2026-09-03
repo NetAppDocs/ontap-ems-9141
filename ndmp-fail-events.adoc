@@ -13,6 +13,10 @@ summary: ndmp.fail events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ndmp.fail EMS events occur when there is an error in NDMP.
+
+
 == ndmp.fail.log
 *Severity*::
 ERROR

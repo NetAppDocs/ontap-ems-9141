@@ -13,6 +13,10 @@ summary: netif.ratelimitthreshold events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.ratelimitthreshold EMS events occur when the protocol rate threshold is reached on a network interface.
+
+
 == netif.rateLimitThreshold
 *Severity*::
 ERROR

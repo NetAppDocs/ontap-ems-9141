@@ -13,6 +13,10 @@ summary: diskown.hlfshlf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.hlfshlf EMS events occur when ONTAP encounters issues associated with half-shelf based drive assignment.
+
+
 == diskown.hlfShlf.assignStatus
 *Severity*::
 NOTICE

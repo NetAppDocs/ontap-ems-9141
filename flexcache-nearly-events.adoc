@@ -13,6 +13,10 @@ summary: flexcache.nearly events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+flexcache.nearly EMS events occur when the total cluster-wide FlexCache provisioned space has nearly reached the licensed limit.
+
+
 == flexcache.nearly.full
 *Severity*::
 ERROR

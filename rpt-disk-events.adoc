@@ -13,6 +13,10 @@ summary: rpt.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+rpt.disk EMS events occur when the generation of a disk UUID fails.
+
+
 == rpt.disk.uuid.gen.failed
 *Severity*::
 ERROR

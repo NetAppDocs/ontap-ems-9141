@@ -13,6 +13,10 @@ summary: scsitarget.fct events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsitarget.fct EMS events occur when ONTAP encounters issues associated with Fibre Channel (FC) target adapter operations and fabric connectivity.
+
+
 == scsitarget.fct.linkError
 *Severity*::
 ERROR

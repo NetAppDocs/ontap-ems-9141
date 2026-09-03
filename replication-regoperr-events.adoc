@@ -13,6 +13,10 @@ summary: replication.regoperr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+replication.regoperr EMS events occur when the system encounters an error during a registry operation related to SnapMirror(R) or SnapVault(R).
+
+
 == replication.regOpErr
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: security.invalid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+security.invalid EMS events occur when an attempt is made to access the system by using invalid authentication credentials.
+
+
 == security.invalid.login
 *Severity*::
 ALERT

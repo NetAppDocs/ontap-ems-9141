@@ -13,6 +13,10 @@ summary: ha.netpartition events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ha.netpartition EMS events occur when ONTAP encounters issues associated with high-availability (HA) network partition detection.
+
+
 == ha.netPartition
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: vdom.aggr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vdom.aggr EMS events occur when ONTAP encounters issues associated with aggregate volume operations during takeover, giveback, or relocation.
+
+
 == vdom.aggr.move.internal
 *Severity*::
 INFORMATIONAL

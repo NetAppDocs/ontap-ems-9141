@@ -13,6 +13,10 @@ summary: mgmtgwd.jobmgr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmtgwd.jobmgr EMS events occur when ONTAP encounters issues associated with the Job Manager.
+
+
 == mgmtgwd.jobmgr.fetcherr
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: disk.iomediumerror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.iomediumerror EMS events occur when the drive reports a medium error.
+
+
 == disk.ioMediumError
 *Severity*::
 NOTICE

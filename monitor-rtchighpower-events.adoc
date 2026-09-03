@@ -13,6 +13,10 @@ summary: monitor.rtchighpower events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.rtchighpower EMS events occur when the real-time clock (RTC) battery voltage is above normal level.
+
+
 == monitor.rtcHighPower
 *Severity*::
 ERROR

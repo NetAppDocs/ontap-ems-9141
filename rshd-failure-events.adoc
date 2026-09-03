@@ -13,6 +13,10 @@ summary: rshd.failure events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+rshd.failure EMS events occur when after rshd failed to start.
+
+
 == rshd.failure
 *Severity*::
 ERROR

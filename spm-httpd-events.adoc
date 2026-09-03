@@ -13,6 +13,10 @@ summary: spm.httpd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.httpd EMS events occur when the web server (httpd) involuntarily terminates.
+
+
 == spm.httpd.process.exit
 *Severity*::
 ALERT

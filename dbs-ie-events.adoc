@@ -13,6 +13,10 @@ summary: dbs.ie events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.ie EMS events occur when a Distributed Block Store (DBS) internal interface exception condition occurs.
+
+
 == dbs.ie
 *Severity*::
 NOTICE

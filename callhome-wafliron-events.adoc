@@ -13,6 +13,10 @@ summary: callhome.wafliron events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.wafliron EMS events occur when WAFL(R) Iron (wafliron) Optional Commit changes are pending.
+
+
 == callhome.wafliron.chg.pending
 *Severity*::
 NOTICE

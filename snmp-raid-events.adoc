@@ -13,6 +13,10 @@ summary: snmp.raid events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snmp.raid EMS events occur when a RAID group iterator was not able to be created.
+
+
 == snmp.raid.iterator.failure
 *Severity*::
 ERROR

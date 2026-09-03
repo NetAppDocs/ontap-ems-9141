@@ -13,6 +13,10 @@ summary: dbs.ekm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.ekm EMS events occur when ONTAP encounters issues associated with the expiration of an External Key Management (EKM) key server certificate.
+
+
 == dbs.ekm.cert.alert
 *Severity*::
 ALERT

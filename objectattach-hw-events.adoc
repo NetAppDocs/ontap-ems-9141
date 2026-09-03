@@ -13,6 +13,10 @@ summary: objectattach.hw events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+objectattach.hw EMS events occur when an object store attach failed due to an unsupported hardware configuration.
+
+
 == objectAttach.hw.unsupported
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: vserver.storage events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vserver.storage EMS events occur when ONTAP encounters issues associated with Vserver storage capacity limits.
+
+
 == vserver.storage.full
 *Severity*::
 ERROR

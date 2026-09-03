@@ -13,6 +13,10 @@ summary: sp.autoupdate events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sp.autoupdate EMS events occur when the Service Processor (SP) AutoUpdate option is enabled or disabled.
+
+
 == sp.autoupdate.toggle
 *Severity*::
 INFORMATIONAL

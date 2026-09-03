@@ -13,6 +13,10 @@ summary: air.fc events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+air.fc EMS events occur when inconsistencies are detected in the origin of this FlexCache(R) volume.
+
+
 == air.fc.origin.corrupt
 *Severity*::
 ALERT

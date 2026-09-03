@@ -13,6 +13,10 @@ summary: sis.enable events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sis.enable EMS events occur when ONTAP encounters issues associated with storage efficiency feature enablement.
+
+
 == sis.enable.post.sm.break
 *Severity*::
 NOTICE

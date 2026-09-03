@@ -13,6 +13,10 @@ summary: vsa.nodesernum events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vsa.nodesernum EMS events occur when ONTAP encounters issues associated with node serial number change operations.
+
+
 == vsa.nodeSerNum.change.failed
 *Severity*::
 ALERT

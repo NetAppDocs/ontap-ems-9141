@@ -13,6 +13,10 @@ summary: wafl.snapshot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.snapshot EMS events occur when ONTAP encounters issues associated with snapshot metadata consistency.
+
+
 == wafl.snapshot.badFilesize
 *Severity*::
 NOTICE

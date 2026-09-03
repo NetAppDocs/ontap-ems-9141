@@ -13,6 +13,10 @@ summary: san.volrehostlunmapfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+san.volrehostlunmapfailed EMS events occur on clustered Data ONTAP(R) systems, during Volume Rehost operation when Data ONTAP fails to create LUN map the destination Vserver.
+
+
 == san.volRehostLunMapFailed
 *Severity*::
 ERROR

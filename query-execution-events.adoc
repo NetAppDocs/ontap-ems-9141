@@ -13,6 +13,10 @@ summary: query.execution events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+query.execution EMS events occur when ONTAP encounters issues associated with SQL query processing.
+
+
 == query.execution.console
 *Severity*::
 NOTICE

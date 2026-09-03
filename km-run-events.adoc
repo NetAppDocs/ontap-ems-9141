@@ -13,6 +13,10 @@ summary: km.run events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+km.run EMS events occur when ONTAP encounters issues associated with key manager configuration and synchronization operations.
+
+
 == km.run.external.setup
 *Severity*::
 ERROR

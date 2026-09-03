@@ -13,6 +13,10 @@ summary: lmgr.lock events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+lmgr.lock EMS events occur when ONTAP encounters issues associated with the volume lock reclaim process.
+
+
 == lmgr.lock.reclaim.aborted
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: cf.fsm events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cf.fsm EMS events occur when ONTAP encounters issues associated with failover state machine operations.
+
+
 == cf.fsm.autoGBTkoverOnPanic
 *Severity*::
 INFORMATIONAL

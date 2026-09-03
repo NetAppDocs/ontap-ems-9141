@@ -13,6 +13,10 @@ summary: cmpr.algo events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cmpr.algo EMS events occur when compression algorithm specified has not been enabled on the node.
+
+
 == cmpr.algo.not.enabled
 *Severity*::
 ALERT

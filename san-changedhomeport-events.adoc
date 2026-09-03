@@ -13,6 +13,10 @@ summary: san.changedhomeport events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+san.changedhomeport EMS events occur when the home port of an existing SAN LIF is modified during LIF placement.
+
+
 == san.ChangedHomePort
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: snapmirror.log events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snapmirror.log EMS events occur when ONTAP encounters issues associated with the SnapMirror(R) log file.
+
+
 == snapmirror.log.openErr
 *Severity*::
 ERROR

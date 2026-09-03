@@ -13,6 +13,10 @@ summary: monitor.chassispowersupplies events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.chassispowersupplies EMS events occur when all power supplies are OK.
+
+
 == monitor.chassisPowerSupplies.ok
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: sp.auth events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sp.auth EMS events occur when a login attempt on a node's Service Processor (SP) or baseboard management controller (BMC) is denied.
+
+
 == sp.auth.loginDenied
 *Severity*::
 NOTICE

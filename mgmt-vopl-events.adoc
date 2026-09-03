@@ -13,6 +13,10 @@ summary: mgmt.vopl events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmt.vopl EMS events occur when ONTAP encounters issues associated with volume move operations.
+
+
 == mgmt.vopl.cleanup.failed
 *Severity*::
 ALERT

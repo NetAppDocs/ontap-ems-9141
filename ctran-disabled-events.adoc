@@ -13,6 +13,10 @@ summary: ctran.disabled events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ctran.disabled EMS events occur when Kernel Cluster Services (KCS) Cluster Transaction Manager (CTRAN) subsystem is disabled.
+
+
 == ctran.disabled
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: dbs.api events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.api EMS events occur when a Distributed Block Store (DBS) event related to an API operation occurs, such as an authentication failure.
+
+
 == dbs.api
 *Severity*::
 NOTICE

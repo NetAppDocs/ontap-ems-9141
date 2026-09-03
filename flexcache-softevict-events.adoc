@@ -13,6 +13,10 @@ summary: flexcache.softevict events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+flexcache.softevict EMS events occur when ONTAP encounters issues associated with FlexCache volume soft eviction.
+
+
 == flexcache.softEvict.failed
 *Severity*::
 ERROR

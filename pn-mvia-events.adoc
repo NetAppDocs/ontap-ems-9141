@@ -13,6 +13,10 @@ summary: pn.mvia events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+pn.mvia EMS events occur when ONTAP encounters issues associated with pass-through network layer operations.
+
+
 == pn.mvia.freeq.empty
 *Severity*::
 NOTICE

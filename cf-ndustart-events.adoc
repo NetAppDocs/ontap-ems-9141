@@ -13,6 +13,10 @@ summary: cf.ndustart events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cf.ndustart EMS events occur when a nondisruptive upgrade starts.
+
+
 == cf.nduStart
 *Severity*::
 INFORMATIONAL

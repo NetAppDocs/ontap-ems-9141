@@ -13,6 +13,10 @@ summary: usbmon.boot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+usbmon.boot EMS events occur when ONTAP encounters issues associated with USB boot device health monitoring.
+
+
 == usbmon.boot.device.failed
 *Severity*::
 ERROR

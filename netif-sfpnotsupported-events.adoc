@@ -13,6 +13,10 @@ summary: netif.sfpnotsupported events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+netif.sfpnotsupported EMS events occur when the installed Small Form-factor Pluggable (SFP+ or QSFP+) module is not supported.
+
+
 == netif.sfpNotSupported
 *Severity*::
 ERROR

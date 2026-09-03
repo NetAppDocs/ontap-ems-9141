@@ -13,6 +13,10 @@ summary: vserver.peering events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vserver.peering EMS events occur when ONTAP encounters issues associated with Vserver peer relationship operations.
+
+
 == vserver.peering.relCreated
 *Severity*::
 NOTICE

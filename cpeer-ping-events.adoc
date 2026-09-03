@@ -13,6 +13,10 @@ summary: cpeer.ping events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cpeer.ping EMS events occur when ONTAP encounters issues associated with checking cluster peering relationships.
+
+
 == cpeer.ping.family.mismatch
 *Severity*::
 ERROR

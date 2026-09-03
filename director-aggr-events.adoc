@@ -13,6 +13,10 @@ summary: director.aggr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+director.aggr EMS events occur when an aggregate is being reassigned from one node to another node.
+
+
 == director.aggr.reassigned
 *Severity*::
 NOTICE

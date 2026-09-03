@@ -13,6 +13,10 @@ summary: vifmgr.portowner events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.portowner EMS events occur when a port receives a configuration error.
+
+
 == vifmgr.portowner.err
 *Severity*::
 ERROR

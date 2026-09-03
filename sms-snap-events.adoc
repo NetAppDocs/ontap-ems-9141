@@ -13,6 +13,10 @@ summary: sms.snap events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sms.snap EMS events occur when a snapshot for SnapMirror(R) Synchronous relationship is not successfully replicated.
+
+
 == sms.snap.not.replicated
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: sysmgr.gb events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sysmgr.gb EMS events occur when acquiring the desired Effective Cluster Version (ECV) of System Manager was not accomplished within the time limit during the first storage giveback phase.
+
+
 == sysmgr.gb.ecv
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: ndo.cr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ndo.cr EMS events occur when ONTAP encounters issues associated with controller replacement operations.
+
+
 == ndo.cr.canceled
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: cpeer.unavailable events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cpeer.unavailable EMS events occur when a peer cluster becomes unavailable.
+
+
 == cpeer.unavailable
 *Severity*::
 ALERT

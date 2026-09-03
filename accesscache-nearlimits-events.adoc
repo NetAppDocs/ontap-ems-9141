@@ -13,6 +13,10 @@ summary: accesscache.nearlimits events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+accesscache.nearlimits EMS events occur when the access cache module is near its limit for entries.
+
+
 == AccessCache.NearLimits
 *Severity*::
 ALERT

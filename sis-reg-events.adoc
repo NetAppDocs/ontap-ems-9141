@@ -13,6 +13,10 @@ summary: sis.reg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sis.reg EMS events occur when a SIS volume operation found an invalid registry entry.
+
+
 == sis.reg.invalidEntry
 *Severity*::
 ERROR

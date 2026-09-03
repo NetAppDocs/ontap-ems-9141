@@ -13,6 +13,10 @@ summary: diskown.ownerchangefailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.ownerchangefailed EMS events occur when a disk ownership change request fails.
+
+
 == diskown.ownerChangeFailed
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: nblade.cifsmaxwatchespertree events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.cifsmaxwatchespertree EMS events occur when the total number of directory watch (Change Notify) requests exceed the per-tree limit.
+
+
 == Nblade.cifsMaxWatchesPerTree
 *Severity*::
 ERROR

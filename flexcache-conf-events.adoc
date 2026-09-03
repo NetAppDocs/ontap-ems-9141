@@ -13,6 +13,10 @@ summary: flexcache.conf events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+flexcache.conf EMS events occur when FlexCache configuration refresh fails.
+
+
 == flexcache.conf.refreshFailed
 *Severity*::
 ALERT

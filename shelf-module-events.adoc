@@ -13,6 +13,10 @@ summary: shelf.module events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+shelf.module EMS events occur when ONTAP encounters issues associated with disk shelf module configuration.
+
+
 == shelf.module.configuration.failure
 *Severity*::
 ERROR

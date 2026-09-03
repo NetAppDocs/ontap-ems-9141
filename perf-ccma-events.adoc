@@ -13,6 +13,10 @@ summary: perf.ccma events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+perf.ccma EMS events occur when ONTAP encounters issues associated with the performance archiver.
+
+
 == perf.ccma.off
 *Severity*::
 ALERT

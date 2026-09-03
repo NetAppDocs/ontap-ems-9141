@@ -13,6 +13,10 @@ summary: vifmgr.lifmoved events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.lifmoved EMS events occur when ONTAP encounters issues associated with logical interface (LIF) IP address movement to another node or port.
+
+
 == vifmgr.lifmoved.byadmin
 *Severity*::
 NOTICE

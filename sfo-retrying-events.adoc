@@ -13,6 +13,10 @@ summary: sfo.retrying events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sfo.retrying EMS events occur when automatic giveback of SFO aggregates is retried.
+
+
 == sfo.retrying.autoGiveback
 *Severity*::
 INFORMATIONAL

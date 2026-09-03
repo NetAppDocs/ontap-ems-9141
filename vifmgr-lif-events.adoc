@@ -13,6 +13,10 @@ summary: vifmgr.lif events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vifmgr.lif EMS events occur when ONTAP encounters issues associated with logical interface (LIF) configuration modifications or inconsistencies.
+
+
 == vifmgr.lif.foPolicyMod
 *Severity*::
 NOTICE

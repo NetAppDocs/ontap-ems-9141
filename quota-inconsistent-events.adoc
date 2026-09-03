@@ -13,6 +13,10 @@ summary: quota.inconsistent events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+quota.inconsistent EMS events occur when the quota database is corrupted.
+
+
 == quota.inconsistent
 *Severity*::
 ERROR

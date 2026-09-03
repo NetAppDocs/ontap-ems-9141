@@ -13,6 +13,10 @@ summary: san.iscsilifrepaired events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+san.iscsilifrepaired EMS events occur when an iSCSI LIF is repaired during Vserver initialization.
+
+
 == san.iscsiLifRepaired
 *Severity*::
 NOTICE

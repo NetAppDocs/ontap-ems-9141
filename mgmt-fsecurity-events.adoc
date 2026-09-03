@@ -13,6 +13,10 @@ summary: mgmt.fsecurity events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmt.fsecurity EMS events occur when ONTAP encounters issues associated with file security policy application.
+
+
 == mgmt.fsecurity.failure
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: kmip2.cannot events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+kmip2.cannot EMS events occur when ONTAP encounters issues associated with the KMIP2 client importing keys from Key Management Interoperability Protocol (KMIP) key servers.
+
+
 == kmip2.cannot.import.NSE.key
 *Severity*::
 ALERT

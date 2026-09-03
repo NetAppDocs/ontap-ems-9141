@@ -13,6 +13,10 @@ summary: dbs.unresponsive events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.unresponsive EMS events occur when ONTAP encounters issues associated with an unresponsive Distributed Block Store (DBS) service.
+
+
 == dbs.unresponsive.service.alrt
 *Severity*::
 ALERT

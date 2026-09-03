@@ -13,6 +13,10 @@ summary: dbs.drive events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.drive EMS events occur when ONTAP encounters issues associated with Distributed Block Store (DBS) drive operations, such as a drive capacity mismatch.
+
+
 == dbs.drive
 *Severity*::
 NOTICE

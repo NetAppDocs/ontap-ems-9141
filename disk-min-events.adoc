@@ -13,6 +13,10 @@ summary: disk.min events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.min EMS events occur when a disk is detected that is not supported in this version of Data ONTAP(R).
+
+
 == disk.min.OS.error
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: license.fpool events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+license.fpool EMS events occur when ONTAP encounters issues associated with the FabricPool storage capacity limit.
+
+
 == license.fpool.changed
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: disk.ioreassignfailed events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.ioreassignfailed EMS events occur when a disk reports a medium error and the sector reassignment fails.
+
+
 == disk.ioReassignFailed
 *Severity*::
 ALERT

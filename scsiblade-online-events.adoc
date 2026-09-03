@@ -13,6 +13,10 @@ summary: scsiblade.online events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsiblade.online EMS events occur when the node completes initialization of the SAN configuration cache.
+
+
 == scsiblade.online
 *Severity*::
 NOTICE

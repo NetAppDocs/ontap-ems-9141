@@ -13,6 +13,10 @@ summary: mgr.avail events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgr.avail EMS events occur when this message is emitted when statistics is reset.
+
+
 == mgr.avail.stat.reset
 *Severity*::
 NOTICE

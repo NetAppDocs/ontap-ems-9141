@@ -13,6 +13,10 @@ summary: smbc.pfo events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+smbc.pfo EMS events occur when ONTAP encounters issues associated with SnapMirror(R) active sync planned failover operations.
+
+
 == smbc.pfo.completed
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: image.install events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+image.install EMS events occur when ONTAP encounters issues associated with ONTAP software installation operations.
+
+
 == image.install.fail.aggregate
 *Severity*::
 ERROR

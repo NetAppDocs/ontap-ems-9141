@@ -13,6 +13,10 @@ summary: master.couldnt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+master.couldnt EMS events occur when ONTAP encounters issues associated with a node's inability to cast a vote or demote the current cluster master in the global database.
+
+
 == master.couldnt.cast.cm.vote
 *Severity*::
 NOTICE

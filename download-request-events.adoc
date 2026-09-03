@@ -13,6 +13,10 @@ summary: download.request events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+download.request EMS events occur when a user-initiated download is initiated.
+
+
 == download.request
 *Severity*::
 NOTICE

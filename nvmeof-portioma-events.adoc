@@ -13,6 +13,10 @@ summary: nvmeof.portioma events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvmeof.portioma EMS events occur when ONTAP encounters issues associated with port connections to top module (A) on shelves.
+
+
 == nvmeof.portioma.clear
 *Severity*::
 NOTICE

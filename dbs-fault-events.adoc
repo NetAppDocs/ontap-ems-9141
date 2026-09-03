@@ -13,6 +13,10 @@ summary: dbs.fault events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.fault EMS events occur when a Distributed Block Store (DBS) event related to the fault checker occurs, such as the periodic fault checker taking excessive time to execute.
+
+
 == dbs.fault.checker
 *Severity*::
 NOTICE

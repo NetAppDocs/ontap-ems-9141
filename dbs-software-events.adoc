@@ -13,6 +13,10 @@ summary: dbs.software events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.software EMS events occur when the Distributed Block Store (DBS) detects a software version mismatch in the cluster.
+
+
 == dbs.software.version.mismatch
 *Severity*::
 ALERT

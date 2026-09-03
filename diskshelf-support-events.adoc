@@ -13,6 +13,10 @@ summary: diskshelf.support events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskshelf.support EMS events occur when a new disk shelf support file is detected.
+
+
 == diskShelf.support.file
 *Severity*::
 NOTICE

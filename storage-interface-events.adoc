@@ -13,6 +13,10 @@ summary: storage.interface events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+storage.interface EMS events occur when ONTAP encounters issues associated with the link status of a storage interface.
+
+
 == storage.interface.linkdown
 *Severity*::
 ALERT

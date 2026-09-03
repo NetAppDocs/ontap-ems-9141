@@ -13,6 +13,10 @@ summary: cap.cache events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cap.cache EMS events occur when ONTAP encounters issues associated with the Central Access Policy (CAP).
+
+
 == cap.cache.corrupt
 *Severity*::
 ERROR

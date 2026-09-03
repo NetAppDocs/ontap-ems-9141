@@ -13,6 +13,10 @@ summary: nis.group events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nis.group EMS events occur when ONTAP encounters issues associated with NIS group database operations.
+
+
 == nis.group.db.build.failure
 *Severity*::
 ERROR

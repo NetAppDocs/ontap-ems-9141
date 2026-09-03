@@ -13,6 +13,10 @@ summary: dfu.clustertakeover events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dfu.clustertakeover EMS events occur when firmware download is attempted while in takeover mode.
+
+
 == dfu.clusterTakeover
 *Severity*::
 ERROR

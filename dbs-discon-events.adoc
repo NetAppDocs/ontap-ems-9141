@@ -13,6 +13,10 @@ summary: dbs.discon events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.discon EMS events occur when the Distributed Block Store (DBS) is unable to access a snapmirror endpoint on the network.
+
+
 == dbs.discon.snapmirror.end
 *Severity*::
 ERROR

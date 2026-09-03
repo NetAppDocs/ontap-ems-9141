@@ -13,6 +13,10 @@ summary: scsiblade.lun events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+scsiblade.lun EMS events occur when ONTAP encounters issues associated with LUN serial numbers and state management.
+
+
 == scsiblade.lun.ids.change
 *Severity*::
 ERROR

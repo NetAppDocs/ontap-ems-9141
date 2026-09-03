@@ -13,6 +13,10 @@ summary: monitor.rtcnormal events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+monitor.rtcnormal EMS events occur when the real-time clock (RTC) battery voltage is normal.
+
+
 == monitor.rtcNormal
 *Severity*::
 NOTICE

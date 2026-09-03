@@ -13,6 +13,10 @@ summary: ekmip.awskms events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ekmip.awskms EMS events occur when ONTAP encounters issues associated with Amazon Web Services (AWS) Key Management Service operations.
+
+
 == ekmip.awskms.available
 *Severity*::
 NOTICE

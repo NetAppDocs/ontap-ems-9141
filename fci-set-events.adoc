@@ -13,6 +13,10 @@ summary: fci.set events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+fci.set EMS events occur when the World-Wide Name (WWN) for this adapter is set to the value in the fci-wwn-"adapter_name" bootarg.
+
+
 == fci.set.wwn
 *Severity*::
 INFORMATIONAL

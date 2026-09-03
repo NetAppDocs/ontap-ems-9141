@@ -13,6 +13,10 @@ summary: dbs.service events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.service EMS events occur when ONTAP encounters issues associated with Distributed Block Store (DBS) service availability, such as a service failing to start or not running.
+
+
 == dbs.service
 *Severity*::
 NOTICE

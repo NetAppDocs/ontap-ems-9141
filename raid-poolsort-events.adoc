@@ -13,6 +13,10 @@ summary: raid.poolsort events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.poolsort EMS events occur when ONTAP encounters issues associated with disk pool sorting and validation.
+
+
 == raid.poolsort.disks_per_channel
 *Severity*::
 INFORMATIONAL

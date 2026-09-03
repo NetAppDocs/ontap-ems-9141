@@ -13,6 +13,10 @@ summary: host.error events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+host.error EMS events occur when the host software encounters an error.
+
+
 == host.error
 *Severity*::
 ERROR

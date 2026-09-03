@@ -13,6 +13,10 @@ summary: spm.fpolicy events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+spm.fpolicy EMS events occur when the fpolicy involuntarily terminates.
+
+
 == spm.fpolicy.process.exit
 *Severity*::
 ALERT

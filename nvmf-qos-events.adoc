@@ -13,6 +13,10 @@ summary: nvmf.qos events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvmf.qos EMS events occur when ONTAP encounters issues associated with NVMe over Fabrics (NVMe-oF) quality of service (QoS) policies.
+
+
 == nvmf.qos.mismatched.policy
 *Severity*::
 ERROR

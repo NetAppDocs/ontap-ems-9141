@@ -13,6 +13,10 @@ summary: ses.disk events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+ses.disk EMS events occur when ONTAP encounters issues associated with disk drive configuration.
+
+
 == ses.disk.configOk
 *Severity*::
 INFORMATIONAL

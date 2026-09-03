@@ -13,6 +13,10 @@ summary: sfo.sendhome events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sfo.sendhome EMS events occur when ONTAP encounters issues associated with storage failover giveback operations.
+
+
 == sfo.sendhome.NoPartnerDisks
 *Severity*::
 INFORMATIONAL

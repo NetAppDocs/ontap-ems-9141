@@ -13,6 +13,10 @@ summary: clam.enable events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+clam.enable EMS events occur when ONTAP encounters issues associated with Connectivity, Liveliness, Availability Monitor (CLAM) being enabled.
+
+
 == clam.enable
 *Severity*::
 INFORMATIONAL

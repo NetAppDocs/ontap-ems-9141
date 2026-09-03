@@ -13,6 +13,10 @@ summary: raid.switchoverfail events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+raid.switchoverfail EMS events occur when a MetroCluster(tm) switchover attempt fails because of an error detected during RAID assimilation.
+
+
 == raid.switchoverFail
 *Severity*::
 ERROR

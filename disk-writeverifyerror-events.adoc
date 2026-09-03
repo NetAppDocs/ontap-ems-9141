@@ -13,6 +13,10 @@ summary: disk.writeverifyerror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+disk.writeverifyerror EMS events occur when a write verify error occurs.
+
+
 == disk.writeVerifyError
 *Severity*::
 ERROR

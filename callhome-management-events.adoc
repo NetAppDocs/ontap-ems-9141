@@ -13,6 +13,10 @@ summary: callhome.management events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.management EMS events occur when ONTAP encounters issues associated with daily management log AutoSupport messages and log file rotation.
+
+
 == callhome.management.log
 *Severity*::
 NOTICE

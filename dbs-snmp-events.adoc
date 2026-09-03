@@ -13,6 +13,10 @@ summary: dbs.snmp events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.snmp EMS events occur when the Distributed Block Store (DBS) reports an SNMP trap.
+
+
 == dbs.snmp.trap
 *Severity*::
 NOTICE

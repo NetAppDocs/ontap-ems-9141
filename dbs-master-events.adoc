@@ -13,6 +13,10 @@ summary: dbs.master events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.master EMS events occur when ONTAP encounters issues associated with cluster master startup on a node.
+
+
 == dbs.master.didnt.start.cm
 *Severity*::
 NOTICE

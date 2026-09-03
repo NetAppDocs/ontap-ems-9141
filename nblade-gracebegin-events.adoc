@@ -13,6 +13,10 @@ summary: nblade.gracebegin events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nblade.gracebegin EMS events occur when the NFS server enters the grace state.
+
+
 == Nblade.graceBegin
 *Severity*::
 NOTICE

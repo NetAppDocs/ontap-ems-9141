@@ -13,6 +13,10 @@ summary: callhome.performance events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.performance EMS events occur when ONTAP encounters issues associated with performance data collection.
+
+
 == callhome.performance.archive
 *Severity*::
 NOTICE

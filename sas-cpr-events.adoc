@@ -13,6 +13,10 @@ summary: sas.cpr events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+sas.cpr EMS events occur when ONTAP encounters issues associated with CPR (Core PCIe Resilience) recovery of SAS controllers.
+
+
 == sas.cpr.failed
 *Severity*::
 EMERGENCY

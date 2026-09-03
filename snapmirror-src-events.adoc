@@ -13,6 +13,10 @@ summary: snapmirror.src events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+snapmirror.src EMS events occur when ONTAP encounters issues associated with SnapMirror(R) source operations.
+
+
 == snapmirror.src.cannotFind
 *Severity*::
 ERROR

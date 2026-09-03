@@ -13,6 +13,10 @@ summary: coredump.long events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+coredump.long EMS events occur when ONTAP encounters issues associated with the coredump manager thread taking longer than expected to process a message.
+
+
 == coredump.long.queued.msg
 *Severity*::
 NOTICE

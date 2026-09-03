@@ -13,6 +13,10 @@ summary: diskown.changingowner events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+diskown.changingowner EMS events occur when the ownership of a disk is being changed.
+
+
 == diskown.changingOwner
 *Severity*::
 NOTICE

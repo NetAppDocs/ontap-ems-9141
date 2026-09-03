@@ -13,6 +13,10 @@ summary: upgrademgr.package events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+upgrademgr.package EMS events occur when a Data ONTAP(R) package is successfully imported into the cluster and processed by the upgrade manager's package handler.
+
+
 == upgrademgr.package.imported
 *Severity*::
 INFORMATIONAL

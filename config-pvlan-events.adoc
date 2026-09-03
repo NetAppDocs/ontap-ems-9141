@@ -13,6 +13,10 @@ summary: config.pvlan events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+config.pvlan EMS events occur when ONTAP encounters issues associated with pseudo-VLAN port operations.
+
+
 == config.pvlan.created
 *Severity*::
 NOTICE

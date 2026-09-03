@@ -13,6 +13,10 @@ summary: dbs.volumes events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+dbs.volumes EMS events occur when the Distributed Block Store (DBS) detects that volumes currently have only one copy of some of their data and do not have a live secondary.
+
+
 == dbs.volumes.degraded
 *Severity*::
 ALERT

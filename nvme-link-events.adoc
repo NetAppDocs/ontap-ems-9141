@@ -13,6 +13,10 @@ summary: nvme.link events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvme.link EMS events occur when ONTAP encounters issues associated with NVMe SSD PCIe links.
+
+
 == nvme.link.disabled.error
 *Severity*::
 ERROR

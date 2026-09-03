@@ -13,6 +13,10 @@ summary: nv.flash events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nv.flash EMS events occur when ONTAP encounters issues associated with NVRAM flash device health.
+
+
 == nv.flash.predict.fail
 *Severity*::
 ALERT

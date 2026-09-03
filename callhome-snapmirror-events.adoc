@@ -13,6 +13,10 @@ summary: callhome.snapmirror events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+callhome.snapmirror EMS events occur when ONTAP encounters issues associated with SnapMirror(R) Synchronous relationships.
+
+
 == callhome.snapmirror.oos
 *Severity*::
 NOTICE

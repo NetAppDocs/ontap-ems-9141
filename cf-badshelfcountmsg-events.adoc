@@ -13,6 +13,10 @@ summary: cf.badshelfcountmsg events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+cf.badshelfcountmsg EMS events occur if we are sent an invalid negotiated failover shelf count message.
+
+
 == cf.badShelfCountMsg
 *Severity*::
 ERROR

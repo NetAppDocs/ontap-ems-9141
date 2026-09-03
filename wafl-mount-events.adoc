@@ -13,6 +13,10 @@ summary: wafl.mount events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.mount EMS events occur when ONTAP encounters issues associated with volume and aggregate mount operations.
+
+
 == wafl.mount.inconsistent
 *Severity*::
 ERROR

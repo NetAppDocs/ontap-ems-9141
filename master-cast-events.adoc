@@ -13,6 +13,10 @@ summary: master.cast events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+master.cast EMS events occur when the master service of a node cannot connect to the current cluster master and casts a vote against it in the global database.
+
+
 == master.cast.cm.vote.against
 *Severity*::
 NOTICE

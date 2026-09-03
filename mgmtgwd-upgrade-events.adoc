@@ -13,6 +13,10 @@ summary: mgmtgwd.upgrade events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+mgmtgwd.upgrade EMS events occur when ONTAP encounters issues associated with upgrade tasks.
+
+
 == mgmtgwd.upgrade.aborted
 *Severity*::
 ALERT

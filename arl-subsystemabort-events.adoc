@@ -13,6 +13,10 @@ summary: arl.subsystemabort events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+arl.subsystemabort EMS events occur when the specified subsystem aborts relocation of the aggregate.
+
+
 == arl.subsystemAbort
 *Severity*::
 ERROR

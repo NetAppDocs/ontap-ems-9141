@@ -13,6 +13,10 @@ summary: arl.opfinished events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+arl.opfinished EMS events occur when the aggregate relocation operation from the source node to the specified destination is finished.
+
+
 == arl.OpFinished
 *Severity*::
 NOTICE

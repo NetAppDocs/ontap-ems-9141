@@ -13,6 +13,10 @@ summary: wafl.gd events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.gd EMS events occur when ONTAP encounters issues associated with granular data allocation and conversion operations.
+
+
 == wafl.gd.convert.scan.running
 *Severity*::
 NOTICE

@@ -13,6 +13,10 @@ summary: telnet.setsockopt events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+telnet.setsockopt EMS events occur when setsockopt on telnet socket fails.
+
+
 == telnet.setsockopt.failure
 *Severity*::
 ERROR

@@ -13,6 +13,10 @@ summary: vsa.vsphere events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+vsa.vsphere EMS events occur when ONTAP encounters issues associated with vSphere server connection and authentication.
+
+
 == vsa.vsphere.connected
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: clam.takeover events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+clam.takeover EMS events occur when ONTAP encounters issues associated with Connectivity, Liveliness, Availability Monitor (CLAM) initiated takeover operations.
+
+
 == clam.takeover
 *Severity*::
 INFORMATIONAL

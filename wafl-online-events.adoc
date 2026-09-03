@@ -13,6 +13,10 @@ summary: wafl.online events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+wafl.online EMS events occur when ONTAP encounters issues associated with volume online operations and compatibility.
+
+
 == wafl.online.admin.vol
 *Severity*::
 INFORMATIONAL

@@ -13,6 +13,10 @@ summary: nv.extension events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nv.extension EMS events occur when ONTAP encounters issues associated with NVRAM segment operations.
+
+
 == nv.extension.disabled
 *Severity*::
 INFORMATIONAL

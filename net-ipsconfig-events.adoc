@@ -13,6 +13,10 @@ summary: net.ipsconfig events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+net.ipsconfig EMS events occur when creation of an IPspace fails.
+
+
 == net.ipsconfig.failed
 *Severity*::
 ALERT

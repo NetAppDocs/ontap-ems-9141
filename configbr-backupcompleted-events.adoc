@@ -13,6 +13,10 @@ summary: configbr.backupcompleted events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+configbr.backupcompleted EMS events occur when a scheduled configuration backup is successfully created.
+
+
 == configbr.backupCompleted
 *Severity*::
 NOTICE

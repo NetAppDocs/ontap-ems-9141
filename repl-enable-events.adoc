@@ -13,6 +13,10 @@ summary: repl.enable events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+repl.enable EMS events occur when sequential splitting mode is enabled for a SnapMirror Synchronous relationship.
+
+
 == repl.enable.seq.split
 *Severity*::
 NOTICE

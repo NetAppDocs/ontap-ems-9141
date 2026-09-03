@@ -13,6 +13,10 @@ summary: nvmeof.subsystem events
 :linkattrs:
 :imagesdir: ./media/
 
+[.lead]
+nvmeof.subsystem EMS events occur when ONTAP encounters issues associated with NVMe over Fabrics subsystem management.
+
+
 == nvmeof.subsystem.add
 *Severity*::
 NOTICE
